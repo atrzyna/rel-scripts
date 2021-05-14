@@ -1,0 +1,9 @@
+========== Current Stable
+---
+Version: 3.8.4
+Download_URL: https://github.com/hazelcast/hazelcast-hibernate/releases
+Code_Samples_URL: 
+Docs_URL: https://github.com/hazelcast/hazelcast-hibernate/blob/master/README.md
+Learn_More_URL: https://github.com/hazelcast/hazelcast-hibernate
+---
+========== Previous Stable
