@@ -3,7 +3,7 @@
 Version: 4.0
 Date: 03/06/2020
 Download_ZIP_URL: https://download.hazelcast.com/download.jsp?version=hazelcast-platform-4.0&p=
-Download_ZIP_Size: 278 MB
+Download_ZIP_Size: 279 MB
 Download_TAR_URL: https://download.hazelcast.com/download.jsp?version=hazelcast-platform-4.0&type=tar&p=
 Download_TAR_Size: 272 MB
 ---
