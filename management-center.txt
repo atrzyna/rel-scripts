@@ -3,7 +3,7 @@
 Version: 4.2021.05
 Date: 05/15/2021
 Download_ZIP_URL: https://download.hazelcast.com/management-center/hazelcast-management-center-4.2021.05.zip
-Download_ZIP_Size: 115.2 MB
+Download_ZIP_Size: 115.4 MB
 Download_TAR_URL: https://download.hazelcast.com/management-center/hazelcast-management-center-4.2021.05.tar.gz
 Download_TAR_Size: 115.3 MB
 Download_WAR_URL: https://download.hazelcast.com/management-center/hazelcast-management-center-4.2021.05.war
