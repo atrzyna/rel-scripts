@@ -3,7 +3,7 @@
 Version: 4.5
 Date: 04/21/2021
 Download_ZIP_URL: https://download.hazelcast.com/jet-enterprise/hazelcast-jet-enterprise-4.5.zip
-Download_ZIP_Size: 573 MB
+Download_ZIP_Size: 572 MB
 Download_TAR_URL: https://download.hazelcast.com/jet-enterprise/hazelcast-jet-enterprise-4.5.tar.gz
 Download_TAR_Size: 573 MB
 Docs_HTML: https://jet-start.sh/docs
