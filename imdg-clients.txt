@@ -3,7 +3,7 @@
 Version: 4.2
 Date: 03/24/2021
 Download: https://download.hazelcast.com/download.jsp?version=hazelcast-4.2&p=
-Download_Size: 141 MB
+Download_Size: 140 MB
 Github: https://github.com/hazelcast/hazelcast/tree/v4.2
 Docs: https://docs.hazelcast.com/imdg/4.2/
 APIDocs: https://docs.hazelcast.org/docs/4.2/javadoc
@@ -587,6 +587,15 @@ ReleaseNotes:
 ---
 ========== .NET/CSharp Client
 ---
+Version: 4.0.2
+Date: 04/06/2021
+Download: https://www.nuget.org/api/v2/package/Hazelcast.Net/4.0.2
+Download_Size: 1 MB
+Github: https://github.com/hazelcast/hazelcast-csharp-client/tree/v4.0.2
+Docs: http://hazelcast.github.io/hazelcast-csharp-client/4.0.2/doc/index.html
+APIDocs: http://hazelcast.github.io/hazelcast-csharp-client/4.0.2/api/index.html
+ReleaseNotes: https://github.com/hazelcast/hazelcast-csharp-client/releases/tag/v4.0.2
+---
 Version: 4.0.1
 Date: 11/03/2021
 Download: https://www.nuget.org/api/v2/package/Hazelcast.Net/4.0.1
@@ -831,6 +840,13 @@ APIDocs: http://docs.hazelcast.org/docs/clients/net/3.6-EA2/
 ReleaseNotes:
 ---
 ========== C++ Client
+---
+Version: 4.1.1
+Date: 05/26/2021
+Github: https://github.com/hazelcast/hazelcast-cpp-client/tree/v4.1.1
+Docs: https://github.com/hazelcast/hazelcast-cpp-client/blob/v4.1.1/Reference_Manual.md
+APIDocs: http://hazelcast.github.io/hazelcast-cpp-client/api-index.html
+ReleaseNotes: https://github.com/hazelcast/hazelcast-cpp-client/releases/tag/v4.1.1
 ---
 Version: 4.1.0
 Date: 05/07/2021
@@ -1307,8 +1323,17 @@ ReleaseNotes:
 ---
 ========== NodeJS Client
 ---
+Version: 4.2.0
+Date: 06/04/2021
+Download: https://github.com/hazelcast/hazelcast-nodejs-client/archive/v4.2.0.zip
+Download_Size: 3.0 MB
+Github: https://github.com/hazelcast/hazelcast-nodejs-client/tree/v4.2.0
+Docs: https://github.com/hazelcast/hazelcast-nodejs-client/blob/v4.2.0/README.md
+APIDocs: http://hazelcast.github.io/hazelcast-nodejs-client/api/4.2.0/docs/
+ReleaseNotes: https://github.com/hazelcast/hazelcast-nodejs-client/releases/tag/v4.2.0
+---
 Version: 4.0.2
-Date: 29/01/2020
+Date: 01/29/2021
 Download: https://github.com/hazelcast/hazelcast-nodejs-client/archive/v4.0.2.zip
 Download_Size: 2.8 MB
 Github: https://github.com/hazelcast/hazelcast-nodejs-client/tree/v4.0.2
@@ -1317,7 +1342,7 @@ APIDocs: http://hazelcast.github.io/hazelcast-nodejs-client/api/4.0.2/docs/
 ReleaseNotes: https://github.com/hazelcast/hazelcast-nodejs-client/releases/tag/v4.0.2
 ---
 Version: 4.1.0
-Date: 25/01/2020
+Date: 01/25/2021
 Download: https://github.com/hazelcast/hazelcast-nodejs-client/archive/v4.1.0.zip
 Download_Size: 2.8 MB
 Github: https://github.com/hazelcast/hazelcast-nodejs-client/tree/v4.1.0
