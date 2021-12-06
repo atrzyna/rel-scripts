@@ -1,59 +1,42 @@
 ========== Current Stable
 ---
-Version: 5.0.1
-Date: 12/22/2021
-Download_ZIP_URL: https://download.hazelcast.com/enterprise/hazelcast-enterprise-5.0.1.zip
-Download_ZIP_Size: 137 MB
-Download_slim_ZIP_URL: https://download.hazelcast.com/enterprise/hazelcast-enterprise-5.0.1-slim.zip
-Download_slim_ZIP_Size: 27 MB
-Download_TAR_URL: https://download.hazelcast.com/enterprise/hazelcast-enterprise-5.0.1.tar.gz
-Download_TAR_Size: 137 MB
-Download_slim_TAR_URL: https://download.hazelcast.com/enterprise/hazelcast-enterprise-5.0.1-slim.tar.gz
-Download_slim_TAR_Size: 27 MB
-Docs_HTML: http://docs.hazelcast.org/docs/5.0.1/manual/html-single/index.html
+Version: 5.0
+Date: 09/22/2021
+Download_ZIP_URL: https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-5.0.zip
+Download_ZIP_Size: 681 MB
+Download_slim_ZIP_URL: https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-5.0-slim.zip
+Download_slim_ZIP_Size: 29 MB
+Download_TAR_URL: https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-5.0.tar.gz
+Download_TAR_Size: 681 MB
+Download_slim_TAR_URL: https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-5.0-slim.tar.gz
+Download_slim_TAR_Size: 29 MB
+Docs_HTML: https://docs.hazelcast.com/hazelcast/5.0/getting-started/quickstart.html
 Docs_PDF:
-APIDocs: http://docs.hazelcast.org/docs/5.0.1/javadoc
-ReleaseNotes: http://docs.hazelcast.org/docs/ern/index.html#5-1
+APIDocs: https://docs.hazelcast.org/docs/5.0/javadoc
+ReleaseNotes: https://docs.hazelcast.com/hazelcast/5.0/release-notes.html
 CodeSamples_URL:
 CodeSamples_Size:
 Github:
 ---
 ========== Previous Stable
 ---
-Version: 5.0
-Date: 08/20/2021
-Download_ZIP_URL: https://download.hazelcast.com/enterprise/hazelcast-enterprise-5.0.zip
-Download_ZIP_Size: 137 MB
-Download_slim_ZIP_URL: https://download.hazelcast.com/enterprise/hazelcast-enterprise-5.0-slim.zip
-Download_slim_ZIP_Size: 27 MB
-Download_TAR_URL: https://download.hazelcast.com/enterprise/hazelcast-enterprise-5.0.tar.gz
-Download_TAR_Size: 137 MB
-Download_slim_TAR_URL: https://download.hazelcast.com/enterprise/hazelcast-enterprise-5.0-slim.tar.gz
-Download_slim_TAR_Size: 27 MB
-Docs_HTML: http://docs.hazelcast.org/docs/5.0/manual/html-single/index.html
-Docs_PDF:
-APIDocs: http://docs.hazelcast.org/docs/5.0/javadoc
-ReleaseNotes: http://docs.hazelcast.org/docs/ern/index.html#5-0
-CodeSamples_URL:
-CodeSamples_Size:
-Github:
 ---
-========== Development: HIDE
+========== Development: SHOW
 ---
-Version: 5.0-BETA-1
-Date: 07/07/2021
-Download_ZIP_URL: https://download.hazelcast.com/enterprise/hazelcast-enterprise-5.0-BETA-1.zip
-Download_ZIP_Size: 147 MB
-Download_slim_ZIP_URL: https://download.hazelcast.com/enterprise/hazelcast-enterprise-5.0-BETA-1-slim.zip
-Download_slim_ZIP_Size: 27 MB
-Download_TAR_URL: https://download.hazelcast.com/enterprise/hazelcast-enterprise-5.0-BETA-1.tar.gz
-Download_TAR_Size: 147 MB
-Download_slim_TAR_URL: https://download.hazelcast.com/enterprise/hazelcast-enterprise-5.0-BETA-1-slim.tar.gz
-Download_slim_TAR_Size: 27 MB
-Docs_HTML: http://docs.hazelcast.org/docs/5.0-BETA-1/manual/html-single/index.html
+Version: 5.0-BETA-2
+Date: 08/10/2021
+Download_ZIP_URL: https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-5.0-BETA-2.zip
+Download_ZIP_Size: 679 MB
+Download_slim_ZIP_URL: https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-5.0-BETA-2-slim.zip
+Download_slim_ZIP_Size: 29 MB
+Download_TAR_URL: https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-5.0-BETA-2.tar.gz
+Download_TAR_Size: 679 MB
+Download_slim_TAR_URL: https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-5.0-BETA-2-slim.tar.gz
+Download_slim_TAR_Size: 29 MB
+Docs_HTML: https://docs.hazelcast.com/hazelcast/5.0-beta-2/getting-started/quickstart.html
 Docs_PDF:
-APIDocs: http://docs.hazelcast.org/docs/5.0-BETA-1/javadoc
-ReleaseNotes: http://docs.hazelcast.org/docs/ern/index.html#5.0-BETA-1
+APIDocs: http://docs.hazelcast.org/docs/5.0-BETA-2/javadoc
+ReleaseNotes: https://docs.hazelcast.com/hazelcast/5.0-beta-2/release-notes.html
 CodeSamples_URL:
 CodeSamples_Size:
 Github:
