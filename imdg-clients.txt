@@ -1,5 +1,23 @@
 ========== Java Client
 ---
+Version: 5.0.2
+Date: 12/21/2021
+Download: https://github.com/hazelcast/hazelcast/releases/download/v5.0.2/hazelcast-5.0.2.zip
+Download_Size: 722 MB
+Github: https://github.com/hazelcast/hazelcast/tree/v5.0.2
+Docs: https://docs.hazelcast.com/hazelcast/5.0/getting-started/quickstart.html
+APIDocs: https://docs.hazelcast.org/docs/5.0.2/javadoc
+ReleaseNotes: https://docs.hazelcast.com/hazelcast/5.0/release-notes.html
+---
+Version: 5.0.1
+Date: 12/17/2021
+Download: https://github.com/hazelcast/hazelcast/releases/download/v5.0.1/hazelcast-5.0.1.zip
+Download_Size: 722 MB
+Github: https://github.com/hazelcast/hazelcast/tree/v5.0.1
+Docs: https://docs.hazelcast.com/hazelcast/5.0/getting-started/quickstart.html
+APIDocs: https://docs.hazelcast.org/docs/5.0.1/javadoc
+ReleaseNotes: https://docs.hazelcast.com/hazelcast/5.0/release-notes.html
+---
 Version: 5.0
 Date: 09/22/2021
 Download: https://github.com/hazelcast/hazelcast/releases/download/v5.0/hazelcast-5.0.zip
@@ -8,6 +26,24 @@ Github: https://github.com/hazelcast/hazelcast/tree/v5.0
 Docs: https://docs.hazelcast.com/hazelcast/5.0/getting-started/quickstart.html
 APIDocs: https://docs.hazelcast.org/docs/5.0/javadoc
 ReleaseNotes: https://docs.hazelcast.com/hazelcast/5.0/release-notes.html
+---
+Version: 4.2.4
+Date: 12/20/2021
+Download: https://github.com/hazelcast/hazelcast/releases/download/v4.2.4/hazelcast-4.2.4.zip
+Download_Size: 148 MB
+Github: https://github.com/hazelcast/hazelcast/tree/v4.2.4
+Docs: https://docs.hazelcast.com/imdg/4.2/
+APIDocs: https://docs.hazelcast.org/docs/4.2.4/javadoc
+ReleaseNotes: https://docs.hazelcast.org/docs/rn/index.html#4-2-4
+---
+Version: 4.2.3
+Date: 12/15/2021
+Download: https://github.com/hazelcast/hazelcast/releases/download/v4.2.3/hazelcast-4.2.3.zip
+Download_Size: 148 MB
+Github: https://github.com/hazelcast/hazelcast/tree/v4.2.3
+Docs: https://docs.hazelcast.com/imdg/4.2/
+APIDocs: https://docs.hazelcast.org/docs/4.2.3/javadoc
+ReleaseNotes: https://docs.hazelcast.org/docs/rn/index.html#4-2-3
 ---
 Version: 4.2.2
 Date: 08/11/2021
@@ -35,6 +71,24 @@ Github: https://github.com/hazelcast/hazelcast/tree/v4.2
 Docs: https://docs.hazelcast.com/imdg/4.2/
 APIDocs: https://docs.hazelcast.org/docs/4.2/javadoc
 ReleaseNotes: https://docs.hazelcast.org/docs/rn/index.html#4-2
+---
+Version: 4.1.8
+Date: 12/20/2021
+Download: https://github.com/hazelcast/hazelcast/releases/download/v4.1.8/hazelcast-4.1.8.zip
+Download_Size: 147 MB
+Github: https://github.com/hazelcast/hazelcast/tree/v4.1.8
+Docs: https://docs.hazelcast.com/imdg/4.1/
+APIDocs: https://docs.hazelcast.org/docs/4.1.8/javadoc
+ReleaseNotes: https://docs.hazelcast.org/docs/rn/index.html#4-1-8
+---
+Version: 4.1.7
+Date: 12/15/2021
+Download: https://github.com/hazelcast/hazelcast/releases/download/v4.1.7/hazelcast-4.1.7.zip
+Download_Size: 147 MB
+Github: https://github.com/hazelcast/hazelcast/tree/v4.1.7
+Docs: https://docs.hazelcast.com/imdg/4.1/
+APIDocs: https://docs.hazelcast.org/docs/4.1.7/javadoc
+ReleaseNotes: https://docs.hazelcast.org/docs/rn/index.html#4-1-7
 ---
 Version: 4.1.6
 Date: 10/26/2021
@@ -98,6 +152,24 @@ Github: https://github.com/hazelcast/hazelcast/tree/v4.1
 Docs: http://docs.hazelcast.org/docs/4.1/manual/html-single/index.html
 APIDocs: http://docs.hazelcast.org/docs/4.1/javadoc
 ReleaseNotes: http://docs.hazelcast.org/docs/rn/index.html#4-1
+---
+Version: 4.0.5
+Date: 12/21/2021
+Download: https://github.com/hazelcast/hazelcast/releases/download/v4.0.5/hazelcast-4.0.5.zip
+Download_Size: 136 MB
+Github: https://github.com/hazelcast/hazelcast/tree/v4.0.5
+Docs: https://docs.hazelcast.com/imdg/4.0/
+APIDocs: https://docs.hazelcast.org/docs/4.0.5/javadoc
+ReleaseNotes: https://docs.hazelcast.org/docs/rn/index.html#4-0-5
+---
+Version: 4.0.4
+Date: 12/15/2021
+Download: https://github.com/hazelcast/hazelcast/releases/download/v4.0.4/hazelcast-4.0.4.zip
+Download_Size: 136 MB
+Github: https://github.com/hazelcast/hazelcast/tree/v4.0.4
+Docs: https://docs.hazelcast.com/imdg/4.0/
+APIDocs: https://docs.hazelcast.org/docs/4.0.4/javadoc
+ReleaseNotes: https://docs.hazelcast.org/docs/rn/index.html#4-0-4
 ---
 Version: 4.0.3
 Date: 09/21/2020
@@ -617,7 +689,7 @@ Date: 01/10/2016
 Download: https://github.com/hazelcast/hazelcast/releases/download/v3.6-RC1/hazelcast-3.6-RC1.zip
 Download_Size: 107.6 MB
 Github: https://github.com/hazelcast/hazelcast/tree/v3.6-RC1/hazelcast-client
-Docs: http://docs.hazelcast.org/docs/3.6-RC1/manual/html-single/index.html#hazelcast-java-client
+Docs: https://docs.hazelcast.org/docs/3.6-RC1/manual/html-single/index.html#hazelcast-java-client
 APIDocs: http://docs.hazelcast.org/docs/3.6-RC1/javadoc/
 ReleaseNotes:
 ---
@@ -697,7 +769,7 @@ ReleaseNotes: https://github.com/hazelcast/hazelcast-csharp-client/releases/tag/
 ---
 Version: 3.12.3
 Date: 06/17/2020
-Download: http://download.hazelcast.com/clients/3.12.3/hazelcast-csharp-client-3.12.3.zip
+Download: https://repository.hazelcast.com/download/clients/3.12.3/hazelcast-csharp-client-3.12.3.zip
 Download_Size: 7.4 MB
 Github: https://github.com/hazelcast/hazelcast-csharp-client/tree/v3.12.3
 Docs: https://github.com/hazelcast/hazelcast-csharp-client/blob/v3.12.3/README.md
@@ -706,7 +778,7 @@ ReleaseNotes: https://github.com/hazelcast/hazelcast-csharp-client/releases/tag/
 ---
 Version: 3.12.2
 Date: 05/04/2020
-Download: http://download.hazelcast.com/clients/3.12.2/hazelcast-csharp-client-3.12.2.zip
+Download: https://repository.hazelcast.com/download/clients/3.12.2/hazelcast-csharp-client-3.12.2.zip
 Download_Size: 7.4 MB
 Github: https://github.com/hazelcast/hazelcast-csharp-client/tree/v3.12.2
 Docs: https://github.com/hazelcast/hazelcast-csharp-client/blob/v3.12.2/README.md
@@ -715,7 +787,7 @@ ReleaseNotes: https://github.com/hazelcast/hazelcast-csharp-client/releases/tag/
 ---
 Version: 3.12.1
 Date: 08/09/2019
-Download: http://download.hazelcast.com/clients/3.12.1/hazelcast-csharp-client-3.12.1.zip
+Download: https://repository.hazelcast.com/download/clients/3.12.1/hazelcast-csharp-client-3.12.1.zip
 Download_Size: 6.9 MB
 Github: https://github.com/hazelcast/hazelcast-csharp-client/tree/v3.12.1
 Docs: https://github.com/hazelcast/hazelcast-csharp-client/blob/v3.12.1/README.md
@@ -724,7 +796,7 @@ ReleaseNotes: https://github.com/hazelcast/hazelcast-csharp-client/releases/tag/
 ---
 Version: 3.12.0
 Date: 06/14/2019
-Download: http://download.hazelcast.com/clients/3.12.0/hazelcast-csharp-client-3.12.0.zip
+Download: https://repository.hazelcast.com/download/clients/3.12.0/hazelcast-csharp-client-3.12.0.zip
 Download_Size: 6.9 MB
 Github: https://github.com/hazelcast/hazelcast-csharp-client/tree/v3.12.0
 Docs: https://github.com/hazelcast/hazelcast-csharp-client/blob/v3.12.0/README.md
@@ -733,7 +805,7 @@ ReleaseNotes: https://github.com/hazelcast/hazelcast-csharp-client/releases/tag/
 ---
 Version: 3.11.0
 Date: 03/28/2019
-Download: http://download.hazelcast.com/clients/3.11/hazelcast-csharp-client-3.11.zip
+Download: https://repository.hazelcast.com/download/clients/3.11/hazelcast-csharp-client-3.11.zip
 Download_Size: 6.9 MB
 Github: https://github.com/hazelcast/hazelcast-csharp-client/tree/v3.11.0
 Docs: https://github.com/hazelcast/hazelcast-csharp-client/blob/v3.11.0/README.md
@@ -742,7 +814,7 @@ ReleaseNotes: https://github.com/hazelcast/hazelcast-csharp-client/releases/tag/
 ---
 Version: 3.10.0
 Date: 12/18/2018
-Download: http://download.hazelcast.com/clients/3.10.0/hazelcast-csharp-client-3.10.0.zip
+Download: https://repository.hazelcast.com/download/clients/3.10.0/hazelcast-csharp-client-3.10.0.zip
 Download_Size: 6.9 MB
 Github: https://github.com/hazelcast/hazelcast-csharp-client/tree/v3.10.0
 Docs: https://github.com/hazelcast/hazelcast-csharp-client/blob/v3.10.0/README.md
@@ -751,7 +823,7 @@ ReleaseNotes: https://github.com/hazelcast/hazelcast-csharp-client/releases/tag/
 ---
 Version: 3.9.4
 Date: 10/02/2018
-Download: http://download.hazelcast.com/clients/3.9.4/hazelcast-csharp-client-3.9.4.zip
+Download: https://repository.hazelcast.com/download/clients/3.9.4/hazelcast-csharp-client-3.9.4.zip
 Download_Size: 6.6 MB
 Github: https://github.com/hazelcast/hazelcast-csharp-client/tree/v3.9.4
 Docs: https://github.com/hazelcast/hazelcast-csharp-client/blob/v3.9.4/README.md
@@ -760,7 +832,7 @@ ReleaseNotes: https://github.com/hazelcast/hazelcast-csharp-client/releases/tag/
 ---
 Version: 3.9.3
 Date: 03/06/2018
-Download: http://download.hazelcast.com/clients/3.9.3/hazelcast-csharp-client-3.9.3.zip
+Download: https://repository.hazelcast.com/download/clients/3.9.3/hazelcast-csharp-client-3.9.3.zip
 Download_Size: 6.6 MB
 Github: https://github.com/hazelcast/hazelcast-csharp-client/tree/v3.9.3
 Docs: https://github.com/hazelcast/hazelcast-csharp-client/blob/v3.9.3/README.md
@@ -769,7 +841,7 @@ ReleaseNotes: https://github.com/hazelcast/hazelcast-csharp-client/releases/tag/
 ---
 Version: 3.9.2
 Date: 01/05/2018
-Download: http://download.hazelcast.com/clients/3.9.2/hazelcast-csharp-client-3.9.2.zip
+Download: https://repository.hazelcast.com/download/clients/3.9.2/hazelcast-csharp-client-3.9.2.zip
 Download_Size: 6.6 MB
 Github: https://github.com/hazelcast/hazelcast-csharp-client/tree/v3.9.2
 Docs: https://github.com/hazelcast/hazelcast-csharp-client/blob/v3.9.2/README.md
@@ -778,7 +850,7 @@ ReleaseNotes: https://github.com/hazelcast/hazelcast-csharp-client/releases/tag/
 ---
 Version: 3.9.1
 Date: 11/27/2017
-Download: http://download.hazelcast.com/clients/3.9.1/hazelcast-csharp-client-3.9.1.zip
+Download: https://repository.hazelcast.com/download/clients/3.9.1/hazelcast-csharp-client-3.9.1.zip
 Download_Size: 7.7 MB
 Github: https://github.com/hazelcast/hazelcast-csharp-client/tree/v3.9.1
 Docs: https://github.com/hazelcast/hazelcast-csharp-client/blob/v3.9.1/README.md
@@ -787,7 +859,7 @@ ReleaseNotes: https://github.com/hazelcast/hazelcast-csharp-client/releases/tag/
 ---
 Version: 3.9
 Date: 11/08/2017
-Download: http://download.hazelcast.com/clients/3.9/hazelcast-csharp-client-3.9.zip
+Download: https://repository.hazelcast.com/download/clients/3.9/hazelcast-csharp-client-3.9.zip
 Download_Size: 7.4 MB
 Github: https://github.com/hazelcast/hazelcast-csharp-client/tree/v3.9
 Docs: https://github.com/hazelcast/hazelcast-csharp-client/blob/v3.9/README.md
@@ -796,7 +868,7 @@ ReleaseNotes: https://github.com/hazelcast/hazelcast-csharp-client/releases/tag/
 ---
 Version: 3.8.2
 Date: 07/26/2017
-Download: https://download.hazelcast.com/clients/3.8.2/hazelcast-csharp-client-3.8.2.zip
+Download: https://repository.hazelcast.com/download/clients/3.8.2/hazelcast-csharp-client-3.8.2.zip
 Download_Size: 11.4 MB
 Github: https://github.com/hazelcast/hazelcast-csharp-client/tree/v3.8.2
 Docs: https://github.com/hazelcast/hazelcast-csharp-client/blob/v3.8.2/README.md
@@ -805,7 +877,7 @@ ReleaseNotes: https://github.com/hazelcast/hazelcast-csharp-client/releases/tag/
 ---
 Version: 3.8.1
 Date: 04/03/2017
-Download: https://download.hazelcast.com/clients/3.8.1/hazelcast-csharp-client-3.8.1.zip
+Download: https://repository.hazelcast.com/download/clients/3.8.1/hazelcast-csharp-client-3.8.1.zip
 Download_Size: 11.4 MB
 Github: https://github.com/hazelcast/hazelcast-csharp-client/tree/v3.8.1
 Docs: https://github.com/hazelcast/hazelcast-csharp-client/blob/v3.8.1/README.md
@@ -814,7 +886,7 @@ ReleaseNotes: https://github.com/hazelcast/hazelcast-csharp-client/releases/tag/
 ---
 Version: 3.8.0.1
 Date: 02/24/2017
-Download: https://download.hazelcast.com/clients/3.8.0.1/hazelcast-csharp-client-3.8.0.1.zip
+Download: https://repository.hazelcast.com/download/clients/3.8.0.1/hazelcast-csharp-client-3.8.0.1.zip
 Download_Size: 10.7 MB
 Github: https://github.com/hazelcast/hazelcast-csharp-client/tree/v3.8.0.1
 Docs: https://github.com/hazelcast/hazelcast-csharp-client/blob/v3.8.0.1/README.md
@@ -823,7 +895,7 @@ ReleaseNotes: https://github.com/hazelcast/hazelcast-csharp-client/releases/tag/
 ---
 Version: 3.7.1
 Date: 11/11/2016
-Download: https://download.hazelcast.com/clients/3.7.1/hazelcast-csharp-client-3.7.1.zip
+Download: https://repository.hazelcast.com/download/clients/3.7.1/hazelcast-csharp-client-3.7.1.zip
 Download_Size: 10.6 MB
 Github: https://github.com/hazelcast/hazelcast-csharp-client/tree/v3.7.1
 Docs: https://github.com/hazelcast/hazelcast-csharp-client/blob/v3.7.1/README.md
@@ -832,7 +904,7 @@ ReleaseNotes: https://github.com/hazelcast/hazelcast-csharp-client/releases/tag/
 ---
 Version: 3.7
 Date: 10/31/2016
-Download: https://download.hazelcast.com/clients/3.7/hazelcast-csharp-client-3.7.zip
+Download: https://repository.hazelcast.com/download/clients/3.7/hazelcast-csharp-client-3.7.zip
 Download_Size: 10.6 MB
 Github: https://github.com/hazelcast/hazelcast-csharp-client/tree/v3.7
 Docs: https://github.com/hazelcast/hazelcast-csharp-client/blob/v3.7/README.md
@@ -841,7 +913,7 @@ ReleaseNotes: https://github.com/hazelcast/hazelcast-csharp-client/releases/tag/
 ---
 Version: 3.6.4
 Date: 08/29/2016
-Download: https://download.hazelcast.com/clients/3.6.4.0/hazelcast-csharp-client-3.6.4.0.zip
+Download: https://repository.hazelcast.com/download/clients/3.6.4.0/hazelcast-csharp-client-3.6.4.0.zip
 Download_Size: 10.5 MB
 Github: https://github.com/hazelcast/hazelcast-csharp-client/tree/v3.6.4
 Docs: https://github.com/hazelcast/hazelcast-csharp-client/blob/v3.6.4/README.md
@@ -850,7 +922,7 @@ ReleaseNotes:
 ---
 Version: 3.6.3
 Date: 06/10/2016
-Download: https://download.hazelcast.com/clients/3.6.3.0/hazelcast-csharp-client-3.6.3.0.zip
+Download: https://repository.hazelcast.com/download/clients/3.6.3.0/hazelcast-csharp-client-3.6.3.0.zip
 Download_Size: 10.5 MB
 Github: https://github.com/hazelcast/hazelcast-csharp-client/tree/v3.6.3.0
 Docs: https://github.com/hazelcast/hazelcast-csharp-client/blob/v3.6.3.0/README.md
@@ -859,7 +931,7 @@ ReleaseNotes:
 ---
 Version: 3.6.2
 Date: 05/23/2016
-Download: https://download.hazelcast.com/clients/3.6.2/hazelcast-csharp-client-3.6.2.zip
+Download: https://repository.hazelcast.com/download/clients/3.6.2/hazelcast-csharp-client-3.6.2.zip
 Download_Size: 10.5 MB
 Github: https://github.com/hazelcast/hazelcast-csharp-client/tree/v3.6.2
 Docs: https://github.com/hazelcast/hazelcast-csharp-client/blob/v3.6.2/README.md
@@ -868,7 +940,7 @@ ReleaseNotes:
 ---
 Version: 3.6.1
 Date: 02/22/2016
-Download: https://download.hazelcast.com/clients/3.6.1/hazelcast-csharp-client-3.6.1.zip
+Download: https://repository.hazelcast.com/download/clients/3.6.1/hazelcast-csharp-client-3.6.1.zip
 Download_Size: 19.6 MB
 Github: https://github.com/hazelcast/hazelcast-csharp-client/tree/v3.6.1
 Docs: https://github.com/hazelcast/hazelcast-csharp-client/blob/v3.6.1/README.md
@@ -877,7 +949,7 @@ ReleaseNotes:
 ---
 Version: 3.6
 Date: 01/25/2016
-Download: https://download.hazelcast.com/clients/3.6/hazelcast-csharp-client-3.6.zip
+Download: https://repository.hazelcast.com/download/clients/3.6/hazelcast-csharp-client-3.6.zip
 Download_Size: 4.5 MB
 Github: https://github.com/hazelcast/hazelcast-csharp-client/tree/v3.6
 Docs: https://github.com/hazelcast/hazelcast-csharp-client/blob/v3.6/README.md
@@ -886,7 +958,7 @@ ReleaseNotes:
 ---
 Version: 3.6-RC1
 Date: 01/10/2016
-Download: https://download.hazelcast.com/clients/3.6-RC1/hazelcast-csharp-client-3.6-RC1.zip
+Download: https://repository.hazelcast.com/download/clients/3.6-RC1/hazelcast-csharp-client-3.6-RC1.zip
 Download_Size: 4.5 MB
 Github: https://github.com/hazelcast/hazelcast-csharp-client/tree/v3.6-RC1
 Docs: https://github.com/hazelcast/hazelcast-csharp-client/blob/v3.6-RC1/README.md
@@ -895,7 +967,7 @@ ReleaseNotes:
 ---
 Version: 3.6-EA3
 Date: 12/23/2015
-Download: https://download.hazelcast.com/clients/3.6-EA3/hazelcast-csharp-client-3.6-EA3.zip
+Download: https://repository.hazelcast.com/download/clients/3.6-EA3/hazelcast-csharp-client-3.6-EA3.zip
 Download_Size: 11.4 MB
 Github: https://github.com/hazelcast/hazelcast-csharp-client/tree/v3.6-EA3
 Docs: https://github.com/hazelcast/hazelcast-csharp-client/blob/v3.6-EA3/README.md
@@ -904,7 +976,7 @@ ReleaseNotes:
 ---
 Version: 3.6-EA2
 Date: 11/25/2015
-Download: https://download.hazelcast.com/clients/3.6-EA2/hazelcast-csharp-client-3.6-EA2.zip
+Download: https://repository.hazelcast.com/download/clients/3.6-EA2/hazelcast-csharp-client-3.6-EA2.zip
 Download_Size: 5.9 MB
 Github: https://github.com/hazelcast/hazelcast-csharp-client/tree/v3.6-EA2
 Docs: https://github.com/hazelcast/hazelcast-csharp-client/blob/v3.6-EA2/README.md
@@ -999,17 +1071,17 @@ ReleaseNotes: https://github.com/hazelcast/hazelcast-cpp-client/releases/tag/v4.
 ---
 Version: 3.12.1
 Date: 01/28/2020
-Download_Linux32: https://download.hazelcast.com/clients/3.12.1/hazelcast-cpp-client-3.12.1-Linux_32.zip
+Download_Linux32: https://repository.hazelcast.com/download/clients/3.12.1/hazelcast-cpp-client-3.12.1-Linux_32.zip
 Download_Linux32_Size: 11 MB
-Download_Linux64: https://download.hazelcast.com/clients/3.12.1/hazelcast-cpp-client-3.12.1-Linux_64.zip
+Download_Linux64: https://repository.hazelcast.com/download/clients/3.12.1/hazelcast-cpp-client-3.12.1-Linux_64.zip
 Download_Linux64_Size: 12 MB
-Download_Mac64: https://download.hazelcast.com/clients/3.12.1/hazelcast-cpp-client-3.12.1-Mac_64.zip
+Download_Mac64: https://repository.hazelcast.com/download/clients/3.12.1/hazelcast-cpp-client-3.12.1-Mac_64.zip
 Download_Mac64_Size: 8.9 MB
-Download_Windows32: https://download.hazelcast.com/clients/3.12.1/hazelcast-cpp-client-3.12.1-Windows_32.zip
+Download_Windows32: https://repository.hazelcast.com/download/clients/3.12.1/hazelcast-cpp-client-3.12.1-Windows_32.zip
 Download_Windows32_Size: 31 MB
-Download_Windows64: https://download.hazelcast.com/clients/3.12.1/hazelcast-cpp-client-3.12.1-Windows_64.zip
+Download_Windows64: https://repository.hazelcast.com/download/clients/3.12.1/hazelcast-cpp-client-3.12.1-Windows_64.zip
 Download_Windows64_Size: 37 MB
-Docs_Download: https://download.hazelcast.com/clients/3.12.1/hazelcast-cpp-client-3.12.1-docs.zip
+Docs_Download: https://repository.hazelcast.com/download/clients/3.12.1/hazelcast-cpp-client-3.12.1-docs.zip
 Github: https://github.com/hazelcast/hazelcast-cpp-client/tree/v3.12.1
 Docs: https://github.com/hazelcast/hazelcast-cpp-client/blob/v3.12.1/README.md
 APIDocs: http://docs.hazelcast.org/docs/clients/cpp/3.12.1/html/
@@ -1017,17 +1089,17 @@ ReleaseNotes: https://github.com/hazelcast/hazelcast-cpp-client/releases/tag/v3.
 ---
 Version: 3.12
 Date: 04/25/2019
-Download_Linux32: https://download.hazelcast.com/clients/3.12/hazelcast-cpp-client-3.12-Linux_32.zip
+Download_Linux32: https://repository.hazelcast.com/download/clients/3.12/hazelcast-cpp-client-3.12-Linux_32.zip
 Download_Linux32_Size: 11 MB
-Download_Linux64: https://download.hazelcast.com/clients/3.12/hazelcast-cpp-client-3.12-Linux_64.zip
+Download_Linux64: https://repository.hazelcast.com/download/clients/3.12/hazelcast-cpp-client-3.12-Linux_64.zip
 Download_Linux64_Size: 12 MB
-Download_Mac64: https://download.hazelcast.com/clients/3.12/hazelcast-cpp-client-3.12-Mac_64.zip
+Download_Mac64: https://repository.hazelcast.com/download/clients/3.12/hazelcast-cpp-client-3.12-Mac_64.zip
 Download_Mac64_Size: 9.1 MB
-Download_Windows32: https://download.hazelcast.com/clients/3.12/hazelcast-cpp-client-3.12-Windows_32.zip
+Download_Windows32: https://repository.hazelcast.com/download/clients/3.12/hazelcast-cpp-client-3.12-Windows_32.zip
 Download_Windows32_Size: 31 MB
-Download_Windows64: https://download.hazelcast.com/clients/3.12/hazelcast-cpp-client-3.12-Windows_64.zip
+Download_Windows64: https://repository.hazelcast.com/download/clients/3.12/hazelcast-cpp-client-3.12-Windows_64.zip
 Download_Windows64_Size: 37 MB
-Docs: https://download.hazelcast.com/clients/3.12/hazelcast-cpp-client-3.12-docs.zip
+Docs: https://repository.hazelcast.com/download/clients/3.12/hazelcast-cpp-client-3.12-docs.zip
 Github: https://github.com/hazelcast/hazelcast-cpp-client/tree/v3.12
 Docs_Online: https://github.com/hazelcast/hazelcast-cpp-client/blob/v3.12/README.md
 APIDocs: http://docs.hazelcast.org/docs/clients/cpp/3.12/html/
@@ -1035,17 +1107,17 @@ ReleaseNotes: https://github.com/hazelcast/hazelcast-cpp-client/releases/tag/v3.
 ---
 Version: 3.11
 Date: 12/14/2018
-Download_Linux32: https://download.hazelcast.com/clients/3.11/hazelcast-cpp-client-3.11-Linux_32.zip
+Download_Linux32: https://repository.hazelcast.com/download/clients/3.11/hazelcast-cpp-client-3.11-Linux_32.zip
 Download_Linux32_Size: 11 MB
-Download_Linux64: https://download.hazelcast.com/clients/3.11/hazelcast-cpp-client-3.11-Linux_64.zip
+Download_Linux64: https://repository.hazelcast.com/download/clients/3.11/hazelcast-cpp-client-3.11-Linux_64.zip
 Download_Linux64_Size: 11 MB
-Download_Mac64: https://download.hazelcast.com/clients/3.11/hazelcast-cpp-client-3.11-Mac_64.zip
+Download_Mac64: https://repository.hazelcast.com/download/clients/3.11/hazelcast-cpp-client-3.11-Mac_64.zip
 Download_Mac64_Size: 8.5 MB
-Download_Windows32: https://download.hazelcast.com/clients/3.11/hazelcast-cpp-client-3.11-Windows_32.zip
+Download_Windows32: https://repository.hazelcast.com/download/clients/3.11/hazelcast-cpp-client-3.11-Windows_32.zip
 Download_Windows32_Size: 29 MB
-Download_Windows64: https://download.hazelcast.com/clients/3.11/hazelcast-cpp-client-3.11-Windows_64.zip
+Download_Windows64: https://repository.hazelcast.com/download/clients/3.11/hazelcast-cpp-client-3.11-Windows_64.zip
 Download_Windows64_Size: 35 MB
-Docs: https://download.hazelcast.com/clients/3.11/hazelcast-cpp-client-3.11-docs.zip
+Docs: https://repository.hazelcast.com/download/clients/3.11/hazelcast-cpp-client-3.11-docs.zip
 Github: https://github.com/hazelcast/hazelcast-cpp-client/tree/v3.11
 Docs_Online: https://github.com/hazelcast/hazelcast-cpp-client/blob/v3.11/README.md
 APIDocs: http://docs.hazelcast.org/docs/clients/cpp/3.11/html/
@@ -1053,17 +1125,17 @@ ReleaseNotes: https://github.com/hazelcast/hazelcast-cpp-client/releases/tag/v3.
 ---
 Version: 3.10.1
 Date: 08/28/2018
-Download_Linux32: https://download.hazelcast.com/clients/3.10.1/hazelcast-cpp-client-3.10.1-Linux_32.zip
+Download_Linux32: https://repository.hazelcast.com/download/clients/3.10.1/hazelcast-cpp-client-3.10.1-Linux_32.zip
 Download_Linux32_Size: 9.6 MB
-Download_Linux64: https://download.hazelcast.com/clients/3.10.1/hazelcast-cpp-client-3.10.1-Linux_64.zip
+Download_Linux64: https://repository.hazelcast.com/download/clients/3.10.1/hazelcast-cpp-client-3.10.1-Linux_64.zip
 Download_Linux64_Size: 11 MB
-Download_Mac64: https://download.hazelcast.com/clients/3.10.1/hazelcast-cpp-client-3.10.1-Mac_64.zip
+Download_Mac64: https://repository.hazelcast.com/download/clients/3.10.1/hazelcast-cpp-client-3.10.1-Mac_64.zip
 Download_Mac64_Size: 7.9 MB
-Download_Windows32: https://download.hazelcast.com/clients/3.10.1/hazelcast-cpp-client-3.10.1-Windows_32.zip
+Download_Windows32: https://repository.hazelcast.com/download/clients/3.10.1/hazelcast-cpp-client-3.10.1-Windows_32.zip
 Download_Windows32_Size: 27 MB
-Download_Windows64: https://download.hazelcast.com/clients/3.10.1/hazelcast-cpp-client-3.10.1-Windows_64.zip
+Download_Windows64: https://repository.hazelcast.com/download/clients/3.10.1/hazelcast-cpp-client-3.10.1-Windows_64.zip
 Download_Windows64_Size: 32 MB
-Docs: https://download.hazelcast.com/clients/3.10.1/hazelcast-cpp-client-3.10.1-docs.zip
+Docs: https://repository.hazelcast.com/download/clients/3.10.1/hazelcast-cpp-client-3.10.1-docs.zip
 Github: https://github.com/hazelcast/hazelcast-cpp-client/tree/v3.10.1
 Docs_Online: https://github.com/hazelcast/hazelcast-cpp-client/blob/v3.10.1/README.md
 APIDocs: http://docs.hazelcast.org/docs/clients/cpp/3.10.1/html/
@@ -1071,17 +1143,17 @@ ReleaseNotes: https://github.com/hazelcast/hazelcast-cpp-client/releases/tag/v3.
 ---
 Version: 3.10
 Date: 06/20/2018
-Download_Linux32: https://download.hazelcast.com/clients/3.10/hazelcast-cpp-client-3.10-Linux_32.zip
+Download_Linux32: https://repository.hazelcast.com/download/clients/3.10/hazelcast-cpp-client-3.10-Linux_32.zip
 Download_Linux32_Size: 9.1 MB
-Download_Linux64: https://download.hazelcast.com/clients/3.10/hazelcast-cpp-client-3.10-Linux_64.zip
+Download_Linux64: https://repository.hazelcast.com/download/clients/3.10/hazelcast-cpp-client-3.10-Linux_64.zip
 Download_Linux64_Size: 9.7 MB
-Download_Mac64: https://download.hazelcast.com/clients/3.10/hazelcast-cpp-client-3.10-Mac_64.zip
+Download_Mac64: https://repository.hazelcast.com/download/clients/3.10/hazelcast-cpp-client-3.10-Mac_64.zip
 Download_Mac64_Size: 7.5 MB
-Download_Windows32: https://download.hazelcast.com/clients/3.10/hazelcast-cpp-client-3.10-Windows_32.zip
+Download_Windows32: https://repository.hazelcast.com/download/clients/3.10/hazelcast-cpp-client-3.10-Windows_32.zip
 Download_Windows32_Size: 26 MB
-Download_Windows64: https://download.hazelcast.com/clients/3.10/hazelcast-cpp-client-3.10-Windows_64.zip
+Download_Windows64: https://repository.hazelcast.com/download/clients/3.10/hazelcast-cpp-client-3.10-Windows_64.zip
 Download_Windows64_Size: 32 MB
-Docs: https://download.hazelcast.com/clients/3.10/hazelcast-cpp-client-3.10-docs.zip
+Docs: https://repository.hazelcast.com/download/clients/3.10/hazelcast-cpp-client-3.10-docs.zip
 Github: https://github.com/hazelcast/hazelcast-cpp-client/tree/v3.10
 Docs_Online: https://github.com/hazelcast/hazelcast-cpp-client/blob/v3.10/README.md
 APIDocs: http://docs.hazelcast.org/docs/clients/cpp/3.10/html/
@@ -1089,17 +1161,17 @@ ReleaseNotes: https://github.com/hazelcast/hazelcast-cpp-client/releases/tag/v3.
 ---
 Version: 3.9.1
 Date: 12/28/2017
-Download_Linux32: https://download.hazelcast.com/clients/3.9.1/hazelcast-cpp-client-3.9.1-Linux_32.zip
+Download_Linux32: https://repository.hazelcast.com/download/clients/3.9.1/hazelcast-cpp-client-3.9.1-Linux_32.zip
 Download_Linux32_Size: 7.5 MB
-Download_Linux64: https://download.hazelcast.com/clients/3.9.1/hazelcast-cpp-client-3.9.1-Linux_64.zip
+Download_Linux64: https://repository.hazelcast.com/download/clients/3.9.1/hazelcast-cpp-client-3.9.1-Linux_64.zip
 Download_Linux64_Size: 8.0 MB
-Download_Mac64: https://download.hazelcast.com/clients/3.9.1/hazelcast-cpp-client-3.9.1-Mac_64.zip
+Download_Mac64: https://repository.hazelcast.com/download/clients/3.9.1/hazelcast-cpp-client-3.9.1-Mac_64.zip
 Download_Mac64_Size: 6.3 MB
-Download_Windows32: https://download.hazelcast.com/clients/3.9.1/hazelcast-cpp-client-3.9.1-Windows_32.zip
+Download_Windows32: https://repository.hazelcast.com/download/clients/3.9.1/hazelcast-cpp-client-3.9.1-Windows_32.zip
 Download_Windows32_Size: 23 MB
-Download_Windows64: https://download.hazelcast.com/clients/3.9.1/hazelcast-cpp-client-3.9.1-Windows_64.zip
+Download_Windows64: https://repository.hazelcast.com/download/clients/3.9.1/hazelcast-cpp-client-3.9.1-Windows_64.zip
 Download_Windows64_Size: 28 MB
-Docs: https://download.hazelcast.com/clients/3.9.1/hazelcast-cpp-client-3.9.1-docs.zip
+Docs: https://repository.hazelcast.com/download/clients/3.9.1/hazelcast-cpp-client-3.9.1-docs.zip
 Github: https://github.com/hazelcast/hazelcast-cpp-client/tree/v3.9.1
 Docs_Online: https://github.com/hazelcast/hazelcast-cpp-client/blob/v3.9.1/README.md
 APIDocs: http://docs.hazelcast.org/docs/clients/cpp/3.9.1/html/
@@ -1107,17 +1179,17 @@ ReleaseNotes: https://github.com/hazelcast/hazelcast-cpp-client/releases/tag/v3.
 ---
 Version: 3.9
 Date: 12/05/2017
-Download_Linux32: https://download.hazelcast.com/clients/3.9/hazelcast-cpp-client-3.9-Linux_32.zip
+Download_Linux32: https://repository.hazelcast.com/download/clients/3.9/hazelcast-cpp-client-3.9-Linux_32.zip
 Download_Linux32_Size: 7.4 MB
-Download_Linux64: https://download.hazelcast.com/clients/3.9/hazelcast-cpp-client-3.9-Linux_64.zip
+Download_Linux64: https://repository.hazelcast.com/download/clients/3.9/hazelcast-cpp-client-3.9-Linux_64.zip
 Download_Linux64_Size: 7.9 MB
-Download_Mac64: https://download.hazelcast.com/clients/3.9/hazelcast-cpp-client-3.9-Mac_64.zip
+Download_Mac64: https://repository.hazelcast.com/download/clients/3.9/hazelcast-cpp-client-3.9-Mac_64.zip
 Download_Mac64_Size: 6.2 MB
-Download_Windows32: https://download.hazelcast.com/clients/3.9/hazelcast-cpp-client-3.9-Windows_32.zip
+Download_Windows32: https://repository.hazelcast.com/download/clients/3.9/hazelcast-cpp-client-3.9-Windows_32.zip
 Download_Windows32_Size: 23 MB
-Download_Windows64: https://download.hazelcast.com/clients/3.9/hazelcast-cpp-client-3.9-Windows_64.zip
+Download_Windows64: https://repository.hazelcast.com/download/clients/3.9/hazelcast-cpp-client-3.9-Windows_64.zip
 Download_Windows64_Size: 28 MB
-Docs: https://download.hazelcast.com/clients/3.9/hazelcast-cpp-client-3.9-docs.zip
+Docs: https://repository.hazelcast.com/download/clients/3.9/hazelcast-cpp-client-3.9-docs.zip
 Github: https://github.com/hazelcast/hazelcast-cpp-client/tree/v3.9
 Docs_Online: https://github.com/hazelcast/hazelcast-cpp-client/blob/v3.9/README.md
 APIDocs: http://docs.hazelcast.org/docs/clients/cpp/3.9/html/
@@ -1125,17 +1197,17 @@ ReleaseNotes: https://github.com/hazelcast/hazelcast-cpp-client/releases/tag/v3.
 ---
 Version: 3.8.3
 Date: 08/07/2017
-Download_Linux32: https://download.hazelcast.com/clients/3.8.3/hazelcast-cpp-client-3.8.3-Linux_32.zip
+Download_Linux32: https://repository.hazelcast.com/download/clients/3.8.3/hazelcast-cpp-client-3.8.3-Linux_32.zip
 Download_Linux32_Size: 6.3 MB
-Download_Linux64: https://download.hazelcast.com/clients/3.8.3/hazelcast-cpp-client-3.8.3-Linux_64.zip
+Download_Linux64: https://repository.hazelcast.com/download/clients/3.8.3/hazelcast-cpp-client-3.8.3-Linux_64.zip
 Download_Linux64_Size: 6.7 MB
-Download_Mac64: https://download.hazelcast.com/clients/3.8.3/hazelcast-cpp-client-3.8.3-Mac_64.zip
+Download_Mac64: https://repository.hazelcast.com/download/clients/3.8.3/hazelcast-cpp-client-3.8.3-Mac_64.zip
 Download_Mac64_Size: 5.3 MB
-Download_Windows32: https://download.hazelcast.com/clients/3.8.3/hazelcast-cpp-client-3.8.3-Windows_32.zip
+Download_Windows32: https://repository.hazelcast.com/download/clients/3.8.3/hazelcast-cpp-client-3.8.3-Windows_32.zip
 Download_Windows32_Size: 20.81 MB
-Download_Windows64: https://download.hazelcast.com/clients/3.8.3/hazelcast-cpp-client-3.8.3-Windows_64.zip
+Download_Windows64: https://repository.hazelcast.com/download/clients/3.8.3/hazelcast-cpp-client-3.8.3-Windows_64.zip
 Download_Windows64_Size: 24.93 MB
-Docs: https://download.hazelcast.com/clients/3.8.3/hazelcast-cpp-client-3.8.3-docs.zip
+Docs: https://repository.hazelcast.com/download/clients/3.8.3/hazelcast-cpp-client-3.8.3-docs.zip
 Github: https://github.com/hazelcast/hazelcast-cpp-client/tree/v3.8.3
 Docs_Online: https://github.com/hazelcast/hazelcast-cpp-client/blob/v3.8.3/README.md
 APIDocs: http://docs.hazelcast.org/docs/clients/cpp/3.8.3/html/
@@ -1143,17 +1215,17 @@ ReleaseNotes: https://github.com/hazelcast/hazelcast-cpp-client/releases/tag/v3.
 ---
 Version: 3.8.2
 Date: 07/14/2017
-Download_Linux32: https://download.hazelcast.com/clients/3.8.2/hazelcast-cpp-client-3.8.2-Linux_32.zip
+Download_Linux32: https://repository.hazelcast.com/download/clients/3.8.2/hazelcast-cpp-client-3.8.2-Linux_32.zip
 Download_Linux32_Size: 6.4 MB
-Download_Linux64: https://download.hazelcast.com/clients/3.8.2/hazelcast-cpp-client-3.8.2-Linux_64.zip
+Download_Linux64: https://repository.hazelcast.com/download/clients/3.8.2/hazelcast-cpp-client-3.8.2-Linux_64.zip
 Download_Linux64_Size: 6.7 MB
-Download_Mac64: https://download.hazelcast.com/clients/3.8.2/hazelcast-cpp-client-3.8.2-Mac_64.zip
+Download_Mac64: https://repository.hazelcast.com/download/clients/3.8.2/hazelcast-cpp-client-3.8.2-Mac_64.zip
 Download_Mac64_Size: 5.3 MB
-Download_Windows32: https://download.hazelcast.com/clients/3.8.2/hazelcast-cpp-client-3.8.2-Windows_32.zip
+Download_Windows32: https://repository.hazelcast.com/download/clients/3.8.2/hazelcast-cpp-client-3.8.2-Windows_32.zip
 Download_Windows32_Size: 20 MB
-Download_Windows64: https://download.hazelcast.com/clients/3.8.2/hazelcast-cpp-client-3.8.2-Windows_64.zip
+Download_Windows64: https://repository.hazelcast.com/download/clients/3.8.2/hazelcast-cpp-client-3.8.2-Windows_64.zip
 Download_Windows64_Size: 24.3 MB
-Docs: https://download.hazelcast.com/clients/3.8.2/hazelcast-cpp-client-3.8.2-docs.zip
+Docs: https://repository.hazelcast.com/download/clients/3.8.2/hazelcast-cpp-client-3.8.2-docs.zip
 Github: https://github.com/hazelcast/hazelcast-cpp-client/tree/v3.8.2
 Docs_Online: https://github.com/hazelcast/hazelcast-cpp-client/blob/v3.8.2/README.md
 APIDocs: http://docs.hazelcast.org/docs/clients/cpp/3.8.2/html/
@@ -1161,17 +1233,17 @@ ReleaseNotes: https://github.com/hazelcast/hazelcast-cpp-client/releases/tag/v3.
 ---
 Version: 3.8.1
 Date: 05/03/2017
-Download_Linux32: https://download.hazelcast.com/clients/3.8.1/hazelcast-cpp-client-3.8.1-Linux_32.zip
+Download_Linux32: https://repository.hazelcast.com/download/clients/3.8.1/hazelcast-cpp-client-3.8.1-Linux_32.zip
 Download_Linux32_Size: 6.33 MB
-Download_Linux64: https://download.hazelcast.com/clients/3.8.1/hazelcast-cpp-client-3.8.1-Linux_64.zip
+Download_Linux64: https://repository.hazelcast.com/download/clients/3.8.1/hazelcast-cpp-client-3.8.1-Linux_64.zip
 Download_Linux64_Size: 6.7 MB
-Download_Mac64: https://download.hazelcast.com/clients/3.8.1/hazelcast-cpp-client-3.8.1-Mac_64.zip
+Download_Mac64: https://repository.hazelcast.com/download/clients/3.8.1/hazelcast-cpp-client-3.8.1-Mac_64.zip
 Download_Mac64_Size: 5.3 MB
-Download_Windows32: https://download.hazelcast.com/clients/3.8.1/hazelcast-cpp-client-3.8.1-Windows_32.zip
+Download_Windows32: https://repository.hazelcast.com/download/clients/3.8.1/hazelcast-cpp-client-3.8.1-Windows_32.zip
 Download_Windows32_Size: 20 MB
-Download_Windows64: https://download.hazelcast.com/clients/3.8.1/hazelcast-cpp-client-3.8.1-Windows_64.zip
+Download_Windows64: https://repository.hazelcast.com/download/clients/3.8.1/hazelcast-cpp-client-3.8.1-Windows_64.zip
 Download_Windows64_Size: 24.3 MB
-Docs: https://download.hazelcast.com/clients/3.8.1/hazelcast-cpp-client-3.8.1-docs.zip
+Docs: https://repository.hazelcast.com/download/clients/3.8.1/hazelcast-cpp-client-3.8.1-docs.zip
 Github: https://github.com/hazelcast/hazelcast-cpp-client/tree/v3.8.1
 Docs_Online: https://github.com/hazelcast/hazelcast-cpp-client/blob/v3.8.1/README.md
 APIDocs: http://docs.hazelcast.org/docs/clients/cpp/3.8.1/html/
@@ -1179,17 +1251,17 @@ ReleaseNotes: https://github.com/hazelcast/hazelcast-cpp-client/releases/tag/v3.
 ---
 Version: 3.8
 Date: 04/05/2017
-Download_Linux32: https://download.hazelcast.com/clients/3.8/hazelcast-cpp-client-3.8-Linux_32.zip
+Download_Linux32: https://repository.hazelcast.com/download/clients/3.8/hazelcast-cpp-client-3.8-Linux_32.zip
 Download_Linux32_Size: 5.3 MB
-Download_Linux64: https://download.hazelcast.com/clients/3.8/hazelcast-cpp-client-3.8-Linux_64.zip
+Download_Linux64: https://repository.hazelcast.com/download/clients/3.8/hazelcast-cpp-client-3.8-Linux_64.zip
 Download_Linux64: 5.6 MB
-Download_Mac64: https://download.hazelcast.com/clients/3.8/hazelcast-cpp-client-3.8-Mac_64.zip
+Download_Mac64: https://repository.hazelcast.com/download/clients/3.8/hazelcast-cpp-client-3.8-Mac_64.zip
 Download_Mac64_Size: 4.4 MB
-Download_Windows32: https://download.hazelcast.com/clients/3.8/hazelcast-cpp-client-3.8-Windows_32.zip
+Download_Windows32: https://repository.hazelcast.com/download/clients/3.8/hazelcast-cpp-client-3.8-Windows_32.zip
 Download_Windows32_Size: 18.2 MB
-Download_Windows64: https://download.hazelcast.com/clients/3.8/hazelcast-cpp-client-3.8-Windows_64.zip
+Download_Windows64: https://repository.hazelcast.com/download/clients/3.8/hazelcast-cpp-client-3.8-Windows_64.zip
 Download_Windows64_Size: 21.5 MB
-Docs: https://download.hazelcast.com/clients/3.8/hazelcast-cpp-client-3.8-docs.zip
+Docs: https://repository.hazelcast.com/download/clients/3.8/hazelcast-cpp-client-3.8-docs.zip
 Github: https://github.com/hazelcast/hazelcast-cpp-client/tree/v3.8
 Docs_Online: https://github.com/hazelcast/hazelcast-cpp-client/blob/v3.8/README.md
 APIDocs: http://docs.hazelcast.org/docs/clients/cpp/3.8/html/
@@ -1197,7 +1269,7 @@ ReleaseNotes: https://github.com/hazelcast/hazelcast-cpp-client/releases/tag/v3.
 ---
 Version: 3.7
 Date: 01/31/2017
-Download: https://download.hazelcast.com/clients/3.7/hazelcast-cpp-client-3.7.zip
+Download: https://repository.hazelcast.com/download/clients/3.7/hazelcast-cpp-client-3.7.zip
 Download_Size: 31.1 MB
 Github: https://github.com/hazelcast/hazelcast-cpp-client/tree/v3.7
 Docs: https://github.com/hazelcast/hazelcast-cpp-client/blob/v3.7/README.md
@@ -1206,7 +1278,7 @@ ReleaseNotes: https://github.com/hazelcast/hazelcast-cpp-client/releases/tag/v3.
 ---
 Version: 3.6.3
 Date: 06/14/2016
-Download: https://download.hazelcast.com/clients/3.6.3/hazelcast-cpp-client-3.6.3.zip
+Download: https://repository.hazelcast.com/download/clients/3.6.3/hazelcast-cpp-client-3.6.3.zip
 Download_Size: 121 MB
 Github: https://github.com/hazelcast/hazelcast-cpp-client/tree/v3.6.3
 Docs: https://github.com/hazelcast/hazelcast-cpp-client/blob/v3.6.3/README.md
@@ -1215,7 +1287,7 @@ ReleaseNotes: https://github.com/hazelcast/hazelcast-cpp-client/releases/tag/v3.
 ---
 Version: 3.6.2
 Date: 04/29/2016
-Download: https://download.hazelcast.com/clients/3.6.2/hazelcast-cpp-client-3.6.2.zip
+Download: https://repository.hazelcast.com/download/clients/3.6.2/hazelcast-cpp-client-3.6.2.zip
 Download_Size: 103 MB
 Github: https://github.com/hazelcast/hazelcast-cpp-client/tree/v3.6.2
 Docs: https://github.com/hazelcast/hazelcast-cpp-client/blob/v3.6.2/README.md
@@ -1224,7 +1296,7 @@ ReleaseNotes: https://github.com/hazelcast/hazelcast-cpp-client/releases/tag/v3.
 ---
 Version: 3.6.1
 Date: 03/22/2016
-Download: https://download.hazelcast.com/clients/3.6.1/hazelcast-cpp-client-3.6.1.zip
+Download: https://repository.hazelcast.com/download/clients/3.6.1/hazelcast-cpp-client-3.6.1.zip
 Download_Size: 78.3 MB
 Github: https://github.com/hazelcast/hazelcast-cpp-client/tree/v3.6.1
 Docs: https://github.com/hazelcast/hazelcast-cpp-client/blob/v3.6.1/README.md
@@ -1233,7 +1305,7 @@ ReleaseNotes: https://github.com/hazelcast/hazelcast-cpp-client/releases/tag/v3.
 ---
 Version: 3.6
 Date: 01/25/2016
-Download: https://download.hazelcast.com/clients/3.6/hazelcast-cpp-client-3.6.zip
+Download: https://repository.hazelcast.com/download/clients/3.6/hazelcast-cpp-client-3.6.zip
 Download_Size: 77.1 MB
 Github: https://github.com/hazelcast/hazelcast-cpp-client/tree/v3.6
 Docs: https://github.com/hazelcast/hazelcast-cpp-client/blob/v3.6/README.md
@@ -1242,7 +1314,7 @@ ReleaseNotes:
 ---
 Version: 3.6-RC1
 Date: 01/10/2016
-Download: https://download.hazelcast.com/clients/3.6-RC1/hazelcast-cpp-client-3.6-RC1.zip
+Download: https://repository.hazelcast.com/download/clients/3.6-RC1/hazelcast-cpp-client-3.6-RC1.zip
 Download_Size: 57.3 MB
 Github: https://github.com/hazelcast/hazelcast-cpp-client/tree/v3.6-RC1
 Docs: https://github.com/hazelcast/hazelcast-cpp-client/blob/v3.6-RC1/README.md
@@ -1251,7 +1323,7 @@ ReleaseNotes:
 ---
 Version: 3.6-EA3
 Date: 12/23/2015
-Download: https://download.hazelcast.com/clients/3.6-EA3/hazelcast-cpp-client-3.6-EA3.zip
+Download: https://repository.hazelcast.com/download/clients/3.6-EA3/hazelcast-cpp-client-3.6-EA3.zip
 Download_Size: 23.8 MB
 Github: https://github.com/hazelcast/hazelcast-cpp-client/tree/v3.6-EA3
 Docs: https://github.com/hazelcast/hazelcast-cpp-client/blob/v3.6-EA3/README.md
