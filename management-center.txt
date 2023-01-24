@@ -328,6 +328,8 @@ Download_ZIP_URL: https://repository.hazelcast.com/download/management-center/ha
 Download_ZIP_Size: 82.7 MB
 Download_TAR_URL: https://repository.hazelcast.com/download/management-center/hazelcast-management-center-4.2020.08.tar.gz
 Download_TAR_Size: 82.8 MB
+Download_WAR_URL:
+Download_WAR_Size:
 Docs_HTML: http://docs.hazelcast.org/docs/management-center/4.2020.08/manual/html/index.html
 Docs_PDF: http://docs.hazelcast.org/docs/management-center/4.2020.08/manual/pdf/hazelcast-management-center-documentation-4.2020.08.pdf
 APIDocs:
@@ -342,6 +344,8 @@ Download_ZIP_URL: https://repository.hazelcast.com/download/management-center/ha
 Download_ZIP_Size: 86.5 MB
 Download_TAR_URL: https://repository.hazelcast.com/download/management-center/hazelcast-management-center-4.0.3.tar.gz
 Download_TAR_Size: 86.5 MB
+Download_WAR_URL:
+Download_WAR_Size:
 Docs_HTML: http://docs.hazelcast.org/docs/management-center/4.0.3/manual/html/index.html
 Docs_PDF: http://docs.hazelcast.org/docs/management-center/4.0.3/manual/pdf/hazelcast-management-center-documentation-4.0.3.pdf
 APIDocs:
@@ -356,6 +360,8 @@ Download_ZIP_URL: https://repository.hazelcast.com/download/management-center/ha
 Download_ZIP_Size: 88 MB
 Download_TAR_URL: https://repository.hazelcast.com/download/management-center/hazelcast-management-center-4.0.2.tar.gz
 Download_TAR_Size: 88 MB
+Download_WAR_URL:
+Download_WAR_Size:
 Docs_HTML: http://docs.hazelcast.org/docs/management-center/4.0.2/manual/html/index.html
 Docs_PDF: http://docs.hazelcast.org/docs/management-center/4.0.2/manual/pdf/hazelcast-management-center-documentation-4.0.2.pdf
 APIDocs:
@@ -370,6 +376,8 @@ Download_ZIP_URL: https://repository.hazelcast.com/download/management-center/ha
 Download_ZIP_Size: 90 MB
 Download_TAR_URL: https://repository.hazelcast.com/download/management-center/hazelcast-management-center-4.0.1.tar.gz
 Download_TAR_Size: 90 MB
+Download_WAR_URL:
+Download_WAR_Size:
 Docs_HTML: http://docs.hazelcast.org/docs/management-center/4.0.1/manual/html/index.html
 Docs_PDF: http://docs.hazelcast.org/docs/management-center/4.0.1/manual/pdf/hazelcast-management-center-documentation-4.0.1.pdf
 APIDocs:
@@ -384,6 +392,8 @@ Download_ZIP_URL: https://repository.hazelcast.com/download/management-center/ha
 Download_ZIP_Size: 108 MB
 Download_TAR_URL: https://repository.hazelcast.com/download/management-center/hazelcast-management-center-4.0.tar.gz
 Download_TAR_Size: 108 MB
+Download_WAR_URL:
+Download_WAR_Size:
 Docs_HTML: http://docs.hazelcast.org/docs/management-center/4.0/manual/html/index.html
 Docs_PDF: http://docs.hazelcast.org/docs/management-center/4.0/manual/pdf/hazelcast-management-center-documentation-4.0.pdf
 APIDocs:
@@ -398,6 +408,8 @@ Download_ZIP_URL: https://repository.hazelcast.com/download/management-center/ha
 Download_ZIP_Size: 91.4 MB
 Download_TAR_URL: https://repository.hazelcast.com/download/management-center/hazelcast-management-center-3.12.18.tar.gz
 Download_TAR_Size: 91.5 MB
+Download_WAR_URL:
+Download_WAR_Size:
 Docs_HTML: http://docs.hazelcast.org/docs/management-center/3.12.18/manual/html/index.html
 Docs_PDF: http://docs.hazelcast.org/docs/management-center/3.12.18/manual/pdf/hazelcast-management-center-documentation-3.12.18.pdf
 APIDocs:
@@ -412,6 +424,8 @@ Download_ZIP_URL: https://repository.hazelcast.com/download/management-center/ha
 Download_ZIP_Size: 88.4 MB
 Download_TAR_URL: https://repository.hazelcast.com/download/management-center/hazelcast-management-center-3.12.17.tar.gz
 Download_TAR_Size: 88.4 MB
+Download_WAR_URL:
+Download_WAR_Size:
 Docs_HTML: http://docs.hazelcast.org/docs/management-center/3.12.17/manual/html/index.html
 Docs_PDF: http://docs.hazelcast.org/docs/management-center/3.12.17/manual/pdf/hazelcast-management-center-documentation-3.12.17.pdf
 APIDocs:
@@ -426,6 +440,8 @@ Download_ZIP_URL: https://repository.hazelcast.com/download/management-center/ha
 Download_ZIP_Size: 88.4 MB
 Download_TAR_URL: https://repository.hazelcast.com/download/management-center/hazelcast-management-center-3.12.16.tar.gz
 Download_TAR_Size: 88.4 MB
+Download_WAR_URL:
+Download_WAR_Size:
 Docs_HTML: http://docs.hazelcast.org/docs/management-center/3.12.16/manual/html/index.html
 Docs_PDF: http://docs.hazelcast.org/docs/management-center/3.12.16/manual/pdf/hazelcast-management-center-documentation-3.12.16.pdf
 APIDocs:
@@ -440,6 +456,8 @@ Download_ZIP_URL: https://repository.hazelcast.com/download/management-center/ha
 Download_ZIP_Size: 88.1 MB
 Download_TAR_URL: https://repository.hazelcast.com/download/management-center/hazelcast-management-center-3.12.15.tar.gz
 Download_TAR_Size: 88.1 MB
+Download_WAR_URL:
+Download_WAR_Size:
 Docs_HTML: http://docs.hazelcast.org/docs/management-center/3.12.15/manual/html/index.html
 Docs_PDF: http://docs.hazelcast.org/docs/management-center/3.12.15/manual/pdf/hazelcast-management-center-documentation-3.12.15.pdf
 APIDocs:
@@ -454,6 +472,8 @@ Download_ZIP_URL: https://repository.hazelcast.com/download/management-center/ha
 Download_ZIP_Size: 90.7 MB
 Download_TAR_URL: https://repository.hazelcast.com/download/management-center/hazelcast-management-center-3.12.14.tar.gz
 Download_TAR_Size: 90.7 MB
+Download_WAR_URL:
+Download_WAR_Size:
 Docs_HTML: http://docs.hazelcast.org/docs/management-center/3.12.14/manual/html/index.html
 Docs_PDF: http://docs.hazelcast.org/docs/management-center/3.12.14/manual/pdf/hazelcast-management-center-documentation-3.12.14.pdf
 APIDocs:
@@ -468,6 +488,8 @@ Download_ZIP_URL: https://repository.hazelcast.com/download/management-center/ha
 Download_ZIP_Size: 89.2 MB
 Download_TAR_URL: https://repository.hazelcast.com/download/management-center/hazelcast-management-center-3.12.13.tar.gz
 Download_TAR_Size: 89.2 MB
+Download_WAR_URL:
+Download_WAR_Size:
 Docs_HTML: http://docs.hazelcast.org/docs/management-center/3.12.13/manual/html/index.html
 Docs_PDF: http://docs.hazelcast.org/docs/management-center/3.12.13/manual/pdf/hazelcast-management-center-documentation-3.12.13.pdf
 APIDocs:
@@ -482,6 +504,8 @@ Download_ZIP_URL: https://repository.hazelcast.com/download/management-center/ha
 Download_ZIP_Size: 84.3 MB
 Download_TAR_URL: https://repository.hazelcast.com/download/management-center/hazelcast-management-center-3.12.12.tar.gz
 Download_TAR_Size: 84.3 MB
+Download_WAR_URL:
+Download_WAR_Size:
 Docs_HTML: http://docs.hazelcast.org/docs/management-center/3.12.12/manual/html/index.html
 Docs_PDF: http://docs.hazelcast.org/docs/management-center/3.12.12/manual/pdf/hazelcast-management-center-documentation-3.12.12.pdf
 APIDocs:
@@ -496,6 +520,8 @@ Download_ZIP_URL: https://repository.hazelcast.com/download/management-center/ha
 Download_ZIP_Size: 60.4 MB
 Download_TAR_URL: https://repository.hazelcast.com/download/management-center/hazelcast-management-center-3.12.11.tar.gz
 Download_TAR_Size: 60.4 MB
+Download_WAR_URL:
+Download_WAR_Size:
 Docs_HTML: http://docs.hazelcast.org/docs/management-center/3.12.11/manual/html/index.html
 Docs_PDF: http://docs.hazelcast.org/docs/management-center/3.12.11/manual/pdf/hazelcast-management-center-documentation-3.12.11.pdf
 APIDocs:
@@ -510,6 +536,8 @@ Download_ZIP_URL: https://repository.hazelcast.com/download/management-center/ha
 Download_ZIP_Size: 60.3 MB
 Download_TAR_URL: https://repository.hazelcast.com/download/management-center/hazelcast-management-center-3.12.10.tar.gz
 Download_TAR_Size: 60.3 MB
+Download_WAR_URL:
+Download_WAR_Size:
 Docs_HTML: http://docs.hazelcast.org/docs/management-center/3.12.10/manual/html/index.html
 Docs_PDF: http://docs.hazelcast.org/docs/management-center/3.12.10/manual/pdf/hazelcast-management-center-documentation-3.12.10.pdf
 APIDocs:
@@ -524,6 +552,8 @@ Download_ZIP_URL: https://repository.hazelcast.com/download/management-center/ha
 Download_ZIP_Size: 61 MB
 Download_TAR_URL: https://repository.hazelcast.com/download/management-center/hazelcast-management-center-3.12.9.tar.gz
 Download_TAR_Size: 61 MB
+Download_WAR_URL:
+Download_WAR_Size:
 Docs_HTML: http://docs.hazelcast.org/docs/management-center/3.12.9/manual/html/index.html
 Docs_PDF: http://docs.hazelcast.org/docs/management-center/3.12.9/manual/pdf/hazelcast-management-center-documentation-3.12.9.pdf
 APIDocs:
@@ -538,6 +568,8 @@ Download_ZIP_URL: https://repository.hazelcast.com/download/management-center/ha
 Download_ZIP_Size: 57 MB
 Download_TAR_URL: https://repository.hazelcast.com/download/management-center/hazelcast-management-center-3.12.8.tar.gz
 Download_TAR_Size: 57 MB
+Download_WAR_URL:
+Download_WAR_Size:
 Docs_HTML: http://docs.hazelcast.org/docs/management-center/3.12.8/manual/html/index.html
 Docs_PDF: http://docs.hazelcast.org/docs/management-center/3.12.8/manual/pdf/hazelcast-management-center-documentation-3.12.8.pdf
 APIDocs:
@@ -552,6 +584,8 @@ Download_ZIP_URL: https://repository.hazelcast.com/download/management-center/ha
 Download_ZIP_Size: 57.1 MB
 Download_TAR_URL: https://repository.hazelcast.com/download/management-center/hazelcast-management-center-3.12.7.tar.gz
 Download_TAR_Size: 57.1 MB
+Download_WAR_URL:
+Download_WAR_Size:
 Docs_HTML: http://docs.hazelcast.org/docs/management-center/3.12.7/manual/html/index.html
 Docs_PDF: http://docs.hazelcast.org/docs/management-center/3.12.7/manual/pdf/hazelcast-management-center-documentation-3.12.7.pdf
 APIDocs:
@@ -566,6 +600,8 @@ Download_ZIP_URL: https://repository.hazelcast.com/download/management-center/ha
 Download_ZIP_Size: 57.1 MB
 Download_TAR_URL: https://repository.hazelcast.com/download/management-center/hazelcast-management-center-3.12.6.tar.gz
 Download_TAR_Size: 57.1 MB
+Download_WAR_URL:
+Download_WAR_Size:
 Docs_HTML: http://docs.hazelcast.org/docs/management-center/3.12.6/manual/html/index.html
 Docs_PDF: http://docs.hazelcast.org/docs/management-center/3.12.6/manual/pdf/hazelcast-management-center-documentation-3.12.6.pdf
 APIDocs:
@@ -580,6 +616,8 @@ Download_ZIP_URL: https://repository.hazelcast.com/download/management-center/ha
 Download_ZIP_Size: 56.9 MB
 Download_TAR_URL: https://repository.hazelcast.com/download/management-center/hazelcast-management-center-3.12.5.tar.gz
 Download_TAR_Size: 56.8 MB
+Download_WAR_URL:
+Download_WAR_Size:
 Docs_HTML: http://docs.hazelcast.org/docs/management-center/3.12.5/manual/html/index.html
 Docs_PDF: http://docs.hazelcast.org/docs/management-center/3.12.5/manual/pdf/hazelcast-management-center-documentation-3.12.5.pdf
 APIDocs:
@@ -594,6 +632,8 @@ Download_ZIP_URL: https://repository.hazelcast.com/download/management-center/ha
 Download_ZIP_Size: 56.4 MB
 Download_TAR_URL: https://repository.hazelcast.com/download/management-center/hazelcast-management-center-3.12.4.tar.gz
 Download_TAR_Size: 56.3 MB
+Download_WAR_URL:
+Download_WAR_Size:
 Docs_HTML: http://docs.hazelcast.org/docs/management-center/3.12.4/manual/html/index.html
 Docs_PDF: http://docs.hazelcast.org/docs/management-center/3.12.4/manual/pdf/hazelcast-management-center-documentation-3.12.4.pdf
 APIDocs:
@@ -608,6 +648,8 @@ Download_ZIP_URL: https://repository.hazelcast.com/download/management-center/ha
 Download_ZIP_Size: 57.1 MB
 Download_TAR_URL: https://repository.hazelcast.com/download/management-center/hazelcast-management-center-3.12.3.tar.gz
 Download_TAR_Size: 57.1 MB
+Download_WAR_URL:
+Download_WAR_Size:
 Docs_HTML: http://docs.hazelcast.org/docs/management-center/3.12.3/manual/html/index.html
 Docs_PDF: http://docs.hazelcast.org/docs/management-center/3.12.3/manual/pdf/hazelcast-management-center-documentation-3.12.3.pdf
 APIDocs: 
@@ -622,6 +664,8 @@ Download_ZIP_URL: https://repository.hazelcast.com/download/management-center/ha
 Download_ZIP_Size: 57.1 MB
 Download_TAR_URL: https://repository.hazelcast.com/download/management-center/hazelcast-management-center-3.12.2.tar.gz
 Download_TAR_Size: 57.1 MB
+Download_WAR_URL:
+Download_WAR_Size:
 Docs_HTML: http://docs.hazelcast.org/docs/management-center/3.12.2/manual/html/index.html
 Docs_PDF: http://docs.hazelcast.org/docs/management-center/3.12.2/manual/pdf/hazelcast-management-center-documentation-3.12.2.pdf
 APIDocs: 
@@ -636,6 +680,8 @@ Download_ZIP_URL: https://repository.hazelcast.com/download/management-center/ha
 Download_ZIP_Size: 60.1 MB
 Download_TAR_URL: https://repository.hazelcast.com/download/management-center/hazelcast-management-center-3.12.1.tar.gz
 Download_TAR_Size: 60.1 MB
+Download_WAR_URL:
+Download_WAR_Size:
 Docs_HTML: http://docs.hazelcast.org/docs/management-center/3.12.1/manual/html/index.html
 Docs_PDF: https://docs.hazelcast.org/docs/management-center/3.12.1/manual/pdf/hazelcast-management-center-documentation-3.12.1.pdf
 APIDocs: 
@@ -650,6 +696,8 @@ Download_ZIP_URL: https://repository.hazelcast.com/download/management-center/ha
 Download_ZIP_Size: 57 MB
 Download_TAR_URL: https://repository.hazelcast.com/download/management-center/hazelcast-management-center-3.12.tar.gz
 Download_TAR_Size: 57 MB
+Download_WAR_URL:
+Download_WAR_Size:
 Docs_HTML: http://docs.hazelcast.org/docs/management-center/3.12/manual/html/index.html
 Docs_PDF: http://docs.hazelcast.org/docs/management-center/3.12/manual/pdf/hazelcast-management-center-documentation-3.12.pdf
 APIDocs: 
@@ -664,6 +712,8 @@ Download_ZIP_URL: https://repository.hazelcast.com/download/management-center/ha
 Download_ZIP_Size: 52.9 MB
 Download_TAR_URL: https://repository.hazelcast.com/download/management-center/hazelcast-management-center-3.11.4.tar.gz
 Download_TAR_Size: 52.9 MB
+Download_WAR_URL:
+Download_WAR_Size:
 Docs_HTML: http://docs.hazelcast.org/docs/management-center/3.11.4/manual/html/index.html
 Docs_PDF: http://docs.hazelcast.org/docs/management-center/3.11.4/manual/pdf/hazelcast-management-center-documentation-3.11.4.pdf
 APIDocs: 
@@ -678,6 +728,8 @@ Download_ZIP_URL: https://repository.hazelcast.com/download/management-center/ha
 Download_ZIP_Size: 52.9 MB
 Download_TAR_URL: https://repository.hazelcast.com/download/management-center/hazelcast-management-center-3.11.3.tar.gz
 Download_TAR_Size: 52.9 MB
+Download_WAR_URL:
+Download_WAR_Size:
 Docs_HTML: http://docs.hazelcast.org/docs/management-center/3.11.3/manual/html/index.html
 Docs_PDF: http://docs.hazelcast.org/docs/management-center/3.11.3/manual/pdf/hazelcast-management-center-documentation-3.11.3.pdf
 APIDocs: 
@@ -692,6 +744,8 @@ Download_ZIP_URL: https://repository.hazelcast.com/download/management-center/ha
 Download_ZIP_Size: 43.8 MB
 Download_TAR_URL: https://repository.hazelcast.com/download/management-center/hazelcast-management-center-3.11.2.tar.gz
 Download_TAR_Size: 43.8 MB
+Download_WAR_URL:
+Download_WAR_Size:
 Docs_HTML: http://docs.hazelcast.org/docs/management-center/3.11.2/manual/html/index.html
 Docs_PDF: http://docs.hazelcast.org/docs/management-center/3.11.2/manual/pdf/hazelcast-management-center-documentation-3.11.2.pdf
 APIDocs:
@@ -706,6 +760,8 @@ Download_ZIP_URL: https://repository.hazelcast.com/download/management-center/ha
 Download_ZIP_Size: 43.8 MB
 Download_TAR_URL: https://repository.hazelcast.com/download/management-center/hazelcast-management-center-3.11.1.tar.gz
 Download_TAR_Size: 43.8 MB
+Download_WAR_URL:
+Download_WAR_Size:
 Docs_HTML: http://docs.hazelcast.org/docs/management-center/3.11.1/manual/html/index.html
 Docs_PDF: http://docs.hazelcast.org/docs/management-center/3.11.1/manual/pdf/hazelcast-management-center-documentation-3.11.1.pdf
 APIDocs:
@@ -720,6 +776,8 @@ Download_ZIP_URL: https://repository.hazelcast.com/download/management-center/ha
 Download_ZIP_Size: 43.4 MB
 Download_TAR_URL: https://repository.hazelcast.com/download/management-center/hazelcast-management-center-3.11.tar.gz
 Download_TAR_Size: 43.4 MB
+Download_WAR_URL:
+Download_WAR_Size:
 Docs_HTML: http://docs.hazelcast.org/docs/management-center/3.11/manual/html/index.html
 Docs_PDF: http://docs.hazelcast.org/docs/management-center/3.11/manual/pdf/hazelcast-management-center-documentation-3.11.pdf
 APIDocs: 
@@ -734,6 +792,8 @@ Download_ZIP_URL: https://repository.hazelcast.com/download/management-center/ha
 Download_ZIP_Size: 41.2 MB
 Download_TAR_URL: https://repository.hazelcast.com/download/management-center/hazelcast-management-center-3.10.4.tar.gz
 Download_TAR_Size: 41.2 MB
+Download_WAR_URL:
+Download_WAR_Size:
 Docs_HTML: http://docs.hazelcast.org/docs/management-center/3.10.4/manual/html/index.html
 Docs_PDF: http://docs.hazelcast.org/docs/management-center/3.10.4/manual/pdf/hazelcast-management-center-documentation-3.10.4.pdf
 APIDocs:
@@ -748,6 +808,8 @@ Download_ZIP_URL: https://repository.hazelcast.com/download/management-center/ha
 Download_ZIP_Size: 41.2 MB
 Download_TAR_URL: https://repository.hazelcast.com/download/management-center/hazelcast-management-center-3.10.3.tar.gz
 Download_TAR_Size: 41.2 MB
+Download_WAR_URL:
+Download_WAR_Size:
 Docs_HTML: http://docs.hazelcast.org/docs/management-center/3.10.3/manual/html/index.html
 Docs_PDF: http://docs.hazelcast.org/docs/management-center/3.10.3/manual/pdf/hazelcast-management-center-documentation-3.10.3.pdf
 APIDocs:
@@ -762,6 +824,8 @@ Download_ZIP_URL: https://repository.hazelcast.com/download/management-center/ha
 Download_ZIP_Size: 40.4 MB
 Download_TAR_URL: https://repository.hazelcast.com/download/management-center/hazelcast-management-center-3.10.2.tar.gz
 Download_TAR_Size: 40.4 MB
+Download_WAR_URL:
+Download_WAR_Size:
 Docs_HTML: http://docs.hazelcast.org/docs/management-center/3.10.2/manual/html/index.html
 Docs_PDF: http://docs.hazelcast.org/docs/management-center/3.10.2/manual/pdf/hazelcast-management-center-documentation-3.10.2.pdf
 APIDocs:
@@ -776,6 +840,8 @@ Download_ZIP_URL: https://repository.hazelcast.com/download/management-center/ha
 Download_ZIP_Size: 39 MB
 Download_TAR_URL: https://repository.hazelcast.com/download/management-center/hazelcast-management-center-3.10.1.tar.gz
 Download_TAR_Size: 39 MB
+Download_WAR_URL:
+Download_WAR_Size:
 Docs_HTML: http://docs.hazelcast.org/docs/management-center/3.10.1/manual/html/index.html
 Docs_PDF: http://docs.hazelcast.org/docs/management-center/3.10.1/manual/pdf/hazelcast-management-center-documentation-3.10.1.pdf
 APIDocs: 
@@ -790,6 +856,8 @@ Download_ZIP_URL: https://repository.hazelcast.com/download/management-center/ha
 Download_ZIP_Size: 26.5 MB
 Download_TAR_URL: https://repository.hazelcast.com/download/management-center/hazelcast-management-center-3.10.tar.gz
 Download_TAR_Size: 26.5 MB
+Download_WAR_URL:
+Download_WAR_Size:
 Docs_HTML: http://docs.hazelcast.org/docs/management-center/3.10/manual/html/index.html
 Docs_PDF: http://docs.hazelcast.org/docs/management-center/3.10/manual/pdf/hazelcast-management-center-documentation-3.10.pdf
 APIDocs:
@@ -804,6 +872,8 @@ Download_ZIP_URL: https://repository.hazelcast.com/download/management-center/ma
 Download_ZIP_Size: 20.8 MB
 Download_TAR_URL: https://repository.hazelcast.com/download/management-center/management-center-3.9.4.tar.gz
 Download_TAR_Size: 20.8 MB
+Download_WAR_URL:
+Download_WAR_Size:
 Docs_HTML: http://docs.hazelcast.org/docs/management-center/3.9.4/manual/html/index.html
 Docs_PDF: http://docs.hazelcast.org/docs/management-center/3.9.4/manual/pdf/management-center-documentation-3.9.4.pdf
 APIDocs:
@@ -818,6 +888,8 @@ Download_ZIP_URL: https://repository.hazelcast.com/download/management-center/ma
 Download_ZIP_Size: 20.8 MB
 Download_TAR_URL: https://repository.hazelcast.com/download/management-center/management-center-3.9.3.tar.gz
 Download_TAR_Size: 20.8 MB
+Download_WAR_URL:
+Download_WAR_Size:
 Docs_HTML: http://docs.hazelcast.org/docs/management-center/3.9.3/manual/html/index.html
 Docs_PDF: http://docs.hazelcast.org/docs/management-center/3.9.3/manual/pdf/management-center-documentation-3.9.3.pdf
 APIDocs:
@@ -832,6 +904,8 @@ Download_ZIP_URL: https://repository.hazelcast.com/download/management-center/ma
 Download_ZIP_Size: 20.8 MB
 Download_TAR_URL: https://repository.hazelcast.com/download/management-center/management-center-3.9.2.tar.gz
 Download_TAR_Size: 20.6 MB
+Download_WAR_URL:
+Download_WAR_Size:
 Docs_HTML: http://docs.hazelcast.org/docs/management-center/3.9.2/manual/html/index.html
 Docs_PDF: http://docs.hazelcast.org/docs/management-center/3.9.2/manual/pdf/management-center-documentation-3.9.2.pdf
 APIDocs:
@@ -846,6 +920,8 @@ Download_ZIP_URL: https://repository.hazelcast.com/download/management-center/ma
 Download_ZIP_Size: 24 MB
 Download_TAR_URL: https://repository.hazelcast.com/download/management-center/management-center-3.9.1.tar.gz
 Download_TAR_Size: 24 MB
+Download_WAR_URL:
+Download_WAR_Size:
 Docs_HTML: http://docs.hazelcast.org/docs/management-center/3.9.1/manual/html/index.html
 Docs_PDF: http://docs.hazelcast.org/docs/management-center/3.9.1/manual/pdf/management-center-documentation-3.9.1.pdf
 APIDocs: 
@@ -860,6 +936,8 @@ Download_ZIP_URL: https://repository.hazelcast.com/download/management-center/ma
 Download_ZIP_Size: 24 MB
 Download_TAR_URL: https://repository.hazelcast.com/download/management-center/management-center-3.9.tar.gz
 Download_TAR_Size: 24 MB
+Download_WAR_URL:
+Download_WAR_Size:
 Docs_HTML: http://docs.hazelcast.org/docs/management-center/3.9/manual/html/index.html
 Docs_PDF: http://docs.hazelcast.org/docs/management-center/3.9/manual/pdf/management-center-documentation-3.9.pdf
 APIDocs: 
@@ -874,6 +952,8 @@ Download_ZIP_URL: https://repository.hazelcast.com/download/management-center/ma
 Download_ZIP_Size: 22.0 MB
 Download_TAR_URL: https://repository.hazelcast.com/download/management-center/management-center-3.8.5.tar.gz
 Download_TAR_Size: 21.9 MB
+Download_WAR_URL:
+Download_WAR_Size:
 Docs_HTML: http://docs.hazelcast.org/docs/management-center/3.8.5/manual/html/index.html
 Docs_PDF: http://docs.hazelcast.org/docs/management-center/3.8.5/manual/pdf/management-center-documentation-3.8.5.pdf
 APIDocs:
@@ -888,6 +968,8 @@ Download_ZIP_URL: https://repository.hazelcast.com/download/management-center/ma
 Download_ZIP_Size: 22.7 MB
 Download_TAR_URL: https://repository.hazelcast.com/download/management-center/management-center-3.8.4.tar.gz
 Download_TAR_Size: 22.6 MB
+Download_WAR_URL:
+Download_WAR_Size:
 Docs_HTML: http://docs.hazelcast.org/docs/management-center/3.8.4/manual/html/index.html
 Docs_PDF: http://docs.hazelcast.org/docs/management-center/3.8.4/manual/pdf/management-center-documentation-3.8.4.pdf
 APIDocs:
@@ -902,6 +984,8 @@ Download_ZIP_URL: https://repository.hazelcast.com/download/management-center/ma
 Download_ZIP_Size: 22.7 MB
 Download_TAR_URL: https://repository.hazelcast.com/download/management-center/management-center-3.8.3.tar.gz
 Download_TAR_Size: 22.6 MB
+Download_WAR_URL:
+Download_WAR_Size:
 Docs_HTML: http://docs.hazelcast.org/docs/management-center/3.8.3/manual/html/index.html
 Docs_PDF: http://docs.hazelcast.org/docs/management-center/3.8.3/manual/pdf/management-center-documentation-3.8.3.pdf
 APIDocs: 
@@ -918,6 +1002,8 @@ Download_ZIP_URL: https://repository.hazelcast.com/download/management-center/ha
 Download_ZIP_Size: 148.0 MB
 Download_TAR_URL: https://repository.hazelcast.com/download/management-center/hazelcast-management-center-5.2-BETA-1.tar.gz
 Download_TAR_Size: 148.0 MB
+Download_WAR_URL:
+Download_WAR_Size:
 Docs_HTML: https://docs.hazelcast.com/management-center/5.2-BETA-1/
 Docs_PDF: 
 APIDocs: 
