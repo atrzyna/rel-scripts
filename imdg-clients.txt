@@ -1,5 +1,41 @@
 ========== Java Client
 ---
+Version: 5.5.0
+Date: 07/26/2024
+Download: https://github.com/hazelcast/hazelcast/releases/download/v5.5.0/hazelcast-5.5.0-slim.zip
+Download_Size: 39 MB
+Github: https://github.com/hazelcast/hazelcast/tree/v5.5.0
+Docs: https://docs.hazelcast.com/hazelcast/5.5/getting-started/quickstart.html
+APIDocs: https://docs.hazelcast.org/docs/5.5.0/javadoc
+ReleaseNotes: https://docs.hazelcast.com/hazelcast/5.5/release-notes/5-5-0
+---
+Version: 5.4.0
+Date: 04/15/2024
+Download: https://github.com/hazelcast/hazelcast/releases/download/v5.4.0/hazelcast-5.4.0-slim.zip
+Download_Size: 39 MB
+Github: https://github.com/hazelcast/hazelcast/tree/v5.4.0
+Docs: https://docs.hazelcast.com/hazelcast/5.4/getting-started/quickstart.html
+APIDocs: https://docs.hazelcast.org/docs/5.4.0/javadoc
+ReleaseNotes: https://docs.hazelcast.com/hazelcast/5.4/release-notes/5-4-0
+---
+Version: 5.3.8
+Date: 07/17/2024
+Download: https://github.com/hazelcast/hazelcast/releases/download/v5.3.8/hazelcast-5.3.8-slim.zip
+Download_Size: 36 MB
+Github: https://github.com/hazelcast/hazelcast/tree/v5.3.8
+Docs: https://docs.hazelcast.com/hazelcast/5.3/getting-started/quickstart.html
+APIDocs: https://docs.hazelcast.org/docs/5.3.8/javadoc
+ReleaseNotes: https://docs.hazelcast.com/hazelcast/5.3/release-notes/5-3-8
+---
+Version: 5.3.7
+Date: 04/03/2024
+Download: https://github.com/hazelcast/hazelcast/releases/download/v5.3.7/hazelcast-5.3.7-slim.zip
+Download_Size: 36 MB
+Github: https://github.com/hazelcast/hazelcast/tree/v5.3.7
+Docs: https://docs.hazelcast.com/hazelcast/5.3/getting-started/quickstart.html
+APIDocs: https://docs.hazelcast.org/docs/5.3.7/javadoc
+ReleaseNotes: https://docs.hazelcast.com/hazelcast/5.3/release-notes/5-3-7
+---
 Version: 5.3.6
 Date: 11/09/2023
 Download: https://github.com/hazelcast/hazelcast/releases/download/v5.3.6/hazelcast-5.3.6.zip
@@ -44,6 +80,15 @@ Github: https://github.com/hazelcast/hazelcast/tree/v5.3.0
 Docs: https://docs.hazelcast.com/hazelcast/5.3/getting-started/quickstart.html
 APIDocs: https://docs.hazelcast.org/docs/5.3.0/javadoc
 ReleaseNotes: https://docs.hazelcast.com/hazelcast/5.3/release-notes/5-3-0
+---
+Version: 5.2.5
+Date: 02/26/2024
+Download: https://github.com/hazelcast/hazelcast/releases/download/v5.2.5/hazelcast-5.2.5.zip
+Download_Size: 530 MB
+Github: https://github.com/hazelcast/hazelcast/tree/v5.2.5
+Docs: https://docs.hazelcast.com/hazelcast/5.2/getting-started/quickstart.html
+APIDocs: https://docs.hazelcast.org/docs/5.2.5/javadoc
+ReleaseNotes: https://docs.hazelcast.com/hazelcast/5.2/release-notes/5-2-5
 ---
 Version: 5.2.4
 Date: 06/13/2023
@@ -974,6 +1019,15 @@ ReleaseNotes:
 ---
 ========== .NET/CSharp Client
 ---
+Version: 5.4.0
+Date: 06/21/2024
+Download: https://www.nuget.org/api/v2/package/Hazelcast.Net/5.4.0
+Download_Size: 2 MB
+Github: https://github.com/hazelcast/hazelcast-csharp-client/tree/v5.4.0
+Docs: http://hazelcast.github.io/hazelcast-csharp-client/5.4.0/doc/index.html
+APIDocs: http://hazelcast.github.io/hazelcast-csharp-client/5.4.0/api/index.html
+ReleaseNotes: https://github.com/hazelcast/hazelcast-csharp-client/releases/tag/v5.4.0
+---
 Version: 5.3.1
 Date: 10/04/2023
 Download: https://www.nuget.org/api/v2/package/Hazelcast.Net/5.3.1
@@ -1697,6 +1751,22 @@ ReleaseNotes:
 ---
 ========== Python Client
 ---
+Version: 5.5.0
+Date: 08/06/2024
+Download: https://files.pythonhosted.org/packages/25/92/4886d8038fa9fa5d3e5f1de012c6dbcbae9887edaa51402e9b3d47101b4d/hazelcast_python_client-5.5.0.tar.gz
+Download_Size: 250 KB
+Github: https://github.com/hazelcast/hazelcast-python-client/tree/v5.5.0
+Docs: https://github.com/hazelcast/hazelcast-python-client/blob/v5.5.0/README.rst
+APIDocs: https://hazelcast.readthedocs.io/en/v5.5.0/
+---
+Version: 5.4.0
+Date: 05/20/2024
+Download: https://files.pythonhosted.org/packages/84/82/8b7304ad9a7c43a7f6a0fa6af1f4d21994afdeec96a74c47307059382cf1/hazelcast_python_client-5.4.0.tar.gz
+Download_Size: 247.8 KB
+Github: https://github.com/hazelcast/hazelcast-python-client/tree/v5.4.0
+Docs: https://github.com/hazelcast/hazelcast-python-client/blob/v5.4.0/README.rst
+APIDocs: 
+---
 Version: 5.3.0
 Date: 06/12/2023
 Download: https://files.pythonhosted.org/packages/76/50/1ca295b2a9c8ba695cf7c4bf83c36dfa2d9313a2d6260823fc605f705326/hazelcast-python-client-5.3.0.tar.gz
@@ -2347,6 +2417,15 @@ APIDocs:
 ReleaseNotes:
 ---
 ========== Go Client
+---
+Version: 1.4.2
+Date: 08/07/2024
+Download: https://github.com/hazelcast/hazelcast-go-client/archive/v1.4.2.zip
+Download_Size: 975 KB
+Github: https://github.com/hazelcast/hazelcast-go-client/tree/v1.4.2
+Docs: https://pkg.go.dev/github.com/hazelcast/hazelcast-go-client
+APIDocs: https://pkg.go.dev/github.com/hazelcast/hazelcast-go-client
+ReleaseNotes: https://github.com/hazelcast/hazelcast-go-client/releases/tag/v1.4.2
 ---
 Version: 1.4.1
 Date: 08/22/2023
