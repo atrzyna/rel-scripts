@@ -2,8 +2,6 @@
 ---
 Version: 5.5.0
 Date: 10/28/2024
-Download_ZIP_URL: https://github.com/hazelcast/hazelcast-simulator/releases/download/v0.13/hazelcast-simulator-0.13-dist.zip
-Download_ZIP_Size: 158 MB
 Docs_HTML: https://docs.hazelcast.com/hz-flow/5.5
 Docs_PDF:
 APIDocs:
