@@ -1,0 +1,12 @@
+========== Flow Current Stable
+---
+Version: 5.5.0
+Date: 10/28/2024
+Download_ZIP_URL:
+Download_ZIP_Size:
+Docs_HTML: https://docs.hazelcast.com/hz-flow/5.5
+Docs_PDF:
+APIDocs:
+ReleaseNotes: hz-flow/5.5-snapshot/deploying/releases/5-5-0
+---
+=== END
