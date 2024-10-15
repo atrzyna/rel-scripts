@@ -2,8 +2,8 @@
 ---
 Version: 5.5.0-BETA
 Date: 10/11/2024
-Download: https://github.com/hazelcast/hazelcast/releases/download/v5.5.0/hazelcast-5.5.0-slim.zip
-Download_Size: 39 MB
+Download_OS: https://github.com/hazelcast/hazelcast/releases/download/v5.5.0/hazelcast-5.5.0-slim.zip
+Download_OS_Size: 39 MB
 Download_EE: https://github.com/hazelcast/hazelcast/releases/download/v5.5.0/hazelcast-5.5.0-slim.zip
 Download_EE_Size: 40 MB
 Github: https://github.com/hazelcast/hazelcast/tree/v5.5.0
