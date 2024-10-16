@@ -1,15 +1,15 @@
 ========== Java Client Standalone
 ---
 Version: 5.5.0-BETA
-Date: 10/11/2024
-Download_OS: https://github.com/hazelcast/hazelcast/releases/download/v5.5.0/hazelcast-5.5.0-slim.zip
-Download_OS_Size: 39 MB
-Download_EE: https://github.com/hazelcast/hazelcast/releases/download/v5.5.0/hazelcast-5.5.0-slim.zip
-Download_EE_Size: 40 MB
-Github: https://github.com/hazelcast/hazelcast/tree/v5.5.0
-Docs: https://docs.hazelcast.com/hazelcast/5.5/getting-started/quickstart.html
-APIDocs: https://docs.hazelcast.org/docs/5.5.0/javadoc
-ReleaseNotes: https://docs.hazelcast.com/hazelcast/5.5/release-notes/5-5-0
+Date: 10/14/2024
+Download_OS: https://repo1.maven.org/maven2/com/hazelcast/hazelcast-java-client/5.5.0-BETA/hazelcast-java-client-5.5.0-BETA.jar
+Download_OS_Size: 6.1MB
+Download_EE: https://hazelcast.jfrog.io/artifactory/release/com/hazelcast/hazelcast-enterprise-java-client/5.5.0-BETA/hazelcast-enterprise-java-client-5.5.0-BETA.jar
+Download_EE_Size: 6.42MB
+Github: https://github.com/hazelcast/hazelcast-java-client/tree/v5.5.0-BETA
+Docs: https://docs.hazelcast.com/hazelcast/5.5/clients/java
+APIDocs: https://docs.hazelcast.org/hazelcast-java-client/5.5.0-BETA/javadoc
+ReleaseNotes: https://github.com/hazelcast/hazelcast-java-client/releases/tag/v5.5.0-BETA
 ---
 ========== Java Client
 ---
