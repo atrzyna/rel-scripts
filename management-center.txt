@@ -1,6 +1,6 @@
 ========== Management Center Current Stable
 ---
-Version 5.9.0
+Version: 5.9.0
 Date: 10/15/2025
 Download_ZIP_URL: https://repository.hazelcast.com/download/management-center/hazelcast-management-center-5.9.0.zip
 Download_ZIP_Size: 319.1 MB
