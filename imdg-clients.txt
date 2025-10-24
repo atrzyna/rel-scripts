@@ -1,17 +1,13 @@
-========== Java Client Standalone
----
-Version: 5.5.0-BETA
-Date: 10/14/2024
-Download_OS: https://repo1.maven.org/maven2/com/hazelcast/hazelcast-java-client/5.5.0-BETA/hazelcast-java-client-5.5.0-BETA.jar
-Download_OS_Size: 6.1MB
-Download_EE: https://hazelcast.jfrog.io/artifactory/release/com/hazelcast/hazelcast-enterprise-java-client/5.5.0-BETA/hazelcast-enterprise-java-client-5.5.0-BETA.jar
-Download_EE_Size: 6.42MB
-Github: https://github.com/hazelcast/hazelcast-java-client/tree/v5.5.0-BETA
-Docs: https://docs.hazelcast.com/hazelcast/5.5/clients/java
-APIDocs: https://docs.hazelcast.org/hazelcast-java-client/5.5.0-BETA/javadoc
-ReleaseNotes: https://github.com/hazelcast/hazelcast-java-client/releases/tag/v5.5.0-BETA
----
 ========== Java Client
+---
+Version: 5.6.0
+Date: 10/15/2025
+Download: https://github.com/hazelcast/hazelcast/releases/download/v5.6.0/hazelcast-5.6.0-slim.zip
+Download_Size: 39 MB
+Github: https://github.com/hazelcast/hazelcast/tree/v5.6.0
+Docs: https://docs.hazelcast.com/hazelcast/5.6/getting-started/quickstart.html
+APIDocs: https://docs.hazelcast.org/docs/5.6.0/javadoc
+ReleaseNotes: https://docs.hazelcast.com/hazelcast/5.6/release-notes/5-6-0
 ---
 Version: 5.5.0
 Date: 07/26/2024
@@ -1032,6 +1028,24 @@ ReleaseNotes:
 ---
 ========== .NET/CSharp Client
 ---
+Version: 5.5.1
+Date: 06/26/2024
+Download: https://www.nuget.org/api/v2/package/Hazelcast.Net/5.5.1
+Download_Size: 2 MB
+Github: https://github.com/hazelcast/hazelcast-csharp-client/tree/v5.5.1
+Docs: http://hazelcast.github.io/hazelcast-csharp-client/5.5.1/doc/index.html
+APIDocs: http://hazelcast.github.io/hazelcast-csharp-client/5.5.1/api/index.html
+ReleaseNotes: https://github.com/hazelcast/hazelcast-csharp-client/releases/tag/v5.5.1
+---
+Version: 5.5.0
+Date: 10/14/2024
+Download: https://www.nuget.org/api/v2/package/Hazelcast.Net/5.5.0
+Download_Size: 2 MB
+Github: https://github.com/hazelcast/hazelcast-csharp-client/tree/v5.5.0
+Docs: http://hazelcast.github.io/hazelcast-csharp-client/5.5.0/doc/index.html
+APIDocs: http://hazelcast.github.io/hazelcast-csharp-client/5.5.0/api/index.html
+ReleaseNotes: https://github.com/hazelcast/hazelcast-csharp-client/releases/tag/v5.5.0
+---
 Version: 5.4.0
 Date: 06/21/2024
 Download: https://www.nuget.org/api/v2/package/Hazelcast.Net/5.4.0
@@ -1384,6 +1398,22 @@ APIDocs: http://docs.hazelcast.org/docs/clients/net/3.6-EA2/
 ReleaseNotes:
 ---
 ========== C++ Client
+---
+Version: 5.4.0
+Date: 06/13/2025
+Github: https://github.com/hazelcast/hazelcast-cpp-client/tree/v5.4.0
+Docs: https://github.com/hazelcast/hazelcast-cpp-client/blob/v5.4.0/Reference_Manual.md
+APIDocs: http://hazelcast.github.io/hazelcast-cpp-client/api-index.html
+ReleaseNotes: https://github.com/hazelcast/hazelcast-cpp-client/releases/tag/v5.4.0
+InstallationInstructions_URL: https://github.com/hazelcast/hazelcast-cpp-client/blob/v5.4.0/Reference_Manual.md#1-getting-started
+---
+Version: 5.3.1
+Date: 06/02/2025
+Github: https://github.com/hazelcast/hazelcast-cpp-client/tree/v5.3.1
+Docs: https://github.com/hazelcast/hazelcast-cpp-client/blob/v5.3.1/Reference_Manual.md
+APIDocs: http://hazelcast.github.io/hazelcast-cpp-client/api-index.html
+ReleaseNotes: https://github.com/hazelcast/hazelcast-cpp-client/releases/tag/v5.3.1
+InstallationInstructions_URL: https://github.com/hazelcast/hazelcast-cpp-client/blob/v5.3.1/Reference_Manual.md#1-getting-started
 ---
 Version: 5.3.0
 Date: 06/12/2023
@@ -2430,6 +2460,15 @@ APIDocs:
 ReleaseNotes:
 ---
 ========== Go Client
+---
+Version: 1.4.3
+Date: 09/15/2025
+Download: https://github.com/hazelcast/hazelcast-go-client/archive/v1.4.3.zip
+Download_Size: 975 KB
+Github: https://github.com/hazelcast/hazelcast-go-client/tree/v1.4.3
+Docs: https://pkg.go.dev/github.com/hazelcast/hazelcast-go-client@v1.4.3
+APIDocs: https://pkg.go.dev/github.com/hazelcast/hazelcast-go-client@v1.4.3
+ReleaseNotes: https://github.com/hazelcast/hazelcast-go-client/releases/tag/v1.4.3
 ---
 Version: 1.4.2
 Date: 08/07/2024
