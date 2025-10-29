@@ -1,0 +1,12 @@
+{
+  "lastUpdated": "2025-10-28T08:22:24",
+  "sections": {
+    "Current Stable": {
+      "version": "1.0-RC4",
+      "download_url": "https://github.com/bitsofinfo/hazelcast-consul-discovery-spi/releases",
+      "sample_code_url": "",
+      "docs_url": "https://www.consul.io/docs/index.html",
+      "learn_more_url": "https://github.com/bitsofinfo/hazelcast-consul-discovery-spi"
+    }
+  }
+}

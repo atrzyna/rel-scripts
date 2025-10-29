@@ -1,0 +1,159 @@
+{
+  "product": "Jet Management Center",
+  "lastUpdated": "2025-10-28T08:22:24",
+  "sections": {
+    "currentStable": {
+      "version": "4.3.1",
+      "date": "2021-03-10",
+      "downloads": {
+        "zip": {
+          "url": "https://repository.hazelcast.com/download/jet-management-center/hazelcast-jet-management-center-4.3.1.zip",
+          "size": "46 MB"
+        },
+        "tar": {
+          "url": "https://repository.hazelcast.com/download/jet-management-center/hazelcast-jet-management-center-4.3.1.tar.gz",
+          "size": "41 MB"
+        }
+      },
+      "documentation": {
+        "html": "https://docs.hazelcast.org/docs/jet-management-center/4.3.1/manual/",
+        "pdf": null,
+        "apiDocs": null,
+        "releaseNotes": "http://docs.hazelcast.org/docs/jet-management-center/rn/index.html"
+      },
+      "codeSamples": {
+        "url": null,
+        "size": null
+      },
+      "github": null
+    },
+    "previousStable": [
+      {
+        "version": "4.3",
+        "date": "2020-10-23",
+        "downloads": {
+          "zip": {
+            "url": "https://repository.hazelcast.com/download/jet-management-center/hazelcast-jet-management-center-4.3.zip",
+            "size": "46 MB"
+          },
+          "tar": {
+            "url": "https://repository.hazelcast.com/download/jet-management-center/hazelcast-jet-management-center-4.3.tar.gz",
+            "size": "41 MB"
+          }
+        },
+        "documentation": {
+          "html": "https://docs.hazelcast.org/docs/jet-management-center/4.3/manual/",
+          "pdf": null,
+          "apiDocs": null,
+          "releaseNotes": "http://docs.hazelcast.org/docs/jet-management-center/rn/index.html"
+        },
+        "codeSamples": {
+          "url": null,
+          "size": null
+        },
+        "github": null
+      },
+      {
+        "version": "4.2",
+        "date": "2020-07-14",
+        "downloads": {
+          "zip": {
+            "url": "https://repository.hazelcast.com/download/jet-management-center/hazelcast-jet-management-center-4.2.zip",
+            "size": "46 MB"
+          },
+          "tar": {
+            "url": "https://repository.hazelcast.com/download/jet-management-center/hazelcast-jet-management-center-4.2.tar.gz",
+            "size": "41 MB"
+          }
+        },
+        "documentation": {
+          "html": "https://docs.hazelcast.org/docs/jet-management-center/4.2/manual/",
+          "pdf": null,
+          "apiDocs": null,
+          "releaseNotes": "http://docs.hazelcast.org/docs/jet-management-center/rn/index.html"
+        },
+        "codeSamples": {
+          "url": null,
+          "size": null
+        },
+        "github": null
+      },
+      {
+        "version": "4.1.1",
+        "date": "2020-06-05",
+        "downloads": {
+          "zip": {
+            "url": "https://repository.hazelcast.com/download/jet-management-center/hazelcast-jet-management-center-4.1.1.zip",
+            "size": "45 MB"
+          },
+          "tar": {
+            "url": "https://repository.hazelcast.com/download/jet-management-center/hazelcast-jet-management-center-4.1.1.tar.gz",
+            "size": "41 MB"
+          }
+        },
+        "documentation": {
+          "html": "https://docs.hazelcast.org/docs/jet-management-center/4.1.1/manual/",
+          "pdf": null,
+          "apiDocs": null,
+          "releaseNotes": "http://docs.hazelcast.org/docs/jet-management-center/rn/index.html"
+        },
+        "codeSamples": {
+          "url": null,
+          "size": null
+        },
+        "github": null
+      },
+      {
+        "version": "4.1",
+        "date": "2020-04-29",
+        "downloads": {
+          "zip": {
+            "url": "https://repository.hazelcast.com/download/jet-management-center/hazelcast-jet-management-center-4.1.zip",
+            "size": "45 MB"
+          },
+          "tar": {
+            "url": "https://repository.hazelcast.com/download/jet-management-center/hazelcast-jet-management-center-4.1.tar.gz",
+            "size": "41 MB"
+          }
+        },
+        "documentation": {
+          "html": "https://docs.hazelcast.org/docs/jet-management-center/4.1/manual/",
+          "pdf": null,
+          "apiDocs": null,
+          "releaseNotes": "http://docs.hazelcast.org/docs/jet-management-center/rn/index.html"
+        },
+        "codeSamples": {
+          "url": null,
+          "size": null
+        },
+        "github": null
+      },
+      {
+        "version": "4.0",
+        "date": "2020-03-10",
+        "downloads": {
+          "zip": {
+            "url": "https://repository.hazelcast.com/download/jet-management-center/hazelcast-jet-management-center-4.0.zip",
+            "size": "45 MB"
+          },
+          "tar": {
+            "url": "https://repository.hazelcast.com/download/jet-management-center/hazelcast-jet-management-center-4.0.tar.gz",
+            "size": "41 MB"
+          }
+        },
+        "documentation": {
+          "html": "https://docs.hazelcast.org/docs/jet-management-center/4.0/manual/",
+          "pdf": null,
+          "apiDocs": null,
+          "releaseNotes": "http://docs.hazelcast.org/docs/jet-management-center/rn/index.html"
+        },
+        "codeSamples": {
+          "url": null,
+          "size": null
+        },
+        "github": null
+      }
+    ],
+    "development": []
+  }
+}

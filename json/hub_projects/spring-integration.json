@@ -1,0 +1,12 @@
+{
+  "lastUpdated": "2025-10-28T08:22:24",
+  "sections": {
+    "Current Stable": {
+      "version": "2.2.2",
+      "download_url": "https://repo.spring.io/release/org/springframework/integration/spring-integration-hazelcast/",
+      "sample_code_url": "",
+      "docs_url": "https://github.com/spring-projects/spring-integration-extensions/tree/master/spring-integration-hazelcast",
+      "learn_more_url": ""
+    }
+  }
+}

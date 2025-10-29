@@ -1,0 +1,12 @@
+{
+  "lastUpdated": "2025-10-28T08:22:24",
+  "sections": {
+    "Current Stable": {
+      "version": "3.6.3",
+      "download_url": "https://github.com/hazelcast/hazelcast-tomcat-sessionmanager/releases",
+      "sample_code_url": "",
+      "docs_url": "https://github.com/hazelcast/hazelcast-tomcat-sessionmanager/blob/master/README.md",
+      "learn_more_url": "https://github.com/hazelcast/hazelcast-tomcat-sessionmanager"
+    }
+  }
+}

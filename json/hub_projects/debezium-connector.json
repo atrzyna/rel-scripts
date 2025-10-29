@@ -1,0 +1,12 @@
+{
+  "lastUpdated": "2025-10-28T08:22:24",
+  "sections": {
+    "Current Stable": {
+      "version": "0.1",
+      "download_url": "https://search.maven.org/artifact/com.hazelcast.jet.contrib/debezium/0.1/jar",
+      "sample_code_url": "https://github.com/hazelcast/hazelcast-jet/blob/master/site/docs/tutorials/cdc.md",
+      "docs_url": "https://github.com/hazelcast/hazelcast-jet-contrib/tree/master/debezium",
+      "learn_more_url": ""
+    }
+  }
+}

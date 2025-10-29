@@ -1,0 +1,12 @@
+{
+  "lastUpdated": "2025-10-28T08:22:24",
+  "sections": {
+    "Current Stable": {
+      "version": "4.0",
+      "download_url": "https://search.maven.org/artifact/com.hazelcast.jet/hazelcast-jet/4.0/jar",
+      "sample_code_url": "",
+      "docs_url": "",
+      "learn_more_url": ""
+    }
+  }
+}

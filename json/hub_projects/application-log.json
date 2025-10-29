@@ -1,0 +1,12 @@
+{
+  "lastUpdated": "2025-10-28T08:22:24",
+  "sections": {
+    "Current Stable": {
+      "version": "123.23.456",
+      "download_url": "https://example.com",
+      "sample_code_url": "https://example.com",
+      "docs_url": "https://example.com",
+      "learn_more_url": "https://example.com"
+    }
+  }
+}

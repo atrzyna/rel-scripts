@@ -1,0 +1,12 @@
+{
+  "lastUpdated": "2025-10-28T08:22:24",
+  "sections": {
+    "Current Stable": {
+      "version": "",
+      "download_url": "https://github.com/helm/charts/tree/master/stable/hazelcast",
+      "sample_code_url": "",
+      "docs_url": "https://github.com/helm/charts/blob/master/stable/hazelcast/README.adoc",
+      "learn_more_url": ""
+    }
+  }
+}

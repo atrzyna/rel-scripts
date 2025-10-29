@@ -1,0 +1,12 @@
+{
+  "lastUpdated": "2025-10-28T08:22:24",
+  "sections": {
+    "Current Stable": {
+      "version": "0.2",
+      "download_url": "https://search.maven.org/artifact/com.hazelcast.jet.contrib/mongodb/0.2/jar",
+      "sample_code_url": "https://github.com/hazelcast/hazelcast-jet-contrib/tree/master/mongodb#usage",
+      "docs_url": "https://github.com/hazelcast/hazelcast-jet-contrib/tree/master/mongodb",
+      "learn_more_url": ""
+    }
+  }
+}

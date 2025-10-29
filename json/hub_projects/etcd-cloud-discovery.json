@@ -1,0 +1,12 @@
+{
+  "lastUpdated": "2025-10-28T08:22:24",
+  "sections": {
+    "Current Stable": {
+      "version": "3.8.3",
+      "download_url": "https://github.com/bitsofinfo/hazelcast-etcd-discovery-spi/releases",
+      "sample_code_url": "",
+      "docs_url": "https://github.com/bitsofinfo/hazelcast-etcd-discovery-spi/blob/master/README.md",
+      "learn_more_url": "https://github.com/bitsofinfo/hazelcast-etcd-discovery-spi"
+    }
+  }
+}

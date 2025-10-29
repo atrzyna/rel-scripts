@@ -1,0 +1,11 @@
+{
+  "lastUpdated": "2025-10-28T08:22:24",
+  "sections": {
+    "Current Stable": {
+      "version": "4.0",
+      "sample_code_url": "https://github.com/hazelcast/hazelcast-jet/tree/v4.0/examples/jdbc",
+      "docs_url": "https://github.com/hazelcast/hazelcast-jet/blob/master/site/docs/api/sources-sinks.md#jdbc",
+      "learn_more_url": ""
+    }
+  }
+}

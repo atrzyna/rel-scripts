@@ -1,0 +1,12 @@
+{
+  "lastUpdated": "2025-10-28T08:22:24",
+  "sections": {
+    "Current Stable": {
+      "version": "4.0",
+      "download_url": "",
+      "sample_code_url": "https://github.com/hazelcast/hazelcast-jet-code-samples/tree/3.1-maintenance/sockets",
+      "docs_url": "https://docs.hazelcast.org/docs/jet/3.1/manual/#connector-socket",
+      "learn_more_url": ""
+    }
+  }
+}

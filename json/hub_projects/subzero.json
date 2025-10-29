@@ -1,0 +1,12 @@
+{
+  "lastUpdated": "2025-10-28T08:22:24",
+  "sections": {
+    "Current Stable": {
+      "version": "1.1.4",
+      "download_url": "http://repo1.maven.org/maven2/info/jerrinot/subzero-core/",
+      "sample_code_url": "",
+      "docs_url": "https://github.com/jerrinot/subzero",
+      "learn_more_url": "https://github.com/jerrinot/subzero"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "lastUpdated": "2025-10-28T08:22:24",
+  "sections": {
+    "Current Stable": {
+      "version": "3.7.3",
+      "download_url": "https://network.pivotal.io/products/hazelcast-pcf",
+      "sample_code_url": "",
+      "docs_url": "https://docs.pivotal.io/partners/hazelcast/index.html",
+      "learn_more_url": ""
+    }
+  }
+}

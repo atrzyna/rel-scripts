@@ -1,0 +1,12 @@
+{
+  "lastUpdated": "2025-10-28T08:22:24",
+  "sections": {
+    "Current Stable": {
+      "version": "0.1",
+      "download_url": "https://hub.docker.com/r/hazelcast/management-center/",
+      "sample_code_url": "",
+      "docs_url": "",
+      "learn_more_url": "https://hub.docker.com/r/hazelcast/management-center/"
+    }
+  }
+}

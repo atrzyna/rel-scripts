@@ -1,0 +1,12 @@
+{
+  "lastUpdated": "2025-10-28T08:22:24",
+  "sections": {
+    "Current Stable": {
+      "version": "3.0",
+      "download_url": "https://www.eclipse.org/jetty/documentation/current/configuring-sessions-hazelcast.html",
+      "sample_code_url": "",
+      "docs_url": "",
+      "learn_more_url": ""
+    }
+  }
+}

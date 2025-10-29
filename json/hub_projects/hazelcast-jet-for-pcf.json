@@ -1,0 +1,12 @@
+{
+  "lastUpdated": "2025-10-28T08:22:24",
+  "sections": {
+    "Current Stable": {
+      "version": "",
+      "download_url": "https://network.pivotal.io/products/hazelcast-jet",
+      "sample_code_url": "",
+      "docs_url": "https://docs.pivotal.io/partners/hazelcast-jet/",
+      "learn_more_url": ""
+    }
+  }
+}

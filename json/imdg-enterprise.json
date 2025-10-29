@@ -1,0 +1,109 @@
+{
+  "product": "IMDG Enterprise",
+  "lastUpdated": "2025-10-28T08:22:24",
+  "sections": {
+    "currentStable": {
+      "version": "5.6.0",
+      "date": "2025-10-15",
+      "downloads": {
+        "zip": {
+          "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-5.6.0.zip",
+          "size": "839 MB"
+        },
+        "zipSlim": {
+          "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-5.6.0-slim.zip",
+          "size": "47 MB"
+        },
+        "tar": {
+          "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-5.6.0.tar.gz",
+          "size": "839 MB"
+        },
+        "tarSlim": {
+          "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-5.6.0-slim.tar.gz",
+          "size": "47 MB"
+        }
+      },
+      "documentation": {
+        "html": "https://docs.hazelcast.com/hazelcast/5.6/",
+        "pdf": null,
+        "apiDocs": "https://docs.hazelcast.com/hazelcast/5.6/javadoc/",
+        "releaseNotes": "https://docs.hazelcast.com/hazelcast/5.6/release-notes/5-6-0"
+      },
+      "codeSamples": {
+        "url": "https://github.com/hazelcast/hazelcast/tree/v5.6.0/examples",
+        "size": null
+      },
+      "github": "https://github.com/hazelcast/hazelcast/tree/v5.6.0"
+    },
+    "previousStable": [
+      {
+        "version": "5.5.2",
+        "date": "2025-09-02",
+        "downloads": {
+          "zip": {
+            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-5.5.2.zip",
+            "size": "839 MB"
+          },
+          "zipSlim": {
+            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-5.5.2-slim.zip",
+            "size": "47 MB"
+          },
+          "tar": {
+            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-5.5.2.tar.gz",
+            "size": "839 MB"
+          },
+          "tarSlim": {
+            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-5.5.2-slim.tar.gz",
+            "size": "47 MB"
+          }
+        },
+        "documentation": {
+          "html": "https://docs.hazelcast.com/hazelcast/5.5/",
+          "pdf": null,
+          "apiDocs": "https://docs.hazelcast.com/hazelcast/5.5/javadoc/",
+          "releaseNotes": "https://docs.hazelcast.com/hazelcast/5.5/release-notes/5-5-2"
+        },
+        "codeSamples": {
+          "url": "https://github.com/hazelcast/hazelcast/tree/v5.5.2/examples",
+          "size": null
+        },
+        "github": "https://github.com/hazelcast/hazelcast/tree/v5.5.2"
+      }
+    ],
+    "development": [
+      {
+        "version": "5.7.0-BETA-1",
+        "date": "2025-10-15",
+        "downloads": {
+          "zip": {
+            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-5.7.0-BETA-1.zip",
+            "size": "839 MB"
+          },
+          "zipSlim": {
+            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-5.7.0-BETA-1-slim.zip",
+            "size": "47 MB"
+          },
+          "tar": {
+            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-5.7.0-BETA-1.tar.gz",
+            "size": "839 MB"
+          },
+          "tarSlim": {
+            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-5.7.0-BETA-1-slim.tar.gz",
+            "size": "47 MB"
+          }
+        },
+        "documentation": {
+          "html": "https://docs.hazelcast.com/hazelcast/5.7.0-BETA-1/",
+          "pdf": null,
+          "apiDocs": "https://docs.hazelcast.com/hazelcast/5.7.0-BETA-1/javadoc/",
+          "releaseNotes": "https://docs.hazelcast.com/hazelcast/5.7.0-beta-1/release-notes/5-7-0-beta-1"
+        },
+        "codeSamples": {
+          "url": "https://github.com/hazelcast/hazelcast/tree/v5.7.0-BETA-1/examples",
+          "size": null
+        },
+        "github": "https://github.com/hazelcast/hazelcast/tree/v5.7.0-BETA-1"
+      }
+    ]
+  }
+}
