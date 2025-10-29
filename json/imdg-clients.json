@@ -3,7 +3,7 @@
   "lastUpdated": "2025-10-28T08:22:24",
   "type": "IMDG_CLIENTS",
   "license": "public",
-  "display": "Active",
+  "display": "Hazelcast Clients",
   "sections": {
     "currentStable": {
       "version": "5.6.0",
