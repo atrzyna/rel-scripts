@@ -1,111 +1,2812 @@
 {
-  "product": "IMDG Enterprise",
+  "product": "Hazelcast IMDG",
   "lastUpdated": "2025-10-28T08:22:24",
   "type": "IMDG",
   "license": "enterprise",
   "display": "Maintained",
   "sections": {
     "currentStable": {
-      "version": "5.6.0",
-      "date": "2025-10-15",
+      "version": "4.2.8",
+      "date": "2023-05-29",
       "downloads": {
         "zip": {
-          "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-5.6.0.zip",
-          "size": "839 MB"
-        },
-        "zipSlim": {
-          "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-5.6.0-slim.zip",
-          "size": "47 MB"
+          "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-4.2.8.zip",
+          "size": "163 MB"
         },
         "tar": {
-          "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-5.6.0.tar.gz",
-          "size": "839 MB"
-        },
-        "tarSlim": {
-          "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-5.6.0-slim.tar.gz",
-          "size": "47 MB"
+          "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-4.2.8.tar.gz",
+          "size": "163 MB"
         }
       },
       "documentation": {
-        "html": "https://docs.hazelcast.com/hazelcast/5.6/",
+        "html": "https://docs.hazelcast.com/imdg/4.2/",
         "pdf": null,
-        "apiDocs": "https://docs.hazelcast.com/hazelcast/5.6/javadoc/",
-        "releaseNotes": "https://docs.hazelcast.com/hazelcast/5.6/release-notes/5-6-0"
+        "apiDocs": "https://docs.hazelcast.org/docs/4.2.8/javadoc",
+        "releaseNotes": "https://docs.hazelcast.org/docs/ern/index.html#4-2-8"
       },
       "codeSamples": {
-        "url": "https://github.com/hazelcast/hazelcast/tree/v5.6.0/examples",
+        "url": null,
         "size": null
       },
-      "github": "https://github.com/hazelcast/hazelcast/tree/v5.6.0"
+      "github": null
     },
     "previousStable": [
       {
-        "version": "5.5.2",
-        "date": "2025-09-02",
+        "version": "4.2.7",
+        "date": "2023-02-07",
         "downloads": {
           "zip": {
-            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-5.5.2.zip",
-            "size": "839 MB"
-          },
-          "zipSlim": {
-            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-5.5.2-slim.zip",
-            "size": "47 MB"
+            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-4.2.7.zip",
+            "size": "162 MB"
           },
           "tar": {
-            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-5.5.2.tar.gz",
-            "size": "839 MB"
-          },
-          "tarSlim": {
-            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-5.5.2-slim.tar.gz",
-            "size": "47 MB"
+            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-4.2.7.tar.gz",
+            "size": "162 MB"
           }
         },
         "documentation": {
-          "html": "https://docs.hazelcast.com/hazelcast/5.5/",
+          "html": "https://docs.hazelcast.com/imdg/4.2/",
           "pdf": null,
-          "apiDocs": "https://docs.hazelcast.com/hazelcast/5.5/javadoc/",
-          "releaseNotes": "https://docs.hazelcast.com/hazelcast/5.5/release-notes/5-5-2"
+          "apiDocs": "https://docs.hazelcast.org/docs/4.2.7/javadoc",
+          "releaseNotes": "https://docs.hazelcast.org/docs/ern/index.html#4-2-7"
         },
         "codeSamples": {
-          "url": "https://github.com/hazelcast/hazelcast/tree/v5.5.2/examples",
+          "url": null,
           "size": null
         },
-        "github": "https://github.com/hazelcast/hazelcast/tree/v5.5.2"
+        "github": null
+      },
+      {
+        "version": "4.2.6",
+        "date": "2022-11-25",
+        "downloads": {
+          "zip": {
+            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-4.2.6.zip",
+            "size": "163 MB"
+          },
+          "tar": {
+            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-4.2.6.tar.gz",
+            "size": "162 MB"
+          }
+        },
+        "documentation": {
+          "html": "https://docs.hazelcast.com/imdg/4.2/",
+          "pdf": null,
+          "apiDocs": "https://docs.hazelcast.org/docs/4.2.6/javadoc",
+          "releaseNotes": "https://docs.hazelcast.org/docs/ern/index.html#4-2-6"
+        },
+        "codeSamples": {
+          "url": null,
+          "size": null
+        },
+        "github": null
+      },
+      {
+        "version": "4.2.5",
+        "date": "2022-04-27",
+        "downloads": {
+          "zip": {
+            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-4.2.5.zip",
+            "size": "159 MB"
+          },
+          "tar": {
+            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-4.2.5.tar.gz",
+            "size": "159 MB"
+          }
+        },
+        "documentation": {
+          "html": "https://docs.hazelcast.com/imdg/4.2/",
+          "pdf": null,
+          "apiDocs": "https://docs.hazelcast.org/docs/4.2.5/javadoc",
+          "releaseNotes": "https://docs.hazelcast.org/docs/ern/index.html#4-2-5"
+        },
+        "codeSamples": {
+          "url": null,
+          "size": null
+        },
+        "github": null
+      },
+      {
+        "version": "4.2.4",
+        "date": "2021-12-20",
+        "downloads": {
+          "zip": {
+            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-4.2.4.zip",
+            "size": "155 MB"
+          },
+          "tar": {
+            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-4.2.4.tar.gz",
+            "size": "155 MB"
+          }
+        },
+        "documentation": {
+          "html": "https://docs.hazelcast.com/imdg/4.2/",
+          "pdf": null,
+          "apiDocs": "https://docs.hazelcast.org/docs/4.2.4/javadoc",
+          "releaseNotes": "https://docs.hazelcast.org/docs/ern/index.html#4-2-4"
+        },
+        "codeSamples": {
+          "url": null,
+          "size": null
+        },
+        "github": null
+      },
+      {
+        "version": "4.2.3",
+        "date": "2021-12-15",
+        "downloads": {
+          "zip": {
+            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-4.2.3.zip",
+            "size": "155 MB"
+          },
+          "tar": {
+            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-4.2.3.tar.gz",
+            "size": "155 MB"
+          }
+        },
+        "documentation": {
+          "html": "https://docs.hazelcast.com/imdg/4.2/",
+          "pdf": null,
+          "apiDocs": "https://docs.hazelcast.org/docs/4.2.3/javadoc",
+          "releaseNotes": "https://docs.hazelcast.org/docs/ern/index.html#4-2-3"
+        },
+        "codeSamples": {
+          "url": null,
+          "size": null
+        },
+        "github": null
+      },
+      {
+        "version": "4.2.2",
+        "date": "2021-08-11",
+        "downloads": {
+          "zip": {
+            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-4.2.2.zip",
+            "size": "155 MB"
+          },
+          "tar": {
+            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-4.2.2.tar.gz",
+            "size": "155 MB"
+          }
+        },
+        "documentation": {
+          "html": "https://docs.hazelcast.com/imdg/4.2/",
+          "pdf": null,
+          "apiDocs": "https://docs.hazelcast.org/docs/4.2.2/javadoc",
+          "releaseNotes": "https://docs.hazelcast.org/docs/ern/index.html#4-2-2"
+        },
+        "codeSamples": {
+          "url": null,
+          "size": null
+        },
+        "github": null
+      },
+      {
+        "version": "4.2.1",
+        "date": "2021-06-30",
+        "downloads": {
+          "zip": {
+            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-4.2.1.zip",
+            "size": "155 MB"
+          },
+          "tar": {
+            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-4.2.1.tar.gz",
+            "size": "154 MB"
+          }
+        },
+        "documentation": {
+          "html": "https://docs.hazelcast.com/imdg/4.2/",
+          "pdf": null,
+          "apiDocs": "https://docs.hazelcast.org/docs/4.2.1/javadoc",
+          "releaseNotes": "https://docs.hazelcast.org/docs/ern/index.html#4-2-1"
+        },
+        "codeSamples": {
+          "url": null,
+          "size": null
+        },
+        "github": null
+      },
+      {
+        "version": "4.2",
+        "date": "2021-03-24",
+        "downloads": {
+          "zip": {
+            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-4.2.zip",
+            "size": "147 MB"
+          },
+          "tar": {
+            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-4.2.tar.gz",
+            "size": "147 MB"
+          }
+        },
+        "documentation": {
+          "html": "https://docs.hazelcast.com/imdg/4.2/",
+          "pdf": null,
+          "apiDocs": "https://docs.hazelcast.org/docs/4.2/javadoc",
+          "releaseNotes": "https://docs.hazelcast.org/docs/ern/index.html#4-2"
+        },
+        "codeSamples": {
+          "url": null,
+          "size": null
+        },
+        "github": null
+      },
+      {
+        "version": "4.1.10",
+        "date": "2022-11-18",
+        "downloads": {
+          "zip": {
+            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-4.1.10.zip",
+            "size": "162 MB"
+          },
+          "tar": {
+            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-4.1.10.tar.gz",
+            "size": "162 MB"
+          }
+        },
+        "documentation": {
+          "html": "https://docs.hazelcast.com/imdg/4.1/",
+          "pdf": null,
+          "apiDocs": "https://docs.hazelcast.org/docs/4.1.10/javadoc",
+          "releaseNotes": "https://docs.hazelcast.org/docs/ern/index.html#4-1-10"
+        },
+        "codeSamples": {
+          "url": null,
+          "size": null
+        },
+        "github": null
+      },
+      {
+        "version": "4.1.9",
+        "date": "2022-04-22",
+        "downloads": {
+          "zip": {
+            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-4.1.9.zip",
+            "size": "158 MB"
+          },
+          "tar": {
+            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-4.1.9.tar.gz",
+            "size": "158 MB"
+          }
+        },
+        "documentation": {
+          "html": "https://docs.hazelcast.com/imdg/4.1/",
+          "pdf": null,
+          "apiDocs": "https://docs.hazelcast.org/docs/4.1.9/javadoc",
+          "releaseNotes": "https://docs.hazelcast.org/docs/ern/index.html#4-1-9"
+        },
+        "codeSamples": {
+          "url": null,
+          "size": null
+        },
+        "github": null
+      },
+      {
+        "version": "4.1.8",
+        "date": "2021-12-20",
+        "downloads": {
+          "zip": {
+            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-4.1.8.zip",
+            "size": "154 MB"
+          },
+          "tar": {
+            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-4.1.8.tar.gz",
+            "size": "154 MB"
+          }
+        },
+        "documentation": {
+          "html": "https://docs.hazelcast.com/imdg/4.1/",
+          "pdf": null,
+          "apiDocs": "https://docs.hazelcast.org/docs/4.1.8/javadoc",
+          "releaseNotes": "https://docs.hazelcast.org/docs/ern/index.html#4-1-8"
+        },
+        "codeSamples": {
+          "url": null,
+          "size": null
+        },
+        "github": null
+      },
+      {
+        "version": "4.1.7",
+        "date": "2021-12-15",
+        "downloads": {
+          "zip": {
+            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-4.1.7.zip",
+            "size": "154 MB"
+          },
+          "tar": {
+            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-4.1.7.tar.gz",
+            "size": "154 MB"
+          }
+        },
+        "documentation": {
+          "html": "https://docs.hazelcast.com/imdg/4.1/",
+          "pdf": null,
+          "apiDocs": "https://docs.hazelcast.org/docs/4.1.7/javadoc",
+          "releaseNotes": "https://docs.hazelcast.org/docs/ern/index.html#4-1-7"
+        },
+        "codeSamples": {
+          "url": null,
+          "size": null
+        },
+        "github": null
+      },
+      {
+        "version": "4.1.6",
+        "date": "2021-10-26",
+        "downloads": {
+          "zip": {
+            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-4.1.6.zip",
+            "size": "154 MB"
+          },
+          "tar": {
+            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-4.1.6.tar.gz",
+            "size": "154 MB"
+          }
+        },
+        "documentation": {
+          "html": "https://docs.hazelcast.com/imdg/4.1/",
+          "pdf": null,
+          "apiDocs": "https://docs.hazelcast.org/docs/4.1.6/javadoc",
+          "releaseNotes": "https://docs.hazelcast.org/docs/ern/index.html#4-1-6"
+        },
+        "codeSamples": {
+          "url": null,
+          "size": null
+        },
+        "github": null
+      },
+      {
+        "version": "4.1.5",
+        "date": "2021-08-17",
+        "downloads": {
+          "zip": {
+            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-4.1.5.zip",
+            "size": "154 MB"
+          },
+          "tar": {
+            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-4.1.5.tar.gz",
+            "size": "154 MB"
+          }
+        },
+        "documentation": {
+          "html": "https://docs.hazelcast.com/imdg/4.1/",
+          "pdf": null,
+          "apiDocs": "https://docs.hazelcast.org/docs/4.1.5/javadoc",
+          "releaseNotes": "https://docs.hazelcast.org/docs/ern/index.html#4-1-5"
+        },
+        "codeSamples": {
+          "url": null,
+          "size": null
+        },
+        "github": null
+      },
+      {
+        "version": "4.1.4",
+        "date": "2021-06-23",
+        "downloads": {
+          "zip": {
+            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-4.1.4.zip",
+            "size": "146 MB"
+          },
+          "tar": {
+            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-4.1.4.tar.gz",
+            "size": "146 MB"
+          }
+        },
+        "documentation": {
+          "html": "https://docs.hazelcast.com/imdg/4.1/",
+          "pdf": null,
+          "apiDocs": "https://docs.hazelcast.org/docs/4.1.4/javadoc",
+          "releaseNotes": "https://docs.hazelcast.org/docs/ern/index.html#4-1-4"
+        },
+        "codeSamples": {
+          "url": null,
+          "size": null
+        },
+        "github": null
+      },
+      {
+        "version": "4.1.3",
+        "date": "2021-04-23",
+        "downloads": {
+          "zip": {
+            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-4.1.3.zip",
+            "size": "147 MB"
+          },
+          "tar": {
+            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-4.1.3.tar.gz",
+            "size": "146 MB"
+          }
+        },
+        "documentation": {
+          "html": "https://docs.hazelcast.com/imdg/4.1.3/",
+          "pdf": null,
+          "apiDocs": "https://docs.hazelcast.org/docs/4.1.3/javadoc",
+          "releaseNotes": "https://docs.hazelcast.org/docs/ern/index.html#4-1-3"
+        },
+        "codeSamples": {
+          "url": null,
+          "size": null
+        },
+        "github": null
+      },
+      {
+        "version": "4.1.2",
+        "date": "2021-03-12",
+        "downloads": {
+          "zip": {
+            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-4.1.2.zip",
+            "size": "147 MB"
+          },
+          "tar": {
+            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-4.1.2.tar.gz",
+            "size": "146 MB"
+          }
+        },
+        "documentation": {
+          "html": "https://docs.hazelcast.com/imdg/4.1.2/",
+          "pdf": null,
+          "apiDocs": "https://docs.hazelcast.org/docs/4.1.2/javadoc",
+          "releaseNotes": "https://docs.hazelcast.org/docs/ern/index.html#4-1-2"
+        },
+        "codeSamples": {
+          "url": null,
+          "size": null
+        },
+        "github": null
+      },
+      {
+        "version": "4.1.1",
+        "date": "2020-12-22",
+        "downloads": {
+          "zip": {
+            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-4.1.1.zip",
+            "size": "137 MB"
+          },
+          "tar": {
+            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-4.1.1.tar.gz",
+            "size": "137 MB"
+          }
+        },
+        "documentation": {
+          "html": "http://docs.hazelcast.org/docs/4.1.1/manual/html-single/index.html",
+          "pdf": "http://docs.hazelcast.org/docs/4.1.1/manual/pdf/index.pdf",
+          "apiDocs": "http://docs.hazelcast.org/docs/4.1.1/javadoc",
+          "releaseNotes": "http://docs.hazelcast.org/docs/ern/index.html#4-1-1"
+        },
+        "codeSamples": {
+          "url": null,
+          "size": null
+        },
+        "github": null
+      },
+      {
+        "version": "4.1",
+        "date": "2020-11-04",
+        "downloads": {
+          "zip": {
+            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-4.1.zip",
+            "size": "134 MB"
+          },
+          "tar": {
+            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-4.1.tar.gz",
+            "size": "133 MB"
+          }
+        },
+        "documentation": {
+          "html": "http://docs.hazelcast.org/docs/4.1/manual/html-single/index.html",
+          "pdf": "http://docs.hazelcast.org/docs/4.1/manual/pdf/index.pdf",
+          "apiDocs": "http://docs.hazelcast.org/docs/4.1/javadoc",
+          "releaseNotes": "http://docs.hazelcast.org/docs/ern/index.html#4-1"
+        },
+        "codeSamples": {
+          "url": null,
+          "size": null
+        },
+        "github": null
+      },
+      {
+        "version": "4.0.6",
+        "date": "2022-02-11",
+        "downloads": {
+          "zip": {
+            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-4.0.6.zip",
+            "size": "142 MB"
+          },
+          "tar": {
+            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-4.0.6.tar.gz",
+            "size": "142 MB"
+          }
+        },
+        "documentation": {
+          "html": "https://docs.hazelcast.com/imdg/4.0/",
+          "pdf": null,
+          "apiDocs": "https://docs.hazelcast.org/docs/4.0.6/javadoc",
+          "releaseNotes": "https://docs.hazelcast.org/docs/ern/index.html#4-0-6"
+        },
+        "codeSamples": {
+          "url": null,
+          "size": null
+        },
+        "github": null
+      },
+      {
+        "version": "4.0.5",
+        "date": "2021-12-21",
+        "downloads": {
+          "zip": {
+            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-4.0.5.zip",
+            "size": "142 MB"
+          },
+          "tar": {
+            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-4.0.5.tar.gz",
+            "size": "142 MB"
+          }
+        },
+        "documentation": {
+          "html": "https://docs.hazelcast.com/imdg/4.0/",
+          "pdf": null,
+          "apiDocs": "https://docs.hazelcast.org/docs/4.0.5/javadoc",
+          "releaseNotes": "https://docs.hazelcast.org/docs/ern/index.html#4-0-5"
+        },
+        "codeSamples": {
+          "url": null,
+          "size": null
+        },
+        "github": null
+      },
+      {
+        "version": "4.0.4",
+        "date": "2021-12-15",
+        "downloads": {
+          "zip": {
+            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-4.0.4.zip",
+            "size": "142 MB"
+          },
+          "tar": {
+            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-4.0.4.tar.gz",
+            "size": "142 MB"
+          }
+        },
+        "documentation": {
+          "html": "https://docs.hazelcast.com/imdg/4.0/",
+          "pdf": null,
+          "apiDocs": "https://docs.hazelcast.org/docs/4.0.4/javadoc",
+          "releaseNotes": "https://docs.hazelcast.org/docs/ern/index.html#4-0-4"
+        },
+        "codeSamples": {
+          "url": null,
+          "size": null
+        },
+        "github": null
+      },
+      {
+        "version": "4.0.3",
+        "date": "2020-09-21",
+        "downloads": {
+          "zip": {
+            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-4.0.3.zip",
+            "size": "105 MB"
+          },
+          "tar": {
+            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-4.0.3.tar.gz",
+            "size": "105 MB"
+          }
+        },
+        "documentation": {
+          "html": "http://docs.hazelcast.org/docs/4.0.3/manual/html-single/index.html",
+          "pdf": "http://docs.hazelcast.org/docs/4.0.3/manual/pdf/index.pdf",
+          "apiDocs": "http://docs.hazelcast.org/docs/4.0.3/javadoc",
+          "releaseNotes": "http://docs.hazelcast.org/docs/ern/index.html#4-0-3"
+        },
+        "codeSamples": {
+          "url": null,
+          "size": null
+        },
+        "github": null
+      },
+      {
+        "version": "4.0.2",
+        "date": "2020-07-02",
+        "downloads": {
+          "zip": {
+            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-4.0.2.zip",
+            "size": "106 MB"
+          },
+          "tar": {
+            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-4.0.2.tar.gz",
+            "size": "106 MB"
+          }
+        },
+        "documentation": {
+          "html": "http://docs.hazelcast.org/docs/4.0.2/manual/html-single/index.html",
+          "pdf": "http://docs.hazelcast.org/docs/4.0.2/manual/pdf/index.pdf",
+          "apiDocs": "http://docs.hazelcast.org/docs/4.0.2/javadoc",
+          "releaseNotes": "http://docs.hazelcast.org/docs/ern/index.html#4-0-2"
+        },
+        "codeSamples": {
+          "url": null,
+          "size": null
+        },
+        "github": null
+      },
+      {
+        "version": "4.0.1",
+        "date": "2020-04-09",
+        "downloads": {
+          "zip": {
+            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-4.0.1.zip",
+            "size": "109 MB"
+          },
+          "tar": {
+            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-4.0.1.tar.gz",
+            "size": "109 MB"
+          }
+        },
+        "documentation": {
+          "html": "http://docs.hazelcast.org/docs/4.0.1/manual/html-single/index.html",
+          "pdf": "http://docs.hazelcast.org/docs/4.0.1/manual/pdf/index.pdf",
+          "apiDocs": "http://docs.hazelcast.org/docs/4.0.1/javadoc",
+          "releaseNotes": "http://docs.hazelcast.org/docs/ern/index.html#4-0-1"
+        },
+        "codeSamples": {
+          "url": null,
+          "size": null
+        },
+        "github": null
+      },
+      {
+        "version": "4.0",
+        "date": "2020-02-04",
+        "downloads": {
+          "zip": {
+            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-4.0.zip",
+            "size": "170 MB"
+          },
+          "tar": {
+            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-4.0.tar.gz",
+            "size": "166 MB"
+          }
+        },
+        "documentation": {
+          "html": "http://docs.hazelcast.org/docs/4.0/manual/html-single/index.html",
+          "pdf": "http://docs.hazelcast.org/docs/4.0/manual/pdf/index.pdf",
+          "apiDocs": "http://docs.hazelcast.org/docs/4.0/javadoc",
+          "releaseNotes": "http://docs.hazelcast.org/docs/ern/index.html#4-0"
+        },
+        "codeSamples": {
+          "url": null,
+          "size": null
+        },
+        "github": null
+      },
+      {
+        "version": "3.12.13",
+        "date": "2022-08-25",
+        "downloads": {
+          "zip": {
+            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-3.12.13.zip",
+            "size": "150 MB"
+          },
+          "tar": {
+            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-3.12.13.tar.gz",
+            "size": "148 MB"
+          }
+        },
+        "documentation": {
+          "html": "https://docs.hazelcast.com/imdg/3.12/index.html",
+          "pdf": null,
+          "apiDocs": "https://docs.hazelcast.org/docs/3.12.13/javadoc/",
+          "releaseNotes": "http://docs.hazelcast.org/docs/ern/index.html#3-12-13"
+        },
+        "codeSamples": {
+          "url": null,
+          "size": null
+        },
+        "github": null
+      },
+      {
+        "version": "3.12.12",
+        "date": "2021-02-09",
+        "downloads": {
+          "zip": {
+            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-3.12.12.zip",
+            "size": "144 MB"
+          },
+          "tar": {
+            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-3.12.12.tar.gz",
+            "size": "143 MB"
+          }
+        },
+        "documentation": {
+          "html": "https://docs.hazelcast.com/imdg/3.12.12/index.html",
+          "pdf": null,
+          "apiDocs": "https://docs.hazelcast.org/docs/3.12.12/javadoc/",
+          "releaseNotes": "http://docs.hazelcast.org/docs/ern/index.html#3-12-12"
+        },
+        "codeSamples": {
+          "url": null,
+          "size": null
+        },
+        "github": null
+      },
+      {
+        "version": "3.12.11",
+        "date": "2020-12-11",
+        "downloads": {
+          "zip": {
+            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-3.12.11.zip",
+            "size": "176 MB"
+          },
+          "tar": {
+            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-3.12.11.tar.gz",
+            "size": "159 MB"
+          }
+        },
+        "documentation": {
+          "html": "https://docs.hazelcast.org/docs/3.12.11/manual/html-single/index.html",
+          "pdf": "https://docs.hazelcast.org/docs/3.12.11/manual/pdf/index.pdf",
+          "apiDocs": "https://docs.hazelcast.org/docs/3.12.11/javadoc/",
+          "releaseNotes": "http://docs.hazelcast.org/docs/ern/index.html#3-12-11"
+        },
+        "codeSamples": {
+          "url": null,
+          "size": null
+        },
+        "github": null
+      },
+      {
+        "version": "3.12.10",
+        "date": "2020-10-19",
+        "downloads": {
+          "zip": {
+            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-3.12.10.zip",
+            "size": "148 MB"
+          },
+          "tar": {
+            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-3.12.10.tar.gz",
+            "size": "131 MB"
+          }
+        },
+        "documentation": {
+          "html": "http://docs.hazelcast.org/docs/3.12.10/manual/html-single/index.html",
+          "pdf": "http://docs.hazelcast.org/docs/3.12.10/manual/pdf/index.pdf",
+          "apiDocs": "http://docs.hazelcast.org/docs/3.12.10/javadoc",
+          "releaseNotes": "http://docs.hazelcast.org/docs/ern/index.html#3-12-10"
+        },
+        "codeSamples": {
+          "url": null,
+          "size": null
+        },
+        "github": null
+      },
+      {
+        "version": "3.12.9",
+        "date": "2020-08-19",
+        "downloads": {
+          "zip": {
+            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-3.12.9.zip",
+            "size": "148 MB"
+          },
+          "tar": {
+            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-3.12.9.tar.gz",
+            "size": "131 MB"
+          }
+        },
+        "documentation": {
+          "html": "http://docs.hazelcast.org/docs/3.12.9/manual/html-single/index.html",
+          "pdf": "http://docs.hazelcast.org/docs/3.12.9/manual/pdf/index.pdf",
+          "apiDocs": "http://docs.hazelcast.org/docs/3.12.9/javadoc",
+          "releaseNotes": "http://docs.hazelcast.org/docs/ern/index.html#3-12-9"
+        },
+        "codeSamples": {
+          "url": null,
+          "size": null
+        },
+        "github": null
+      },
+      {
+        "version": "3.12.8",
+        "date": "2020-06-25",
+        "downloads": {
+          "zip": {
+            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-3.12.8.zip",
+            "size": "148 MB"
+          },
+          "tar": {
+            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-3.12.8.tar.gz",
+            "size": "131 MB"
+          }
+        },
+        "documentation": {
+          "html": "http://docs.hazelcast.org/docs/3.12.8/manual/html-single/index.html",
+          "pdf": "http://docs.hazelcast.org/docs/3.12.8/manual/pdf/index.pdf",
+          "apiDocs": "http://docs.hazelcast.org/docs/3.12.8/javadoc",
+          "releaseNotes": "http://docs.hazelcast.org/docs/ern/index.html#3-12-8"
+        },
+        "codeSamples": {
+          "url": null,
+          "size": null
+        },
+        "github": null
+      },
+      {
+        "version": "3.12.7",
+        "date": "2020-04-30",
+        "downloads": {
+          "zip": {
+            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-3.12.7.zip",
+            "size": "148 MB"
+          },
+          "tar": {
+            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-3.12.7.tar.gz",
+            "size": "131 MB"
+          }
+        },
+        "documentation": {
+          "html": "http://docs.hazelcast.org/docs/3.12.7/manual/html-single/index.html",
+          "pdf": "http://docs.hazelcast.org/docs/3.12.7/manual/pdf/index.pdf",
+          "apiDocs": "http://docs.hazelcast.org/docs/3.12.7/javadoc",
+          "releaseNotes": "http://docs.hazelcast.org/docs/ern/index.html#3-12-7"
+        },
+        "codeSamples": {
+          "url": null,
+          "size": null
+        },
+        "github": null
+      },
+      {
+        "version": "3.12.6",
+        "date": "2020-01-30",
+        "downloads": {
+          "zip": {
+            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-3.12.6.zip",
+            "size": "148 MB"
+          },
+          "tar": {
+            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-3.12.6.tar.gz",
+            "size": "131 MB"
+          }
+        },
+        "documentation": {
+          "html": "http://docs.hazelcast.org/docs/3.12.6/manual/html-single/index.html",
+          "pdf": "http://docs.hazelcast.org/docs/3.12.6/manual/pdf/index.pdf",
+          "apiDocs": "http://docs.hazelcast.org/docs/3.12.6/javadoc",
+          "releaseNotes": "http://docs.hazelcast.org/docs/ern/index.html#3-12-6"
+        },
+        "codeSamples": {
+          "url": null,
+          "size": null
+        },
+        "github": null
+      },
+      {
+        "version": "3.12.5",
+        "date": "2019-12-10",
+        "downloads": {
+          "zip": {
+            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-3.12.5.zip",
+            "size": "148 MB"
+          },
+          "tar": {
+            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-3.12.5.tar.gz",
+            "size": "131 MB"
+          }
+        },
+        "documentation": {
+          "html": "http://docs.hazelcast.org/docs/3.12.5/manual/html-single/index.html",
+          "pdf": "http://docs.hazelcast.org/docs/3.12.5/manual/pdf/index.pdf",
+          "apiDocs": "http://docs.hazelcast.org/docs/3.12.5/javadoc",
+          "releaseNotes": "http://docs.hazelcast.org/docs/ern/index.html#3-12-5"
+        },
+        "codeSamples": {
+          "url": null,
+          "size": null
+        },
+        "github": null
+      },
+      {
+        "version": "3.12.4",
+        "date": "2019-10-30",
+        "downloads": {
+          "zip": {
+            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-3.12.4.zip",
+            "size": "148 MB"
+          },
+          "tar": {
+            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-3.12.4.tar.gz",
+            "size": "127 MB"
+          }
+        },
+        "documentation": {
+          "html": "http://docs.hazelcast.org/docs/3.12.4/manual/html-single/index.html",
+          "pdf": "http://docs.hazelcast.org/docs/3.12.4/manual/pdf/index.pdf",
+          "apiDocs": "http://docs.hazelcast.org/docs/3.12.4/javadoc",
+          "releaseNotes": "http://docs.hazelcast.org/docs/ern/index.html#3-12-4"
+        },
+        "codeSamples": {
+          "url": null,
+          "size": null
+        },
+        "github": null
+      },
+      {
+        "version": "3.12.3",
+        "date": "2019-10-03",
+        "downloads": {
+          "zip": {
+            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-3.12.3.zip",
+            "size": "148 MB"
+          },
+          "tar": {
+            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-3.12.3.tar.gz",
+            "size": "132 MB"
+          }
+        },
+        "documentation": {
+          "html": "http://docs.hazelcast.org/docs/3.12.3/manual/html-single/index.html",
+          "pdf": "http://docs.hazelcast.org/docs/3.12.3/manual/pdf/index.pdf",
+          "apiDocs": "http://docs.hazelcast.org/docs/3.12.3/javadoc",
+          "releaseNotes": "http://docs.hazelcast.org/docs/ern/index.html#3-12-3"
+        },
+        "codeSamples": {
+          "url": null,
+          "size": null
+        },
+        "github": null
+      },
+      {
+        "version": "3.12.2",
+        "date": "2019-08-02",
+        "downloads": {
+          "zip": {
+            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-3.12.2.zip",
+            "size": "148 MB"
+          },
+          "tar": {
+            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-3.12.2.tar.gz",
+            "size": "132 MB"
+          }
+        },
+        "documentation": {
+          "html": "http://docs.hazelcast.org/docs/3.12.2/manual/html-single/index.html",
+          "pdf": "http://docs.hazelcast.org/docs/3.12.2/manual/pdf/index.pdf",
+          "apiDocs": "http://docs.hazelcast.org/docs/3.12.2/javadoc",
+          "releaseNotes": "http://docs.hazelcast.org/docs/ern/index.html#3-12-2"
+        },
+        "codeSamples": {
+          "url": null,
+          "size": null
+        },
+        "github": null
+      },
+      {
+        "version": "3.12.1",
+        "date": "2019-05-10",
+        "downloads": {
+          "zip": {
+            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-3.12.1.zip",
+            "size": "140 MB"
+          },
+          "tar": {
+            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-3.12.1.tar.gz",
+            "size": "120 MB"
+          }
+        },
+        "documentation": {
+          "html": "http://docs.hazelcast.org/docs/3.12.1/manual/html-single/index.html",
+          "pdf": "http://docs.hazelcast.org/docs/3.12.1/manual/pdf/index.pdf",
+          "apiDocs": "http://docs.hazelcast.org/docs/3.12.1/javadoc",
+          "releaseNotes": "http://docs.hazelcast.org/docs/ern/index.html#3-12-1"
+        },
+        "codeSamples": {
+          "url": null,
+          "size": null
+        },
+        "github": null
+      },
+      {
+        "version": "3.12",
+        "date": "2019-04-09",
+        "downloads": {
+          "zip": {
+            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-3.12.zip",
+            "size": "136 MB"
+          },
+          "tar": {
+            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-3.12.tar.gz",
+            "size": "119 MB"
+          }
+        },
+        "documentation": {
+          "html": "http://docs.hazelcast.org/docs/3.2/manual/html-single/index.html",
+          "pdf": "http://docs.hazelcast.org/docs/3.12/manual/pdf/index.pdf",
+          "apiDocs": "http://docs.hazelcast.org/docs/3.12/javadoc",
+          "releaseNotes": "http://docs.hazelcast.org/docs/ern/index.html#3-12"
+        },
+        "codeSamples": {
+          "url": null,
+          "size": null
+        },
+        "github": null
+      },
+      {
+        "version": "3.11.7",
+        "date": "2020-02-20",
+        "downloads": {
+          "zip": {
+            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-3.11.7.zip",
+            "size": "131 MB"
+          },
+          "tar": {
+            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-3.11.7.tar.gz",
+            "size": "116 MB"
+          }
+        },
+        "documentation": {
+          "html": "http://docs.hazelcast.org/docs/3.11.7/manual/html-single/index.html",
+          "pdf": "http://docs.hazelcast.org/docs/3.11.7/manual/pdf/index.pdf",
+          "apiDocs": "http://docs.hazelcast.org/docs/3.11.7/javadoc",
+          "releaseNotes": "http://docs.hazelcast.org/docs/ern/index.html#3-11-7"
+        },
+        "codeSamples": {
+          "url": null,
+          "size": null
+        },
+        "github": null
+      },
+      {
+        "version": "3.11.6",
+        "date": "2019-12-06",
+        "downloads": {
+          "zip": {
+            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-3.11.6.zip",
+            "size": "131 MB"
+          },
+          "tar": {
+            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-3.11.6.tar.gz",
+            "size": "116 MB"
+          }
+        },
+        "documentation": {
+          "html": "http://docs.hazelcast.org/docs/3.11.6/manual/html-single/index.html",
+          "pdf": "http://docs.hazelcast.org/docs/3.11.6/manual/pdf/index.pdf",
+          "apiDocs": "http://docs.hazelcast.org/docs/3.11.6/javadoc",
+          "releaseNotes": "http://docs.hazelcast.org/docs/ern/index.html#3-11-6"
+        },
+        "codeSamples": {
+          "url": null,
+          "size": null
+        },
+        "github": null
+      },
+      {
+        "version": "3.11.5",
+        "date": "2019-11-05",
+        "downloads": {
+          "zip": {
+            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-3.11.5.zip",
+            "size": "131 MB"
+          },
+          "tar": {
+            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-3.11.5.tar.gz",
+            "size": "116 MB"
+          }
+        },
+        "documentation": {
+          "html": "http://docs.hazelcast.org/docs/3.11.5/manual/html-single/index.html",
+          "pdf": "http://docs.hazelcast.org/docs/3.11.5/manual/pdf/index.pdf",
+          "apiDocs": "http://docs.hazelcast.org/docs/3.11.5/javadoc",
+          "releaseNotes": "http://docs.hazelcast.org/docs/ern/index.html#3-11-5"
+        },
+        "codeSamples": {
+          "url": null,
+          "size": null
+        },
+        "github": null
+      },
+      {
+        "version": "3.11.4",
+        "date": "2019-05-09",
+        "downloads": {
+          "zip": {
+            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-3.11.4.zip",
+            "size": "130 MB"
+          },
+          "tar": {
+            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-3.11.4.tar.gz",
+            "size": "114 MB"
+          }
+        },
+        "documentation": {
+          "html": "http://docs.hazelcast.org/docs/3.11.4/manual/html-single/index.html",
+          "pdf": "http://docs.hazelcast.org/docs/3.11.4/manual/pdf/index.pdf",
+          "apiDocs": "http://docs.hazelcast.org/docs/3.11.4/javadoc",
+          "releaseNotes": "http://docs.hazelcast.org/docs/ern/index.html#3-11-4"
+        },
+        "codeSamples": {
+          "url": null,
+          "size": null
+        },
+        "github": null
+      },
+      {
+        "version": "3.11.3",
+        "date": "2019-04-13",
+        "downloads": {
+          "zip": {
+            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-3.11.3.zip",
+            "size": "130 MB"
+          },
+          "tar": {
+            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-3.11.3.tar.gz",
+            "size": "114 MB"
+          }
+        },
+        "documentation": {
+          "html": "http://docs.hazelcast.org/docs/3.11.3/manual/html-single/index.html",
+          "pdf": "http://docs.hazelcast.org/docs/3.11.3/manual/pdf/index.pdf",
+          "apiDocs": "http://docs.hazelcast.org/docs/3.11.3/javadoc",
+          "releaseNotes": "http://docs.hazelcast.org/docs/ern/index.html#3-11-3"
+        },
+        "codeSamples": {
+          "url": null,
+          "size": null
+        },
+        "github": null
+      },
+      {
+        "version": "3.11.2",
+        "date": "2019-02-16",
+        "downloads": {
+          "zip": {
+            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-3.11.2.zip",
+            "size": "130 MB"
+          },
+          "tar": {
+            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-3.11.2.tar.gz",
+            "size": "114 MB"
+          }
+        },
+        "documentation": {
+          "html": "http://docs.hazelcast.org/docs/3.11.2/manual/html-single/index.html",
+          "pdf": "http://docs.hazelcast.org/docs/3.11.2/manual/pdf/index.pdf",
+          "apiDocs": "http://docs.hazelcast.org/docs/3.11.2/javadoc",
+          "releaseNotes": "http://docs.hazelcast.org/docs/ern/index.html#3-11-2"
+        },
+        "codeSamples": {
+          "url": null,
+          "size": null
+        },
+        "github": null
+      },
+      {
+        "version": "3.11.1",
+        "date": "2018-12-18",
+        "downloads": {
+          "zip": {
+            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-3.11.1.zip",
+            "size": "130 MB"
+          },
+          "tar": {
+            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-3.11.1.tar.gz",
+            "size": "114 MB"
+          }
+        },
+        "documentation": {
+          "html": "http://docs.hazelcast.org/docs/3.11.1/manual/html-single/index.html",
+          "pdf": "http://docs.hazelcast.org/docs/3.11.1/manual/pdf/index.pdf",
+          "apiDocs": "http://docs.hazelcast.org/docs/3.11.1/javadoc",
+          "releaseNotes": "http://docs.hazelcast.org/docs/ern/index.html#3-11-1"
+        },
+        "codeSamples": {
+          "url": null,
+          "size": null
+        },
+        "github": null
+      },
+      {
+        "version": "3.11",
+        "date": "2018-10-23",
+        "downloads": {
+          "zip": {
+            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-3.11.zip",
+            "size": "87 MB"
+          },
+          "tar": {
+            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-3.11.tar.gz",
+            "size": "71 MB"
+          }
+        },
+        "documentation": {
+          "html": "http://docs.hazelcast.org/docs/3.11/manual/html-single/index.html",
+          "pdf": "http://docs.hazelcast.org/docs/3.11/manual/pdf/index.pdf",
+          "apiDocs": "http://docs.hazelcast.org/docs/3.11/javadoc",
+          "releaseNotes": "http://docs.hazelcast.org/docs/ern/index.html#3-11"
+        },
+        "codeSamples": {
+          "url": null,
+          "size": null
+        },
+        "github": null
+      },
+      {
+        "version": "3.10.7",
+        "date": "2020-02-20",
+        "downloads": {
+          "zip": {
+            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-3.10.7.zip",
+            "size": "75 MB"
+          },
+          "tar": {
+            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-3.10.7.tar.gz",
+            "size": "60 MB"
+          }
+        },
+        "documentation": {
+          "html": "http://docs.hazelcast.org/docs/3.10.7/manual/html-single/index.html",
+          "pdf": "http://docs.hazelcast.org/docs/3.10.7/manual/pdf/index.pdf",
+          "apiDocs": "http://docs.hazelcast.org/docs/3.10.7/javadoc",
+          "releaseNotes": "http://docs.hazelcast.org/docs/ern/index.html#3-10-7"
+        },
+        "codeSamples": {
+          "url": null,
+          "size": null
+        },
+        "github": null
+      },
+      {
+        "version": "3.10.6",
+        "date": "2018-10-10",
+        "downloads": {
+          "zip": {
+            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-3.10.6.zip",
+            "size": "75 MB"
+          },
+          "tar": {
+            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-3.10.6.tar.gz",
+            "size": "60 MB"
+          }
+        },
+        "documentation": {
+          "html": "http://docs.hazelcast.org/docs/3.10.6/manual/html-single/index.html",
+          "pdf": "http://docs.hazelcast.org/docs/3.10.6/manual/pdf/index.pdf",
+          "apiDocs": "http://docs.hazelcast.org/docs/3.10.6/javadoc",
+          "releaseNotes": "http://docs.hazelcast.org/docs/ern/index.html#3-10-6"
+        },
+        "codeSamples": {
+          "url": null,
+          "size": null
+        },
+        "github": null
+      },
+      {
+        "version": "3.10.5",
+        "date": "2018-09-13",
+        "downloads": {
+          "zip": {
+            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-3.10.5.zip",
+            "size": "75 MB"
+          },
+          "tar": {
+            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-3.10.5.tar.gz",
+            "size": "60 MB"
+          }
+        },
+        "documentation": {
+          "html": "http://docs.hazelcast.org/docs/3.10.5/manual/html-single/index.html",
+          "pdf": "http://docs.hazelcast.org/docs/3.10.5/manual/pdf/index.pdf",
+          "apiDocs": "http://docs.hazelcast.org/docs/3.10.5/javadoc",
+          "releaseNotes": "http://docs.hazelcast.org/docs/ern/index.html#3-10-5"
+        },
+        "codeSamples": {
+          "url": null,
+          "size": null
+        },
+        "github": null
+      },
+      {
+        "version": "3.10.4",
+        "date": "2018-07-27",
+        "downloads": {
+          "zip": {
+            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-3.10.4.zip",
+            "size": "75 MB"
+          },
+          "tar": {
+            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-3.10.4.tar.gz",
+            "size": "60 MB"
+          }
+        },
+        "documentation": {
+          "html": "http://docs.hazelcast.org/docs/3.10.4/manual/html-single/index.html",
+          "pdf": "http://docs.hazelcast.org/docs/3.10.4/manual/pdf/index.pdf",
+          "apiDocs": "http://docs.hazelcast.org/docs/3.10.4/javadoc",
+          "releaseNotes": "http://docs.hazelcast.org/docs/ern/index.html#3-10-4"
+        },
+        "codeSamples": {
+          "url": null,
+          "size": null
+        },
+        "github": null
+      },
+      {
+        "version": "3.10.3",
+        "date": "2018-07-19",
+        "downloads": {
+          "zip": {
+            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-3.10.3.zip",
+            "size": "75 MB"
+          },
+          "tar": {
+            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-3.10.3.tar.gz",
+            "size": "60 MB"
+          }
+        },
+        "documentation": {
+          "html": "http://docs.hazelcast.org/docs/3.10.3/manual/html-single/index.html",
+          "pdf": "http://docs.hazelcast.org/docs/3.10.3/manual/pdf/index.pdf",
+          "apiDocs": "http://docs.hazelcast.org/docs/3.10.3/javadoc",
+          "releaseNotes": "http://docs.hazelcast.org/docs/ern/index.html#3-10-3"
+        },
+        "codeSamples": {
+          "url": null,
+          "size": null
+        },
+        "github": null
+      },
+      {
+        "version": "3.10.2",
+        "date": "2018-06-06",
+        "downloads": {
+          "zip": {
+            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-3.10.2.zip",
+            "size": "75 MB"
+          },
+          "tar": {
+            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-3.10.2.tar.gz",
+            "size": "60 MB"
+          }
+        },
+        "documentation": {
+          "html": "http://docs.hazelcast.org/docs/3.10.2/manual/html-single/index.html",
+          "pdf": "http://docs.hazelcast.org/docs/3.10.2/manual/pdf/index.pdf",
+          "apiDocs": "http://docs.hazelcast.org/docs/3.10.2/javadoc",
+          "releaseNotes": "http://docs.hazelcast.org/docs/ern/index.html#3-10-2"
+        },
+        "codeSamples": {
+          "url": null,
+          "size": null
+        },
+        "github": null
+      },
+      {
+        "version": "3.10.1",
+        "date": "2018-05-21",
+        "downloads": {
+          "zip": {
+            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-3.10.1.zip",
+            "size": "75 MB"
+          },
+          "tar": {
+            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-3.10.1.tar.gz",
+            "size": "60 MB"
+          }
+        },
+        "documentation": {
+          "html": "http://docs.hazelcast.org/docs/3.10.1/manual/html-single/index.html",
+          "pdf": "http://docs.hazelcast.org/docs/3.10.1/manual/pdf/index.pdf",
+          "apiDocs": "http://docs.hazelcast.org/docs/3.10.1/javadoc",
+          "releaseNotes": "http://docs.hazelcast.org/docs/ern/index.html#3-10-1"
+        },
+        "codeSamples": {
+          "url": null,
+          "size": null
+        },
+        "github": null
+      },
+      {
+        "version": "3.10",
+        "date": "2018-04-24",
+        "downloads": {
+          "zip": {
+            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-3.10.zip",
+            "size": "77 MB"
+          },
+          "tar": {
+            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-3.10.tar.gz",
+            "size": "62 MB"
+          }
+        },
+        "documentation": {
+          "html": "http://docs.hazelcast.org/docs/3.10/manual/html-single/index.html",
+          "pdf": "http://docs.hazelcast.org/docs/3.10/manual/pdf/index.pdf",
+          "apiDocs": "http://docs.hazelcast.org/docs/3.10/javadoc",
+          "releaseNotes": "http://docs.hazelcast.org/docs/ern/index.html#3-10"
+        },
+        "codeSamples": {
+          "url": null,
+          "size": null
+        },
+        "github": null
+      },
+      {
+        "version": "3.9.4",
+        "date": "2018-04-20",
+        "downloads": {
+          "zip": {
+            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-3.9.4.zip",
+            "size": "77 MB"
+          },
+          "tar": {
+            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-3.9.4.tar.gz",
+            "size": "63 MB"
+          }
+        },
+        "documentation": {
+          "html": "http://docs.hazelcast.org/docs/3.9.4/manual/html-single/index.html",
+          "pdf": "http://docs.hazelcast.org/docs/3.9.4/manual/pdf/hazelcast-documentation-3.9.4.pdf",
+          "apiDocs": "http://docs.hazelcast.org/docs/3.9.4/javadoc",
+          "releaseNotes": "http://docs.hazelcast.org/docs/ern/index.html#3-9-4"
+        },
+        "codeSamples": {
+          "url": null,
+          "size": null
+        },
+        "github": null
+      },
+      {
+        "version": "3.9.3",
+        "date": "2018-02-16",
+        "downloads": {
+          "zip": {
+            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-3.9.3.zip",
+            "size": "77 MB"
+          },
+          "tar": {
+            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-3.9.3.tar.gz",
+            "size": "63 MB"
+          }
+        },
+        "documentation": {
+          "html": "http://docs.hazelcast.org/docs/3.9.3/manual/html-single/index.html",
+          "pdf": "http://docs.hazelcast.org/docs/3.9.3/manual/pdf/hazelcast-documentation-3.9.3.pdf",
+          "apiDocs": "http://docs.hazelcast.org/docs/3.9.3/javadoc",
+          "releaseNotes": "http://docs.hazelcast.org/docs/ern/index.html#3-9-3"
+        },
+        "codeSamples": {
+          "url": null,
+          "size": null
+        },
+        "github": null
+      },
+      {
+        "version": "3.9.2",
+        "date": "2018-01-03",
+        "downloads": {
+          "zip": {
+            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-3.9.2.zip",
+            "size": "77 MB"
+          },
+          "tar": {
+            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-3.9.2.tar.gz",
+            "size": "63 MB"
+          }
+        },
+        "documentation": {
+          "html": "http://docs.hazelcast.org/docs/3.9.2/manual/html-single/index.html",
+          "pdf": "http://docs.hazelcast.org/docs/3.9.2/manual/pdf/hazelcast-documentation-3.9.2.pdf",
+          "apiDocs": "http://docs.hazelcast.org/docs/3.9.2/javadoc",
+          "releaseNotes": "http://docs.hazelcast.org/docs/ern/index.html#3-9-2"
+        },
+        "codeSamples": {
+          "url": null,
+          "size": null
+        },
+        "github": null
+      },
+      {
+        "version": "3.9.1",
+        "date": "2017-11-30",
+        "downloads": {
+          "zip": {
+            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-3.9.1.zip",
+            "size": "77 MB"
+          },
+          "tar": {
+            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-3.9.1.tar.gz",
+            "size": "63 MB"
+          }
+        },
+        "documentation": {
+          "html": "http://docs.hazelcast.org/docs/3.9.1/manual/html-single/index.html",
+          "pdf": "http://docs.hazelcast.org/docs/3.9.1/manual/pdf/hazelcast-documentation-3.9.1.pdf",
+          "apiDocs": "http://docs.hazelcast.org/docs/3.9.1/javadoc",
+          "releaseNotes": "http://docs.hazelcast.org/docs/ern/index.html#3-9-1"
+        },
+        "codeSamples": {
+          "url": null,
+          "size": null
+        },
+        "github": null
+      },
+      {
+        "version": "3.9",
+        "date": "2017-10-23",
+        "downloads": {
+          "zip": {
+            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-3.9.zip",
+            "size": "77 MB"
+          },
+          "tar": {
+            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-3.9.tar.gz",
+            "size": "63 MB"
+          }
+        },
+        "documentation": {
+          "html": "http://docs.hazelcast.org/docs/3.9/manual/html-single/index.html",
+          "pdf": "http://docs.hazelcast.org/docs/3.9/manual/pdf/hazelcast-documentation-3.9.pdf",
+          "apiDocs": "http://docs.hazelcast.org/docs/3.9/javadoc",
+          "releaseNotes": "http://docs.hazelcast.org/docs/ern/index.html#3-9"
+        },
+        "codeSamples": {
+          "url": null,
+          "size": null
+        },
+        "github": null
+      },
+      {
+        "version": "3.8.9",
+        "date": "2018-01-03",
+        "downloads": {
+          "zip": {
+            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-3.8.9.zip",
+            "size": "68 MB"
+          },
+          "tar": {
+            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-3.8.9.tar.gz",
+            "size": "55 MB"
+          }
+        },
+        "documentation": {
+          "html": "http://docs.hazelcast.org/docs/3.8.9/manual/html-single/index.html",
+          "pdf": "http://docs.hazelcast.org/docs/3.8.9/manual/pdf/hazelcast-documentation-3.8.9.pdf",
+          "apiDocs": "http://docs.hazelcast.org/docs/3.8.9/javadoc",
+          "releaseNotes": "http://docs.hazelcast.org/docs/ern/index.html#3-8-9"
+        },
+        "codeSamples": {
+          "url": null,
+          "size": null
+        },
+        "github": null
+      },
+      {
+        "version": "3.8.8",
+        "date": "2017-12-04",
+        "downloads": {
+          "zip": {
+            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-3.8.8.zip",
+            "size": "68 MB"
+          },
+          "tar": {
+            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-3.8.8.tar.gz",
+            "size": "55 MB"
+          }
+        },
+        "documentation": {
+          "html": "http://docs.hazelcast.org/docs/3.8.8/manual/html-single/index.html",
+          "pdf": "http://docs.hazelcast.org/docs/3.8.8/manual/pdf/hazelcast-documentation-3.8.8.pdf",
+          "apiDocs": "http://docs.hazelcast.org/docs/3.8.8/javadoc",
+          "releaseNotes": "http://docs.hazelcast.org/docs/ern/index.html#3-8-8"
+        },
+        "codeSamples": {
+          "url": null,
+          "size": null
+        },
+        "github": null
+      },
+      {
+        "version": "3.8.7",
+        "date": "2017-11-09",
+        "downloads": {
+          "zip": {
+            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-3.8.7.zip",
+            "size": "68 MB"
+          },
+          "tar": {
+            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-3.8.7.tar.gz",
+            "size": "55 MB"
+          }
+        },
+        "documentation": {
+          "html": "http://docs.hazelcast.org/docs/3.8.7/manual/html-single/index.html",
+          "pdf": "http://docs.hazelcast.org/docs/3.8.7/manual/pdf/hazelcast-documentation-3.8.7.pdf",
+          "apiDocs": "http://docs.hazelcast.org/docs/3.8.7/javadoc",
+          "releaseNotes": "http://docs.hazelcast.org/docs/ern/index.html#3-8-7"
+        },
+        "codeSamples": {
+          "url": null,
+          "size": null
+        },
+        "github": null
+      },
+      {
+        "version": "3.8.6",
+        "date": "2017-09-21",
+        "downloads": {
+          "zip": {
+            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-3.8.6.zip",
+            "size": "70.6 MB"
+          },
+          "tar": {
+            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-3.8.6.tar.gz",
+            "size": "56.8 MB"
+          }
+        },
+        "documentation": {
+          "html": "http://docs.hazelcast.org/docs/3.8.6/manual/html-single/index.html",
+          "pdf": "http://docs.hazelcast.org/docs/3.8.6/manual/pdf/hazelcast-documentation-3.8.6.pdf",
+          "apiDocs": "http://docs.hazelcast.org/docs/3.8.6/javadoc",
+          "releaseNotes": "http://docs.hazelcast.org/docs/ern/index.html#3-8-6"
+        },
+        "codeSamples": {
+          "url": null,
+          "size": null
+        },
+        "github": null
+      },
+      {
+        "version": "3.8.5",
+        "date": "2017-09-06",
+        "downloads": {
+          "zip": {
+            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-3.8.5.zip",
+            "size": "70.6 MB"
+          },
+          "tar": {
+            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-3.8.5.tar.gz",
+            "size": "56.8 MB"
+          }
+        },
+        "documentation": {
+          "html": "http://docs.hazelcast.org/docs/3.8.5/manual/html-single/index.html",
+          "pdf": "http://docs.hazelcast.org/docs/3.8.5/manual/pdf/hazelcast-documentation-3.8.5.pdf",
+          "apiDocs": "http://docs.hazelcast.org/docs/3.8.5/javadoc",
+          "releaseNotes": "http://docs.hazelcast.org/docs/ern/index.html#3-8-5"
+        },
+        "codeSamples": {
+          "url": null,
+          "size": null
+        },
+        "github": null
+      },
+      {
+        "version": "3.8.4",
+        "date": "2017-08-09",
+        "downloads": {
+          "zip": {
+            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-3.8.4.zip",
+            "size": "67.9 MB"
+          },
+          "tar": {
+            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-3.8.4.tar.gz",
+            "size": "54.1 MB"
+          }
+        },
+        "documentation": {
+          "html": "http://docs.hazelcast.org/docs/3.8.4/manual/html-single/index.html",
+          "pdf": "http://docs.hazelcast.org/docs/3.8.4/manual/pdf/hazelcast-documentation-3.8.4.pdf",
+          "apiDocs": "http://docs.hazelcast.org/docs/3.8.4/javadoc",
+          "releaseNotes": "http://docs.hazelcast.org/docs/ern/index.html#3-8-4"
+        },
+        "codeSamples": {
+          "url": null,
+          "size": null
+        },
+        "github": null
+      },
+      {
+        "version": "3.8.3",
+        "date": "2017-07-04",
+        "downloads": {
+          "zip": {
+            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-3.8.3.zip",
+            "size": "70.5 MB"
+          },
+          "tar": {
+            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-3.8.3.tar.gz",
+            "size": "56.7 MB"
+          }
+        },
+        "documentation": {
+          "html": "http://docs.hazelcast.org/docs/3.8.3/manual/html-single/index.html",
+          "pdf": "http://docs.hazelcast.org/docs/3.8.3/manual/pdf/hazelcast-documentation-3.8.3.pdf",
+          "apiDocs": "http://docs.hazelcast.org/docs/3.8.3/javadoc",
+          "releaseNotes": "http://docs.hazelcast.org/docs/ern/index.html#3-8-3"
+        },
+        "codeSamples": {
+          "url": null,
+          "size": null
+        },
+        "github": null
+      },
+      {
+        "version": "3.8.2",
+        "date": "2017-05-18",
+        "downloads": {
+          "zip": {
+            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-3.8.2.zip",
+            "size": "94.9 MB"
+          },
+          "tar": {
+            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-3.8.2.tar.gz",
+            "size": "80.8 MB"
+          }
+        },
+        "documentation": {
+          "html": "http://docs.hazelcast.org/docs/3.8.2/manual/html-single/index.html",
+          "pdf": "http://docs.hazelcast.org/docs/3.8.2/manual/pdf/hazelcast-documentation-3.8.2.pdf",
+          "apiDocs": "http://docs.hazelcast.org/docs/3.8.2/javadoc",
+          "releaseNotes": "http://docs.hazelcast.org/docs/ern/index.html#3-8-2"
+        },
+        "codeSamples": {
+          "url": null,
+          "size": null
+        },
+        "github": null
+      },
+      {
+        "version": "3.8.1",
+        "date": "2017-04-11",
+        "downloads": {
+          "zip": {
+            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-3.8.1.zip",
+            "size": "101.8 MB"
+          },
+          "tar": {
+            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-3.8.1.tar.gz",
+            "size": "88.1 MB"
+          }
+        },
+        "documentation": {
+          "html": "http://docs.hazelcast.org/docs/3.8.1/manual/html-single/index.html",
+          "pdf": "http://docs.hazelcast.org/docs/3.8.1/manual/pdf/hazelcast-documentation-3.8.1.pdf",
+          "apiDocs": "http://docs.hazelcast.org/docs/3.8.1/javadoc",
+          "releaseNotes": "http://docs.hazelcast.org/docs/ern/index.html#3-8-1"
+        },
+        "codeSamples": {
+          "url": null,
+          "size": null
+        },
+        "github": null
+      },
+      {
+        "version": "3.8",
+        "date": "2017-02-18",
+        "downloads": {
+          "zip": {
+            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-3.8.zip",
+            "size": "99 MB"
+          },
+          "tar": {
+            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-3.8.tar.gz",
+            "size": "85.3 MB"
+          }
+        },
+        "documentation": {
+          "html": "http://docs.hazelcast.org/docs/3.8/manual/html-single/index.html",
+          "pdf": "http://docs.hazelcast.org/docs/3.8/manual/pdf/hazelcast-documentation-3.8.pdf",
+          "apiDocs": "http://docs.hazelcast.org/docs/3.8/javadoc",
+          "releaseNotes": "http://docs.hazelcast.org/docs/ern/index.html#3-8"
+        },
+        "codeSamples": {
+          "url": null,
+          "size": null
+        },
+        "github": null
+      },
+      {
+        "version": "3.7.7",
+        "date": "2017-04-04",
+        "downloads": {
+          "zip": {
+            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-3.7.7.zip",
+            "size": "96.6 MB"
+          },
+          "tar": {
+            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-3.7.7.tar.gz",
+            "size": "85 MB"
+          }
+        },
+        "documentation": {
+          "html": "http://docs.hazelcast.org/docs/3.7.7/manual/html-single/index.html",
+          "pdf": "http://docs.hazelcast.org/docs/3.7.7/manual/pdf/hazelcast-documentation-3.7.7.pdf",
+          "apiDocs": "http://docs.hazelcast.org/docs/3.7.7/javadoc/",
+          "releaseNotes": "http://docs.hazelcast.org/docs/ern/index.html#3-7-7"
+        },
+        "codeSamples": {
+          "url": null,
+          "size": null
+        },
+        "github": null
+      },
+      {
+        "version": "3.7.6",
+        "date": "2017-03-14",
+        "downloads": {
+          "zip": {
+            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-3.7.6.zip",
+            "size": "86.6 MB"
+          },
+          "tar": {
+            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-3.7.6.tar.gz",
+            "size": "74.6 MB"
+          }
+        },
+        "documentation": {
+          "html": "http://docs.hazelcast.org/docs/3.7.6/manual/html-single/index.html",
+          "pdf": "http://docs.hazelcast.org/docs/3.7.6/manual/pdf/hazelcast-documentation-3.7.6.pdf",
+          "apiDocs": "http://docs.hazelcast.org/docs/3.7.6/javadoc",
+          "releaseNotes": "http://docs.hazelcast.org/docs/ern/index.html#3-7-6"
+        },
+        "codeSamples": {
+          "url": null,
+          "size": null
+        },
+        "github": null
+      },
+      {
+        "version": "3.7.5",
+        "date": "2017-01-24",
+        "downloads": {
+          "zip": {
+            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-3.7.5.zip",
+            "size": "86.6 MB"
+          },
+          "tar": {
+            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-3.7.5.tar.gz",
+            "size": "74.6 MB"
+          }
+        },
+        "documentation": {
+          "html": "http://docs.hazelcast.org/docs/3.7.5/manual/html-single/index.html",
+          "pdf": "http://docs.hazelcast.org/docs/3.7.5/manual/pdf/hazelcast-documentation-3.7.5.pdf",
+          "apiDocs": "http://docs.hazelcast.org/docs/3.7.5/javadoc/",
+          "releaseNotes": "http://docs.hazelcast.org/docs/ern/index.html#3-7-5"
+        },
+        "codeSamples": {
+          "url": null,
+          "size": null
+        },
+        "github": null
+      },
+      {
+        "version": "3.7.4",
+        "date": "2016-12-09",
+        "downloads": {
+          "zip": {
+            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-3.7.4.zip",
+            "size": "82.6 MB"
+          },
+          "tar": {
+            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-3.7.4.tar.gz",
+            "size": "70.7 MB"
+          }
+        },
+        "documentation": {
+          "html": "http://docs.hazelcast.org/docs/3.7.4/manual/html-single/index.html",
+          "pdf": "http://docs.hazelcast.org/docs/3.7.4/manual/pdf/hazelcast-documentation-3.7.4.pdf",
+          "apiDocs": "http://docs.hazelcast.org/docs/3.7.4/javadoc/",
+          "releaseNotes": "http://docs.hazelcast.org/docs/ern/index.html#3-7-4"
+        },
+        "codeSamples": {
+          "url": null,
+          "size": null
+        },
+        "github": null
+      },
+      {
+        "version": "3.7.3",
+        "date": "2016-11-17",
+        "downloads": {
+          "zip": {
+            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-3.7.3.zip",
+            "size": "97.3 MB"
+          },
+          "tar": {
+            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-3.7.3.tar.gz",
+            "size": "85.6 MB"
+          }
+        },
+        "documentation": {
+          "html": "http://docs.hazelcast.org/docs/3.7.3/manual/html-single/index.html",
+          "pdf": "http://docs.hazelcast.org/docs/3.7.3/manual/pdf/hazelcast-documentation-3.7.3.pdf",
+          "apiDocs": "http://docs.hazelcast.org/docs/3.7.3/javadoc/",
+          "releaseNotes": "http://docs.hazelcast.org/docs/ern/index.html#3-7-3"
+        },
+        "codeSamples": {
+          "url": null,
+          "size": null
+        },
+        "github": null
+      },
+      {
+        "version": "3.7.2",
+        "date": "2016-10-04",
+        "downloads": {
+          "zip": {
+            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-3.7.2.zip",
+            "size": "97.4 MB"
+          },
+          "tar": {
+            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-3.7.2.tar.gz",
+            "size": "85.7 MB"
+          }
+        },
+        "documentation": {
+          "html": "http://docs.hazelcast.org/docs/3.7.2/manual/html-single/index.html",
+          "pdf": "http://docs.hazelcast.org/docs/3.7.2/manual/pdf/hazelcast-documentation-3.7.2.pdf",
+          "apiDocs": "http://docs.hazelcast.org/docs/3.7.2/javadoc/",
+          "releaseNotes": "http://docs.hazelcast.org/docs/ern/index.html#3-7-2"
+        },
+        "codeSamples": {
+          "url": null,
+          "size": null
+        },
+        "github": null
+      },
+      {
+        "version": "3.7.1",
+        "date": "2016-09-05",
+        "downloads": {
+          "zip": {
+            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-3.7.1.zip",
+            "size": "97.4 MB"
+          },
+          "tar": {
+            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-3.7.1.tar.gz",
+            "size": "85.7 MB"
+          }
+        },
+        "documentation": {
+          "html": "http://docs.hazelcast.org/docs/3.7.1/manual/html-single/index.html",
+          "pdf": "http://docs.hazelcast.org/docs/3.7.1/manual/pdf/hazelcast-documentation-3.7.1.pdf",
+          "apiDocs": "http://docs.hazelcast.org/docs/3.7.1/javadoc/",
+          "releaseNotes": "http://docs.hazelcast.org/docs/ern/index.html#3-7-1"
+        },
+        "codeSamples": {
+          "url": null,
+          "size": null
+        },
+        "github": null
+      },
+      {
+        "version": "3.7",
+        "date": "2016-08-17",
+        "downloads": {
+          "zip": {
+            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-3.7.zip",
+            "size": "96.9 MB"
+          },
+          "tar": {
+            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-3.7.tar.gz",
+            "size": "85 MB"
+          }
+        },
+        "documentation": {
+          "html": "http://docs.hazelcast.org/docs/3.7/manual/html-single/index.html",
+          "pdf": "http://docs.hazelcast.org/docs/3.7/manual/pdf/hazelcast-documentation-3.7.pdf",
+          "apiDocs": "http://docs.hazelcast.org/docs/3.7/javadoc/",
+          "releaseNotes": "http://docs.hazelcast.org/docs/ern/index.html#3-7"
+        },
+        "codeSamples": {
+          "url": null,
+          "size": null
+        },
+        "github": null
+      },
+      {
+        "version": "3.6.8",
+        "date": "2017-04-04",
+        "downloads": {
+          "zip": {
+            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-3.6.8.zip",
+            "size": "99.2 MB"
+          },
+          "tar": {
+            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-3.6.8.tar.gz",
+            "size": "86.3 MB"
+          }
+        },
+        "documentation": {
+          "html": "http://docs.hazelcast.org/docs/3.6.8/manual/html-single/index.html",
+          "pdf": "http://docs.hazelcast.org/docs/3.6.8/manual/pdf/hazelcast-documentation-3.6.8.pdf",
+          "apiDocs": "http://docs.hazelcast.org/docs/3.6.8/javadoc/",
+          "releaseNotes": "http://docs.hazelcast.org/docs/ern/index.html#3-6-8"
+        },
+        "codeSamples": {
+          "url": null,
+          "size": null
+        },
+        "github": null
+      },
+      {
+        "version": "3.6.7",
+        "date": "2016-12-08",
+        "downloads": {
+          "zip": {
+            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-3.6.7.zip",
+            "size": "99.2 MB"
+          },
+          "tar": {
+            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-3.6.7.tar.gz",
+            "size": "96.3 MB"
+          }
+        },
+        "documentation": {
+          "html": "http://docs.hazelcast.org/docs/3.6.7/manual/html-single/index.html",
+          "pdf": "http://docs.hazelcast.org/docs/3.6.7/manual/pdf/hazelcast-documentation-3.6.7.pdf",
+          "apiDocs": "http://docs.hazelcast.org/docs/3.6.7/javadoc/",
+          "releaseNotes": "http://docs.hazelcast.org/docs/ern/index.html#3-6-7"
+        },
+        "codeSamples": {
+          "url": null,
+          "size": null
+        },
+        "github": null
+      },
+      {
+        "version": "3.6.6",
+        "date": "2016-10-20",
+        "downloads": {
+          "zip": {
+            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-3.6.6.zip",
+            "size": "98.1 MB"
+          },
+          "tar": {
+            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-3.6.6.tar.gz",
+            "size": "85.6 MB"
+          }
+        },
+        "documentation": {
+          "html": "http://docs.hazelcast.org/docs/3.6.6/manual/html-single/index.html",
+          "pdf": "http://docs.hazelcast.org/docs/3.6.6/manual/pdf/hazelcast-documentation-3.6.6.pdf",
+          "apiDocs": "http://docs.hazelcast.org/docs/3.6.6/javadoc/",
+          "releaseNotes": "http://docs.hazelcast.org/docs/ern/index.html#3-6-6"
+        },
+        "codeSamples": {
+          "url": null,
+          "size": null
+        },
+        "github": null
+      },
+      {
+        "version": "3.6.5",
+        "date": "2016-08-23",
+        "downloads": {
+          "zip": {
+            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-3.6.5.zip",
+            "size": "92.3 MB"
+          },
+          "tar": {
+            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-3.6.5.tar.gz",
+            "size": "79.5 MB"
+          }
+        },
+        "documentation": {
+          "html": "http://docs.hazelcast.org/docs/3.6.5/manual/html-single/index.html",
+          "pdf": "http://docs.hazelcast.org/docs/3.6.5/manual/pdf/hazelcast-documentation-3.6.5.pdf",
+          "apiDocs": "http://docs.hazelcast.org/docs/3.6.5/javadoc/",
+          "releaseNotes": "http://docs.hazelcast.org/docs/ern/index.html#3-6-5"
+        },
+        "codeSamples": {
+          "url": null,
+          "size": null
+        },
+        "github": null
+      },
+      {
+        "version": "3.6.4",
+        "date": "2016-07-01",
+        "downloads": {
+          "zip": {
+            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-3.6.4.zip",
+            "size": "88 MB"
+          },
+          "tar": {
+            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-3.6.4.tar.gz",
+            "size": "75.7 MB"
+          }
+        },
+        "documentation": {
+          "html": "http://docs.hazelcast.org/docs/3.6.4/manual/html-single/index.html",
+          "pdf": "http://docs.hazelcast.org/docs/3.6.4/manual/pdf/hazelcast-documentation-3.6.4.pdf",
+          "apiDocs": "http://docs.hazelcast.org/docs/3.6.4/javadoc/",
+          "releaseNotes": "http://docs.hazelcast.org/docs/ern/index.html#3-6-4"
+        },
+        "codeSamples": {
+          "url": null,
+          "size": null
+        },
+        "github": null
+      },
+      {
+        "version": "3.6.3",
+        "date": "2016-05-29",
+        "downloads": {
+          "zip": {
+            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-3.6.3.zip",
+            "size": "96 MB"
+          },
+          "tar": {
+            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-3.6.3.tar.gz",
+            "size": "83.5 MB"
+          }
+        },
+        "documentation": {
+          "html": "http://docs.hazelcast.org/docs/3.6.3/manual/html-single/index.html",
+          "pdf": "http://docs.hazelcast.org/docs/3.6.3/manual/pdf/hazelcast-documentation-3.6.3.pdf",
+          "apiDocs": "http://docs.hazelcast.org/docs/3.6.3/javadoc/",
+          "releaseNotes": "http://docs.hazelcast.org/docs/ern/index.html#3-6-3"
+        },
+        "codeSamples": {
+          "url": null,
+          "size": null
+        },
+        "github": null
+      },
+      {
+        "version": "3.6.2",
+        "date": "2016-04-05",
+        "downloads": {
+          "zip": {
+            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-3.6.2.zip",
+            "size": "110.2 MB"
+          },
+          "tar": {
+            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-3.6.2.tar.gz",
+            "size": "97.4 MB"
+          }
+        },
+        "documentation": {
+          "html": "http://docs.hazelcast.org/docs/3.6.2/manual/html-single/index.html",
+          "pdf": "http://docs.hazelcast.org/docs/3.6.2/manual/pdf/hazelcast-documentation-3.6.2.pdf",
+          "apiDocs": "http://docs.hazelcast.org/docs/3.6.2/javadoc/",
+          "releaseNotes": "http://docs.hazelcast.org/docs/ern/index.html#3-6-2"
+        },
+        "codeSamples": {
+          "url": null,
+          "size": null
+        },
+        "github": null
+      },
+      {
+        "version": "3.6.1",
+        "date": "2016-02-28",
+        "downloads": {
+          "zip": {
+            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-3.6.1.zip",
+            "size": "97.9 MB"
+          },
+          "tar": {
+            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-3.6.1.tar.gz",
+            "size": "85.2 MB"
+          }
+        },
+        "documentation": {
+          "html": "http://docs.hazelcast.org/docs/3.6.1/manual/html-single/index.html",
+          "pdf": "http://docs.hazelcast.org/docs/3.6.1/manual/pdf/hazelcast-documentation-3.6.1.pdf",
+          "apiDocs": "http://docs.hazelcast.org/docs/3.6.1/javadoc/",
+          "releaseNotes": "http://docs.hazelcast.org/docs/ern/index.html#3-6-1"
+        },
+        "codeSamples": {
+          "url": null,
+          "size": null
+        },
+        "github": null
+      },
+      {
+        "version": "3.6",
+        "date": "2016-01-25",
+        "downloads": {
+          "zip": {
+            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-3.6.zip",
+            "size": "88.6 MB"
+          },
+          "tar": {
+            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-3.6.tar.gz",
+            "size": "75.8 MB"
+          }
+        },
+        "documentation": {
+          "html": "http://docs.hazelcast.org/docs/3.6/manual/html-single/index.html",
+          "pdf": "http://docs.hazelcast.org/docs/3.6/manual/pdf/hazelcast-documentation-3.6.pdf",
+          "apiDocs": "http://docs.hazelcast.org/docs/3.6/javadoc/",
+          "releaseNotes": "http://docs.hazelcast.org/docs/ern/index.html#3-6"
+        },
+        "codeSamples": {
+          "url": null,
+          "size": null
+        },
+        "github": null
+      },
+      {
+        "version": "3.5.5",
+        "date": "2016-01-22",
+        "downloads": {
+          "zip": {
+            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-3.5.5.zip",
+            "size": "118.4 MB"
+          },
+          "tar": {
+            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-3.5.5.tar.gz",
+            "size": "102.5 MB"
+          }
+        },
+        "documentation": {
+          "html": "http://docs.hazelcast.org/docs/3.5.5/manual/html-single/index.html",
+          "pdf": "http://docs.hazelcast.org/docs/3.5.5/manual/pdf/hazelcast-documentation-3.5.5.pdf",
+          "apiDocs": "http://docs.hazelcast.org/docs/3.5.5/javadoc/",
+          "releaseNotes": "http://docs.hazelcast.org/docs/ern/index.html#3-5-5"
+        },
+        "codeSamples": {
+          "url": null,
+          "size": null
+        },
+        "github": null
+      },
+      {
+        "version": "3.5.4",
+        "date": "2015-11-25",
+        "downloads": {
+          "zip": {
+            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-3.5.4.zip",
+            "size": "116.4 MB"
+          },
+          "tar": {
+            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-3.5.4.tar.gz",
+            "size": "99.3 MB"
+          }
+        },
+        "documentation": {
+          "html": "http://docs.hazelcast.org/docs/3.5.4/manual/html-single/index.html",
+          "pdf": "http://docs.hazelcast.org/docs/3.5.4/manual/pdf/hazelcast-documentation-3.5.4.pdf",
+          "apiDocs": "http://docs.hazelcast.org/docs/3.5.4/javadoc/",
+          "releaseNotes": "http://docs.hazelcast.org/docs/ern/index.html#3-5-4"
+        },
+        "codeSamples": {
+          "url": null,
+          "size": null
+        },
+        "github": null
+      },
+      {
+        "version": "3.5.3",
+        "date": "2015-10-11",
+        "downloads": {
+          "zip": {
+            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-3.5.3.zip",
+            "size": "115.2 MB"
+          },
+          "tar": {
+            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-3.5.3.tar.gz",
+            "size": "99 MB"
+          }
+        },
+        "documentation": {
+          "html": "http://docs.hazelcast.org/docs/3.5.3/manual/html-single/index.html",
+          "pdf": "http://docs.hazelcast.org/docs/3.5.3/manual/pdf/hazelcast-documentation-3.5.3.pdf",
+          "apiDocs": "http://docs.hazelcast.org/docs/3.5.3/javadoc/",
+          "releaseNotes": "http://docs.hazelcast.org/docs/ern/index.html#3-5-3"
+        },
+        "codeSamples": {
+          "url": null,
+          "size": null
+        },
+        "github": null
+      },
+      {
+        "version": "3.5.2",
+        "date": "2015-08-26",
+        "downloads": {
+          "zip": {
+            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-3.5.2.zip",
+            "size": "134.4 MB"
+          },
+          "tar": {
+            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-3.5.2.tar.gz",
+            "size": "117.9 MB"
+          }
+        },
+        "documentation": {
+          "html": "http://docs.hazelcast.org/docs/3.5.2/manual/html-single/index.html",
+          "pdf": "http://docs.hazelcast.org/docs/3.5.2/manual/pdf/hazelcast-documentation-3.5.2.pdf",
+          "apiDocs": "http://docs.hazelcast.org/docs/3.5.2/javadoc/",
+          "releaseNotes": "http://docs.hazelcast.org/docs/ern/index.html#3-5-2"
+        },
+        "codeSamples": {
+          "url": null,
+          "size": null
+        },
+        "github": null
+      },
+      {
+        "version": "3.5.1",
+        "date": "2015-07-28",
+        "downloads": {
+          "zip": {
+            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-3.5.1.zip",
+            "size": "134.8 MB"
+          },
+          "tar": {
+            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-3.5.1.tar.gz",
+            "size": "118.4 MB"
+          }
+        },
+        "documentation": {
+          "html": "http://docs.hazelcast.org/docs/3.5.1/manual/html-single/index.html",
+          "pdf": "http://docs.hazelcast.org/docs/3.5.1/manual/pdf/hazelcast-documentation-3.5.1.pdf",
+          "apiDocs": "http://docs.hazelcast.org/docs/3.5.1/javadoc/",
+          "releaseNotes": "http://docs.hazelcast.org/docs/ern/index.html#3-5-1"
+        },
+        "codeSamples": {
+          "url": null,
+          "size": null
+        },
+        "github": null
+      },
+      {
+        "version": "3.5",
+        "date": "2015-06-17",
+        "downloads": {
+          "zip": {
+            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-3.5.zip",
+            "size": "135.9 MB"
+          },
+          "tar": {
+            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-3.5.tar.gz",
+            "size": "119.6 MB"
+          }
+        },
+        "documentation": {
+          "html": "http://docs.hazelcast.org/docs/3.5/manual/html-single/index.html",
+          "pdf": "http://docs.hazelcast.org/docs/3.5/manual/pdf/hazelcast-documentation-3.5.pdf",
+          "apiDocs": "http://docs.hazelcast.org/docs/3.5/javadoc/",
+          "releaseNotes": "http://docs.hazelcast.org/docs/ern/index.html#3-5"
+        },
+        "codeSamples": {
+          "url": null,
+          "size": null
+        },
+        "github": null
+      },
+      {
+        "version": "3.4.5",
+        "date": "2015-07-31",
+        "downloads": {
+          "zip": {
+            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-3.4.5.zip",
+            "size": "117.7 MB"
+          },
+          "tar": {
+            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-3.4.5.tar.gz",
+            "size": "103.7 MB"
+          }
+        },
+        "documentation": {
+          "html": "http://docs.hazelcast.org/docs/3.4.5/manual/html-single/index.html",
+          "pdf": "http://docs.hazelcast.org/docs/3.4.5/manual/pdf/hazelcast-documentation-3.4.5.pdf",
+          "apiDocs": "http://docs.hazelcast.org/docs/3.4.5/javadoc/",
+          "releaseNotes": "http://docs.hazelcast.org/docs/ern/index.html#3-4-5"
+        },
+        "codeSamples": {
+          "url": null,
+          "size": null
+        },
+        "github": null
+      },
+      {
+        "version": "3.4.4",
+        "date": "2015-06-21",
+        "downloads": {
+          "zip": {
+            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-3.4.4.zip",
+            "size": "117.7 MB"
+          },
+          "tar": {
+            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-3.4.4.tar.gz",
+            "size": "103.8 MB"
+          }
+        },
+        "documentation": {
+          "html": "http://docs.hazelcast.org/docs/3.4.4/manual/html-single/index.html",
+          "pdf": "http://docs.hazelcast.org/docs/3.4.4/manual/pdf/hazelcast-documentation-3.4.4.pdf",
+          "apiDocs": "http://docs.hazelcast.org/docs/3.4.4/javadoc/",
+          "releaseNotes": "http://docs.hazelcast.org/docs/ern/index.html#3-4-4"
+        },
+        "codeSamples": {
+          "url": null,
+          "size": null
+        },
+        "github": null
+      },
+      {
+        "version": "3.4.3",
+        "date": "2015-06-16",
+        "downloads": {
+          "zip": {
+            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-3.4.3.zip",
+            "size": "117.7 MB"
+          },
+          "tar": {
+            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-3.4.3.tar.gz",
+            "size": "103.8 MB"
+          }
+        },
+        "documentation": {
+          "html": "http://docs.hazelcast.org/docs/3.4.3/manual/html-single/index.html",
+          "pdf": "http://docs.hazelcast.org/docs/3.4.3/manual/pdf/hazelcast-documentation-3.4.3.pdf",
+          "apiDocs": "http://docs.hazelcast.org/docs/3.4.3/javadoc/",
+          "releaseNotes": "http://docs.hazelcast.org/docs/ern/index.html#3-4-3"
+        },
+        "codeSamples": {
+          "url": null,
+          "size": null
+        },
+        "github": null
+      },
+      {
+        "version": "3.4.2",
+        "date": "2015-03-25",
+        "downloads": {
+          "zip": {
+            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-3.4.2.zip",
+            "size": "118 MB"
+          },
+          "tar": {
+            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-3.4.2.tar.gz",
+            "size": "104 MB"
+          }
+        },
+        "documentation": {
+          "html": "http://docs.hazelcast.org/docs/3.4.2/manual/html-single/index.html",
+          "pdf": "http://docs.hazelcast.org/docs/3.4.2/manual/pdf/hazelcast-documentation-3.4.2.pdf",
+          "apiDocs": "http://docs.hazelcast.org/docs/3.4.2/javadoc/",
+          "releaseNotes": "http://docs.hazelcast.org/docs/ern/index.html#3-4-2"
+        },
+        "codeSamples": {
+          "url": null,
+          "size": null
+        },
+        "github": null
+      },
+      {
+        "version": "3.4.1",
+        "date": "2015-02-13",
+        "downloads": {
+          "zip": {
+            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-3.4.1.zip",
+            "size": "117 MB"
+          },
+          "tar": {
+            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-3.4.1.tar.gz",
+            "size": "103.1 MB"
+          }
+        },
+        "documentation": {
+          "html": "http://docs.hazelcast.org/docs/3.4.1/manual/html-single/index.html",
+          "pdf": "http://docs.hazelcast.org/docs/3.4.1/manual/pdf/hazelcast-documentation-3.4.1.pdf",
+          "apiDocs": "http://docs.hazelcast.org/docs/3.4.1/javadoc/",
+          "releaseNotes": "http://docs.hazelcast.org/docs/ern/index.html#3-4-1"
+        },
+        "codeSamples": {
+          "url": null,
+          "size": null
+        },
+        "github": null
+      },
+      {
+        "version": "3.4",
+        "date": "2014-12-24",
+        "downloads": {
+          "zip": {
+            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-3.4.zip",
+            "size": "114.8 MB"
+          },
+          "tar": {
+            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-3.4.tar.gz",
+            "size": "101 MB"
+          }
+        },
+        "documentation": {
+          "html": "http://docs.hazelcast.org/docs/3.4/manual/html-single/index.html",
+          "pdf": "http://docs.hazelcast.org/docs/3.4/manual/pdf/hazelcast-documentation-3.4.pdf",
+          "apiDocs": "http://docs.hazelcast.org/docs/3.4/javadoc/",
+          "releaseNotes": "http://docs.hazelcast.org/docs/ern/index.html#3-4"
+        },
+        "codeSamples": {
+          "url": null,
+          "size": null
+        },
+        "github": null
+      },
+      {
+        "version": "3.3.5",
+        "date": "2015-01-22",
+        "downloads": {
+          "zip": {
+            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-3.3.5.zip",
+            "size": "108.3 MB"
+          },
+          "tar": {
+            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-3.3.5.tar.gz",
+            "size": "97.2 MB"
+          }
+        },
+        "documentation": {
+          "html": "http://docs.hazelcast.org/docs/3.3.5/manual/html-single/index.html",
+          "pdf": "http://docs.hazelcast.org/docs/3.3.5/manual/pdf/hazelcast-documentation-3.3.5.pdf",
+          "apiDocs": "http://docs.hazelcast.org/docs/3.3.5/javadoc/",
+          "releaseNotes": "http://docs.hazelcast.org/docs/ern/index.html#3-3-5"
+        },
+        "codeSamples": {
+          "url": null,
+          "size": null
+        },
+        "github": null
+      },
+      {
+        "version": "3.3.4",
+        "date": "2015-01-12",
+        "downloads": {
+          "zip": {
+            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-3.3.4.zip",
+            "size": "108.5 MB"
+          },
+          "tar": {
+            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-3.3.4.tar.gz",
+            "size": "97.2 MB"
+          }
+        },
+        "documentation": {
+          "html": "http://docs.hazelcast.org/docs/3.3.4/manual/html-single/index.html",
+          "pdf": "http://docs.hazelcast.org/docs/3.3.4/manual/pdf/hazelcast-documentation-3.3.4.pdf",
+          "apiDocs": "http://docs.hazelcast.org/docs/3.3.4/javadoc/",
+          "releaseNotes": "http://docs.hazelcast.org/docs/ern/index.html#3-3-4"
+        },
+        "codeSamples": {
+          "url": null,
+          "size": null
+        },
+        "github": null
+      },
+      {
+        "version": "3.3.3",
+        "date": "2014-11-12",
+        "downloads": {
+          "zip": {
+            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-3.3.3.zip",
+            "size": "109.3 MB"
+          },
+          "tar": {
+            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-3.3.3.tar.gz",
+            "size": "98.2 MB"
+          }
+        },
+        "documentation": {
+          "html": "http://docs.hazelcast.org/docs/3.3.3/manual/html-single/index.html",
+          "pdf": "http://docs.hazelcast.org/docs/3.3.3/manual/pdf/hazelcast-documentation-3.3.3.pdf",
+          "apiDocs": "http://docs.hazelcast.org/docs/3.3.3/javadoc/",
+          "releaseNotes": "http://docs.hazelcast.org/docs/ern/index.html#3-3-3"
+        },
+        "codeSamples": {
+          "url": null,
+          "size": null
+        },
+        "github": null
+      },
+      {
+        "version": "3.3.2",
+        "date": "2014-10-23",
+        "downloads": {
+          "zip": {
+            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-3.3.2.zip",
+            "size": "104.1 MB"
+          },
+          "tar": {
+            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-3.3.2.tar.gz",
+            "size": "93 MB"
+          }
+        },
+        "documentation": {
+          "html": "http://docs.hazelcast.org/docs/3.3.2/manual/html-single/index.html",
+          "pdf": "http://docs.hazelcast.org/docs/3.3.2/manual/pdf/hazelcast-documentation-3.3.2.pdf",
+          "apiDocs": "http://docs.hazelcast.org/docs/3.3.2/javadoc/",
+          "releaseNotes": "http://docs.hazelcast.org/docs/ern/index.html#3-3-2"
+        },
+        "codeSamples": {
+          "url": null,
+          "size": null
+        },
+        "github": null
+      },
+      {
+        "version": "3.3.1",
+        "date": "2014-09-29",
+        "downloads": {
+          "zip": {
+            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-3.3.1.zip",
+            "size": "88 MB"
+          },
+          "tar": {
+            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-3.3.1.tar.gz",
+            "size": "82.8 MB"
+          }
+        },
+        "documentation": {
+          "html": "http://docs.hazelcast.org/docs/3.3.1/manual/html-single/index.html",
+          "pdf": "http://docs.hazelcast.org/docs/3.3.1/manual/pdf/hazelcast-documentation-3.3.1.pdf",
+          "apiDocs": "http://docs.hazelcast.org/docs/3.3.1/javadoc/",
+          "releaseNotes": "http://docs.hazelcast.org/docs/ern/index.html#3-3-1"
+        },
+        "codeSamples": {
+          "url": null,
+          "size": null
+        },
+        "github": null
+      },
+      {
+        "version": "3.3",
+        "date": "2014-09-08",
+        "downloads": {
+          "zip": {
+            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-3.3.zip",
+            "size": "92.2 MB"
+          },
+          "tar": {
+            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-3.3.tar.gz",
+            "size": "83.9 MB"
+          }
+        },
+        "documentation": {
+          "html": "http://docs.hazelcast.org/docs/3.3/manual/html-single/index.html",
+          "pdf": "http://docs.hazelcast.org/docs/3.3/manual/pdf/hazelcast-documentation-3.3.pdf",
+          "apiDocs": "http://docs.hazelcast.org/docs/3.3/javadoc/",
+          "releaseNotes": "http://docs.hazelcast.org/docs/ern/index.html#3-3"
+        },
+        "codeSamples": {
+          "url": null,
+          "size": null
+        },
+        "github": null
+      },
+      {
+        "version": "3.2.6",
+        "date": "2014-09-07",
+        "downloads": {
+          "zip": {
+            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-3.2.6.zip",
+            "size": "73.7 MB"
+          },
+          "tar": {
+            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-3.2.6.tar.gz",
+            "size": "65.8 MB"
+          }
+        },
+        "documentation": {
+          "html": "http://docs.hazelcast.org/docs/3.2.6/manual/html-single/index.html",
+          "pdf": "http://docs.hazelcast.org/docs/3.2.6/manual/pdf/hazelcast-documentation-3.2.6.pdf",
+          "apiDocs": "http://docs.hazelcast.org/docs/3.2.6/javadoc/",
+          "releaseNotes": "http://docs.hazelcast.org/docs/ern/index.html#3-2-6"
+        },
+        "codeSamples": {
+          "url": null,
+          "size": null
+        },
+        "github": null
+      },
+      {
+        "version": "3.2.5",
+        "date": "2014-08-14",
+        "downloads": {
+          "zip": {
+            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-3.2.5.zip",
+            "size": "71.4 MB"
+          },
+          "tar": {
+            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-3.2.5.tar.gz",
+            "size": "63.5 MB"
+          }
+        },
+        "documentation": {
+          "html": "http://docs.hazelcast.org/docs/3.2.5/manual/html-single/index.html",
+          "pdf": "http://docs.hazelcast.org/docs/3.2.5/manual/pdf/hazelcast-documentation-3.2.5.pdf",
+          "apiDocs": "http://docs.hazelcast.org/docs/3.2.5/javadoc/",
+          "releaseNotes": "http://docs.hazelcast.org/docs/ern/index.html#3-2-5"
+        },
+        "codeSamples": {
+          "url": null,
+          "size": null
+        },
+        "github": null
+      },
+      {
+        "version": "3.2.4",
+        "date": "2014-07-21",
+        "downloads": {
+          "zip": {
+            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-3.2.4.zip",
+            "size": "67.9 MB"
+          },
+          "tar": {
+            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-3.2.4.tar.gz",
+            "size": "59.9 MB"
+          }
+        },
+        "documentation": {
+          "html": "http://docs.hazelcast.org/docs/3.2.4/manual/html-single/index.html",
+          "pdf": "http://docs.hazelcast.org/docs/3.2.4/manual/pdf/hazelcast-documentation-3.2.4.pdf",
+          "apiDocs": "http://docs.hazelcast.org/docs/3.2.4/javadoc/",
+          "releaseNotes": "http://docs.hazelcast.org/docs/ern/index.html#3-2-4"
+        },
+        "codeSamples": {
+          "url": null,
+          "size": null
+        },
+        "github": null
+      },
+      {
+        "version": "3.2.3",
+        "date": "2014-06-17",
+        "downloads": {
+          "zip": {
+            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-3.2.3.zip",
+            "size": "67.9 MB"
+          },
+          "tar": {
+            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-3.2.3.tar.gz",
+            "size": "60 MB"
+          }
+        },
+        "documentation": {
+          "html": "http://docs.hazelcast.org/docs/3.2.3/manual/html-single/index.html",
+          "pdf": "http://docs.hazelcast.org/docs/3.2.3/manual/pdf/hazelcast-documentation-3.2.3.pdf",
+          "apiDocs": "http://docs.hazelcast.org/docs/3.2.3/javadoc/",
+          "releaseNotes": "http://docs.hazelcast.org/docs/ern/index.html#3-2-3"
+        },
+        "codeSamples": {
+          "url": null,
+          "size": null
+        },
+        "github": null
       }
     ],
     "development": [
       {
-        "version": "5.7.0-BETA-1",
-        "date": "2025-10-15",
+        "version": "4.2-BETA-1",
+        "date": "2021-02-17",
         "downloads": {
           "zip": {
-            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-5.7.0-BETA-1.zip",
-            "size": "839 MB"
-          },
-          "zipSlim": {
-            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-5.7.0-BETA-1-slim.zip",
-            "size": "47 MB"
+            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-4.2-BETA-1.zip",
+            "size": "147 MB"
           },
           "tar": {
-            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-5.7.0-BETA-1.tar.gz",
-            "size": "839 MB"
-          },
-          "tarSlim": {
-            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-5.7.0-BETA-1-slim.tar.gz",
-            "size": "47 MB"
+            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-4.2-BETA-1.tar.gz",
+            "size": "147 MB"
           }
         },
         "documentation": {
-          "html": "https://docs.hazelcast.com/hazelcast/5.7.0-BETA-1/",
-          "pdf": null,
-          "apiDocs": "https://docs.hazelcast.com/hazelcast/5.7.0-BETA-1/javadoc/",
-          "releaseNotes": "https://docs.hazelcast.com/hazelcast/5.7.0-beta-1/release-notes/5-7-0-beta-1"
+          "html": "http://docs.hazelcast.org/docs/4.2-BETA-1/manual/html-single/index.html",
+          "pdf": "http://docs.hazelcast.org/docs/4.2-BETA-1/manual/pdf/index.pdf",
+          "apiDocs": "http://docs.hazelcast.org/docs/4.2-BETA-1/javadoc",
+          "releaseNotes": "http://docs.hazelcast.org/docs/ern/index.html#4.2-BETA-1"
         },
         "codeSamples": {
-          "url": "https://github.com/hazelcast/hazelcast/tree/v5.7.0-BETA-1/examples",
+          "url": null,
           "size": null
         },
-        "github": "https://github.com/hazelcast/hazelcast/tree/v5.7.0-BETA-1"
+        "github": null
       }
     ]
   }

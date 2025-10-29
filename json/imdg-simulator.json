@@ -1,112 +1,512 @@
 {
-  "product": "IMDG Simulator",
+  "product": "Hazelcast IMDG Simulator",
   "lastUpdated": "2025-10-28T08:22:24",
   "type": "IMDG",
   "license": "public",
   "display": "Tools",
   "sections": {
     "currentStable": {
-      "version": "5.6.0",
-      "date": "2025-10-15",
+      "version": "0.13",
+      "date": "2021-08-26",
       "downloads": {
         "zip": {
-          "url": "https://repository.hazelcast.com/download/hazelcast/hazelcast-5.6.0.zip",
-          "size": "839 MB"
-        },
-        "zipSlim": {
-          "url": "https://repository.hazelcast.com/download/hazelcast/hazelcast-5.6.0-slim.zip",
-          "size": "47 MB"
+          "url": "https://github.com/hazelcast/hazelcast-simulator/releases/download/v0.13/hazelcast-simulator-0.13-dist.zip",
+          "size": "158 MB"
         },
         "tar": {
-          "url": "https://repository.hazelcast.com/download/hazelcast/hazelcast-5.6.0.tar.gz",
-          "size": "839 MB"
-        },
-        "tarSlim": {
-          "url": "https://repository.hazelcast.com/download/hazelcast/hazelcast-5.6.0-slim.tar.gz",
-          "size": "47 MB"
+          "url": "https://github.com/hazelcast/hazelcast-simulator/releases/download/v0.13/hazelcast-simulator-0.13-dist.tar.gz",
+          "size": "158 MB"
         }
       },
       "documentation": {
-        "html": "https://docs.hazelcast.com/hazelcast/5.6/",
+        "html": "https://github.com/hazelcast/hazelcast-simulator/blob/0.13/README.md",
         "pdf": null,
-        "apiDocs": "https://docs.hazelcast.com/hazelcast/5.6/javadoc/",
-        "releaseNotes": "https://docs.hazelcast.com/hazelcast/5.6/release-notes/5-6-0"
+        "apiDocs": null,
+        "releaseNotes": "https://github.com/hazelcast/hazelcast-simulator/releases/tag/v0.13"
       },
       "codeSamples": {
-        "url": "https://github.com/hazelcast/hazelcast/tree/v5.6.0/examples",
+        "url": null,
         "size": null
       },
-      "github": "https://github.com/hazelcast/hazelcast/tree/v5.6.0"
+      "github": "https://github.com/hazelcast/hazelcast-simulator/tree/0.13"
     },
     "previousStable": [
       {
-        "version": "5.5.2",
-        "date": "2025-09-02",
+        "version": "0.11",
+        "date": "2019-06-11",
         "downloads": {
           "zip": {
-            "url": "https://repository.hazelcast.com/download/hazelcast/hazelcast-5.5.2.zip",
-            "size": "839 MB"
-          },
-          "zipSlim": {
-            "url": "https://repository.hazelcast.com/download/hazelcast/hazelcast-5.5.2-slim.zip",
-            "size": "47 MB"
+            "url": "https://github.com/hazelcast/hazelcast-simulator/releases/download/0.11/hazelcast-simulator-0.11-dist.zip",
+            "size": "67 MB"
           },
           "tar": {
-            "url": "https://repository.hazelcast.com/download/hazelcast/hazelcast-5.5.2.tar.gz",
-            "size": "839 MB"
-          },
-          "tarSlim": {
-            "url": "https://repository.hazelcast.com/download/hazelcast/hazelcast-5.5.2-slim.tar.gz",
-            "size": "47 MB"
+            "url": "https://github.com/hazelcast/hazelcast-simulator/releases/download/0.11/hazelcast-simulator-0.11-dist.tar.gz",
+            "size": "67 MB"
           }
         },
         "documentation": {
-          "html": "https://docs.hazelcast.com/hazelcast/5.5/",
+          "html": "https://github.com/hazelcast/hazelcast-simulator/blob/0.11/README.md",
           "pdf": null,
-          "apiDocs": "https://docs.hazelcast.com/hazelcast/5.5/javadoc/",
-          "releaseNotes": "https://docs.hazelcast.com/hazelcast/5.5/release-notes/5-5-2"
+          "apiDocs": null,
+          "releaseNotes": null
         },
         "codeSamples": {
-          "url": "https://github.com/hazelcast/hazelcast/tree/v5.5.2/examples",
+          "url": null,
           "size": null
         },
-        "github": "https://github.com/hazelcast/hazelcast/tree/v5.5.2"
+        "github": "https://github.com/hazelcast/hazelcast-simulator/tree/0.11"
+      },
+      {
+        "version": "0.10",
+        "date": "2017-07-16",
+        "downloads": {
+          "zip": {
+            "url": "https://github.com/hazelcast/hazelcast-simulator/releases/download/0.10/hazelcast-simulator-0.10-dist.zip",
+            "size": "57 MB"
+          },
+          "tar": {
+            "url": "https://github.com/hazelcast/hazelcast-simulator/releases/download/0.10/hazelcast-simulator-0.10-dist.tar.gz",
+            "size": "57 MB"
+          }
+        },
+        "documentation": {
+          "html": "https://github.com/hazelcast/hazelcast-simulator/blob/0.10/README.md",
+          "pdf": null,
+          "apiDocs": null,
+          "releaseNotes": null
+        },
+        "codeSamples": {
+          "url": null,
+          "size": null
+        },
+        "github": "https://github.com/hazelcast/hazelcast-simulator/tree/0.10"
+      },
+      {
+        "version": "0.9.9",
+        "date": "2018-04-16",
+        "downloads": {
+          "zip": {
+            "url": "https://github.com/hazelcast/hazelcast-simulator/releases/download/0.9.9/hazelcast-simulator-0.9.9-dist.zip",
+            "size": "86.6 MB"
+          },
+          "tar": {
+            "url": "https://github.com/hazelcast/hazelcast-simulator/releases/download/0.9.9/hazelcast-simulator-0.9.9-dist.tar.gz",
+            "size": "86.4 MB"
+          }
+        },
+        "documentation": {
+          "html": "https://docs.hazelcast.org/docs/latest/manual/html-single/index.html#hazelcast-simulator",
+          "pdf": null,
+          "apiDocs": null,
+          "releaseNotes": null
+        },
+        "codeSamples": {
+          "url": null,
+          "size": null
+        },
+        "github": "https://github.com/hazelcast/hazelcast-simulator/tree/0.9.9"
+      },
+      {
+        "version": "0.9.8",
+        "date": "2017-11-23",
+        "downloads": {
+          "zip": {
+            "url": "https://github.com/hazelcast/hazelcast-simulator/releases/download/0.9.8/hazelcast-simulator-0.9.8-dist.zip",
+            "size": "85.8 MB"
+          },
+          "tar": {
+            "url": "https://github.com/hazelcast/hazelcast-simulator/releases/download/0.9.8/hazelcast-simulator-0.9.8-dist.tar.gz",
+            "size": "85.7 MB"
+          }
+        },
+        "documentation": {
+          "html": "http://docs.hazelcast.org/docs/latest/manual/html-single/index.html#hazelcast-simulator",
+          "pdf": null,
+          "apiDocs": null,
+          "releaseNotes": null
+        },
+        "codeSamples": {
+          "url": null,
+          "size": null
+        },
+        "github": "https://github.com/hazelcast/hazelcast-simulator/tree/0.9.8"
+      },
+      {
+        "version": "0.9.7",
+        "date": "2017-10-12",
+        "downloads": {
+          "zip": {
+            "url": "https://github.com/hazelcast/hazelcast-simulator/releases/download/0.9.7/hazelcast-simulator-0.9.7-dist.zip",
+            "size": "85.8 MB"
+          },
+          "tar": {
+            "url": "https://github.com/hazelcast/hazelcast-simulator/releases/download/0.9.7/hazelcast-simulator-0.9.7-dist.tar.gz",
+            "size": "85.7 MB"
+          }
+        },
+        "documentation": {
+          "html": "http://docs.hazelcast.org/docs/latest/manual/html-single/index.html#hazelcast-simulator",
+          "pdf": null,
+          "apiDocs": null,
+          "releaseNotes": null
+        },
+        "codeSamples": {
+          "url": null,
+          "size": null
+        },
+        "github": "https://github.com/hazelcast/hazelcast-simulator/tree/0.9.7"
+      },
+      {
+        "version": "0.9.6",
+        "date": "2017-06-29",
+        "downloads": {
+          "zip": {
+            "url": "https://github.com/hazelcast/hazelcast-simulator/releases/download/0.9.6/hazelcast-simulator-0.9.6-dist.zip",
+            "size": "83.5 MB"
+          },
+          "tar": {
+            "url": "https://github.com/hazelcast/hazelcast-simulator/releases/download/0.9.6/hazelcast-simulator-0.9.6-dist.tar.gz",
+            "size": "81.5 MB"
+          }
+        },
+        "documentation": {
+          "html": "http://docs.hazelcast.org/docs/latest/manual/html-single/index.html#hazelcast-simulator",
+          "pdf": null,
+          "apiDocs": null,
+          "releaseNotes": null
+        },
+        "codeSamples": {
+          "url": null,
+          "size": null
+        },
+        "github": "https://github.com/hazelcast/hazelcast-simulator/tree/0.9.6"
+      },
+      {
+        "version": "0.9.5",
+        "date": "2017-03-24",
+        "downloads": {
+          "zip": {
+            "url": "https://github.com/hazelcast/hazelcast-simulator/releases/download/0.9.5/hazelcast-simulator-0.9.5-dist.zip",
+            "size": "73 MB"
+          },
+          "tar": {
+            "url": "https://github.com/hazelcast/hazelcast-simulator/releases/download/0.9.5/hazelcast-simulator-0.9.5-dist.tar.gz",
+            "size": "73 MB"
+          }
+        },
+        "documentation": {
+          "html": "http://docs.hazelcast.org/docs/latest/manual/html-single/index.html#hazelcast-simulator",
+          "pdf": null,
+          "apiDocs": null,
+          "releaseNotes": null
+        },
+        "codeSamples": {
+          "url": null,
+          "size": null
+        },
+        "github": "https://github.com/hazelcast/hazelcast-simulator/tree/0.9.5"
+      },
+      {
+        "version": "0.9.4",
+        "date": "2017-03-01",
+        "downloads": {
+          "zip": {
+            "url": "https://github.com/hazelcast/hazelcast-simulator/releases/download/0.9.4/hazelcast-simulator-0.9.4-dist.zip",
+            "size": "73 MB"
+          },
+          "tar": {
+            "url": "https://github.com/hazelcast/hazelcast-simulator/releases/download/0.9.4/hazelcast-simulator-0.9.4-dist.tar.gz",
+            "size": "73 MB"
+          }
+        },
+        "documentation": {
+          "html": "http://docs.hazelcast.org/docs/latest/manual/html-single/index.html#hazelcast-simulator",
+          "pdf": null,
+          "apiDocs": null,
+          "releaseNotes": null
+        },
+        "codeSamples": {
+          "url": null,
+          "size": null
+        },
+        "github": "https://github.com/hazelcast/hazelcast-simulator/tree/0.9.4"
+      },
+      {
+        "version": "0.9.3",
+        "date": "2017-02-28",
+        "downloads": {
+          "zip": {
+            "url": "https://github.com/hazelcast/hazelcast-simulator/releases/download/0.9.3/hazelcast-simulator-0.9.3-dist.zip",
+            "size": "73 MB"
+          },
+          "tar": {
+            "url": "https://github.com/hazelcast/hazelcast-simulator/releases/download/0.9.3/hazelcast-simulator-0.9.3-dist.tar.gz",
+            "size": "73 MB"
+          }
+        },
+        "documentation": {
+          "html": "http://docs.hazelcast.org/docs/latest/manual/html-single/index.html#hazelcast-simulator",
+          "pdf": null,
+          "apiDocs": null,
+          "releaseNotes": null
+        },
+        "codeSamples": {
+          "url": null,
+          "size": null
+        },
+        "github": "https://github.com/hazelcast/hazelcast-simulator/tree/0.9.3"
+      },
+      {
+        "version": "0.9.2",
+        "date": "2017-02-17",
+        "downloads": {
+          "zip": {
+            "url": "https://github.com/hazelcast/hazelcast-simulator/releases/download/0.9.2/hazelcast-simulator-0.9.2-dist.zip",
+            "size": "72.9 MB"
+          },
+          "tar": {
+            "url": "https://github.com/hazelcast/hazelcast-simulator/releases/download/0.9.2/hazelcast-simulator-0.9.2-dist.tar.gz",
+            "size": "72.9 MB"
+          }
+        },
+        "documentation": {
+          "html": "http://docs.hazelcast.org/docs/latest/manual/html-single/index.html#hazelcast-simulator",
+          "pdf": null,
+          "apiDocs": null,
+          "releaseNotes": null
+        },
+        "codeSamples": {
+          "url": null,
+          "size": null
+        },
+        "github": "https://github.com/hazelcast/hazelcast-simulator/tree/0.9.2"
+      },
+      {
+        "version": "0.9.1",
+        "date": "2017-02-13",
+        "downloads": {
+          "zip": {
+            "url": "https://github.com/hazelcast/hazelcast-simulator/releases/download/0.9.1/hazelcast-simulator-0.9.1-dist.zip",
+            "size": "72.9 MB"
+          },
+          "tar": {
+            "url": "https://github.com/hazelcast/hazelcast-simulator/releases/download/0.9.1/hazelcast-simulator-0.9.1-dist.tar.gz",
+            "size": "72.8 MB"
+          }
+        },
+        "documentation": {
+          "html": "http://docs.hazelcast.org/docs/latest/manual/html-single/index.html#hazelcast-simulator",
+          "pdf": null,
+          "apiDocs": null,
+          "releaseNotes": null
+        },
+        "codeSamples": {
+          "url": null,
+          "size": null
+        },
+        "github": "https://github.com/hazelcast/hazelcast-simulator/tree/0.9.1"
+      },
+      {
+        "version": "0.9",
+        "date": "2017-01-10",
+        "downloads": {
+          "zip": {
+            "url": "https://github.com/hazelcast/hazelcast-simulator/releases/download/0.9/hazelcast-simulator-0.9-dist.zip",
+            "size": "72.8 MB"
+          },
+          "tar": {
+            "url": "https://github.com/hazelcast/hazelcast-simulator/releases/download/0.9/hazelcast-simulator-0.9-dist.tar.gz",
+            "size": "72.7 MB"
+          }
+        },
+        "documentation": {
+          "html": "http://docs.hazelcast.org/docs/latest/manual/html-single/index.html#hazelcast-simulator",
+          "pdf": null,
+          "apiDocs": null,
+          "releaseNotes": null
+        },
+        "codeSamples": {
+          "url": null,
+          "size": null
+        },
+        "github": "https://github.com/hazelcast/hazelcast-simulator/tree/0.9"
+      },
+      {
+        "version": "0.8.6",
+        "date": "2017-02-01",
+        "downloads": {
+          "zip": {
+            "url": "https://github.com/hazelcast/hazelcast-simulator/releases/download/0.8.6/hazelcast-simulator-0.8.6-dist.zip",
+            "size": "75.4 MB"
+          },
+          "tar": {
+            "url": "https://github.com/hazelcast/hazelcast-simulator/releases/download/0.8.6/hazelcast-simulator-0.8.6-dist.tar.gz",
+            "size": "75.3 MB"
+          }
+        },
+        "documentation": {
+          "html": "http://docs.hazelcast.org/docs/latest/manual/html-single/index.html#hazelcast-simulator",
+          "pdf": null,
+          "apiDocs": null,
+          "releaseNotes": null
+        },
+        "codeSamples": {
+          "url": null,
+          "size": null
+        },
+        "github": "https://github.com/hazelcast/hazelcast-simulator/tree/0.8.6"
+      },
+      {
+        "version": "0.8.5",
+        "date": "2016-11-14",
+        "downloads": {
+          "zip": {
+            "url": "https://github.com/hazelcast/hazelcast-simulator/releases/download/0.8.5/hazelcast-simulator-0.8.5-dist.zip",
+            "size": "74.7 MB"
+          },
+          "tar": {
+            "url": "https://github.com/hazelcast/hazelcast-simulator/releases/download/0.8.5/hazelcast-simulator-0.8.5-dist.tar.gz",
+            "size": "74.7 MB"
+          }
+        },
+        "documentation": {
+          "html": "http://docs.hazelcast.org/docs/latest/manual/html-single/index.html#hazelcast-simulator",
+          "pdf": null,
+          "apiDocs": null,
+          "releaseNotes": null
+        },
+        "codeSamples": {
+          "url": null,
+          "size": null
+        },
+        "github": "https://github.com/hazelcast/hazelcast-simulator/tree/0.8.5"
+      },
+      {
+        "version": "0.8.4",
+        "date": "2016-10-14",
+        "downloads": {
+          "zip": {
+            "url": "https://github.com/hazelcast/hazelcast-simulator/releases/download/0.8.4/hazelcast-simulator-0.8.4-dist.zip",
+            "size": "62.3 MB"
+          },
+          "tar": {
+            "url": "https://github.com/hazelcast/hazelcast-simulator/releases/download/0.8.4/hazelcast-simulator-0.8.4-dist.tar.gz",
+            "size": "62.3 MB"
+          }
+        },
+        "documentation": {
+          "html": "http://docs.hazelcast.org/docs/latest/manual/html-single/index.html#hazelcast-simulator",
+          "pdf": null,
+          "apiDocs": null,
+          "releaseNotes": null
+        },
+        "codeSamples": {
+          "url": null,
+          "size": null
+        },
+        "github": "https://github.com/hazelcast/hazelcast-simulator/tree/0.8.4"
+      },
+      {
+        "version": "0.8.1",
+        "date": "2016-08-19",
+        "downloads": {
+          "zip": {
+            "url": "https://github.com/hazelcast/hazelcast-simulator/releases/download/0.8.1/hazelcast-simulator-0.8.1-dist.zip",
+            "size": "62.1 MB"
+          },
+          "tar": {
+            "url": "https://github.com/hazelcast/hazelcast-simulator/releases/download/0.8.1/hazelcast-simulator-0.8.1-dist.tar.gz",
+            "size": "62.1 MB"
+          }
+        },
+        "documentation": {
+          "html": "http://docs.hazelcast.org/docs/latest/manual/html-single/index.html#hazelcast-simulator",
+          "pdf": null,
+          "apiDocs": null,
+          "releaseNotes": null
+        },
+        "codeSamples": {
+          "url": null,
+          "size": null
+        },
+        "github": "https://github.com/hazelcast/hazelcast-simulator/tree/0.8.1"
+      },
+      {
+        "version": "0.8",
+        "date": "2016-08-01",
+        "downloads": {
+          "zip": {
+            "url": "https://github.com/hazelcast/hazelcast-simulator/releases/download/0.8/hazelcast-simulator-0.8-dist.zip",
+            "size": "62.1 MB"
+          },
+          "tar": {
+            "url": "https://github.com/hazelcast/hazelcast-simulator/releases/download/0.8/hazelcast-simulator-0.8-dist.tar.gz",
+            "size": "62 MB"
+          }
+        },
+        "documentation": {
+          "html": "http://docs.hazelcast.org/docs/latest/manual/html-single/index.html#hazelcast-simulator",
+          "pdf": null,
+          "apiDocs": null,
+          "releaseNotes": null
+        },
+        "codeSamples": {
+          "url": null,
+          "size": null
+        },
+        "github": "https://github.com/hazelcast/hazelcast-simulator/tree/0.8"
+      },
+      {
+        "version": "0.7",
+        "date": "2016-04-11",
+        "downloads": {
+          "zip": {
+            "url": "https://github.com/hazelcast/hazelcast-simulator/releases/download/0.7/hazelcast-simulator-0.7-dist.zip",
+            "size": "60 MB"
+          },
+          "tar": {
+            "url": "https://github.com/hazelcast/hazelcast-simulator/releases/download/0.7/hazelcast-simulator-0.7-dist.tar.gz",
+            "size": "59.9 MB"
+          }
+        },
+        "documentation": {
+          "html": "http://docs.hazelcast.org/docs/latest/manual/html-single/index.html#hazelcast-simulator",
+          "pdf": null,
+          "apiDocs": null,
+          "releaseNotes": null
+        },
+        "codeSamples": {
+          "url": null,
+          "size": null
+        },
+        "github": "https://github.com/hazelcast/hazelcast-simulator/tree/0.7"
+      },
+      {
+        "version": "0.6",
+        "date": "2015-09-02",
+        "downloads": {
+          "zip": {
+            "url": "https://github.com/hazelcast/hazelcast-simulator/releases/download/0.6/hazelcast-simulator-0.6-dist.zip",
+            "size": "47.8 MB"
+          },
+          "tar": {
+            "url": "https://github.com/hazelcast/hazelcast-simulator/releases/download/0.6/hazelcast-simulator-0.6-dist.tar.gz",
+            "size": "47.8 MB"
+          }
+        },
+        "documentation": {
+          "html": "http://docs.hazelcast.org/docs/latest/manual/html-single/index.html#hazelcast-simulator",
+          "pdf": null,
+          "apiDocs": null,
+          "releaseNotes": null
+        },
+        "codeSamples": {
+          "url": null,
+          "size": null
+        },
+        "github": "https://github.com/hazelcast/hazelcast-simulator/tree/0.6"
       }
     ],
-    "development": [
-      {
-        "version": "5.7.0-BETA-1",
-        "date": "2025-10-15",
-        "downloads": {
-          "zip": {
-            "url": "https://repository.hazelcast.com/download/hazelcast/hazelcast-5.7.0-BETA-1.zip",
-            "size": "839 MB"
-          },
-          "zipSlim": {
-            "url": "https://repository.hazelcast.com/download/hazelcast/hazelcast-5.7.0-BETA-1-slim.zip",
-            "size": "47 MB"
-          },
-          "tar": {
-            "url": "https://repository.hazelcast.com/download/hazelcast/hazelcast-5.7.0-BETA-1.tar.gz",
-            "size": "839 MB"
-          },
-          "tarSlim": {
-            "url": "https://repository.hazelcast.com/download/hazelcast/hazelcast-5.7.0-BETA-1-slim.tar.gz",
-            "size": "47 MB"
-          }
-        },
-        "documentation": {
-          "html": "https://docs.hazelcast.com/hazelcast/5.7.0-BETA-1/",
-          "pdf": null,
-          "apiDocs": "https://docs.hazelcast.com/hazelcast/5.7.0-BETA-1/javadoc/",
-          "releaseNotes": "https://docs.hazelcast.com/hazelcast/5.7.0-beta-1/release-notes/5-7-0-beta-1"
-        },
-        "codeSamples": {
-          "url": "https://github.com/hazelcast/hazelcast/tree/v5.7.0-BETA-1/examples",
-          "size": null
-        },
-        "github": "https://github.com/hazelcast/hazelcast/tree/v5.7.0-BETA-1"
-      }
-    ]
+    "development": []
   }
 }

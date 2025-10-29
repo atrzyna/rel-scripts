@@ -1,112 +1,3295 @@
 {
-  "product": "IMDG Clients",
+  "product": "Hazelcast Clients",
   "lastUpdated": "2025-10-28T08:22:24",
   "type": "IMDG_CLIENTS",
   "license": "public",
   "display": "Hazelcast Clients",
-  "sections": {
-    "currentStable": {
-      "version": "5.6.0",
-      "date": "2025-10-15",
-      "downloads": {
-        "zip": {
-          "url": "https://repository.hazelcast.com/download/hazelcast/hazelcast-5.6.0.zip",
-          "size": "839 MB"
-        },
-        "zipSlim": {
-          "url": "https://repository.hazelcast.com/download/hazelcast/hazelcast-5.6.0-slim.zip",
-          "size": "47 MB"
-        },
-        "tar": {
-          "url": "https://repository.hazelcast.com/download/hazelcast/hazelcast-5.6.0.tar.gz",
-          "size": "839 MB"
-        },
-        "tarSlim": {
-          "url": "https://repository.hazelcast.com/download/hazelcast/hazelcast-5.6.0-slim.tar.gz",
-          "size": "47 MB"
-        }
-      },
-      "documentation": {
-        "html": "https://docs.hazelcast.com/hazelcast/5.6/",
-        "pdf": null,
-        "apiDocs": "https://docs.hazelcast.com/hazelcast/5.6/javadoc/",
-        "releaseNotes": "https://docs.hazelcast.com/hazelcast/5.6/release-notes/5-6-0"
-      },
-      "codeSamples": {
-        "url": "https://github.com/hazelcast/hazelcast/tree/v5.6.0/examples",
-        "size": null
-      },
-      "github": "https://github.com/hazelcast/hazelcast/tree/v5.6.0"
-    },
-    "previousStable": [
+  "summary": "Hazelcast clients and programming language APIs allow you to extend the benefits of operational in-memory computing to applications in these languages. All of these clients and APIs are open source and supported by Hazelcast.",
+  "clients": [
       {
-        "version": "5.5.2",
-        "date": "2025-09-02",
-        "downloads": {
-          "zip": {
-            "url": "https://repository.hazelcast.com/download/hazelcast/hazelcast-5.5.2.zip",
-            "size": "839 MB"
+        "type": "Java",
+        "show": true,
+        "versions": [
+          {
+            "version": "5.6.0",
+            "date": "2025-10-15",
+            "download": {
+              "url": "https://github.com/hazelcast/hazelcast/releases/download/v5.6.0/hazelcast-5.6.0-slim.zip",
+              "size": "39 MB"
+            },
+            "github": "https://github.com/hazelcast/hazelcast/tree/v5.6.0",
+            "docs": "https://docs.hazelcast.com/hazelcast/5.6/getting-started/quickstart.html",
+            "apiDocs": "https://docs.hazelcast.org/docs/5.6.0/javadoc",
+            "releaseNotes": "https://docs.hazelcast.com/hazelcast/5.6/release-notes/5-6-0"
           },
-          "zipSlim": {
-            "url": "https://repository.hazelcast.com/download/hazelcast/hazelcast-5.5.2-slim.zip",
-            "size": "47 MB"
+          {
+            "version": "5.5.0",
+            "date": "2024-07-26",
+            "download": {
+              "url": "https://github.com/hazelcast/hazelcast/releases/download/v5.5.0/hazelcast-5.5.0-slim.zip",
+              "size": "39 MB"
+            },
+            "github": "https://github.com/hazelcast/hazelcast/tree/v5.5.0",
+            "docs": "https://docs.hazelcast.com/hazelcast/5.5/getting-started/quickstart.html",
+            "apiDocs": "https://docs.hazelcast.org/docs/5.5.0/javadoc",
+            "releaseNotes": "https://docs.hazelcast.com/hazelcast/5.5/release-notes/5-5-0"
           },
-          "tar": {
-            "url": "https://repository.hazelcast.com/download/hazelcast/hazelcast-5.5.2.tar.gz",
-            "size": "839 MB"
+          {
+            "version": "5.4.0",
+            "date": "2024-04-15",
+            "download": {
+              "url": "https://github.com/hazelcast/hazelcast/releases/download/v5.4.0/hazelcast-5.4.0-slim.zip",
+              "size": "39 MB"
+            },
+            "github": "https://github.com/hazelcast/hazelcast/tree/v5.4.0",
+            "docs": "https://docs.hazelcast.com/hazelcast/5.4/getting-started/quickstart.html",
+            "apiDocs": "https://docs.hazelcast.org/docs/5.4.0/javadoc",
+            "releaseNotes": "https://docs.hazelcast.com/hazelcast/5.4/release-notes/5-4-0"
           },
-          "tarSlim": {
-            "url": "https://repository.hazelcast.com/download/hazelcast/hazelcast-5.5.2-slim.tar.gz",
-            "size": "47 MB"
+          {
+            "version": "5.3.8",
+            "date": "2024-07-17",
+            "download": {
+              "url": "https://github.com/hazelcast/hazelcast/releases/download/v5.3.8/hazelcast-5.3.8-slim.zip",
+              "size": "36 MB"
+            },
+            "github": "https://github.com/hazelcast/hazelcast/tree/v5.3.8",
+            "docs": "https://docs.hazelcast.com/hazelcast/5.3/getting-started/quickstart.html",
+            "apiDocs": "https://docs.hazelcast.org/docs/5.3.8/javadoc",
+            "releaseNotes": "https://docs.hazelcast.com/hazelcast/5.3/release-notes/5-3-8"
+          },
+          {
+            "version": "5.3.7",
+            "date": "2024-04-03",
+            "download": {
+              "url": "https://github.com/hazelcast/hazelcast/releases/download/v5.3.7/hazelcast-5.3.7-slim.zip",
+              "size": "36 MB"
+            },
+            "github": "https://github.com/hazelcast/hazelcast/tree/v5.3.7",
+            "docs": "https://docs.hazelcast.com/hazelcast/5.3/getting-started/quickstart.html",
+            "apiDocs": "https://docs.hazelcast.org/docs/5.3.7/javadoc",
+            "releaseNotes": "https://docs.hazelcast.com/hazelcast/5.3/release-notes/5-3-7"
+          },
+          {
+            "version": "5.3.6",
+            "date": "2023-11-09",
+            "download": {
+              "url": "https://github.com/hazelcast/hazelcast/releases/download/v5.3.6/hazelcast-5.3.6.zip",
+              "size": "554 MB"
+            },
+            "github": "https://github.com/hazelcast/hazelcast/tree/v5.3.6",
+            "docs": "https://docs.hazelcast.com/hazelcast/5.3/getting-started/quickstart.html",
+            "apiDocs": "https://docs.hazelcast.org/docs/5.3.6/javadoc",
+            "releaseNotes": "https://docs.hazelcast.com/hazelcast/5.3/release-notes/5-3-6"
+          },
+          {
+            "version": "5.3.5",
+            "date": "2023-10-24",
+            "download": {
+              "url": "https://github.com/hazelcast/hazelcast/releases/download/v5.3.5/hazelcast-5.3.5.zip",
+              "size": "554 MB"
+            },
+            "github": "https://github.com/hazelcast/hazelcast/tree/v5.3.5",
+            "docs": "https://docs.hazelcast.com/hazelcast/5.3/getting-started/quickstart.html",
+            "apiDocs": "https://docs.hazelcast.org/docs/5.3.5/javadoc",
+            "releaseNotes": "https://docs.hazelcast.com/hazelcast/5.3/release-notes/5-3-5"
+          },
+          {
+            "version": "5.3.2",
+            "date": "2023-08-21",
+            "download": {
+              "url": "https://github.com/hazelcast/hazelcast/releases/download/v5.3.2/hazelcast-5.3.2.zip",
+              "size": "560 MB"
+            },
+            "github": "https://github.com/hazelcast/hazelcast/tree/v5.3.2",
+            "docs": "https://docs.hazelcast.com/hazelcast/5.3/getting-started/quickstart.html",
+            "apiDocs": "https://docs.hazelcast.org/docs/5.3.2/javadoc",
+            "releaseNotes": "https://docs.hazelcast.com/hazelcast/5.3/release-notes/5-3-2"
+          },
+          {
+            "version": "5.3.1",
+            "date": "2023-06-09",
+            "download": {
+              "url": "https://github.com/hazelcast/hazelcast/releases/download/v5.3.1/hazelcast-5.3.1.zip",
+              "size": "560 MB"
+            },
+            "github": "https://github.com/hazelcast/hazelcast/tree/v5.3.1",
+            "docs": "https://docs.hazelcast.com/hazelcast/5.3/getting-started/quickstart.html",
+            "apiDocs": "https://docs.hazelcast.org/docs/5.3.1/javadoc",
+            "releaseNotes": "https://docs.hazelcast.com/hazelcast/5.3/release-notes/5-3-1"
+          },
+          {
+            "version": "5.3.0",
+            "date": "2023-05-19",
+            "download": {
+              "url": "https://github.com/hazelcast/hazelcast/releases/download/v5.3.0/hazelcast-5.3.0.zip",
+              "size": "559 MB"
+            },
+            "github": "https://github.com/hazelcast/hazelcast/tree/v5.3.0",
+            "docs": "https://docs.hazelcast.com/hazelcast/5.3/getting-started/quickstart.html",
+            "apiDocs": "https://docs.hazelcast.org/docs/5.3.0/javadoc",
+            "releaseNotes": "https://docs.hazelcast.com/hazelcast/5.3/release-notes/5-3-0"
+          },
+          {
+            "version": "5.2.5",
+            "date": "2024-02-26",
+            "download": {
+              "url": "https://github.com/hazelcast/hazelcast/releases/download/v5.2.5/hazelcast-5.2.5.zip",
+              "size": "530 MB"
+            },
+            "github": "https://github.com/hazelcast/hazelcast/tree/v5.2.5",
+            "docs": "https://docs.hazelcast.com/hazelcast/5.2/getting-started/quickstart.html",
+            "apiDocs": "https://docs.hazelcast.org/docs/5.2.5/javadoc",
+            "releaseNotes": "https://docs.hazelcast.com/hazelcast/5.2/release-notes/5-2-5"
+          },
+          {
+            "version": "5.2.4",
+            "date": "2023-06-13",
+            "download": {
+              "url": "https://github.com/hazelcast/hazelcast/releases/download/v5.2.4/hazelcast-5.2.4.zip",
+              "size": "525 MB"
+            },
+            "github": "https://github.com/hazelcast/hazelcast/tree/v5.2.4",
+            "docs": "https://docs.hazelcast.com/hazelcast/5.2/getting-started/quickstart.html",
+            "apiDocs": "https://docs.hazelcast.org/docs/5.2.4/javadoc",
+            "releaseNotes": "https://docs.hazelcast.com/hazelcast/5.2/release-notes/5-2-4"
+          },
+          {
+            "version": "5.2.3",
+            "date": "2023-03-23",
+            "download": {
+              "url": "https://github.com/hazelcast/hazelcast/releases/download/v5.2.3/hazelcast-5.2.3.zip",
+              "size": "523 MB"
+            },
+            "github": "https://github.com/hazelcast/hazelcast/tree/v5.2.3",
+            "docs": "https://docs.hazelcast.com/hazelcast/5.2/getting-started/quickstart.html",
+            "apiDocs": "https://docs.hazelcast.org/docs/5.2.3/javadoc",
+            "releaseNotes": "https://docs.hazelcast.com/hazelcast/5.2/release-notes/5-2-3"
+          },
+          {
+            "version": "5.2.2",
+            "date": "2023-02-15",
+            "download": {
+              "url": "https://github.com/hazelcast/hazelcast/releases/download/v5.2.2/hazelcast-5.2.2.zip",
+              "size": "522 MB"
+            },
+            "github": "https://github.com/hazelcast/hazelcast/tree/v5.2.2",
+            "docs": "https://docs.hazelcast.com/hazelcast/5.2/getting-started/quickstart.html",
+            "apiDocs": "https://docs.hazelcast.org/docs/5.2.2/javadoc",
+            "releaseNotes": "https://docs.hazelcast.com/hazelcast/5.2/release-notes/5-2-2"
+          },
+          {
+            "version": "5.2.1",
+            "date": "2022-11-14",
+            "download": {
+              "url": "https://github.com/hazelcast/hazelcast/releases/download/v5.2.1/hazelcast-5.2.1.zip",
+              "size": "521 MB"
+            },
+            "github": "https://github.com/hazelcast/hazelcast/tree/v5.2.1",
+            "docs": "https://docs.hazelcast.com/hazelcast/5.2/getting-started/quickstart.html",
+            "apiDocs": "https://docs.hazelcast.org/docs/5.2.1/javadoc",
+            "releaseNotes": "https://docs.hazelcast.com/hazelcast/5.2/release-notes/5-2-1"
+          },
+          {
+            "version": "5.2.0",
+            "date": "2022-10-25",
+            "download": {
+              "url": "https://github.com/hazelcast/hazelcast/releases/download/v5.2.0/hazelcast-5.2.0.zip",
+              "size": "516 MB"
+            },
+            "github": "https://github.com/hazelcast/hazelcast/tree/v5.2.0",
+            "docs": "https://docs.hazelcast.com/hazelcast/5.2/getting-started/quickstart.html",
+            "apiDocs": "https://docs.hazelcast.org/docs/5.2.0/javadoc",
+            "releaseNotes": "https://docs.hazelcast.com/hazelcast/5.2/release-notes/5-2-0"
+          },
+          {
+            "version": "5.1.7",
+            "date": "2023-06-19",
+            "download": {
+              "url": "https://github.com/hazelcast/hazelcast/releases/download/v5.1.7/hazelcast-5.1.7.zip",
+              "size": "480 MB"
+            },
+            "github": "https://github.com/hazelcast/hazelcast/tree/v5.1.7",
+            "docs": "https://docs.hazelcast.com/hazelcast/5.1/getting-started/quickstart.html",
+            "apiDocs": "https://docs.hazelcast.org/docs/5.1.7/javadoc",
+            "releaseNotes": "https://docs.hazelcast.com/hazelcast/5.1/release-notes/5-1-7"
+          },
+          {
+            "version": "5.1.6",
+            "date": "2023-05-10",
+            "download": {
+              "url": "https://github.com/hazelcast/hazelcast/releases/download/v5.1.6/hazelcast-5.1.6.zip",
+              "size": "479 MB"
+            },
+            "github": "https://github.com/hazelcast/hazelcast/tree/v5.1.6",
+            "docs": "https://docs.hazelcast.com/hazelcast/5.1/getting-started/quickstart.html",
+            "apiDocs": "https://docs.hazelcast.org/docs/5.1.6/javadoc",
+            "releaseNotes": "https://docs.hazelcast.com/hazelcast/5.1/release-notes/5-1-6"
+          },
+          {
+            "version": "5.1.5",
+            "date": "2022-11-14",
+            "download": {
+              "url": "https://github.com/hazelcast/hazelcast/releases/download/v5.1.5/hazelcast-5.1.5.zip",
+              "size": "477 MB"
+            },
+            "github": "https://github.com/hazelcast/hazelcast/tree/v5.1.5",
+            "docs": "https://docs.hazelcast.com/hazelcast/5.1/getting-started/quickstart.html",
+            "apiDocs": "https://docs.hazelcast.org/docs/5.1.5/javadoc",
+            "releaseNotes": "https://docs.hazelcast.com/hazelcast/5.1/release-notes/5-1-5"
+          },
+          {
+            "version": "5.1.4",
+            "date": "2022-10-11",
+            "download": {
+              "url": "https://github.com/hazelcast/hazelcast/releases/download/v5.1.4/hazelcast-5.1.4.zip",
+              "size": "472 MB"
+            },
+            "github": "https://github.com/hazelcast/hazelcast/tree/v5.1.4",
+            "docs": "https://docs.hazelcast.com/hazelcast/5.1/getting-started/quickstart.html",
+            "apiDocs": "https://docs.hazelcast.org/docs/5.1.4/javadoc",
+            "releaseNotes": "https://docs.hazelcast.com/hazelcast/5.1/release-notes/5-1-4"
+          },
+          {
+            "version": "5.1.3",
+            "date": "2022-08-01",
+            "download": {
+              "url": "https://github.com/hazelcast/hazelcast/releases/download/v5.1.3/hazelcast-5.1.3.zip",
+              "size": "474 MB"
+            },
+            "github": "https://github.com/hazelcast/hazelcast/tree/v5.1.3",
+            "docs": "https://docs.hazelcast.com/hazelcast/5.1/getting-started/quickstart.html",
+            "apiDocs": "https://docs.hazelcast.org/docs/5.1.3/javadoc",
+            "releaseNotes": "https://docs.hazelcast.com/hazelcast/5.1/release-notes/5-1-3"
+          },
+          {
+            "version": "5.1.2",
+            "date": "2022-06-13",
+            "download": {
+              "url": "https://github.com/hazelcast/hazelcast/releases/download/v5.1.2/hazelcast-5.1.2.zip",
+              "size": "474 MB"
+            },
+            "github": "https://github.com/hazelcast/hazelcast/tree/v5.1.2",
+            "docs": "https://docs.hazelcast.com/hazelcast/5.1/getting-started/quickstart.html",
+            "apiDocs": "https://docs.hazelcast.org/docs/5.1.2/javadoc",
+            "releaseNotes": "https://docs.hazelcast.com/hazelcast/5.1/5-1-2-release-notes"
+          },
+          {
+            "version": "5.1.1",
+            "date": "2022-03-17",
+            "download": {
+              "url": "https://github.com/hazelcast/hazelcast/releases/download/v5.1.1/hazelcast-5.1.1.zip",
+              "size": "479 MB"
+            },
+            "github": "https://github.com/hazelcast/hazelcast/tree/v5.1.1",
+            "docs": "https://docs.hazelcast.com/hazelcast/5.1/getting-started/quickstart.html",
+            "apiDocs": "https://docs.hazelcast.org/docs/5.1.1/javadoc",
+            "releaseNotes": "https://docs.hazelcast.com/hazelcast/5.1/5-1-1-release-notes"
+          },
+          {
+            "version": "5.1",
+            "date": "2022-03-01",
+            "download": {
+              "url": "https://github.com/hazelcast/hazelcast/releases/download/v5.1/hazelcast-5.1.zip",
+              "size": "479 MB"
+            },
+            "github": "https://github.com/hazelcast/hazelcast/tree/v5.1",
+            "docs": "https://docs.hazelcast.com/hazelcast/5.1/getting-started/quickstart.html",
+            "apiDocs": "https://docs.hazelcast.org/docs/5.1/javadoc",
+            "releaseNotes": "https://docs.hazelcast.com/hazelcast/5.1/release-notes.html"
+          },
+          {
+            "version": "5.0.5",
+            "date": "2023-06-28",
+            "download": {
+              "url": "https://github.com/hazelcast/hazelcast/releases/download/v5.0.5/hazelcast-5.0.5.zip",
+              "size": "471 MB"
+            },
+            "github": "https://github.com/hazelcast/hazelcast/tree/v5.0.5",
+            "docs": "https://docs.hazelcast.com/hazelcast/5.0/getting-started/quickstart.html",
+            "apiDocs": "https://docs.hazelcast.org/docs/5.0.5/javadoc",
+            "releaseNotes": "https://docs.hazelcast.com/hazelcast/5.0/release-notes/5-0-5"
+          },
+          {
+            "version": "5.0.4",
+            "date": "2022-11-24",
+            "download": {
+              "url": "https://github.com/hazelcast/hazelcast/releases/download/v5.0.4/hazelcast-5.0.4.zip",
+              "size": "471 MB"
+            },
+            "github": "https://github.com/hazelcast/hazelcast/tree/v5.0.4",
+            "docs": "https://docs.hazelcast.com/hazelcast/5.0/getting-started/quickstart.html",
+            "apiDocs": "https://docs.hazelcast.org/docs/5.0.4/javadoc",
+            "releaseNotes": "https://docs.hazelcast.com/hazelcast/5.0/release-notes/5-0-4"
+          },
+          {
+            "version": "5.0.3",
+            "date": "2022-03-28",
+            "download": {
+              "url": "https://github.com/hazelcast/hazelcast/releases/download/v5.0.3/hazelcast-5.0.3.zip",
+              "size": "469 MB"
+            },
+            "github": "https://github.com/hazelcast/hazelcast/tree/v5.0.3",
+            "docs": "https://docs.hazelcast.com/hazelcast/5.0/getting-started/quickstart.html",
+            "apiDocs": "https://docs.hazelcast.org/docs/5.0.3/javadoc",
+            "releaseNotes": "https://docs.hazelcast.com/hazelcast/5.0/5-0-3-release-notes"
+          },
+          {
+            "version": "5.0.2",
+            "date": "2021-12-21",
+            "download": {
+              "url": "https://github.com/hazelcast/hazelcast/releases/download/v5.0.2/hazelcast-5.0.2.zip",
+              "size": "722 MB"
+            },
+            "github": "https://github.com/hazelcast/hazelcast/tree/v5.0.2",
+            "docs": "https://docs.hazelcast.com/hazelcast/5.0/getting-started/quickstart.html",
+            "apiDocs": "https://docs.hazelcast.org/docs/5.0.2/javadoc",
+            "releaseNotes": "https://docs.hazelcast.com/hazelcast/5.0/release-notes.html"
+          },
+          {
+            "version": "5.0.1",
+            "date": "2021-12-17",
+            "download": {
+              "url": "https://github.com/hazelcast/hazelcast/releases/download/v5.0.1/hazelcast-5.0.1.zip",
+              "size": "722 MB"
+            },
+            "github": "https://github.com/hazelcast/hazelcast/tree/v5.0.1",
+            "docs": "https://docs.hazelcast.com/hazelcast/5.0/getting-started/quickstart.html",
+            "apiDocs": "https://docs.hazelcast.org/docs/5.0.1/javadoc",
+            "releaseNotes": "https://docs.hazelcast.com/hazelcast/5.0/release-notes.html"
+          },
+          {
+            "version": "5.0",
+            "date": "2021-09-22",
+            "download": {
+              "url": "https://github.com/hazelcast/hazelcast/releases/download/v5.0/hazelcast-5.0.zip",
+              "size": "680 MB"
+            },
+            "github": "https://github.com/hazelcast/hazelcast/tree/v5.0",
+            "docs": "https://docs.hazelcast.com/hazelcast/5.0/getting-started/quickstart.html",
+            "apiDocs": "https://docs.hazelcast.org/docs/5.0/javadoc",
+            "releaseNotes": "https://docs.hazelcast.com/hazelcast/5.0/release-notes.html"
+          },
+          {
+            "version": "4.2.8",
+            "date": "2023-05-29",
+            "download": {
+              "url": "https://github.com/hazelcast/hazelcast/releases/download/v4.2.8/hazelcast-4.2.8.zip",
+              "size": "156 MB"
+            },
+            "github": "https://github.com/hazelcast/hazelcast/tree/v4.2.8",
+            "docs": "https://docs.hazelcast.com/imdg/4.2/",
+            "apiDocs": "https://docs.hazelcast.org/docs/4.2.8/javadoc",
+            "releaseNotes": "https://docs.hazelcast.org/docs/rn/index.html#4-2-8"
+          },
+          {
+            "version": "4.2.7",
+            "date": "2023-02-07",
+            "download": {
+              "url": "https://github.com/hazelcast/hazelcast/releases/download/v4.2.7/hazelcast-4.2.7.zip",
+              "size": "155 MB"
+            },
+            "github": "https://github.com/hazelcast/hazelcast/tree/v4.2.7",
+            "docs": "https://docs.hazelcast.com/imdg/4.2/",
+            "apiDocs": "https://docs.hazelcast.org/docs/4.2.7/javadoc",
+            "releaseNotes": "https://docs.hazelcast.org/docs/rn/index.html#4-2-7"
+          },
+          {
+            "version": "4.2.6",
+            "date": "2022-11-25",
+            "download": {
+              "url": "https://github.com/hazelcast/hazelcast/releases/download/v4.2.6/hazelcast-4.2.6.zip",
+              "size": "155 MB"
+            },
+            "github": "https://github.com/hazelcast/hazelcast/tree/v4.2.6",
+            "docs": "https://docs.hazelcast.com/imdg/4.2/",
+            "apiDocs": "https://docs.hazelcast.org/docs/4.2.6/javadoc",
+            "releaseNotes": "https://docs.hazelcast.org/docs/rn/index.html#4-2-6"
+          },
+          {
+            "version": "4.2.5",
+            "date": "2022-04-27",
+            "download": {
+              "url": "https://github.com/hazelcast/hazelcast/releases/download/v4.2.5/hazelcast-4.2.5.zip",
+              "size": "152 MB"
+            },
+            "github": "https://github.com/hazelcast/hazelcast/tree/v4.2.5",
+            "docs": "https://docs.hazelcast.com/imdg/4.2/",
+            "apiDocs": "https://docs.hazelcast.org/docs/4.2.5/javadoc",
+            "releaseNotes": "https://docs.hazelcast.org/docs/rn/index.html#4-2-5"
+          },
+          {
+            "version": "4.2.4",
+            "date": "2021-12-20",
+            "download": {
+              "url": "https://github.com/hazelcast/hazelcast/releases/download/v4.2.4/hazelcast-4.2.4.zip",
+              "size": "148 MB"
+            },
+            "github": "https://github.com/hazelcast/hazelcast/tree/v4.2.4",
+            "docs": "https://docs.hazelcast.com/imdg/4.2/",
+            "apiDocs": "https://docs.hazelcast.org/docs/4.2.4/javadoc",
+            "releaseNotes": "https://docs.hazelcast.org/docs/rn/index.html#4-2-4"
+          },
+          {
+            "version": "4.2.3",
+            "date": "2021-12-15",
+            "download": {
+              "url": "https://github.com/hazelcast/hazelcast/releases/download/v4.2.3/hazelcast-4.2.3.zip",
+              "size": "148 MB"
+            },
+            "github": "https://github.com/hazelcast/hazelcast/tree/v4.2.3",
+            "docs": "https://docs.hazelcast.com/imdg/4.2/",
+            "apiDocs": "https://docs.hazelcast.org/docs/4.2.3/javadoc",
+            "releaseNotes": "https://docs.hazelcast.org/docs/rn/index.html#4-2-3"
+          },
+          {
+            "version": "4.2.2",
+            "date": "2021-08-11",
+            "download": {
+              "url": "https://github.com/hazelcast/hazelcast/releases/download/v4.2.2/hazelcast-4.2.2.zip",
+              "size": "148 MB"
+            },
+            "github": "https://github.com/hazelcast/hazelcast/tree/v4.2.2",
+            "docs": "https://docs.hazelcast.com/imdg/4.2/",
+            "apiDocs": "https://docs.hazelcast.org/docs/4.2.2/javadoc",
+            "releaseNotes": "https://docs.hazelcast.org/docs/rn/index.html#4-2-2"
+          },
+          {
+            "version": "4.2.1",
+            "date": "2021-06-30",
+            "download": {
+              "url": "https://github.com/hazelcast/hazelcast/releases/download/v4.2.1/hazelcast-4.2.1.zip",
+              "size": "148 MB"
+            },
+            "github": "https://github.com/hazelcast/hazelcast/tree/v4.2.1",
+            "docs": "https://docs.hazelcast.com/imdg/4.2/",
+            "apiDocs": "https://docs.hazelcast.org/docs/4.2.1/javadoc",
+            "releaseNotes": "https://docs.hazelcast.org/docs/rn/index.html#4-2-1"
+          },
+          {
+            "version": "4.2",
+            "date": "2021-03-24",
+            "download": {
+              "url": "https://github.com/hazelcast/hazelcast/releases/download/v4.2/hazelcast-4.2.zip",
+              "size": "140 MB"
+            },
+            "github": "https://github.com/hazelcast/hazelcast/tree/v4.2",
+            "docs": "https://docs.hazelcast.com/imdg/4.2/",
+            "apiDocs": "https://docs.hazelcast.org/docs/4.2/javadoc",
+            "releaseNotes": "https://docs.hazelcast.org/docs/rn/index.html#4-2"
+          },
+          {
+            "version": "4.1.10",
+            "date": "2022-11-18",
+            "download": {
+              "url": "https://github.com/hazelcast/hazelcast/releases/download/v4.1.10/hazelcast-4.1.10.zip",
+              "size": "155 MB"
+            },
+            "github": "https://github.com/hazelcast/hazelcast/tree/v4.1.10",
+            "docs": "https://docs.hazelcast.com/imdg/4.1/",
+            "apiDocs": "https://docs.hazelcast.org/docs/4.1.10/javadoc",
+            "releaseNotes": "https://docs.hazelcast.org/docs/rn/index.html#4-1-10"
+          },
+          {
+            "version": "4.1.9",
+            "date": "2022-04-22",
+            "download": {
+              "url": "https://github.com/hazelcast/hazelcast/releases/download/v4.1.9/hazelcast-4.1.9.zip",
+              "size": "151 MB"
+            },
+            "github": "https://github.com/hazelcast/hazelcast/tree/v4.1.9",
+            "docs": "https://docs.hazelcast.com/imdg/4.1/",
+            "apiDocs": "https://docs.hazelcast.org/docs/4.1.9/javadoc",
+            "releaseNotes": "https://docs.hazelcast.org/docs/rn/index.html#4-1-9"
+          },
+          {
+            "version": "4.1.8",
+            "date": "2021-12-20",
+            "download": {
+              "url": "https://github.com/hazelcast/hazelcast/releases/download/v4.1.8/hazelcast-4.1.8.zip",
+              "size": "147 MB"
+            },
+            "github": "https://github.com/hazelcast/hazelcast/tree/v4.1.8",
+            "docs": "https://docs.hazelcast.com/imdg/4.1/",
+            "apiDocs": "https://docs.hazelcast.org/docs/4.1.8/javadoc",
+            "releaseNotes": "https://docs.hazelcast.org/docs/rn/index.html#4-1-8"
+          },
+          {
+            "version": "4.1.7",
+            "date": "2021-12-15",
+            "download": {
+              "url": "https://github.com/hazelcast/hazelcast/releases/download/v4.1.7/hazelcast-4.1.7.zip",
+              "size": "147 MB"
+            },
+            "github": "https://github.com/hazelcast/hazelcast/tree/v4.1.7",
+            "docs": "https://docs.hazelcast.com/imdg/4.1/",
+            "apiDocs": "https://docs.hazelcast.org/docs/4.1.7/javadoc",
+            "releaseNotes": "https://docs.hazelcast.org/docs/rn/index.html#4-1-7"
+          },
+          {
+            "version": "4.1.6",
+            "date": "2021-10-26",
+            "download": {
+              "url": "https://github.com/hazelcast/hazelcast/releases/download/v4.1.6/hazelcast-4.1.6.zip",
+              "size": "147 MB"
+            },
+            "github": "https://github.com/hazelcast/hazelcast/tree/v4.1.6",
+            "docs": "https://docs.hazelcast.com/imdg/4.1/",
+            "apiDocs": "https://docs.hazelcast.org/docs/4.1.6/javadoc",
+            "releaseNotes": "https://docs.hazelcast.org/docs/rn/index.html#4-1-6"
+          },
+          {
+            "version": "4.1.5",
+            "date": "2021-08-17",
+            "download": {
+              "url": "https://github.com/hazelcast/hazelcast/releases/download/v4.1.5/hazelcast-4.1.5.zip",
+              "size": "147 MB"
+            },
+            "github": "https://github.com/hazelcast/hazelcast/tree/v4.1.5",
+            "docs": "https://docs.hazelcast.com/imdg/4.1/",
+            "apiDocs": "https://docs.hazelcast.org/docs/4.1.5/javadoc",
+            "releaseNotes": "https://docs.hazelcast.org/docs/rn/index.html#4-1-5"
+          },
+          {
+            "version": "4.1.4",
+            "date": "2021-06-23",
+            "download": {
+              "url": "https://github.com/hazelcast/hazelcast/releases/download/v4.1.4/hazelcast-4.1.4.zip",
+              "size": "140 MB"
+            },
+            "github": "https://github.com/hazelcast/hazelcast/tree/v4.1.4",
+            "docs": "https://docs.hazelcast.com/imdg/4.1/",
+            "apiDocs": "https://docs.hazelcast.org/docs/4.1.4/javadoc",
+            "releaseNotes": "https://docs.hazelcast.org/docs/rn/index.html#4-1-4"
+          },
+          {
+            "version": "4.1.3",
+            "date": "2021-04-23",
+            "download": {
+              "url": "https://github.com/hazelcast/hazelcast/releases/download/v4.1.3/hazelcast-4.1.3.zip",
+              "size": "140 MB"
+            },
+            "github": "https://github.com/hazelcast/hazelcast/tree/v4.1.3",
+            "docs": "https://docs.hazelcast.com/imdg/4.1.3/",
+            "apiDocs": "https://docs.hazelcast.org/docs/4.1.3/javadoc",
+            "releaseNotes": "https://docs.hazelcast.org/docs/rn/index.html#4-1-3"
+          },
+          {
+            "version": "4.1.2",
+            "date": "2021-03-12",
+            "download": {
+              "url": "https://github.com/hazelcast/hazelcast/releases/download/v4.1.2/hazelcast-4.1.2.zip",
+              "size": "140 MB"
+            },
+            "github": "https://github.com/hazelcast/hazelcast/tree/v4.1.2",
+            "docs": "https://docs.hazelcast.com/imdg/4.1.2/",
+            "apiDocs": "https://docs.hazelcast.org/docs/4.1.2/javadoc",
+            "releaseNotes": "https://docs.hazelcast.org/docs/rn/index.html#4-1-2"
+          },
+          {
+            "version": "4.1.1",
+            "date": "2020-12-22",
+            "download": {
+              "url": "https://github.com/hazelcast/hazelcast/releases/download/v4.1.1/hazelcast-4.1.1.zip",
+              "size": "130 MB"
+            },
+            "github": "https://github.com/hazelcast/hazelcast/tree/v4.1.1",
+            "docs": "http://docs.hazelcast.org/docs/4.1.1/manual/html-single/index.html",
+            "apiDocs": "http://docs.hazelcast.org/docs/4.1.1/javadoc",
+            "releaseNotes": "http://docs.hazelcast.org/docs/rn/index.html#4-1-1"
+          },
+          {
+            "version": "4.1",
+            "date": "2020-11-04",
+            "download": {
+              "url": "https://github.com/hazelcast/hazelcast/releases/download/v4.1/hazelcast-4.1.zip",
+              "size": "127 MB"
+            },
+            "github": "https://github.com/hazelcast/hazelcast/tree/v4.1",
+            "docs": "http://docs.hazelcast.org/docs/4.1/manual/html-single/index.html",
+            "apiDocs": "http://docs.hazelcast.org/docs/4.1/javadoc",
+            "releaseNotes": "http://docs.hazelcast.org/docs/rn/index.html#4-1"
+          },
+          {
+            "version": "4.0.6",
+            "date": "2022-02-11",
+            "download": {
+              "url": "https://github.com/hazelcast/hazelcast/releases/download/v4.0.6/hazelcast-4.0.6.zip",
+              "size": "136 MB"
+            },
+            "github": "https://github.com/hazelcast/hazelcast/tree/v4.0.6",
+            "docs": "https://docs.hazelcast.com/imdg/4.0/",
+            "apiDocs": "https://docs.hazelcast.org/docs/4.0.6/javadoc",
+            "releaseNotes": "https://docs.hazelcast.org/docs/rn/index.html#4-0-6"
+          },
+          {
+            "version": "4.0.5",
+            "date": "2021-12-21",
+            "download": {
+              "url": "https://github.com/hazelcast/hazelcast/releases/download/v4.0.5/hazelcast-4.0.5.zip",
+              "size": "136 MB"
+            },
+            "github": "https://github.com/hazelcast/hazelcast/tree/v4.0.5",
+            "docs": "https://docs.hazelcast.com/imdg/4.0/",
+            "apiDocs": "https://docs.hazelcast.org/docs/4.0.5/javadoc",
+            "releaseNotes": "https://docs.hazelcast.org/docs/rn/index.html#4-0-5"
+          },
+          {
+            "version": "4.0.4",
+            "date": "2021-12-15",
+            "download": {
+              "url": "https://github.com/hazelcast/hazelcast/releases/download/v4.0.4/hazelcast-4.0.4.zip",
+              "size": "136 MB"
+            },
+            "github": "https://github.com/hazelcast/hazelcast/tree/v4.0.4",
+            "docs": "https://docs.hazelcast.com/imdg/4.0/",
+            "apiDocs": "https://docs.hazelcast.org/docs/4.0.4/javadoc",
+            "releaseNotes": "https://docs.hazelcast.org/docs/rn/index.html#4-0-4"
+          },
+          {
+            "version": "4.0.3",
+            "date": "2020-09-21",
+            "download": {
+              "url": "https://github.com/hazelcast/hazelcast/releases/download/v4.0.3/hazelcast-4.0.3.zip",
+              "size": "99 MB"
+            },
+            "github": "https://github.com/hazelcast/hazelcast/tree/v4.0.3",
+            "docs": "http://docs.hazelcast.org/docs/4.0.3/manual/html-single/index.html",
+            "apiDocs": "http://docs.hazelcast.org/docs/4.0.3/javadoc",
+            "releaseNotes": "http://docs.hazelcast.org/docs/rn/index.html#4-0-3"
+          },
+          {
+            "version": "4.0.2",
+            "date": "2020-07-02",
+            "download": {
+              "url": "https://github.com/hazelcast/hazelcast/releases/download/v4.0.2/hazelcast-4.0.2.zip",
+              "size": "103 MB"
+            },
+            "github": "https://github.com/hazelcast/hazelcast/tree/v4.0.2",
+            "docs": "http://docs.hazelcast.org/docs/4.0.2/manual/html-single/index.html",
+            "apiDocs": "http://docs.hazelcast.org/docs/4.0.2/javadoc",
+            "releaseNotes": "http://docs.hazelcast.org/docs/rn/index.html#4-0-2"
+          },
+          {
+            "version": "4.0.1",
+            "date": "2020-04-09",
+            "download": {
+              "url": "https://github.com/hazelcast/hazelcast/releases/download/v4.0.1/hazelcast-4.0.1.zip",
+              "size": "106 MB"
+            },
+            "github": "https://github.com/hazelcast/hazelcast/tree/v4.0.1",
+            "docs": "http://docs.hazelcast.org/docs/4.0.1/manual/html-single/index.html",
+            "apiDocs": "http://docs.hazelcast.org/docs/4.0.1/javadoc",
+            "releaseNotes": "http://docs.hazelcast.org/docs/rn/index.html#4-0-1"
+          },
+          {
+            "version": "4.0",
+            "date": "2020-02-04",
+            "download": {
+              "url": "https://github.com/hazelcast/hazelcast/releases/download/v4.0/hazelcast-4.0.zip",
+              "size": "167 MB"
+            },
+            "github": "https://giithub.com/hazelcast/hazelcast/tree/v4.0",
+            "docs": "http://docs.hazelcast.org/docs/4.0/manual/html-single/index.html",
+            "apiDocs": "http://docs.hazelcast.org/docs/4.0/javadoc",
+            "releaseNotes": "http://docs.hazelcast.org/docs/rn/index.html#4.0"
+          },
+          {
+            "version": "3.12.13",
+            "date": "2022-08-25",
+            "download": {
+              "url": "https://github.com/hazelcast/hazelcast/releases/download/v3.12.13/hazelcast-3.12.13.zip",
+              "size": "146 MB"
+            },
+            "github": "https://github.com/hazelcast/hazelcast/tree/v3.12.13",
+            "docs": "https://docs.hazelcast.com/imdg/3.12/index.html",
+            "apiDocs": "https://docs.hazelcast.org/docs/3.12.13/javadoc",
+            "releaseNotes": "https://docs.hazelcast.org/docs/rn/index.html#3-12-13"
+          },
+          {
+            "version": "3.12.12",
+            "date": "2021-02-09",
+            "download": {
+              "url": "https://github.com/hazelcast/hazelcast/releases/download/v3.12.12/hazelcast-3.12.12.zip",
+              "size": "140 MB"
+            },
+            "github": "https://github.com/hazelcast/hazelcast/tree/v3.12.12",
+            "docs": "https://docs.hazelcast.com/imdg/3.12.12/index.html",
+            "apiDocs": "https://docs.hazelcast.org/docs/3.12.12/javadoc",
+            "releaseNotes": "https://docs.hazelcast.org/docs/rn/index.html#3-12-12"
+          },
+          {
+            "version": "3.12.11",
+            "date": "2020-12-11",
+            "download": {
+              "url": "https://github.com/hazelcast/hazelcast/releases/download/v3.12.11/hazelcast-3.12.11.zip",
+              "size": "148 MB"
+            },
+            "github": "https://github.com/hazelcast/hazelcast/tree/v3.12.11",
+            "docs": "https://docs.hazelcast.org/docs/3.12.11/manual/html-single/index.html",
+            "apiDocs": "https://docs.hazelcast.org/docs/3.12.11/javadoc",
+            "releaseNotes": "https://docs.hazelcast.org/docs/rn/index.html#3-12-11"
+          },
+          {
+            "version": "3.12.10",
+            "date": "2020-10-19",
+            "download": {
+              "url": "https://github.com/hazelcast/hazelcast/releases/download/v3.12.10/hazelcast-3.12.10.zip",
+              "size": "148 MB"
+            },
+            "github": "https://giithub.com/hazelcast/hazelcast/tree/v3.12.10",
+            "docs": "http://docs.hazelcast.org/docs/3.12.10/manual/html-single/index.html",
+            "apiDocs": "http://docs.hazelcast.org/docs/3.12.10/javadoc",
+            "releaseNotes": "http://docs.hazelcast.org/docs/rn/index.html#3-12-10"
+          },
+          {
+            "version": "3.12.9",
+            "date": "2020-08-19",
+            "download": {
+              "url": "https://github.com/hazelcast/hazelcast/releases/download/v3.12.9/hazelcast-3.12.9.zip",
+              "size": "148 MB"
+            },
+            "github": "https://giithub.com/hazelcast/hazelcast/tree/v3.12.9",
+            "docs": "http://docs.hazelcast.org/docs/3.12.9/manual/html-single/index.html",
+            "apiDocs": "http://docs.hazelcast.org/docs/3.12.9/javadoc",
+            "releaseNotes": "http://docs.hazelcast.org/docs/rn/index.html#3-12-9"
+          },
+          {
+            "version": "3.12.8",
+            "date": "2020-06-25",
+            "download": {
+              "url": "https://github.com/hazelcast/hazelcast/releases/download/v3.12.8/hazelcast-3.12.8.zip",
+              "size": "148 MB"
+            },
+            "github": "https://giithub.com/hazelcast/hazelcast/tree/v3.12.8",
+            "docs": "http://docs.hazelcast.org/docs/3.12.8/manual/html-single/index.html",
+            "apiDocs": "http://docs.hazelcast.org/docs/3.12.8/javadoc",
+            "releaseNotes": "http://docs.hazelcast.org/docs/rn/index.html#3-12-8"
+          },
+          {
+            "version": "3.12.7",
+            "date": "2020-04-30",
+            "download": {
+              "url": "https://github.com/hazelcast/hazelcast/releases/download/v3.12.7/hazelcast-3.12.7.zip",
+              "size": "148 MB"
+            },
+            "github": "https://giithub.com/hazelcast/hazelcast/tree/v3.12.7",
+            "docs": "http://docs.hazelcast.org/docs/3.12.7/manual/html-single/index.html",
+            "apiDocs": "http://docs.hazelcast.org/docs/3.12.7/javadoc",
+            "releaseNotes": "http://docs.hazelcast.org/docs/rn/index.html#3-12-7"
+          },
+          {
+            "version": "3.12.6",
+            "date": "2020-01-30",
+            "download": {
+              "url": "https://github.com/hazelcast/hazelcast/releases/download/v3.12.6/hazelcast-3.12.6.zip",
+              "size": "148 MB"
+            },
+            "github": "https://giithub.com/hazelcast/hazelcast/tree/v3.12.6",
+            "docs": "http://docs.hazelcast.org/docs/3.12.6/manual/html-single/index.html",
+            "apiDocs": "http://docs.hazelcast.org/docs/3.12.6/javadoc",
+            "releaseNotes": "http://docs.hazelcast.org/docs/rn/index.html#3-12-6"
+          },
+          {
+            "version": "3.12.5",
+            "date": "2019-12-10",
+            "download": {
+              "url": "https://github.com/hazelcast/hazelcast/releases/download/v3.12.5/hazelcast-3.12.5.zip",
+              "size": "148 MB"
+            },
+            "github": "https://github.com/hazelcast/hazelcast/tree/v3.12.5",
+            "docs": "http://docs.hazelcast.org/docs/3.12.5/manual/html-single/index.html",
+            "apiDocs": "http://docs.hazelcast.org/docs/3.12.5/javadoc",
+            "releaseNotes": "http://docs.hazelcast.org/docs/rn/index.html#3-12-5"
+          },
+          {
+            "version": "3.12.4",
+            "date": "2019-10-30",
+            "download": {
+              "url": "https://github.com/hazelcast/hazelcast/releases/download/v3.12.4/hazelcast-3.12.4.zip",
+              "size": "148 MB"
+            },
+            "github": "https://github.com/hazelcast/hazelcast/tree/v3.12.4",
+            "docs": "http://docs.hazelcast.org/docs/3.12.4/manual/html-single/index.html",
+            "apiDocs": "http://docs.hazelcast.org/docs/3.12.4/javadoc",
+            "releaseNotes": "http://docs.hazelcast.org/docs/rn/index.html#3-12-4"
+          },
+          {
+            "version": "3.12.3",
+            "date": "2019-10-03",
+            "download": {
+              "url": "https://github.com/hazelcast/hazelcast/releases/download/v3.12.3/hazelcast-3.12.3.zip",
+              "size": "150 MB"
+            },
+            "github": "https://github.com/hazelcast/hazelcast/tree/v3.12.3",
+            "docs": "http://docs.hazelcast.org/docs/3.12.3/manual/html-single/index.html",
+            "apiDocs": "http://docs.hazelcast.org/docs/3.12.3/javadoc",
+            "releaseNotes": "http://docs.hazelcast.org/docs/rn/index.html#3-12-3"
+          },
+          {
+            "version": "3.12.2",
+            "date": "2019-08-02",
+            "download": {
+              "url": "https://github.com/hazelcast/hazelcast/releases/download/v3.12.2/hazelcast-3.12.2.zip",
+              "size": "150 MB"
+            },
+            "github": "https://github.com/hazelcast/hazelcast/tree/v3.12.2",
+            "docs": "http://docs.hazelcast.org/docs/3.12.2/manual/html-single/index.html",
+            "apiDocs": "http://docs.hazelcast.org/docs/3.12.2/javadoc",
+            "releaseNotes": "http://docs.hazelcast.org/docs/rn/index.html#3-12-2"
+          },
+          {
+            "version": "3.12.1",
+            "date": "2019-06-11",
+            "download": {
+              "url": "https://github.com/hazelcast/hazelcast/releases/download/v3.12.1/hazelcast-3.12.1.zip",
+              "size": "152 MB"
+            },
+            "github": "https://github.com/hazelcast/hazelcast/tree/v3.12.1",
+            "docs": "http://docs.hazelcast.org/docs/3.12.1/manual/html-single/index.html",
+            "apiDocs": "http://docs.hazelcast.org/docs/3.12.1/javadoc",
+            "releaseNotes": "http://docs.hazelcast.org/docs/rn/index.html#3-12-1"
+          },
+          {
+            "version": "3.12",
+            "date": "2019-04-09",
+            "download": {
+              "url": "https://github.com/hazelcast/hazelcast/releases/download/v3.12/hazelcast-3.12.zip",
+              "size": "132 MB"
+            },
+            "github": "https://github.com/hazelcast/hazelcast/tree/v3.12",
+            "docs": "http://docs.hazelcast.org/docs/3.12/manual/html-single/index.html",
+            "apiDocs": "http://docs.hazelcast.org/docs/3.12/javadoc",
+            "releaseNotes": "http://docs.hazelcast.org/docs/rn/index.html#3-12"
+          },
+          {
+            "version": "3.11.7",
+            "date": "2020-02-20",
+            "download": {
+              "url": "https://github.com/hazelcast/hazelcast/releases/download/v3.11.7/hazelcast-3.11.7.zip",
+              "size": "126 MB"
+            },
+            "github": "https://github.com/hazelcast/hazelcast/tree/v3.11.7",
+            "docs": "http://docs.hazelcast.org/docs/3.11.7/manual/html-single/index.html",
+            "apiDocs": "http://docs.hazelcast.org/docs/3.11.7/javadoc",
+            "releaseNotes": "http://docs.hazelcast.org/docs/rn/index.html#3-11-7"
+          },
+          {
+            "version": "3.11.6",
+            "date": "2019-12-06",
+            "download": {
+              "url": "https://github.com/hazelcast/hazelcast/releases/download/v3.11.6/hazelcast-3.11.6.zip",
+              "size": "126 MB"
+            },
+            "github": "https://github.com/hazelcast/hazelcast/tree/v3.11.6",
+            "docs": "http://docs.hazelcast.org/docs/3.11.6/manual/html-single/index.html",
+            "apiDocs": "http://docs.hazelcast.org/docs/3.11.6/javadoc",
+            "releaseNotes": "http://docs.hazelcast.org/docs/rn/index.html#3-11-6"
+          },
+          {
+            "version": "3.11.5",
+            "date": "2019-11-05",
+            "download": {
+              "url": "https://github.com/hazelcast/hazelcast/releases/download/v3.11.5/hazelcast-3.11.5.zip",
+              "size": "126 MB"
+            },
+            "github": "https://github.com/hazelcast/hazelcast/tree/v3.11.5",
+            "docs": "http://docs.hazelcast.org/docs/3.11.5/manual/html-single/index.html",
+            "apiDocs": "http://docs.hazelcast.org/docs/3.11.5/javadoc",
+            "releaseNotes": "http://docs.hazelcast.org/docs/rn/index.html#3-11-5"
+          },
+          {
+            "version": "3.11.4",
+            "date": "2019-05-09",
+            "download": {
+              "url": "https://github.com/hazelcast/hazelcast/releases/download/v3.11.4/hazelcast-3.11.4.zip",
+              "size": "126 MB"
+            },
+            "github": "https://github.com/hazelcast/hazelcast/tree/v3.11.4",
+            "docs": "http://docs.hazelcast.org/docs/3.11.4/manual/html-single/index.html",
+            "apiDocs": "http://docs.hazelcast.org/docs/3.11.4/javadoc",
+            "releaseNotes": "http://docs.hazelcast.org/docs/rn/index.html#3-11-4"
+          },
+          {
+            "version": "3.11.3",
+            "date": "2019-04-13",
+            "download": {
+              "url": "https://github.com/hazelcast/hazelcast/releases/download/v3.11.3/hazelcast-3.11.3.zip",
+              "size": "126 MB"
+            },
+            "github": "https://github.com/hazelcast/hazelcast/tree/v3.11.3",
+            "docs": "http://docs.hazelcast.org/docs/3.11.3/manual/html-single/index.html",
+            "apiDocs": "http://docs.hazelcast.org/docs/3.11.3/javadoc",
+            "releaseNotes": "http://docs.hazelcast.org/docs/rn/index.html#3-11-3"
+          },
+          {
+            "version": "3.11.2",
+            "date": "2019-02-16",
+            "download": {
+              "url": "https://github.com/hazelcast/hazelcast/releases/download/v3.11.2/hazelcast-3.11.2.zip",
+              "size": "126 MB"
+            },
+            "github": "https://github.com/hazelcast/hazelcast/tree/v3.11.2",
+            "docs": "http://docs.hazelcast.org/docs/3.11.2/manual/html-single/index.html",
+            "apiDocs": "http://docs.hazelcast.org/docs/3.11.2/javadoc",
+            "releaseNotes": "http://docs.hazelcast.org/docs/rn/index.html#3-11-2"
+          },
+          {
+            "version": "3.11.1",
+            "date": "2018-12-18",
+            "download": {
+              "url": "https://github.com/hazelcast/hazelcast/releases/download/v3.11.1/hazelcast-3.11.1.zip",
+              "size": "126 MB"
+            },
+            "github": "https://github.com/hazelcast/hazelcast/tree/v3.11.1",
+            "docs": "http://docs.hazelcast.org/docs/3.11.1/manual/html-single/index.html",
+            "apiDocs": "http://docs.hazelcast.org/docs/3.11.1/javadoc",
+            "releaseNotes": "http://docs.hazelcast.org/docs/rn/index.html#3-11-1"
+          },
+          {
+            "version": "3.11",
+            "date": "2018-10-23",
+            "download": {
+              "url": "https://github.com/hazelcast/hazelcast/releases/download/v3.11/hazelcast-3.11.zip",
+              "size": "82 MB"
+            },
+            "github": "https://github.com/hazelcast/hazelcast/tree/v3.11",
+            "docs": "http://docs.hazelcast.org/docs/3.11/manual/html-single/index.html",
+            "apiDocs": "http://docs.hazelcast.org/docs/3.11/javadoc",
+            "releaseNotes": "http://docs.hazelcast.org/docs/rn/index.html#3-11"
+          },
+          {
+            "version": "3.10.7",
+            "date": "2020-02-20",
+            "download": {
+              "url": "https://github.com/hazelcast/hazelcast/releases/download/v3.10.7/hazelcast-3.10.7.zip",
+              "size": "70 MB"
+            },
+            "github": "https://github.com/hazelcast/hazelcast/tree/v3.10.7",
+            "docs": "http://docs.hazelcast.org/docs/3.10.7/manual/html-single/index.html",
+            "apiDocs": "http://docs.hazelcast.org/docs/3.10.7/javadoc",
+            "releaseNotes": "http://docs.hazelcast.org/docs/rn/index.html#3-10-7"
+          },
+          {
+            "version": "3.10.6",
+            "date": "2018-10-10",
+            "download": {
+              "url": "https://github.com/hazelcast/hazelcast/releases/download/v3.10.6/hazelcast-3.10.6.zip",
+              "size": "70 MB"
+            },
+            "github": "https://github.com/hazelcast/hazelcast/tree/v3.10.6",
+            "docs": "http://docs.hazelcast.org/docs/3.10.6/manual/html-single/index.html",
+            "apiDocs": "http://docs.hazelcast.org/docs/3.10.6/javadoc",
+            "releaseNotes": "http://docs.hazelcast.org/docs/rn/index.html#3-10-6"
+          },
+          {
+            "version": "3.10.5",
+            "date": "2018-09-13",
+            "download": {
+              "url": "https://github.com/hazelcast/hazelcast/releases/download/v3.10.5/hazelcast-3.10.5.zip",
+              "size": "70 MB"
+            },
+            "github": "https://github.com/hazelcast/hazelcast/tree/v3.10.5",
+            "docs": "http://docs.hazelcast.org/docs/3.10.5/manual/html-single/index.html",
+            "apiDocs": "http://docs.hazelcast.org/docs/3.10.5/javadoc",
+            "releaseNotes": "http://docs.hazelcast.org/docs/rn/index.html#3-10-5"
+          },
+          {
+            "version": "3.10.4",
+            "date": "2018-07-27",
+            "download": {
+              "url": "https://github.com/hazelcast/hazelcast/releases/download/v3.10.4/hazelcast-3.10.4.zip",
+              "size": "70 MB"
+            },
+            "github": "https://github.com/hazelcast/hazelcast/tree/v3.10.4",
+            "docs": "http://docs.hazelcast.org/docs/3.10.4/manual/html-single/index.html",
+            "apiDocs": "http://docs.hazelcast.org/docs/3.10.4/javadoc",
+            "releaseNotes": "http://docs.hazelcast.org/docs/rn/index.html#3-10-4"
+          },
+          {
+            "version": "3.10.3",
+            "date": "2018-07-19",
+            "download": {
+              "url": "https://github.com/hazelcast/hazelcast/releases/download/v3.10.3/hazelcast-3.10.3.zip",
+              "size": "70 MB"
+            },
+            "github": "https://github.com/hazelcast/hazelcast/tree/v3.10.3",
+            "docs": "http://docs.hazelcast.org/docs/3.10.3/manual/html-single/index.html",
+            "apiDocs": "http://docs.hazelcast.org/docs/3.10.3/javadoc",
+            "releaseNotes": "http://docs.hazelcast.org/docs/rn/index.html#3-10-3"
+          },
+          {
+            "version": "3.10.2",
+            "date": "2018-06-06",
+            "download": {
+              "url": "https://github.com/hazelcast/hazelcast/releases/download/v3.10.2/hazelcast-3.10.2.zip",
+              "size": "70 MB"
+            },
+            "github": "https://github.com/hazelcast/hazelcast/tree/v3.10.2",
+            "docs": "http://docs.hazelcast.org/docs/3.10.2/manual/html-single/index.html",
+            "apiDocs": "http://docs.hazelcast.org/docs/3.10.2/javadoc",
+            "releaseNotes": "http://docs.hazelcast.org/docs/rn/index.html#3-10-2"
+          },
+          {
+            "version": "3.10.1",
+            "date": "2018-05-21",
+            "download": {
+              "url": "https://github.com/hazelcast/hazelcast/releases/download/v3.10.1/hazelcast-3.10.1.zip",
+              "size": "73 MB"
+            },
+            "github": "https://github.com/hazelcast/hazelcast/tree/v3.10.1",
+            "docs": "http://docs.hazelcast.org/docs/3.10.1/manual/html-single/index.html",
+            "apiDocs": "http://docs.hazelcast.org/docs/3.10.1/javadoc",
+            "releaseNotes": "http://docs.hazelcast.org/docs/rn/index.html#3-10-1"
+          },
+          {
+            "version": "3.10",
+            "date": "2018-04-24",
+            "download": {
+              "url": "https://github.com/hazelcast/hazelcast/releases/download/v3.10/hazelcast-3.10.zip",
+              "size": "73 MB"
+            },
+            "github": "https://github.com/hazelcast/hazelcast/tree/v3.10",
+            "docs": "http://docs.hazelcast.org/docs/3.10/manual/html-single/index.html",
+            "apiDocs": "http://docs.hazelcast.org/docs/3.10/javadoc",
+            "releaseNotes": "http://docs.hazelcast.org/docs/rn/index.html#3-10"
+          },
+          {
+            "version": "3.9.4",
+            "date": "2018-04-20",
+            "download": {
+              "url": "https://github.com/hazelcast/hazelcast/releases/download/v3.9.4/hazelcast-3.9.4.zip",
+              "size": "75 MB"
+            },
+            "github": "https://github.com/hazelcast/hazelcast/tree/v3.9.4",
+            "docs": "http://docs.hazelcast.org/docs/3.9.4/manual/html-single/index.html",
+            "apiDocs": "http://docs.hazelcast.org/docs/3.9.4/javadoc",
+            "releaseNotes": "http://docs.hazelcast.org/docs/rn/index.html#3-9-4"
+          },
+          {
+            "version": "3.9.3",
+            "date": "2018-02-16",
+            "download": {
+              "url": "https://github.com/hazelcast/hazelcast/releases/download/v3.9.3/hazelcast-3.9.3.zip",
+              "size": "75 MB"
+            },
+            "github": "https://github.com/hazelcast/hazelcast/tree/v3.9.3",
+            "docs": "http://docs.hazelcast.org/docs/3.9.3/manual/html-single/index.html",
+            "apiDocs": "http://docs.hazelcast.org/docs/3.9.3/javadoc",
+            "releaseNotes": "http://docs.hazelcast.org/docs/rn/index.html#3-9-3"
+          },
+          {
+            "version": "3.9.2",
+            "date": "2018-01-03",
+            "download": {
+              "url": "https://github.com/hazelcast/hazelcast/releases/download/v3.9.2/hazelcast-3.9.2.zip",
+              "size": "75 MB"
+            },
+            "github": "https://github.com/hazelcast/hazelcast/tree/v3.9.2",
+            "docs": "http://docs.hazelcast.org/docs/3.9.2/manual/html-single/index.html",
+            "apiDocs": "http://docs.hazelcast.org/docs/3.9.2/javadoc",
+            "releaseNotes": "http://docs.hazelcast.org/docs/rn/index.html#3-9-2"
+          },
+          {
+            "version": "3.9.1",
+            "date": "2017-11-30",
+            "download": {
+              "url": "https://github.com/hazelcast/hazelcast/releases/download/v3.9.1/hazelcast-3.9.1.zip",
+              "size": "75 MB"
+            },
+            "github": "https://github.com/hazelcast/hazelcast/tree/v3.9.1",
+            "docs": "http://docs.hazelcast.org/docs/3.9.1/manual/html-single/index.html",
+            "apiDocs": "http://docs.hazelcast.org/docs/3.9.1/javadoc",
+            "releaseNotes": "http://docs.hazelcast.org/docs/rn/index.html#3-9-1"
+          },
+          {
+            "version": "3.9",
+            "date": "2017-10-23",
+            "download": {
+              "url": "https://github.com/hazelcast/hazelcast/releases/download/v3.9/hazelcast-3.9.zip",
+              "size": "75 MB"
+            },
+            "github": "https://github.com/hazelcast/hazelcast/tree/v3.9",
+            "docs": "http://docs.hazelcast.org/docs/3.9/manual/html-single/index.html",
+            "apiDocs": "http://docs.hazelcast.org/docs/3.9/javadoc",
+            "releaseNotes": ""
+          },
+          {
+            "version": "3.8.4",
+            "date": "2017-08-09",
+            "download": {
+              "url": "https://github.com/hazelcast/hazelcast/releases/download/v3.8.4/hazelcast-3.8.4.zip",
+              "size": "64.2 MB"
+            },
+            "github": "https://github.com/hazelcast/hazelcast/tree/v3.8.4",
+            "docs": "http://docs.hazelcast.org/docs/3.8.4/manual/html-single/index.html",
+            "apiDocs": "http://docs.hazelcast.org/docs/3.8.4/javadoc",
+            "releaseNotes": ""
+          },
+          {
+            "version": "3.8.3",
+            "date": "2017-07-04",
+            "download": {
+              "url": "https://github.com/hazelcast/hazelcast/releases/download/v3.8.3/hazelcast-3.8.3.zip",
+              "size": "67.2 MB"
+            },
+            "github": "https://github.com/hazelcast/hazelcast/tree/v3.8.3",
+            "docs": "http://docs.hazelcast.org/docs/3.8.3/manual/html-single/index.html",
+            "apiDocs": "http://docs.hazelcast.org/docs/3.8.3/javadoc",
+            "releaseNotes": ""
+          },
+          {
+            "version": "3.8.2",
+            "date": "2017-05-18",
+            "download": {
+              "url": "https://github.com/hazelcast/hazelcast/releases/download/v3.8.2/hazelcast-3.8.2.zip",
+              "size": "91.3 MB"
+            },
+            "github": "https://github.com/hazelcast/hazelcast/tree/v3.8.2",
+            "docs": "https://github.com/hazelcast/hazelcast/releases/download/v3.8.2/hazelcast-3.8.2.zip",
+            "apiDocs": "http://docs.hazelcast.org/docs/3.8.2/javadoc",
+            "releaseNotes": ""
+          },
+          {
+            "version": "3.8.1",
+            "date": "2017-04-11",
+            "download": {
+              "url": "https://github.com/hazelcast/hazelcast/releases/download/v3.8.1/hazelcast-3.8.1.zip",
+              "size": "98.2 MB"
+            },
+            "github": "https://github.com/hazelcast/hazelcast/tree/v3.8.1",
+            "docs": "http://docs.hazelcast.org/docs/3.8.1/manual/html-single/index.html",
+            "apiDocs": "http://docs.hazelcast.org/docs/3.8.1/javadoc",
+            "releaseNotes": ""
+          },
+          {
+            "version": "3.8",
+            "date": "2017-02-18",
+            "download": {
+              "url": "https://github.com/hazelcast/hazelcast/releases/download/v3.8/hazelcast-3.8.zip",
+              "size": "95.4 MB"
+            },
+            "github": "https://github.com/hazelcast/hazelcast/tree/v3.8/hazelcast-client",
+            "docs": "http://docs.hazelcast.org/docs/3.8/manual/html-single/index.html#hazelcast-java-client",
+            "apiDocs": "http://docs.hazelcast.org/docs/3.8/javadoc/",
+            "releaseNotes": ""
+          },
+          {
+            "version": "3.7.5",
+            "date": "2017-01-24",
+            "download": {
+              "url": "https://github.com/hazelcast/hazelcast/releases/download/v3.7.5/hazelcast-3.7.5.zip",
+              "size": "83.2 MB"
+            },
+            "github": "https://github.com/hazelcast/hazelcast/tree/v3.7.5/hazelcast-client",
+            "docs": "http://docs.hazelcast.org/docs/3.7.5/manual/html-single/index.html#hazelcast-java-client",
+            "apiDocs": "http://docs.hazelcast.org/docs/3.7.5/javadoc/",
+            "releaseNotes": ""
+          },
+          {
+            "version": "3.7.4",
+            "date": "2016-12-09",
+            "download": {
+              "url": "https://github.com/hazelcast/hazelcast/releases/download/v3.7.4/hazelcast-3.7.4.zip",
+              "size": "79 MB"
+            },
+            "github": "https://github.com/hazelcast/hazelcast/tree/v3.7.4/hazelcast-client",
+            "docs": "http://docs.hazelcast.org/docs/3.7.4/manual/html-single/index.html#hazelcast-java-client",
+            "apiDocs": "http://docs.hazelcast.org/docs/3.7.4/javadoc/",
+            "releaseNotes": ""
+          },
+          {
+            "version": "3.7.3",
+            "date": "2016-11-17",
+            "download": {
+              "url": "https://github.com/hazelcast/hazelcast/releases/download/v3.7.3/hazelcast-3.7.3.zip",
+              "size": "93.6 MB"
+            },
+            "github": "https://github.com/hazelcast/hazelcast/tree/v3.7.3/hazelcast-client",
+            "docs": "http://docs.hazelcast.org/docs/3.7.3/manual/html-single/index.html#hazelcast-java-client",
+            "apiDocs": "http://docs.hazelcast.org/docs/3.7.3/javadoc/",
+            "releaseNotes": ""
+          },
+          {
+            "version": "3.7.2",
+            "date": "2016-10-04",
+            "download": {
+              "url": "https://github.com/hazelcast/hazelcast/releases/download/v3.7.2/hazelcast-3.7.2.zip",
+              "size": "93.8 MB"
+            },
+            "github": "https://github.com/hazelcast/hazelcast/tree/v3.7.2/hazelcast-client",
+            "docs": "http://docs.hazelcast.org/docs/3.7.2/manual/html-single/index.html#hazelcast-java-client",
+            "apiDocs": "http://docs.hazelcast.org/docs/3.7.2/javadoc/",
+            "releaseNotes": ""
+          },
+          {
+            "version": "3.7.1",
+            "date": "2016-09-05",
+            "download": {
+              "url": "https://github.com/hazelcast/hazelcast/releases/download/v3.7.1/hazelcast-3.7.1.zip",
+              "size": "93.7 MB"
+            },
+            "github": "https://github.com/hazelcast/hazelcast/tree/v3.7.1/hazelcast-client",
+            "docs": "http://docs.hazelcast.org/docs/3.7.1/manual/html-single/index.html#hazelcast-java-client",
+            "apiDocs": "http://docs.hazelcast.org/docs/3.7.1/javadoc/",
+            "releaseNotes": ""
+          },
+          {
+            "version": "3.7",
+            "date": "2016-08-17",
+            "download": {
+              "url": "https://github.com/hazelcast/hazelcast/releases/download/v3.7/hazelcast-3.7.zip",
+              "size": "93 MB"
+            },
+            "github": "https://github.com/hazelcast/hazelcast/tree/v3.7/hazelcast-client",
+            "docs": "http://docs.hazelcast.org/docs/3.7.0/manual/html-single/index.html#hazelcast-java-client",
+            "apiDocs": "http://docs.hazelcast.org/docs/3.7.0/javadoc/",
+            "releaseNotes": ""
+          },
+          {
+            "version": "3.6.7",
+            "date": "2016-12-08",
+            "download": {
+              "url": "https://github.com/hazelcast/hazelcast/releases/download/v3.6.7/hazelcast-3.6.7.zip",
+              "size": "95.5 MB"
+            },
+            "github": "https://github.com/hazelcast/hazelcast/tree/v3.6.7/hazelcast-client",
+            "docs": "http://docs.hazelcast.org/docs/3.6.7/manual/html-single/index.html#hazelcast-java-client",
+            "apiDocs": "http://docs.hazelcast.org/docs/3.6.7/javadoc/",
+            "releaseNotes": ""
+          },
+          {
+            "version": "3.6.6",
+            "date": "2016-10-20",
+            "download": {
+              "url": "https://github.com/hazelcast/hazelcast/releases/download/v3.6.6/hazelcast-3.6.6.zip",
+              "size": "94.5 MB"
+            },
+            "github": "https://github.com/hazelcast/hazelcast/tree/v3.6.6/hazelcast-client",
+            "docs": "http://docs.hazelcast.org/docs/3.6.6/manual/html-single/index.html#hazelcast-java-client",
+            "apiDocs": "http://docs.hazelcast.org/docs/3.6.6/javadoc/",
+            "releaseNotes": ""
+          },
+          {
+            "version": "3.6.5",
+            "date": "2016-08-23",
+            "download": {
+              "url": "https://github.com/hazelcast/hazelcast/releases/download/v3.6.5/hazelcast-3.6.5.zip",
+              "size": "88.6 MB"
+            },
+            "github": "https://github.com/hazelcast/hazelcast/tree/v3.6.5/hazelcast-client",
+            "docs": "http://docs.hazelcast.org/docs/3.6.5/manual/html-single/index.html#hazelcast-java-client",
+            "apiDocs": "http://docs.hazelcast.org/docs/3.6.5/javadoc/",
+            "releaseNotes": ""
+          },
+          {
+            "version": "3.6.4",
+            "date": "2016-07-01",
+            "download": {
+              "url": "https://github.com/hazelcast/hazelcast/releases/download/v3.6.4/hazelcast-3.6.4.zip",
+              "size": "84.3 MB"
+            },
+            "github": "https://github.com/hazelcast/hazelcast/tree/v3.6.4/hazelcast-client",
+            "docs": "http://docs.hazelcast.org/docs/3.6.4/manual/html-single/index.html#hazelcast-java-client",
+            "apiDocs": "http://docs.hazelcast.org/docs/3.6.4/javadoc/",
+            "releaseNotes": ""
+          },
+          {
+            "version": "3.6.3",
+            "date": "2016-05-29",
+            "download": {
+              "url": "https://github.com/hazelcast/hazelcast/releases/download/v3.6.3/hazelcast-3.6.3.zip",
+              "size": "84.3 MB"
+            },
+            "github": "https://github.com/hazelcast/hazelcast/tree/v3.6.3/hazelcast-client",
+            "docs": "http://docs.hazelcast.org/docs/3.6.3/manual/html-single/index.html#hazelcast-java-client",
+            "apiDocs": "http://docs.hazelcast.org/docs/3.6.3/javadoc/",
+            "releaseNotes": ""
+          },
+          {
+            "version": "3.6.2",
+            "date": "2016-04-05",
+            "download": {
+              "url": "https://github.com/hazelcast/hazelcast/releases/download/v3.6.2/hazelcast-3.6.2.zip",
+              "size": "106.8 MB"
+            },
+            "github": "https://github.com/hazelcast/hazelcast/tree/v3.6.2/hazelcast-client",
+            "docs": "http://docs.hazelcast.org/docs/3.6.2/manual/html-single/index.html#hazelcast-java-client",
+            "apiDocs": "http://docs.hazelcast.org/docs/clients/java/3.6.2/",
+            "releaseNotes": ""
+          },
+          {
+            "version": "3.6.1",
+            "date": "2016-02-28",
+            "download": {
+              "url": "https://github.com/hazelcast/hazelcast/releases/download/v3.6.1/hazelcast-3.6.1.zip",
+              "size": "94.2 MB"
+            },
+            "github": "https://github.com/hazelcast/hazelcast/tree/v3.6.1/hazelcast-client",
+            "docs": "http://docs.hazelcast.org/docs/3.6.1/manual/html-single/index.html#hazelcast-java-client",
+            "apiDocs": "http://docs.hazelcast.org/docs/clients/java/3.6.1/",
+            "releaseNotes": ""
+          },
+          {
+            "version": "3.6",
+            "date": "2016-01-25",
+            "download": {
+              "url": "https://github.com/hazelcast/hazelcast/releases/download/v3.6/hazelcast-3.6.zip",
+              "size": "98.5 MB"
+            },
+            "github": "https://github.com/hazelcast/hazelcast/tree/v3.6/hazelcast-client",
+            "docs": "http://docs.hazelcast.org/docs/3.6.0/manual/html-single/index.html#hazelcast-java-client",
+            "apiDocs": "http://docs.hazelcast.org/docs/clients/java/3.6/",
+            "releaseNotes": ""
+          },
+          {
+            "version": "3.6-RC1",
+            "date": "2016-01-10",
+            "download": {
+              "url": "https://github.com/hazelcast/hazelcast/releases/download/v3.6-RC1/hazelcast-3.6-RC1.zip",
+              "size": "107.6 MB"
+            },
+            "github": "https://github.com/hazelcast/hazelcast/tree/v3.6-RC1/hazelcast-client",
+            "docs": "https://docs.hazelcast.org/docs/3.6-RC1/manual/html-single/index.html#hazelcast-java-client",
+            "apiDocs": "http://docs.hazelcast.org/docs/3.6-RC1/javadoc/",
+            "releaseNotes": ""
+          },
+          {
+            "version": "3.6-EA3",
+            "date": "2015-12-23",
+            "download": {
+              "url": "https://github.com/hazelcast/hazelcast/releases/download/v3.6-EA3/hazelcast-3.6-EA3.zip",
+              "size": "109.2 MB"
+            },
+            "github": "https://github.com/hazelcast/hazelcast/tree/v3.6-EA3/hazelcast-client",
+            "docs": "http://docs.hazelcast.org/docs/3.6-EA3/manual/html-single/index.html#hazelcast-java-client",
+            "apiDocs": "http://docs.hazelcast.org/docs/3.6-EA3/javadoc/",
+            "releaseNotes": ""
+          },
+          {
+            "version": "3.6-EA2",
+            "date": "2015-11-25",
+            "download": {
+              "url": "https://github.com/hazelcast/hazelcast/releases/download/v3.6-EA2/hazelcast-3.6-EA2.zip",
+              "size": "107.9 MB"
+            },
+            "github": "https://github.com/hazelcast/hazelcast/tree/v3.6-EA2/hazelcast-client",
+            "docs": "http://docs.hazelcast.org/docs/3.6-EA2/manual/html-single/index.html#hazelcast-java-client",
+            "apiDocs": "http://docs.hazelcast.org/docs/3.6-EA2/javadoc/",
+            "releaseNotes": ""
           }
-        },
-        "documentation": {
-          "html": "https://docs.hazelcast.com/hazelcast/5.5/",
-          "pdf": null,
-          "apiDocs": "https://docs.hazelcast.com/hazelcast/5.5/javadoc/",
-          "releaseNotes": "https://docs.hazelcast.com/hazelcast/5.5/release-notes/5-5-2"
-        },
-        "codeSamples": {
-          "url": "https://github.com/hazelcast/hazelcast/tree/v5.5.2/examples",
-          "size": null
-        },
-        "github": "https://github.com/hazelcast/hazelcast/tree/v5.5.2"
-      }
-    ],
-    "development": [
+        ]
+      },
       {
-        "version": "5.7.0-BETA-1",
-        "date": "2025-10-15",
-        "downloads": {
-          "zip": {
-            "url": "https://repository.hazelcast.com/download/hazelcast/hazelcast-5.7.0-BETA-1.zip",
-            "size": "839 MB"
+        "type": ".NET",
+        "show": true,
+        "versions": [
+          {
+            "version": "5.5.1",
+            "date": "2024-06-26",
+            "download": {
+              "url": "https://www.nuget.org/api/v2/package/Hazelcast.Net/5.5.1",
+              "size": "2 MB"
+            },
+            "github": "https://github.com/hazelcast/hazelcast-csharp-client/tree/v5.5.1",
+            "docs": "http://hazelcast.github.io/hazelcast-csharp-client/5.5.1/doc/index.html",
+            "apiDocs": "http://hazelcast.github.io/hazelcast-csharp-client/5.5.1/api/index.html",
+            "releaseNotes": "https://github.com/hazelcast/hazelcast-csharp-client/releases/tag/v5.5.1"
           },
-          "zipSlim": {
-            "url": "https://repository.hazelcast.com/download/hazelcast/hazelcast-5.7.0-BETA-1-slim.zip",
-            "size": "47 MB"
+          {
+            "version": "5.5.0",
+            "date": "2024-10-14",
+            "download": {
+              "url": "https://www.nuget.org/api/v2/package/Hazelcast.Net/5.5.0",
+              "size": "2 MB"
+            },
+            "github": "https://github.com/hazelcast/hazelcast-csharp-client/tree/v5.5.0",
+            "docs": "http://hazelcast.github.io/hazelcast-csharp-client/5.5.0/doc/index.html",
+            "apiDocs": "http://hazelcast.github.io/hazelcast-csharp-client/5.5.0/api/index.html",
+            "releaseNotes": "https://github.com/hazelcast/hazelcast-csharp-client/releases/tag/v5.5.0"
           },
-          "tar": {
-            "url": "https://repository.hazelcast.com/download/hazelcast/hazelcast-5.7.0-BETA-1.tar.gz",
-            "size": "839 MB"
+          {
+            "version": "5.4.0",
+            "date": "2024-06-21",
+            "download": {
+              "url": "https://www.nuget.org/api/v2/package/Hazelcast.Net/5.4.0",
+              "size": "2 MB"
+            },
+            "github": "https://github.com/hazelcast/hazelcast-csharp-client/tree/v5.4.0",
+            "docs": "http://hazelcast.github.io/hazelcast-csharp-client/5.4.0/doc/index.html",
+            "apiDocs": "http://hazelcast.github.io/hazelcast-csharp-client/5.4.0/api/index.html",
+            "releaseNotes": "https://github.com/hazelcast/hazelcast-csharp-client/releases/tag/v5.4.0"
           },
-          "tarSlim": {
-            "url": "https://repository.hazelcast.com/download/hazelcast/hazelcast-5.7.0-BETA-1-slim.tar.gz",
-            "size": "47 MB"
+          {
+            "version": "5.3.1",
+            "date": "2023-10-04",
+            "download": {
+              "url": "https://www.nuget.org/api/v2/package/Hazelcast.Net/5.3.1",
+              "size": "2 MB"
+            },
+            "github": "https://github.com/hazelcast/hazelcast-csharp-client/tree/v5.3.1",
+            "docs": "http://hazelcast.github.io/hazelcast-csharp-client/5.3.1/doc/index.html",
+            "apiDocs": "http://hazelcast.github.io/hazelcast-csharp-client/5.3.1/api/index.html",
+            "releaseNotes": "https://github.com/hazelcast/hazelcast-csharp-client/releases/tag/v5.3.1"
+          },
+          {
+            "version": "5.3.0",
+            "date": "2023-06-23",
+            "download": {
+              "url": "https://www.nuget.org/api/v2/package/Hazelcast.Net/5.3.0",
+              "size": "2 MB"
+            },
+            "github": "https://github.com/hazelcast/hazelcast-csharp-client/tree/v5.3.0",
+            "docs": "http://hazelcast.github.io/hazelcast-csharp-client/5.3.0/doc/index.html",
+            "apiDocs": "http://hazelcast.github.io/hazelcast-csharp-client/5.3.0/api/index.html",
+            "releaseNotes": "https://github.com/hazelcast/hazelcast-csharp-client/releases/tag/v5.3.0"
+          },
+          {
+            "version": "5.2.2",
+            "date": "2023-05-29",
+            "download": {
+              "url": "https://www.nuget.org/api/v2/package/Hazelcast.Net/5.2.2",
+              "size": "1 MB"
+            },
+            "github": "https://github.com/hazelcast/hazelcast-csharp-client/tree/v5.2.2",
+            "docs": "http://hazelcast.github.io/hazelcast-csharp-client/5.2.2/doc/index.html",
+            "apiDocs": "http://hazelcast.github.io/hazelcast-csharp-client/5.2.2/api/index.html",
+            "releaseNotes": "https://github.com/hazelcast/hazelcast-csharp-client/releases/tag/v5.2.2"
+          },
+          {
+            "version": "5.2.1",
+            "date": "2023-04-01",
+            "download": {
+              "url": "https://www.nuget.org/api/v2/package/Hazelcast.Net/5.2.1",
+              "size": "1 MB"
+            },
+            "github": "https://github.com/hazelcast/hazelcast-csharp-client/tree/v5.2.1",
+            "docs": "http://hazelcast.github.io/hazelcast-csharp-client/5.2.1/doc/index.html",
+            "apiDocs": "http://hazelcast.github.io/hazelcast-csharp-client/5.2.1/api/index.html",
+            "releaseNotes": "https://github.com/hazelcast/hazelcast-csharp-client/releases/tag/v5.2.1"
+          },
+          {
+            "version": "5.2.0",
+            "date": "2023-02-14",
+            "download": {
+              "url": "https://www.nuget.org/api/v2/package/Hazelcast.Net/5.2.0",
+              "size": "1 MB"
+            },
+            "github": "https://github.com/hazelcast/hazelcast-csharp-client/tree/v5.2.0",
+            "docs": "http://hazelcast.github.io/hazelcast-csharp-client/5.2.0/doc/index.html",
+            "apiDocs": "http://hazelcast.github.io/hazelcast-csharp-client/5.2.0/api/index.html",
+            "releaseNotes": "https://github.com/hazelcast/hazelcast-csharp-client/releases/tag/v5.2.0"
+          },
+          {
+            "version": "5.0.2",
+            "date": "2022-07-07",
+            "download": {
+              "url": "https://www.nuget.org/api/v2/package/Hazelcast.Net/5.0.2",
+              "size": "1 MB"
+            },
+            "github": "https://github.com/hazelcast/hazelcast-csharp-client/tree/v5.0.2",
+            "docs": "http://hazelcast.github.io/hazelcast-csharp-client/5.0.2/doc/index.html",
+            "apiDocs": "http://hazelcast.github.io/hazelcast-csharp-client/5.0.2/api/index.html",
+            "releaseNotes": "https://github.com/hazelcast/hazelcast-csharp-client/releases/tag/v5.0.2"
+          },
+          {
+            "version": "5.1.0",
+            "date": "2022-06-14",
+            "download": {
+              "url": "https://www.nuget.org/api/v2/package/Hazelcast.Net/5.1.0",
+              "size": "1 MB"
+            },
+            "github": "https://github.com/hazelcast/hazelcast-csharp-client/tree/v5.1.0",
+            "docs": "http://hazelcast.github.io/hazelcast-csharp-client/5.1.0/doc/index.html",
+            "apiDocs": "http://hazelcast.github.io/hazelcast-csharp-client/5.1.0/api/index.html",
+            "releaseNotes": "https://github.com/hazelcast/hazelcast-csharp-client/releases/tag/v5.1.0"
+          },
+          {
+            "version": "5.0.1",
+            "date": "2022-03-21",
+            "download": {
+              "url": "https://www.nuget.org/api/v2/package/Hazelcast.Net/5.0.1",
+              "size": "1 MB"
+            },
+            "github": "https://github.com/hazelcast/hazelcast-csharp-client/tree/v5.0.1",
+            "docs": "http://hazelcast.github.io/hazelcast-csharp-client/5.0.1/doc/index.html",
+            "apiDocs": "http://hazelcast.github.io/hazelcast-csharp-client/5.0.1/api/index.html",
+            "releaseNotes": "https://github.com/hazelcast/hazelcast-csharp-client/releases/tag/v5.0.1"
+          },
+          {
+            "version": "5.0.0",
+            "date": "2021-11-01",
+            "download": {
+              "url": "https://www.nuget.org/api/v2/package/Hazelcast.Net/5.0.0",
+              "size": "1 MB"
+            },
+            "github": "https://github.com/hazelcast/hazelcast-csharp-client/tree/v5.0.0",
+            "docs": "http://hazelcast.github.io/hazelcast-csharp-client/5.0.0/doc/index.html",
+            "apiDocs": "http://hazelcast.github.io/hazelcast-csharp-client/5.0.0/api/index.html",
+            "releaseNotes": "https://github.com/hazelcast/hazelcast-csharp-client/releases/tag/v5.0.0"
+          },
+          {
+            "version": "4.1.0",
+            "date": "2021-06-28",
+            "download": {
+              "url": "https://www.nuget.org/api/v2/package/Hazelcast.Net/4.1.0",
+              "size": "1 MB"
+            },
+            "github": "https://github.com/hazelcast/hazelcast-csharp-client/tree/v4.1.0",
+            "docs": "http://hazelcast.github.io/hazelcast-csharp-client/4.1.0/doc/index.html",
+            "apiDocs": "http://hazelcast.github.io/hazelcast-csharp-client/4.1.0/api/index.html",
+            "releaseNotes": "https://github.com/hazelcast/hazelcast-csharp-client/releases/tag/v4.1.0"
+          },
+          {
+            "version": "4.0.2",
+            "date": "2021-06-04",
+            "download": {
+              "url": "https://www.nuget.org/api/v2/package/Hazelcast.Net/4.0.2",
+              "size": "1 MB"
+            },
+            "github": "https://github.com/hazelcast/hazelcast-csharp-client/tree/v4.0.2",
+            "docs": "http://hazelcast.github.io/hazelcast-csharp-client/4.0.2/doc/index.html",
+            "apiDocs": "http://hazelcast.github.io/hazelcast-csharp-client/4.0.2/api/index.html",
+            "releaseNotes": "https://github.com/hazelcast/hazelcast-csharp-client/releases/tag/v4.0.2"
+          },
+          {
+            "version": "4.0.1",
+            "date": "2021-03-11",
+            "download": {
+              "url": "https://www.nuget.org/api/v2/package/Hazelcast.Net/4.0.1",
+              "size": "1 MB"
+            },
+            "github": "https://github.com/hazelcast/hazelcast-csharp-client/tree/v4.0.1",
+            "docs": "http://hazelcast.github.io/hazelcast-csharp-client/4.0.1/doc/index.html",
+            "apiDocs": "http://hazelcast.github.io/hazelcast-csharp-client/4.0.1/api/index.html",
+            "releaseNotes": "https://github.com/hazelcast/hazelcast-csharp-client/releases/tag/v4.0.1"
+          },
+          {
+            "version": "4.0.0",
+            "date": "2021-08-02",
+            "download": {
+              "url": "https://www.nuget.org/api/v2/package/Hazelcast.Net/4.0.0",
+              "size": "1 MB"
+            },
+            "github": "https://github.com/hazelcast/hazelcast-csharp-client/tree/v4.0.0",
+            "docs": "http://hazelcast.github.io/hazelcast-csharp-client/4.0.0/doc/index.html",
+            "apiDocs": "http://hazelcast.github.io/hazelcast-csharp-client/4.0.0/api/index.html",
+            "releaseNotes": "https://github.com/hazelcast/hazelcast-csharp-client/releases/tag/v4.0.0"
+          },
+          {
+            "version": "4.0-BETA",
+            "date": "2020-12-11",
+            "download": {
+              "url": "https://www.nuget.org/api/v2/package/Hazelcast.Net/4.0.0-preview.5.beta",
+              "size": "1 MB"
+            },
+            "github": "https://github.com/hazelcast/hazelcast-csharp-client/tree/v4.0.0-preview.5.beta",
+            "docs": "http://hazelcast.github.io/hazelcast-csharp-client/dev/doc/index.html",
+            "apiDocs": "http://hazelcast.github.io/hazelcast-csharp-client/dev/api/index.html",
+            "releaseNotes": "https://github.com/hazelcast/hazelcast-csharp-client/releases/tag/v4.0.0-preview.5.beta"
+          },
+          {
+            "version": "3.12.3",
+            "date": "2020-06-17",
+            "download": {
+              "url": "https://repository.hazelcast.com/download/clients/3.12.3/hazelcast-csharp-client-3.12.3.zip",
+              "size": "7.4 MB"
+            },
+            "github": "https://github.com/hazelcast/hazelcast-csharp-client/tree/v3.12.3",
+            "docs": "https://github.com/hazelcast/hazelcast-csharp-client/blob/v3.12.3/README.md",
+            "apiDocs": "https://hazelcast.github.io/hazelcast-csharp-client/3.12.3/",
+            "releaseNotes": "https://github.com/hazelcast/hazelcast-csharp-client/releases/tag/v3.12.3"
+          },
+          {
+            "version": "3.12.2",
+            "date": "2020-05-04",
+            "download": {
+              "url": "https://repository.hazelcast.com/download/clients/3.12.2/hazelcast-csharp-client-3.12.2.zip",
+              "size": "7.4 MB"
+            },
+            "github": "https://github.com/hazelcast/hazelcast-csharp-client/tree/v3.12.2",
+            "docs": "https://github.com/hazelcast/hazelcast-csharp-client/blob/v3.12.2/README.md",
+            "apiDocs": "https://hazelcast.github.io/hazelcast-csharp-client/3.12.2/",
+            "releaseNotes": "https://github.com/hazelcast/hazelcast-csharp-client/releases/tag/v3.12.2"
+          },
+          {
+            "version": "3.12.1",
+            "date": "2019-08-09",
+            "download": {
+              "url": "https://repository.hazelcast.com/download/clients/3.12.1/hazelcast-csharp-client-3.12.1.zip",
+              "size": "6.9 MB"
+            },
+            "github": "https://github.com/hazelcast/hazelcast-csharp-client/tree/v3.12.1",
+            "docs": "https://github.com/hazelcast/hazelcast-csharp-client/blob/v3.12.1/README.md",
+            "apiDocs": "http://docs.hazelcast.org/docs/clients/net/3.12.1/",
+            "releaseNotes": "https://github.com/hazelcast/hazelcast-csharp-client/releases/tag/v3.12.1"
+          },
+          {
+            "version": "3.12.0",
+            "date": "2019-06-14",
+            "download": {
+              "url": "https://repository.hazelcast.com/download/clients/3.12.0/hazelcast-csharp-client-3.12.0.zip",
+              "size": "6.9 MB"
+            },
+            "github": "https://github.com/hazelcast/hazelcast-csharp-client/tree/v3.12.0",
+            "docs": "https://github.com/hazelcast/hazelcast-csharp-client/blob/v3.12.0/README.md",
+            "apiDocs": "http://docs.hazelcast.org/docs/clients/net/3.12.0/",
+            "releaseNotes": "https://github.com/hazelcast/hazelcast-csharp-client/releases/tag/v3.12.0"
+          },
+          {
+            "version": "3.11.0",
+            "date": "2019-03-28",
+            "download": {
+              "url": "https://repository.hazelcast.com/download/clients/3.11/hazelcast-csharp-client-3.11.zip",
+              "size": "6.9 MB"
+            },
+            "github": "https://github.com/hazelcast/hazelcast-csharp-client/tree/v3.11.0",
+            "docs": "https://github.com/hazelcast/hazelcast-csharp-client/blob/v3.11.0/README.md",
+            "apiDocs": "http://docs.hazelcast.org/docs/clients/net/3.11.0/",
+            "releaseNotes": "https://github.com/hazelcast/hazelcast-csharp-client/releases/tag/v3.11.0"
+          },
+          {
+            "version": "3.10.0",
+            "date": "2018-12-18",
+            "download": {
+              "url": "https://repository.hazelcast.com/download/clients/3.10.0/hazelcast-csharp-client-3.10.0.zip",
+              "size": "6.9 MB"
+            },
+            "github": "https://github.com/hazelcast/hazelcast-csharp-client/tree/v3.10.0",
+            "docs": "https://github.com/hazelcast/hazelcast-csharp-client/blob/v3.10.0/README.md",
+            "apiDocs": "http://docs.hazelcast.org/docs/clients/net/3.10.0/",
+            "releaseNotes": "https://github.com/hazelcast/hazelcast-csharp-client/releases/tag/v3.10.0"
+          },
+          {
+            "version": "3.9.4",
+            "date": "2018-10-02",
+            "download": {
+              "url": "https://repository.hazelcast.com/download/clients/3.9.4/hazelcast-csharp-client-3.9.4.zip",
+              "size": "6.6 MB"
+            },
+            "github": "https://github.com/hazelcast/hazelcast-csharp-client/tree/v3.9.4",
+            "docs": "https://github.com/hazelcast/hazelcast-csharp-client/blob/v3.9.4/README.md",
+            "apiDocs": "http://docs.hazelcast.org/docs/clients/net/3.9.4/",
+            "releaseNotes": "https://github.com/hazelcast/hazelcast-csharp-client/releases/tag/v3.9.4"
+          },
+          {
+            "version": "3.9.3",
+            "date": "2018-03-06",
+            "download": {
+              "url": "https://repository.hazelcast.com/download/clients/3.9.3/hazelcast-csharp-client-3.9.3.zip",
+              "size": "6.6 MB"
+            },
+            "github": "https://github.com/hazelcast/hazelcast-csharp-client/tree/v3.9.3",
+            "docs": "https://github.com/hazelcast/hazelcast-csharp-client/blob/v3.9.3/README.md",
+            "apiDocs": "http://docs.hazelcast.org/docs/clients/net/3.9.3/",
+            "releaseNotes": "https://github.com/hazelcast/hazelcast-csharp-client/releases/tag/v3.9.3"
+          },
+          {
+            "version": "3.9.2",
+            "date": "2018-01-05",
+            "download": {
+              "url": "https://repository.hazelcast.com/download/clients/3.9.2/hazelcast-csharp-client-3.9.2.zip",
+              "size": "6.6 MB"
+            },
+            "github": "https://github.com/hazelcast/hazelcast-csharp-client/tree/v3.9.2",
+            "docs": "https://github.com/hazelcast/hazelcast-csharp-client/blob/v3.9.2/README.md",
+            "apiDocs": "http://docs.hazelcast.org/docs/clients/net/3.9.2/",
+            "releaseNotes": "https://github.com/hazelcast/hazelcast-csharp-client/releases/tag/v3.9.2"
+          },
+          {
+            "version": "3.9.1",
+            "date": "2017-11-27",
+            "download": {
+              "url": "https://repository.hazelcast.com/download/clients/3.9.1/hazelcast-csharp-client-3.9.1.zip",
+              "size": "7.7 MB"
+            },
+            "github": "https://github.com/hazelcast/hazelcast-csharp-client/tree/v3.9.1",
+            "docs": "https://github.com/hazelcast/hazelcast-csharp-client/blob/v3.9.1/README.md",
+            "apiDocs": "http://docs.hazelcast.org/docs/clients/net/3.9.1/",
+            "releaseNotes": "https://github.com/hazelcast/hazelcast-csharp-client/releases/tag/v3.9.1"
+          },
+          {
+            "version": "3.9",
+            "date": "2017-11-08",
+            "download": {
+              "url": "https://repository.hazelcast.com/download/clients/3.9/hazelcast-csharp-client-3.9.zip",
+              "size": "7.4 MB"
+            },
+            "github": "https://github.com/hazelcast/hazelcast-csharp-client/tree/v3.9",
+            "docs": "https://github.com/hazelcast/hazelcast-csharp-client/blob/v3.9/README.md",
+            "apiDocs": "http://docs.hazelcast.org/docs/clients/net/3.9/",
+            "releaseNotes": "https://github.com/hazelcast/hazelcast-csharp-client/releases/tag/v3.9"
+          },
+          {
+            "version": "3.8.2",
+            "date": "2017-07-26",
+            "download": {
+              "url": "https://repository.hazelcast.com/download/clients/3.8.2/hazelcast-csharp-client-3.8.2.zip",
+              "size": "11.4 MB"
+            },
+            "github": "https://github.com/hazelcast/hazelcast-csharp-client/tree/v3.8.2",
+            "docs": "https://github.com/hazelcast/hazelcast-csharp-client/blob/v3.8.2/README.md",
+            "apiDocs": "http://docs.hazelcast.org/docs/clients/net/3.8.2/",
+            "releaseNotes": "https://github.com/hazelcast/hazelcast-csharp-client/releases/tag/v3.8.2"
+          },
+          {
+            "version": "3.8.1",
+            "date": "2017-04-03",
+            "download": {
+              "url": "https://repository.hazelcast.com/download/clients/3.8.1/hazelcast-csharp-client-3.8.1.zip",
+              "size": "11.4 MB"
+            },
+            "github": "https://github.com/hazelcast/hazelcast-csharp-client/tree/v3.8.1",
+            "docs": "https://github.com/hazelcast/hazelcast-csharp-client/blob/v3.8.1/README.md",
+            "apiDocs": "http://docs.hazelcast.org/docs/clients/net/3.8.1/",
+            "releaseNotes": "https://github.com/hazelcast/hazelcast-csharp-client/releases/tag/v3.8.1"
+          },
+          {
+            "version": "3.8.0.1",
+            "date": "2017-02-24",
+            "download": {
+              "url": "https://repository.hazelcast.com/download/clients/3.8.0.1/hazelcast-csharp-client-3.8.0.1.zip",
+              "size": "10.7 MB"
+            },
+            "github": "https://github.com/hazelcast/hazelcast-csharp-client/tree/v3.8.0.1",
+            "docs": "https://github.com/hazelcast/hazelcast-csharp-client/blob/v3.8.0.1/README.md",
+            "apiDocs": "http://docs.hazelcast.org/docs/clients/net/3.8.0.1/",
+            "releaseNotes": "https://github.com/hazelcast/hazelcast-csharp-client/releases/tag/v3.8.0.1"
+          },
+          {
+            "version": "3.7.1",
+            "date": "2016-11-11",
+            "download": {
+              "url": "https://repository.hazelcast.com/download/clients/3.7.1/hazelcast-csharp-client-3.7.1.zip",
+              "size": "10.6 MB"
+            },
+            "github": "https://github.com/hazelcast/hazelcast-csharp-client/tree/v3.7.1",
+            "docs": "https://github.com/hazelcast/hazelcast-csharp-client/blob/v3.7.1/README.md",
+            "apiDocs": "http://docs.hazelcast.org/docs/clients/net/3.7.1/",
+            "releaseNotes": "https://github.com/hazelcast/hazelcast-csharp-client/releases/tag/v3.7.1"
+          },
+          {
+            "version": "3.7",
+            "date": "2016-10-31",
+            "download": {
+              "url": "https://repository.hazelcast.com/download/clients/3.7/hazelcast-csharp-client-3.7.zip",
+              "size": "10.6 MB"
+            },
+            "github": "https://github.com/hazelcast/hazelcast-csharp-client/tree/v3.7",
+            "docs": "https://github.com/hazelcast/hazelcast-csharp-client/blob/v3.7/README.md",
+            "apiDocs": "http://docs.hazelcast.org/docs/clients/net/3.7/",
+            "releaseNotes": "https://github.com/hazelcast/hazelcast-csharp-client/releases/tag/v3.7"
+          },
+          {
+            "version": "3.6.4",
+            "date": "2016-08-29",
+            "download": {
+              "url": "https://repository.hazelcast.com/download/clients/3.6.4.0/hazelcast-csharp-client-3.6.4.0.zip",
+              "size": "10.5 MB"
+            },
+            "github": "https://github.com/hazelcast/hazelcast-csharp-client/tree/v3.6.4",
+            "docs": "https://github.com/hazelcast/hazelcast-csharp-client/blob/v3.6.4/README.md",
+            "apiDocs": "http://docs.hazelcast.org/docs/clients/net/3.6.4/",
+            "releaseNotes": ""
+          },
+          {
+            "version": "3.6.3",
+            "date": "2016-06-10",
+            "download": {
+              "url": "https://repository.hazelcast.com/download/clients/3.6.3.0/hazelcast-csharp-client-3.6.3.0.zip",
+              "size": "10.5 MB"
+            },
+            "github": "https://github.com/hazelcast/hazelcast-csharp-client/tree/v3.6.3.0",
+            "docs": "https://github.com/hazelcast/hazelcast-csharp-client/blob/v3.6.3.0/README.md",
+            "apiDocs": "http://docs.hazelcast.org/docs/clients/net/3.6.3/",
+            "releaseNotes": ""
+          },
+          {
+            "version": "3.6.2",
+            "date": "2016-05-23",
+            "download": {
+              "url": "https://repository.hazelcast.com/download/clients/3.6.2/hazelcast-csharp-client-3.6.2.zip",
+              "size": "10.5 MB"
+            },
+            "github": "https://github.com/hazelcast/hazelcast-csharp-client/tree/v3.6.2",
+            "docs": "https://github.com/hazelcast/hazelcast-csharp-client/blob/v3.6.2/README.md",
+            "apiDocs": "http://docs.hazelcast.org/docs/clients/net/3.6.2/",
+            "releaseNotes": ""
+          },
+          {
+            "version": "3.6.1",
+            "date": "2016-02-22",
+            "download": {
+              "url": "https://repository.hazelcast.com/download/clients/3.6.1/hazelcast-csharp-client-3.6.1.zip",
+              "size": "19.6 MB"
+            },
+            "github": "https://github.com/hazelcast/hazelcast-csharp-client/tree/v3.6.1",
+            "docs": "https://github.com/hazelcast/hazelcast-csharp-client/blob/v3.6.1/README.md",
+            "apiDocs": "http://docs.hazelcast.org/docs/clients/net/3.6.1/",
+            "releaseNotes": ""
+          },
+          {
+            "version": "3.6",
+            "date": "2016-01-25",
+            "download": {
+              "url": "https://repository.hazelcast.com/download/clients/3.6/hazelcast-csharp-client-3.6.zip",
+              "size": "4.5 MB"
+            },
+            "github": "https://github.com/hazelcast/hazelcast-csharp-client/tree/v3.6",
+            "docs": "https://github.com/hazelcast/hazelcast-csharp-client/blob/v3.6/README.md",
+            "apiDocs": "http://docs.hazelcast.org/docs/clients/net/3.6/",
+            "releaseNotes": ""
+          },
+          {
+            "version": "3.6-RC1",
+            "date": "2016-01-10",
+            "download": {
+              "url": "https://repository.hazelcast.com/download/clients/3.6-RC1/hazelcast-csharp-client-3.6-RC1.zip",
+              "size": "4.5 MB"
+            },
+            "github": "https://github.com/hazelcast/hazelcast-csharp-client/tree/v3.6-RC1",
+            "docs": "https://github.com/hazelcast/hazelcast-csharp-client/blob/v3.6-RC1/README.md",
+            "apiDocs": "http://docs.hazelcast.org/docs/clients/net/3.6-RC1/",
+            "releaseNotes": ""
+          },
+          {
+            "version": "3.6-EA3",
+            "date": "2015-12-23",
+            "download": {
+              "url": "https://repository.hazelcast.com/download/clients/3.6-EA3/hazelcast-csharp-client-3.6-EA3.zip",
+              "size": "11.4 MB"
+            },
+            "github": "https://github.com/hazelcast/hazelcast-csharp-client/tree/v3.6-EA3",
+            "docs": "https://github.com/hazelcast/hazelcast-csharp-client/blob/v3.6-EA3/README.md",
+            "apiDocs": "http://docs.hazelcast.org/docs/clients/net/3.6-EA3/",
+            "releaseNotes": ""
+          },
+          {
+            "version": "3.6-EA2",
+            "date": "2015-11-25",
+            "download": {
+              "url": "https://repository.hazelcast.com/download/clients/3.6-EA2/hazelcast-csharp-client-3.6-EA2.zip",
+              "size": "5.9 MB"
+            },
+            "github": "https://github.com/hazelcast/hazelcast-csharp-client/tree/v3.6-EA2",
+            "docs": "https://github.com/hazelcast/hazelcast-csharp-client/blob/v3.6-EA2/README.md",
+            "apiDocs": "http://docs.hazelcast.org/docs/clients/net/3.6-EA2/",
+            "releaseNotes": ""
           }
-        },
-        "documentation": {
-          "html": "https://docs.hazelcast.com/hazelcast/5.7.0-BETA-1/",
-          "pdf": null,
-          "apiDocs": "https://docs.hazelcast.com/hazelcast/5.7.0-BETA-1/javadoc/",
-          "releaseNotes": "https://docs.hazelcast.com/hazelcast/5.7.0-beta-1/release-notes/5-7-0-beta-1"
-        },
-        "codeSamples": {
-          "url": "https://github.com/hazelcast/hazelcast/tree/v5.7.0-BETA-1/examples",
-          "size": null
-        },
-        "github": "https://github.com/hazelcast/hazelcast/tree/v5.7.0-BETA-1"
+        ]
+      },
+      {
+        "type": "C++",
+        "show": true,
+        "versions": [
+          {
+            "version": "5.4.0",
+            "date": "2025-06-13",
+            "github": "https://github.com/hazelcast/hazelcast-cpp-client/tree/v5.4.0",
+            "docs": "https://github.com/hazelcast/hazelcast-cpp-client/blob/v5.4.0/Reference_Manual.md",
+            "apiDocs": "http://hazelcast.github.io/hazelcast-cpp-client/api-index.html",
+            "releaseNotes": "https://github.com/hazelcast/hazelcast-cpp-client/releases/tag/v5.4.0"
+          },
+          {
+            "version": "5.3.1",
+            "date": "2025-06-02",
+            "github": "https://github.com/hazelcast/hazelcast-cpp-client/tree/v5.3.1",
+            "docs": "https://github.com/hazelcast/hazelcast-cpp-client/blob/v5.3.1/Reference_Manual.md",
+            "apiDocs": "http://hazelcast.github.io/hazelcast-cpp-client/api-index.html",
+            "releaseNotes": "https://github.com/hazelcast/hazelcast-cpp-client/releases/tag/v5.3.1"
+          },
+          {
+            "version": "5.3.0",
+            "date": "2023-06-12",
+            "github": "https://github.com/hazelcast/hazelcast-cpp-client/tree/v5.3.0",
+            "docs": "https://github.com/hazelcast/hazelcast-cpp-client/blob/v5.3.0/Reference_Manual.md",
+            "apiDocs": "http://hazelcast.github.io/hazelcast-cpp-client/api-index.html",
+            "releaseNotes": "https://github.com/hazelcast/hazelcast-cpp-client/releases/tag/v5.3.0"
+          },
+          {
+            "version": "5.2.0",
+            "date": "2023-03-16",
+            "github": "https://github.com/hazelcast/hazelcast-cpp-client/tree/v5.2.0",
+            "docs": "https://github.com/hazelcast/hazelcast-cpp-client/blob/v5.2.0/Reference_Manual.md",
+            "apiDocs": "http://hazelcast.github.io/hazelcast-cpp-client/api-index.html",
+            "releaseNotes": "https://github.com/hazelcast/hazelcast-cpp-client/releases/tag/v5.2.0"
+          },
+          {
+            "version": "5.1.0",
+            "date": "2022-12-30",
+            "github": "https://github.com/hazelcast/hazelcast-cpp-client/tree/v5.1.0",
+            "docs": "https://github.com/hazelcast/hazelcast-cpp-client/blob/v5.1.0/Reference_Manual.md",
+            "apiDocs": "http://hazelcast.github.io/hazelcast-cpp-client/api-index.html",
+            "releaseNotes": "https://github.com/hazelcast/hazelcast-cpp-client/releases/tag/v5.1.0"
+          },
+          {
+            "version": "5.0.0",
+            "date": "2021-10-18",
+            "github": "https://github.com/hazelcast/hazelcast-cpp-client/tree/v5.0.0",
+            "docs": "https://github.com/hazelcast/hazelcast-cpp-client/blob/v5.0.0/Reference_Manual.md",
+            "apiDocs": "http://hazelcast.github.io/hazelcast-cpp-client/api-index.html",
+            "releaseNotes": "https://github.com/hazelcast/hazelcast-cpp-client/releases/tag/v5.0.0"
+          },
+          {
+            "version": "4.2.1",
+            "date": "2022-08-11",
+            "github": "https://github.com/hazelcast/hazelcast-cpp-client/tree/v4.2.1",
+            "docs": "https://github.com/hazelcast/hazelcast-cpp-client/blob/v4.2.1/Reference_Manual.md",
+            "apiDocs": "http://hazelcast.github.io/hazelcast-cpp-client/api-index.html",
+            "releaseNotes": "https://github.com/hazelcast/hazelcast-cpp-client/releases/tag/v4.2.1"
+          },
+          {
+            "version": "4.2.0",
+            "date": "2021-08-31",
+            "github": "https://github.com/hazelcast/hazelcast-cpp-client/tree/v4.2.0",
+            "docs": "https://github.com/hazelcast/hazelcast-cpp-client/blob/v4.2.0/Reference_Manual.md",
+            "apiDocs": "http://hazelcast.github.io/hazelcast-cpp-client/api-index.html",
+            "releaseNotes": "https://github.com/hazelcast/hazelcast-cpp-client/releases/tag/v4.2.0"
+          },
+          {
+            "version": "4.1.1",
+            "date": "2021-05-26",
+            "github": "https://github.com/hazelcast/hazelcast-cpp-client/tree/v4.1.1",
+            "docs": "https://github.com/hazelcast/hazelcast-cpp-client/blob/v4.1.1/Reference_Manual.md",
+            "apiDocs": "http://hazelcast.github.io/hazelcast-cpp-client/api-index.html",
+            "releaseNotes": "https://github.com/hazelcast/hazelcast-cpp-client/releases/tag/v4.1.1"
+          },
+          {
+            "version": "4.1.0",
+            "date": "2021-05-07",
+            "github": "https://github.com/hazelcast/hazelcast-cpp-client/tree/v4.1.0",
+            "docs": "https://github.com/hazelcast/hazelcast-cpp-client/blob/v4.1.0/Reference_Manual.md",
+            "apiDocs": "http://hazelcast.github.io/hazelcast-cpp-client/api-index.html",
+            "releaseNotes": "https://github.com/hazelcast/hazelcast-cpp-client/releases/tag/v4.1.0"
+          },
+          {
+            "version": "4.0.1",
+            "date": "2021-02-25",
+            "github": "https://github.com/hazelcast/hazelcast-cpp-client/tree/v4.0.1",
+            "docs": "https://github.com/hazelcast/hazelcast-cpp-client/blob/v4.0.1/Reference_Manual.md",
+            "apiDocs": "http://hazelcast.github.io/hazelcast-cpp-client/api-index.html",
+            "releaseNotes": "https://github.com/hazelcast/hazelcast-cpp-client/releases/tag/v4.0.1"
+          },
+          {
+            "version": "4.0.0",
+            "date": "2021-01-28",
+            "github": "https://github.com/hazelcast/hazelcast-cpp-client/tree/v4.0.0",
+            "docs": "https://github.com/hazelcast/hazelcast-cpp-client/blob/v4.0.0/README.md",
+            "apiDocs": "http://hazelcast.github.io/hazelcast-cpp-client/api-index.html",
+            "releaseNotes": "https://github.com/hazelcast/hazelcast-cpp-client/releases/tag/v4.0.0"
+          },
+          {
+            "version": "4.0-BETA",
+            "date": "2020-11-25",
+            "github": "https://github.com/hazelcast/hazelcast-cpp-client/tree/v4.0-BETA",
+            "docs": "https://github.com/hazelcast/hazelcast-cpp-client/blob/v4.0-BETA/README.md",
+            "apiDocs": "http://hazelcast.github.io/hazelcast-cpp-client/index.html",
+            "releaseNotes": "https://github.com/hazelcast/hazelcast-cpp-client/releases/tag/v4.0-BETA"
+          },
+          {
+            "version": "4.0-BETA",
+            "date": "2020-11-25",
+            "github": "https://github.com/hazelcast/hazelcast-cpp-client/tree/v4.0-BETA",
+            "docs": "https://github.com/hazelcast/hazelcast-cpp-client/blob/v4.0-BETA/README.md",
+            "apiDocs": "http://hazelcast.github.io/hazelcast-cpp-client/index.html",
+            "releaseNotes": "https://github.com/hazelcast/hazelcast-cpp-client/releases/tag/v4.0-BETA"
+          },
+          {
+            "version": "3.12.1",
+            "date": "2020-01-28",
+            "github": "https://github.com/hazelcast/hazelcast-cpp-client/tree/v3.12.1",
+            "docs": "https://github.com/hazelcast/hazelcast-cpp-client/blob/v3.12.1/README.md",
+            "apiDocs": "http://docs.hazelcast.org/docs/clients/cpp/3.12.1/html/",
+            "releaseNotes": "https://github.com/hazelcast/hazelcast-cpp-client/releases/tag/v3.12.1"
+          },
+          {
+            "version": "3.12",
+            "date": "2019-04-25",
+            "docs": "https://repository.hazelcast.com/download/clients/3.12/hazelcast-cpp-client-3.12-docs.zip",
+            "github": "https://github.com/hazelcast/hazelcast-cpp-client/tree/v3.12",
+            "apiDocs": "http://docs.hazelcast.org/docs/clients/cpp/3.12/html/",
+            "releaseNotes": "https://github.com/hazelcast/hazelcast-cpp-client/releases/tag/v3.12"
+          },
+          {
+            "version": "3.11",
+            "date": "2018-12-14",
+            "docs": "https://repository.hazelcast.com/download/clients/3.11/hazelcast-cpp-client-3.11-docs.zip",
+            "github": "https://github.com/hazelcast/hazelcast-cpp-client/tree/v3.11",
+            "apiDocs": "http://docs.hazelcast.org/docs/clients/cpp/3.11/html/",
+            "releaseNotes": "https://github.com/hazelcast/hazelcast-cpp-client/releases/tag/v3.11"
+          },
+          {
+            "version": "3.10.1",
+            "date": "2018-08-28",
+            "docs": "https://repository.hazelcast.com/download/clients/3.10.1/hazelcast-cpp-client-3.10.1-docs.zip",
+            "github": "https://github.com/hazelcast/hazelcast-cpp-client/tree/v3.10.1",
+            "apiDocs": "http://docs.hazelcast.org/docs/clients/cpp/3.10.1/html/",
+            "releaseNotes": "https://github.com/hazelcast/hazelcast-cpp-client/releases/tag/v3.10.1"
+          },
+          {
+            "version": "3.10",
+            "date": "2018-06-20",
+            "docs": "https://repository.hazelcast.com/download/clients/3.10/hazelcast-cpp-client-3.10-docs.zip",
+            "github": "https://github.com/hazelcast/hazelcast-cpp-client/tree/v3.10",
+            "apiDocs": "http://docs.hazelcast.org/docs/clients/cpp/3.10/html/",
+            "releaseNotes": "https://github.com/hazelcast/hazelcast-cpp-client/releases/tag/v3.10"
+          },
+          {
+            "version": "3.9.1",
+            "date": "2017-12-28",
+            "docs": "https://repository.hazelcast.com/download/clients/3.9.1/hazelcast-cpp-client-3.9.1-docs.zip",
+            "github": "https://github.com/hazelcast/hazelcast-cpp-client/tree/v3.9.1",
+            "apiDocs": "http://docs.hazelcast.org/docs/clients/cpp/3.9.1/html/",
+            "releaseNotes": "https://github.com/hazelcast/hazelcast-cpp-client/releases/tag/v3.9.1"
+          },
+          {
+            "version": "3.9",
+            "date": "2017-12-05",
+            "docs": "https://repository.hazelcast.com/download/clients/3.9/hazelcast-cpp-client-3.9-docs.zip",
+            "github": "https://github.com/hazelcast/hazelcast-cpp-client/tree/v3.9",
+            "apiDocs": "http://docs.hazelcast.org/docs/clients/cpp/3.9/html/",
+            "releaseNotes": "https://github.com/hazelcast/hazelcast-cpp-client/releases/tag/v3.9"
+          },
+          {
+            "version": "3.8.3",
+            "date": "2017-08-07",
+            "docs": "https://repository.hazelcast.com/download/clients/3.8.3/hazelcast-cpp-client-3.8.3-docs.zip",
+            "github": "https://github.com/hazelcast/hazelcast-cpp-client/tree/v3.8.3",
+            "apiDocs": "http://docs.hazelcast.org/docs/clients/cpp/3.8.3/html/",
+            "releaseNotes": "https://github.com/hazelcast/hazelcast-cpp-client/releases/tag/v3.8.3"
+          },
+          {
+            "version": "3.8.2",
+            "date": "2017-07-14",
+            "docs": "https://repository.hazelcast.com/download/clients/3.8.2/hazelcast-cpp-client-3.8.2-docs.zip",
+            "github": "https://github.com/hazelcast/hazelcast-cpp-client/tree/v3.8.2",
+            "apiDocs": "http://docs.hazelcast.org/docs/clients/cpp/3.8.2/html/",
+            "releaseNotes": "https://github.com/hazelcast/hazelcast-cpp-client/releases/tag/v3.8.2"
+          },
+          {
+            "version": "3.8.1",
+            "date": "2017-05-03",
+            "docs": "https://repository.hazelcast.com/download/clients/3.8.1/hazelcast-cpp-client-3.8.1-docs.zip",
+            "github": "https://github.com/hazelcast/hazelcast-cpp-client/tree/v3.8.1",
+            "apiDocs": "http://docs.hazelcast.org/docs/clients/cpp/3.8.1/html/",
+            "releaseNotes": "https://github.com/hazelcast/hazelcast-cpp-client/releases/tag/v3.8.1"
+          },
+          {
+            "version": "3.8",
+            "date": "2017-04-05",
+            "docs": "https://repository.hazelcast.com/download/clients/3.8/hazelcast-cpp-client-3.8-docs.zip",
+            "github": "https://github.com/hazelcast/hazelcast-cpp-client/tree/v3.8",
+            "apiDocs": "http://docs.hazelcast.org/docs/clients/cpp/3.8/html/",
+            "releaseNotes": "https://github.com/hazelcast/hazelcast-cpp-client/releases/tag/v3.8"
+          },
+          {
+            "version": "3.7",
+            "date": "2017-01-31",
+            "download": {
+              "url": "https://repository.hazelcast.com/download/clients/3.7/hazelcast-cpp-client-3.7.zip",
+              "size": "31.1 MB"
+            },
+            "github": "https://github.com/hazelcast/hazelcast-cpp-client/tree/v3.7",
+            "docs": "https://github.com/hazelcast/hazelcast-cpp-client/blob/v3.7/README.md",
+            "apiDocs": "http://docs.hazelcast.org/docs/clients/cpp/3.7/html/",
+            "releaseNotes": "https://github.com/hazelcast/hazelcast-cpp-client/releases/tag/v3.7"
+          },
+          {
+            "version": "3.6.3",
+            "date": "2016-06-14",
+            "download": {
+              "url": "https://repository.hazelcast.com/download/clients/3.6.3/hazelcast-cpp-client-3.6.3.zip",
+              "size": "121 MB"
+            },
+            "github": "https://github.com/hazelcast/hazelcast-cpp-client/tree/v3.6.3",
+            "docs": "https://github.com/hazelcast/hazelcast-cpp-client/blob/v3.6.3/README.md",
+            "apiDocs": "http://docs.hazelcast.org/docs/clients/cpp/3.6.3/",
+            "releaseNotes": "https://github.com/hazelcast/hazelcast-cpp-client/releases/tag/v3.6.3"
+          },
+          {
+            "version": "3.6.2",
+            "date": "2016-04-29",
+            "download": {
+              "url": "https://repository.hazelcast.com/download/clients/3.6.2/hazelcast-cpp-client-3.6.2.zip",
+              "size": "103 MB"
+            },
+            "github": "https://github.com/hazelcast/hazelcast-cpp-client/tree/v3.6.2",
+            "docs": "https://github.com/hazelcast/hazelcast-cpp-client/blob/v3.6.2/README.md",
+            "apiDocs": "http://docs.hazelcast.org/docs/clients/cpp/3.6.2/",
+            "releaseNotes": "https://github.com/hazelcast/hazelcast-cpp-client/releases/tag/v3.6.2"
+          },
+          {
+            "version": "3.6.1",
+            "date": "2016-03-22",
+            "download": {
+              "url": "https://repository.hazelcast.com/download/clients/3.6.1/hazelcast-cpp-client-3.6.1.zip",
+              "size": "78.3 MB"
+            },
+            "github": "https://github.com/hazelcast/hazelcast-cpp-client/tree/v3.6.1",
+            "docs": "https://github.com/hazelcast/hazelcast-cpp-client/blob/v3.6.1/README.md",
+            "apiDocs": "http://docs.hazelcast.org/docs/clients/cpp/3.6.1/",
+            "releaseNotes": "https://github.com/hazelcast/hazelcast-cpp-client/releases/tag/v3.6.1"
+          },
+          {
+            "version": "3.6",
+            "date": "2016-01-25",
+            "download": {
+              "url": "https://repository.hazelcast.com/download/clients/3.6/hazelcast-cpp-client-3.6.zip",
+              "size": "77.1 MB"
+            },
+            "github": "https://github.com/hazelcast/hazelcast-cpp-client/tree/v3.6",
+            "docs": "https://github.com/hazelcast/hazelcast-cpp-client/blob/v3.6/README.md",
+            "apiDocs": "http://docs.hazelcast.org/docs/clients/cpp/3.6/",
+            "releaseNotes": ""
+          },
+          {
+            "version": "3.6-RC1",
+            "date": "2016-01-10",
+            "download": {
+              "url": "https://repository.hazelcast.com/download/clients/3.6-RC1/hazelcast-cpp-client-3.6-RC1.zip",
+              "size": "57.3 MB"
+            },
+            "github": "https://github.com/hazelcast/hazelcast-cpp-client/tree/v3.6-RC1",
+            "docs": "https://github.com/hazelcast/hazelcast-cpp-client/blob/v3.6-RC1/README.md",
+            "apiDocs": "http://docs.hazelcast.org/docs/clients/cpp/3.6-RC1/",
+            "releaseNotes": ""
+          },
+          {
+            "version": "3.6-EA3",
+            "date": "2015-12-23",
+            "download": {
+              "url": "https://repository.hazelcast.com/download/clients/3.6-EA3/hazelcast-cpp-client-3.6-EA3.zip",
+              "size": "23.8 MB"
+            },
+            "github": "https://github.com/hazelcast/hazelcast-cpp-client/tree/v3.6-EA3",
+            "docs": "https://github.com/hazelcast/hazelcast-cpp-client/blob/v3.6-EA3/README.md",
+            "apiDocs": "http://docs.hazelcast.org/docs/clients/cpp/3.6-EA3/",
+            "releaseNotes": ""
+          }
+        ]
+      },
+      {
+        "type": "Python",
+        "show": true,
+        "versions": [
+          {
+            "version": "5.5.0",
+            "date": "2024-08-06",
+            "download": {
+              "url": "https://files.pythonhosted.org/packages/25/92/4886d8038fa9fa5d3e5f1de012c6dbcbae9887edaa51402e9b3d47101b4d/hazelcast_python_client-5.5.0.tar.gz",
+              "size": "250 KB"
+            },
+            "github": "https://github.com/hazelcast/hazelcast-python-client/tree/v5.5.0",
+            "docs": "https://github.com/hazelcast/hazelcast-python-client/blob/v5.5.0/README.rst",
+            "apiDocs": "https://hazelcast.readthedocs.io/en/v5.5.0/"
+          },
+          {
+            "version": "5.4.0",
+            "date": "2024-05-20",
+            "download": {
+              "url": "https://files.pythonhosted.org/packages/84/82/8b7304ad9a7c43a7f6a0fa6af1f4d21994afdeec96a74c47307059382cf1/hazelcast_python_client-5.4.0.tar.gz",
+              "size": "247.8 KB"
+            },
+            "github": "https://github.com/hazelcast/hazelcast-python-client/tree/v5.4.0",
+            "docs": "https://github.com/hazelcast/hazelcast-python-client/blob/v5.4.0/README.rst",
+            "apiDocs": ""
+          },
+          {
+            "version": "5.3.0",
+            "date": "2023-06-12",
+            "download": {
+              "url": "https://files.pythonhosted.org/packages/76/50/1ca295b2a9c8ba695cf7c4bf83c36dfa2d9313a2d6260823fc605f705326/hazelcast-python-client-5.3.0.tar.gz",
+              "size": "242.0 KB"
+            },
+            "github": "https://github.com/hazelcast/hazelcast-python-client/tree/v5.3.0",
+            "docs": "https://github.com/hazelcast/hazelcast-python-client/blob/v5.3.0/README.rst",
+            "apiDocs": "https://hazelcast.readthedocs.io/en/v5.3.0/"
+          },
+          {
+            "version": "5.2.0",
+            "date": "2023-03-31",
+            "download": {
+              "url": "https://files.pythonhosted.org/packages/b3/c2/2aa87a77c2157f2a01bb00c34dace0de8c061a885c3e6f2215ab0902ab03/hazelcast-python-client-5.2.0.tar.gz",
+              "size": "242.0 KB"
+            },
+            "github": "https://github.com/hazelcast/hazelcast-python-client/tree/v5.2.0",
+            "docs": "https://github.com/hazelcast/hazelcast-python-client/blob/v5.2.0/README.rst",
+            "apiDocs": "https://hazelcast.readthedocs.io/en/v5.2.0/"
+          },
+          {
+            "version": "5.1",
+            "date": "2022-04-29",
+            "download": {
+              "url": "https://files.pythonhosted.org/packages/08/8e/b9754ef976a1798abde9898131dbe077fdd2609afd5fc9694b7ce6c895cc/hazelcast-python-client-5.1.tar.gz",
+              "size": "230.4 KB"
+            },
+            "github": "https://github.com/hazelcast/hazelcast-python-client/tree/v5.1",
+            "docs": "https://github.com/hazelcast/hazelcast-python-client/blob/v5.1/README.rst",
+            "apiDocs": "https://hazelcast.readthedocs.io/en/v5.1/"
+          },
+          {
+            "version": "5.0.1",
+            "date": "2021-10-19",
+            "download": {
+              "url": "https://files.pythonhosted.org/packages/d2/84/2215c5d173af7c7faf223fc134f9e85106f90c1e929b165ce1b2b214713e/hazelcast-python-client-5.0.1.tar.gz",
+              "size": "213 KB"
+            },
+            "github": "https://github.com/hazelcast/hazelcast-python-client/tree/v5.0.1",
+            "docs": "https://github.com/hazelcast/hazelcast-python-client/blob/v5.0.1/README.rst",
+            "apiDocs": "https://hazelcast.readthedocs.io/en/v5.0.1/",
+            "releaseNotes": "https://github.com/hazelcast/hazelcast-python-client/releases/tag/v5.0.1"
+          },
+          {
+            "version": "5.0",
+            "date": "2021-09-30",
+            "download": {
+              "url": "https://files.pythonhosted.org/packages/75/25/0a9eceb9332cebaf48fad741137374263b7dac14cf5760bed8b4d9730b3b/hazelcast-python-client-5.0.tar.gz",
+              "size": "214 KB"
+            },
+            "github": "https://github.com/hazelcast/hazelcast-python-client/tree/v5.0",
+            "docs": "https://github.com/hazelcast/hazelcast-python-client/blob/v5.0/README.rst",
+            "apiDocs": "https://hazelcast.readthedocs.io/en/v5.0/",
+            "releaseNotes": "https://github.com/hazelcast/hazelcast-python-client/releases/tag/v5.0"
+          },
+          {
+            "version": "4.2.2",
+            "date": "2021-10-19",
+            "download": {
+              "url": "https://files.pythonhosted.org/packages/89/ec/f7365ef0f451eed00e32926553cbd3a067073d607ea5b443185ea89dd0b6/hazelcast-python-client-4.2.2.tar.gz",
+              "size": "211 KB"
+            },
+            "github": "https://github.com/hazelcast/hazelcast-python-client/tree/v4.2.2",
+            "docs": "https://github.com/hazelcast/hazelcast-python-client/blob/v4.2.2/README.rst",
+            "apiDocs": "https://hazelcast.readthedocs.io/en/v4.2.2/",
+            "releaseNotes": "https://github.com/hazelcast/hazelcast-python-client/releases/tag/v4.2.2"
+          },
+          {
+            "version": "4.2.1",
+            "date": "2021-08-27",
+            "download": {
+              "url": "https://files.pythonhosted.org/packages/bc/8b/2597777ef0932a21c249e416722ecacc3dc8f717d37a20f4f766a188c5e1/hazelcast-python-client-4.2.1.tar.gz",
+              "size": "211 KB"
+            },
+            "github": "https://github.com/hazelcast/hazelcast-python-client/tree/v4.2.1",
+            "docs": "https://github.com/hazelcast/hazelcast-python-client/blob/v4.2.1/README.rst",
+            "apiDocs": "https://hazelcast.readthedocs.io/en/v4.2.1/",
+            "releaseNotes": "https://github.com/hazelcast/hazelcast-python-client/releases/tag/v4.2.1"
+          },
+          {
+            "version": "4.2",
+            "date": "2021-06-18",
+            "download": {
+              "url": "https://files.pythonhosted.org/packages/83/89/b4adadcfc77219cbe3ebf0abcbe03e154bd08d34d927baacd2fc9f025336/hazelcast-python-client-4.2.tar.gz",
+              "size": "203 KB"
+            },
+            "github": "https://github.com/hazelcast/hazelcast-python-client/tree/v4.2",
+            "docs": "https://github.com/hazelcast/hazelcast-python-client/blob/v4.2/README.rst",
+            "apiDocs": "https://hazelcast.readthedocs.io/en/v4.2/",
+            "releaseNotes": "https://github.com/hazelcast/hazelcast-python-client/releases/tag/v4.2"
+          },
+          {
+            "version": "4.1",
+            "date": "2021-05-03",
+            "download": {
+              "url": "https://files.pythonhosted.org/packages/77/c5/d85405a38eac9ddc79bff29bbba118f0b092dee1a35c5c835a3a534d0ce4/hazelcast-python-client-4.1.tar.gz",
+              "size": "186 KB"
+            },
+            "github": "https://github.com/hazelcast/hazelcast-python-client/tree/v4.1",
+            "docs": "https://github.com/hazelcast/hazelcast-python-client/blob/v4.1/README.rst",
+            "apiDocs": "https://hazelcast.readthedocs.io/en/v4.1/",
+            "releaseNotes": "https://github.com/hazelcast/hazelcast-python-client/releases/tag/v4.1"
+          },
+          {
+            "version": "4.0",
+            "date": "2021-01-13",
+            "download": {
+              "url": "https://files.pythonhosted.org/packages/e4/39/7f597fda732018097495c62da18d9bd5c08383ae7afb5f5c724d73c68c49/hazelcast-python-client-4.0.tar.gz",
+              "size": "174 KB"
+            },
+            "github": "https://github.com/hazelcast/hazelcast-python-client/tree/v4.0",
+            "docs": "https://github.com/hazelcast/hazelcast-python-client/blob/v4.0/README.rst",
+            "apiDocs": "https://hazelcast.readthedocs.io/en/v4.0/",
+            "releaseNotes": "https://github.com/hazelcast/hazelcast-python-client/releases/tag/v4.0"
+          },
+          {
+            "version": "3.12.3",
+            "date": "2020-03-19",
+            "download": {
+              "url": "https://files.pythonhosted.org/packages/fc/73/f71e5c1183205b707a1be786462fd9ece04c71a608fc0d235e127d5e2d3c/hazelcast-python-client-3.12.3.tar.gz",
+              "size": "240 KB"
+            },
+            "github": "https://github.com/hazelcast/hazelcast-python-client/tree/v3.12.3",
+            "docs": "https://github.com/hazelcast/hazelcast-python-client/blob/v3.12.3/README.md",
+            "apiDocs": "http://hazelcast.github.io/hazelcast-python-client/3.12.3/",
+            "releaseNotes": "https://github.com/hazelcast/hazelcast-python-client/releases/tag/v3.12.3"
+          },
+          {
+            "version": "3.12.2",
+            "date": "2020-03-02",
+            "download": {
+              "url": "https://files.pythonhosted.org/packages/a9/3b/3166b3b4a36abd2181be53195ac8a6186c8318baad2a222dbee893ae0e90/hazelcast-python-client-3.12.2.tar.gz",
+              "size": "238 KB"
+            },
+            "github": "https://github.com/hazelcast/hazelcast-python-client/tree/v3.12.2",
+            "docs": "https://github.com/hazelcast/hazelcast-python-client/blob/v3.12.2/README.md",
+            "apiDocs": "http://hazelcast.github.io/hazelcast-python-client/3.12.2/",
+            "releaseNotes": "https://github.com/hazelcast/hazelcast-python-client/releases/tag/v3.12.2"
+          },
+          {
+            "version": "3.12.1",
+            "date": "2019-07-15",
+            "download": {
+              "url": "https://files.pythonhosted.org/packages/ac/3e/25e577816124e6705ab442fcba9a4a61532fad6554a2ef66739be175daa7/hazelcast-python-client-3.12.1.tar.gz",
+              "size": "236 KB"
+            },
+            "github": "https://github.com/hazelcast/hazelcast-python-client/tree/v3.12.1",
+            "docs": "https://github.com/hazelcast/hazelcast-python-client/blob/v3.12.1/README.md",
+            "apiDocs": "http://hazelcast.github.io/hazelcast-python-client/3.12.1/",
+            "releaseNotes": "https://github.com/hazelcast/hazelcast-python-client/releases/tag/v3.12.1"
+          },
+          {
+            "version": "3.12",
+            "date": "2019-04-30",
+            "download": {
+              "url": "https://files.pythonhosted.org/packages/1e/0c/198cdb86ca59c2a494ca348788d5e88583b0d19ad8375bfb7abf2b531f68/hazelcast-python-client-3.12.tar.gz",
+              "size": "232 KB"
+            },
+            "github": "https://github.com/hazelcast/hazelcast-python-client/tree/v3.12",
+            "docs": "https://github.com/hazelcast/hazelcast-python-client/blob/v3.12/README.md",
+            "apiDocs": "http://hazelcast.github.io/hazelcast-python-client/3.12/",
+            "releaseNotes": "https://github.com/hazelcast/hazelcast-python-client/releases/tag/v3.12"
+          },
+          {
+            "version": "3.11",
+            "date": "2019-03-19",
+            "download": {
+              "url": "https://files.pythonhosted.org/packages/82/09/97dba15a1e6bd38c12f0938034da8aebf5fa9c0630d6b7429abb886af70c/hazelcast-python-client-3.11.tar.gz",
+              "size": "226 KB"
+            },
+            "github": "https://github.com/hazelcast/hazelcast-python-client/tree/v3.11",
+            "docs": "https://github.com/hazelcast/hazelcast-python-client/blob/v3.11/README.md",
+            "apiDocs": "http://hazelcast.github.io/hazelcast-python-client/3.11/",
+            "releaseNotes": "https://github.com/hazelcast/hazelcast-python-client/releases/tag/v3.11"
+          },
+          {
+            "version": "3.10",
+            "date": "2018-11-19",
+            "download": {
+              "url": "https://files.pythonhosted.org/packages/53/40/789440d07f76178e4816cd431ce052b087e11bd78f061b49878550bf382a/hazelcast-python-client-3.10.tar.gz",
+              "size": "209 KB"
+            },
+            "github": "https://github.com/hazelcast/hazelcast-python-client/tree/v3.10",
+            "docs": "https://github.com/hazelcast/hazelcast-python-client/blob/v3.10/README.md",
+            "apiDocs": "http://hazelcast.github.io/hazelcast-python-client/3.10/",
+            "releaseNotes": "https://github.com/hazelcast/hazelcast-python-client/releases/tag/v3.10"
+          },
+          {
+            "version": "3.9",
+            "date": "2018-08-02",
+            "download": {
+              "url": "https://files.pythonhosted.org/packages/0f/a5/4c086753dc34ae12444882bca081ef883a28e2561f33a7c5f1a40043eab0/hazelcast-python-client-3.9.tar.gz",
+              "size": "125 KB"
+            },
+            "github": "https://github.com/hazelcast/hazelcast-python-client/tree/v3.9",
+            "docs": "http://hazelcast.github.io/hazelcast-python-client/3.9/",
+            "apiDocs": "http://hazelcast.github.io/hazelcast-python-client/3.9/api/index.html",
+            "releaseNotes": "https://github.com/hazelcast/hazelcast-python-client/releases/tag/v3.9"
+          },
+          {
+            "version": "3.8.1",
+            "date": "2017-04-24",
+            "download": {
+              "url": "https://pypi.python.org/packages/68/ff/b82bf95c0602266a2b24580a091f44916e09ac67b2a46f3e3d6955bbf46c/hazelcast-python-client-3.8.1.tar.gz",
+              "size": "109 KB"
+            },
+            "github": "https://github.com/hazelcast/hazelcast-python-client/tree/v3.8.1",
+            "docs": "http://hazelcast.github.io/hazelcast-python-client/3.8.1/",
+            "apiDocs": "http://hazelcast.github.io/hazelcast-python-client/3.8.1/api/index.html",
+            "releaseNotes": "https://github.com/hazelcast/hazelcast-python-client/releases/tag/v3.8.1"
+          },
+          {
+            "version": "3.8",
+            "date": "2017-03-01",
+            "download": {
+              "url": "https://pypi.python.org/packages/15/c3/8b122a5bd60083233fc0c59424d1862102617ad413a96340308756af054d/hazelcast-python-client-3.8.tar.gz",
+              "size": "100.6 KB"
+            },
+            "github": "https://github.com/hazelcast/hazelcast-python-client/tree/v3.8",
+            "docs": "http://hazelcast.github.io/hazelcast-python-client/3.8/",
+            "apiDocs": "http://hazelcast.github.io/hazelcast-python-client/3.8/api/index.html",
+            "releaseNotes": "https://github.com/hazelcast/hazelcast-python-client/releases/tag/v3.8"
+          },
+          {
+            "version": "3.7.2",
+            "date": "2016-11-23",
+            "download": {
+              "url": "https://pypi.python.org/packages/6d/33/a7715277561bc3495316d1d7e56374e760d524123081a32d26fd127af8e8/hazelcast-python-client-3.7.2.tar.gz",
+              "size": "125 KB"
+            },
+            "github": "https://github.com/hazelcast/hazelcast-python-client/tree/v3.7.2",
+            "docs": "http://hazelcast.github.io/hazelcast-python-client/3.7.2/",
+            "apiDocs": "http://hazelcast.github.io/hazelcast-python-client/3.7.2/api/index.html",
+            "releaseNotes": "https://github.com/hazelcast/hazelcast-python-client/releases/tag/v3.7.2"
+          },
+          {
+            "version": "3.7.1",
+            "date": "2016-10-25",
+            "download": {
+              "url": "https://pypi.python.org/packages/01/91/a602811ea5317ab7044f2f24f8ed79fb2e46526929de15285b7ddffc4e30/hazelcast-python-client-3.7.1.tar.gz",
+              "size": "125 KB"
+            },
+            "github": "https://github.com/hazelcast/hazelcast-python-client/tree/v3.7.1",
+            "docs": "http://hazelcast.github.io/hazelcast-python-client/3.7.1/",
+            "apiDocs": "http://hazelcast.github.io/hazelcast-python-client/3.7.1/api/index.html",
+            "releaseNotes": ""
+          },
+          {
+            "version": "3.7",
+            "date": "2016-10-20",
+            "download": {
+              "url": "https://pypi.python.org/packages/0e/e7/7b045dec0f0f091bb06eec4a9b77c3568d2926069965d87b89a2ec6b6ff0/hazelcast-python-client-3.7.tar.gz",
+              "size": "125 KB"
+            },
+            "github": "https://github.com/hazelcast/hazelcast-python-client/tree/v3.7",
+            "docs": "http://hazelcast.github.io/hazelcast-python-client/3.7.1/",
+            "apiDocs": "http://hazelcast.github.io/hazelcast-python-client/3.7.1/api/index.html",
+            "releaseNotes": ""
+          },
+          {
+            "version": "0.3",
+            "date": "2016-04-25",
+            "download": {
+              "url": "https://pypi.python.org/packages/60/f5/fade9b73e24613573c41023a32362f969134f0a4e8fab1ad9ec802c4792a/hazelcast-python-client-0.3.tar.gz",
+              "size": "96 KB"
+            },
+            "github": "https://github.com/hazelcast/hazelcast-python-client/tree/v0.3",
+            "docs": "https://github.com/hazelcast/hazelcast-python-client/blob/v0.3/README.rst",
+            "apiDocs": "",
+            "releaseNotes": ""
+          },
+          {
+            "version": "0.2.1",
+            "date": "2016-03-15",
+            "download": {
+              "url": "https://pypi.python.org/packages/source/h/hazelcast-python-client/hazelcast-python-client-0.2.1.tar.gz",
+              "size": "89.1 KB"
+            },
+            "github": "https://github.com/hazelcast/hazelcast-python-client/tree/v0.2.1",
+            "docs": "https://github.com/hazelcast/hazelcast-python-client/blob/v0.2.1/README.rst",
+            "apiDocs": "",
+            "releaseNotes": ""
+          },
+          {
+            "version": "0.1",
+            "date": "2016-02-12",
+            "download": {
+              "url": "https://pypi.python.org/packages/source/h/hazelcast-python-client/hazelcast-python-client-0.1.tar.gz",
+              "size": "80.2 KB"
+            },
+            "github": "https://github.com/hazelcast/hazelcast-python-client/tree/v0.1",
+            "docs": "https://github.com/hazelcast/hazelcast-python-client/blob/v0.1/README.rst",
+            "apiDocs": "",
+            "releaseNotes": ""
+          }
+        ]
+      },
+      {
+        "type": "NodeJS",
+        "show": true,
+        "versions": [
+          {
+            "version": "5.3.0",
+            "date": "2023-06-21",
+            "download": {
+              "url": "https://github.com/hazelcast/hazelcast-nodejs-client/archive/v5.3.0.zip",
+              "size": "1.6 MB"
+            },
+            "github": "https://github.com/hazelcast/hazelcast-nodejs-client/tree/v5.3.0",
+            "docs": "https://github.com/hazelcast/hazelcast-nodejs-client/blob/v5.3.0/README.md",
+            "apiDocs": "http://hazelcast.github.io/hazelcast-nodejs-client/api/5.3.0/docs/",
+            "releaseNotes": "https://github.com/hazelcast/hazelcast-nodejs-client/releases/tag/v5.3.0"
+          },
+          {
+            "version": "5.2.0",
+            "date": "2022-12-16",
+            "download": {
+              "url": "https://github.com/hazelcast/hazelcast-nodejs-client/archive/v5.2.0.zip",
+              "size": "1.6 MB"
+            },
+            "github": "https://github.com/hazelcast/hazelcast-nodejs-client/tree/v5.2.0",
+            "docs": "https://github.com/hazelcast/hazelcast-nodejs-client/blob/v5.2.0/README.md",
+            "apiDocs": "http://hazelcast.github.io/hazelcast-nodejs-client/api/5.2.0/docs/",
+            "releaseNotes": "https://github.com/hazelcast/hazelcast-nodejs-client/releases/tag/v5.2.0"
+          },
+          {
+            "version": "5.1.0",
+            "date": "2022-04-29",
+            "download": {
+              "url": "https://github.com/hazelcast/hazelcast-nodejs-client/archive/v5.1.0.zip",
+              "size": "1.5 MB"
+            },
+            "github": "https://github.com/hazelcast/hazelcast-nodejs-client/tree/v5.1.0",
+            "docs": "https://github.com/hazelcast/hazelcast-nodejs-client/blob/v5.1.0/README.md",
+            "apiDocs": "http://hazelcast.github.io/hazelcast-nodejs-client/api/5.1.0/docs/",
+            "releaseNotes": "https://github.com/hazelcast/hazelcast-nodejs-client/releases/tag/v5.1.0"
+          },
+          {
+            "version": "5.0.4",
+            "date": "2022-02-25",
+            "download": {
+              "url": "https://github.com/hazelcast/hazelcast-nodejs-client/archive/v5.0.4.zip",
+              "size": "1.4 MB"
+            },
+            "github": "https://github.com/hazelcast/hazelcast-nodejs-client/tree/v5.0.4",
+            "docs": "https://github.com/hazelcast/hazelcast-nodejs-client/blob/v5.0.4/README.md",
+            "apiDocs": "http://hazelcast.github.io/hazelcast-nodejs-client/api/5.0.4/docs/",
+            "releaseNotes": "https://github.com/hazelcast/hazelcast-nodejs-client/releases/tag/v5.0.4"
+          },
+          {
+            "version": "5.0.3",
+            "date": "2022-01-05",
+            "download": {
+              "url": "https://github.com/hazelcast/hazelcast-nodejs-client/archive/v5.0.3.zip",
+              "size": "1.4 MB"
+            },
+            "github": "https://github.com/hazelcast/hazelcast-nodejs-client/tree/v5.0.3",
+            "docs": "https://github.com/hazelcast/hazelcast-nodejs-client/blob/v5.0.3/README.md",
+            "apiDocs": "http://hazelcast.github.io/hazelcast-nodejs-client/api/5.0.3/docs/",
+            "releaseNotes": "https://github.com/hazelcast/hazelcast-nodejs-client/releases/tag/v5.0.3"
+          },
+          {
+            "version": "5.0.2",
+            "date": "2021-10-15",
+            "download": {
+              "url": "https://github.com/hazelcast/hazelcast-nodejs-client/archive/v5.0.2.zip",
+              "size": "1.4 MB"
+            },
+            "github": "https://github.com/hazelcast/hazelcast-nodejs-client/tree/v5.0.2",
+            "docs": "https://github.com/hazelcast/hazelcast-nodejs-client/blob/v5.0.2/README.md",
+            "apiDocs": "http://hazelcast.github.io/hazelcast-nodejs-client/api/5.0.2/docs/",
+            "releaseNotes": "https://github.com/hazelcast/hazelcast-nodejs-client/releases/tag/v5.0.2"
+          },
+          {
+            "version": "5.0.1",
+            "date": "2021-10-05",
+            "download": {
+              "url": "https://github.com/hazelcast/hazelcast-nodejs-client/archive/v5.0.1.zip",
+              "size": "1.4 MB"
+            },
+            "github": "https://github.com/hazelcast/hazelcast-nodejs-client/tree/v5.0.1",
+            "docs": "https://github.com/hazelcast/hazelcast-nodejs-client/blob/v5.0.1/README.md",
+            "apiDocs": "http://hazelcast.github.io/hazelcast-nodejs-client/api/5.0.1/docs/",
+            "releaseNotes": "https://github.com/hazelcast/hazelcast-nodejs-client/releases/tag/v5.0.1"
+          },
+          {
+            "version": "4.2.1",
+            "date": "2021-01-05",
+            "download": {
+              "url": "https://github.com/hazelcast/hazelcast-nodejs-client/archive/v4.2.1.zip",
+              "size": "3.0 MB"
+            },
+            "github": "https://github.com/hazelcast/hazelcast-nodejs-client/tree/v4.2.1",
+            "docs": "https://github.com/hazelcast/hazelcast-nodejs-client/blob/v4.2.1/README.md",
+            "apiDocs": "http://hazelcast.github.io/hazelcast-nodejs-client/api/4.2.1/docs/",
+            "releaseNotes": "https://github.com/hazelcast/hazelcast-nodejs-client/releases/tag/v4.2.1"
+          },
+          {
+            "version": "4.2.0",
+            "date": "2021-06-04",
+            "download": {
+              "url": "https://github.com/hazelcast/hazelcast-nodejs-client/archive/v4.2.0.zip",
+              "size": "3.0 MB"
+            },
+            "github": "https://github.com/hazelcast/hazelcast-nodejs-client/tree/v4.2.0",
+            "docs": "https://github.com/hazelcast/hazelcast-nodejs-client/blob/v4.2.0/README.md",
+            "apiDocs": "http://hazelcast.github.io/hazelcast-nodejs-client/api/4.2.0/docs/",
+            "releaseNotes": "https://github.com/hazelcast/hazelcast-nodejs-client/releases/tag/v4.2.0"
+          },
+          {
+            "version": "4.0.2",
+            "date": "2021-01-29",
+            "download": {
+              "url": "https://github.com/hazelcast/hazelcast-nodejs-client/archive/v4.0.2.zip",
+              "size": "2.8 MB"
+            },
+            "github": "https://github.com/hazelcast/hazelcast-nodejs-client/tree/v4.0.2",
+            "docs": "https://github.com/hazelcast/hazelcast-nodejs-client/blob/v4.0.2/README.md",
+            "apiDocs": "http://hazelcast.github.io/hazelcast-nodejs-client/api/4.0.2/docs/",
+            "releaseNotes": "https://github.com/hazelcast/hazelcast-nodejs-client/releases/tag/v4.0.2"
+          },
+          {
+            "version": "4.1.0",
+            "date": "2021-01-25",
+            "download": {
+              "url": "https://github.com/hazelcast/hazelcast-nodejs-client/archive/v4.1.0.zip",
+              "size": "2.8 MB"
+            },
+            "github": "https://github.com/hazelcast/hazelcast-nodejs-client/tree/v4.1.0",
+            "docs": "https://github.com/hazelcast/hazelcast-nodejs-client/blob/v4.1.0/README.md",
+            "apiDocs": "http://hazelcast.github.io/hazelcast-nodejs-client/api/4.1.0/docs/",
+            "releaseNotes": "https://github.com/hazelcast/hazelcast-nodejs-client/releases/tag/v4.1.0"
+          },
+          {
+            "version": "4.0.1",
+            "date": "2020-12-01",
+            "download": {
+              "url": "https://github.com/hazelcast/hazelcast-nodejs-client/archive/v4.0.1.zip",
+              "size": "2.8 MB"
+            },
+            "github": "https://github.com/hazelcast/hazelcast-nodejs-client/tree/v4.0.1",
+            "docs": "https://github.com/hazelcast/hazelcast-nodejs-client/blob/v4.0.1/README.md",
+            "apiDocs": "http://hazelcast.github.io/hazelcast-nodejs-client/api/4.0.1/docs/",
+            "releaseNotes": "https://github.com/hazelcast/hazelcast-nodejs-client/releases/tag/v4.0.1"
+          },
+          {
+            "version": "4.0",
+            "date": "2020-09-28",
+            "download": {
+              "url": "https://github.com/hazelcast/hazelcast-nodejs-client/archive/v4.0.0.zip",
+              "size": "2.8 MB"
+            },
+            "github": "https://github.com/hazelcast/hazelcast-nodejs-client/tree/v4.0.0",
+            "docs": "https://github.com/hazelcast/hazelcast-nodejs-client/blob/v4.0.0/README.md",
+            "apiDocs": "http://hazelcast.github.io/hazelcast-nodejs-client/api/4.0.0/docs/",
+            "releaseNotes": "https://github.com/hazelcast/hazelcast-nodejs-client/releases/tag/v4.0.0"
+          },
+          {
+            "version": "3.12.4",
+            "date": "2020-11-23",
+            "download": {
+              "url": "https://github.com/hazelcast/hazelcast-nodejs-client/archive/v3.12.4.zip",
+              "size": "6.5 MB"
+            },
+            "github": "https://github.com/hazelcast/hazelcast-nodejs-client/tree/v3.12.4",
+            "docs": "https://github.com/hazelcast/hazelcast-nodejs-client/blob/v3.12.4/README.md",
+            "apiDocs": "http://hazelcast.github.io/hazelcast-nodejs-client/api/3.12.4/docs/",
+            "releaseNotes": "https://github.com/hazelcast/hazelcast-nodejs-client/releases/tag/v3.12.4"
+          },
+          {
+            "version": "3.12.3",
+            "date": "2020-05-08",
+            "download": {
+              "url": "https://github.com/hazelcast/hazelcast-nodejs-client/archive/v3.12.3.zip",
+              "size": "6.8 MB"
+            },
+            "github": "https://github.com/hazelcast/hazelcast-nodejs-client/tree/v3.12.3",
+            "docs": "https://github.com/hazelcast/hazelcast-nodejs-client/blob/v3.12.3/README.md",
+            "apiDocs": "http://hazelcast.github.io/hazelcast-nodejs-client/api/3.12.3/docs/",
+            "releaseNotes": "https://github.com/hazelcast/hazelcast-nodejs-client/releases/tag/v3.12.3"
+          },
+          {
+            "version": "3.12.2",
+            "date": "2020-01-31",
+            "download": {
+              "url": "https://github.com/hazelcast/hazelcast-nodejs-client/archive/v3.12.2.zip",
+              "size": "6.8 MB"
+            },
+            "github": "https://github.com/hazelcast/hazelcast-nodejs-client/tree/v3.12.2",
+            "docs": "https://github.com/hazelcast/hazelcast-nodejs-client/blob/v3.12.2/README.md",
+            "apiDocs": "http://hazelcast.github.io/hazelcast-nodejs-client/api/3.12.2/docs/",
+            "releaseNotes": "https://github.com/hazelcast/hazelcast-nodejs-client/releases/tag/v3.12.2"
+          },
+          {
+            "version": "3.12.1",
+            "date": "2019-07-25",
+            "download": {
+              "url": "https://github.com/hazelcast/hazelcast-nodejs-client/archive/v3.12.1.zip",
+              "size": "6.8 MB"
+            },
+            "github": "https://github.com/hazelcast/hazelcast-nodejs-client/tree/v3.12.1",
+            "docs": "https://github.com/hazelcast/hazelcast-nodejs-client/blob/v3.12.1/README.md",
+            "apiDocs": "http://hazelcast.github.io/hazelcast-nodejs-client/api/3.12.1/docs/",
+            "releaseNotes": "https://github.com/hazelcast/hazelcast-nodejs-client/releases/tag/v3.12.1"
+          },
+          {
+            "version": "3.12",
+            "date": "2019-05-06",
+            "download": {
+              "url": "https://github.com/hazelcast/hazelcast-nodejs-client/archive/v3.12.0.zip",
+              "size": "6.8 MB"
+            },
+            "github": "https://github.com/hazelcast/hazelcast-nodejs-client/tree/v3.12.0",
+            "docs": "https://github.com/hazelcast/hazelcast-nodejs-client/blob/v3.12.0/README.md",
+            "apiDocs": "http://hazelcast.github.io/hazelcast-nodejs-client/api/3.12.0/docs/",
+            "releaseNotes": "https://github.com/hazelcast/hazelcast-nodejs-client/releases/tag/v3.12.0"
+          },
+          {
+            "version": "0.10",
+            "date": "2018-12-18",
+            "download": {
+              "url": "https://github.com/hazelcast/hazelcast-nodejs-client/archive/v0.10.0.zip",
+              "size": "6.4 MB"
+            },
+            "github": "https://github.com/hazelcast/hazelcast-nodejs-client/tree/v0.10.0",
+            "docs": "https://github.com/hazelcast/hazelcast-nodejs-client/blob/v0.10.0/README.md",
+            "apiDocs": "http://hazelcast.github.io/hazelcast-nodejs-client/api/0.10/docs/",
+            "releaseNotes": "https://github.com/hazelcast/hazelcast-nodejs-client/releases/tag/v0.10.0"
+          },
+          {
+            "version": "0.9",
+            "date": "2018-08-01",
+            "download": {
+              "url": "https://github.com/hazelcast/hazelcast-nodejs-client/archive/v0.9.0.zip",
+              "size": "6.7 MB"
+            },
+            "github": "https://github.com/hazelcast/hazelcast-nodejs-client/tree/v0.9.0",
+            "docs": "https://github.com/hazelcast/hazelcast-nodejs-client/blob/v0.9.0/README.md",
+            "apiDocs": "http://hazelcast.github.io/hazelcast-nodejs-client/api/0.9/docs/",
+            "releaseNotes": "https://github.com/hazelcast/hazelcast-nodejs-client/releases/tag/v0.9.0"
+          },
+          {
+            "version": "0.8",
+            "date": "2018-03-22",
+            "download": {
+              "url": "https://github.com/hazelcast/hazelcast-nodejs-client/archive/v0.8.0.zip",
+              "size": "6.7 MB"
+            },
+            "github": "https://github.com/hazelcast/hazelcast-nodejs-client/tree/v0.8.0",
+            "docs": "https://github.com/hazelcast/hazelcast-nodejs-client/blob/v0.8.0/README.md",
+            "apiDocs": "http://hazelcast.github.io/hazelcast-nodejs-client/api/0.8/docs/",
+            "releaseNotes": "https://github.com/hazelcast/hazelcast-nodejs-client/releases/tag/v0.8.0"
+          },
+          {
+            "version": "0.7",
+            "date": "2018-01-16",
+            "download": {
+              "url": "https://github.com/hazelcast/hazelcast-nodejs-client/archive/v0.7.0.zip",
+              "size": "7.4 MB"
+            },
+            "github": "https://github.com/hazelcast/hazelcast-nodejs-client/tree/v0.7.0",
+            "docs": "https://github.com/hazelcast/hazelcast-nodejs-client/blob/v0.7.0/README.md",
+            "apiDocs": "http://hazelcast.github.io/hazelcast-nodejs-client/api/0.7/docs/",
+            "releaseNotes": "https://github.com/hazelcast/hazelcast-nodejs-client/releases/tag/v0.7.0"
+          },
+          {
+            "version": "0.6.2",
+            "date": "2017-11-03",
+            "download": {
+              "url": "https://github.com/hazelcast/hazelcast-nodejs-client/archive/v0.6.2.zip",
+              "size": "6.6 MB"
+            },
+            "github": "https://github.com/hazelcast/hazelcast-nodejs-client/tree/v0.6.2",
+            "docs": "https://github.com/hazelcast/hazelcast-nodejs-client/blob/v0.6.2/README.md",
+            "apiDocs": "http://hazelcast.github.io/hazelcast-nodejs-client/api/0.6.2/docs/",
+            "releaseNotes": "https://github.com/hazelcast/hazelcast-nodejs-client/releases/tag/v0.6.2"
+          },
+          {
+            "version": "0.6.1",
+            "date": "2017-05-04",
+            "download": {
+              "url": "https://github.com/hazelcast/hazelcast-nodejs-client/archive/v0.6.1.zip",
+              "size": "6.4 MB"
+            },
+            "github": "https://github.com/hazelcast/hazelcast-nodejs-client/tree/v0.6.1",
+            "docs": "https://github.com/hazelcast/hazelcast-nodejs-client/blob/v0.6.1/README.md",
+            "apiDocs": "http://hazelcast.github.io/hazelcast-nodejs-client/api/0.6/docs/",
+            "releaseNotes": "https://github.com/hazelcast/hazelcast-nodejs-client/releases/tag/v0.6.1"
+          },
+          {
+            "version": "0.6.0",
+            "date": "2017-02-16",
+            "download": {
+              "url": "https://github.com/hazelcast/hazelcast-nodejs-client/archive/v0.6.0.zip",
+              "size": "6.3 MB"
+            },
+            "github": "https://github.com/hazelcast/hazelcast-nodejs-client/tree/v0.6.0",
+            "docs": "https://github.com/hazelcast/hazelcast-nodejs-client/blob/v0.6.0/README.md",
+            "apiDocs": "http://hazelcast.github.io/hazelcast-nodejs-client/api/0.6/docs/",
+            "releaseNotes": "https://github.com/hazelcast/hazelcast-nodejs-client/releases/tag/v0.6.0"
+          },
+          {
+            "version": "0.5.0",
+            "date": "2016-11-04",
+            "download": {
+              "url": "https://github.com/hazelcast/hazelcast-nodejs-client/archive/v0.5.0.zip",
+              "size": "6.3 MB"
+            },
+            "github": "https://github.com/hazelcast/hazelcast-nodejs-client/tree/v0.5.0",
+            "docs": "https://github.com/hazelcast/hazelcast-nodejs-client/blob/v0.5.0/README.md",
+            "apiDocs": "http://hazelcast.github.io/hazelcast-nodejs-client/api/0.5/docs/",
+            "releaseNotes": "https://github.com/hazelcast/hazelcast-nodejs-client/releases/tag/v0.5.0"
+          },
+          {
+            "version": "0.4.1",
+            "date": "2016-09-08",
+            "download": {
+              "url": "https://github.com/hazelcast/hazelcast-nodejs-client/archive/v0.4.1.zip",
+              "size": "6.3 MB"
+            },
+            "github": "https://github.com/hazelcast/hazelcast-nodejs-client/tree/v0.4.1",
+            "docs": "https://github.com/hazelcast/hazelcast-nodejs-client/blob/v0.4.1/README.md",
+            "apiDocs": "http://hazelcast.github.io/hazelcast-nodejs-client/api/0.4/docs/",
+            "releaseNotes": "http://blog.hazelcast.com/whats-new-hazelcast-node-js-client/"
+          },
+          {
+            "version": "0.4.0",
+            "date": "2016-07-26",
+            "download": {
+              "url": "https://github.com/hazelcast/hazelcast-nodejs-client/archive/v0.4.0.zip",
+              "size": "6.3 MB"
+            },
+            "github": "https://github.com/hazelcast/hazelcast-nodejs-client/tree/v0.4.0",
+            "docs": "https://github.com/hazelcast/hazelcast-nodejs-client/blob/v0.4.0/README.md",
+            "apiDocs": "http://hazelcast.github.io/hazelcast-nodejs-client/api/0.4/docs/",
+            "releaseNotes": "https://github.com/hazelcast/hazelcast-nodejs-client/releases/tag/v0.4.0"
+          },
+          {
+            "version": "0.3.0",
+            "date": "2016-06-06",
+            "download": {
+              "url": "https://github.com/hazelcast/hazelcast-nodejs-client/archive/v0.3.0.zip",
+              "size": "309.6 KB"
+            },
+            "github": "https://github.com/hazelcast/hazelcast-nodejs-client/tree/v0.3.0",
+            "docs": "https://github.com/hazelcast/hazelcast-nodejs-client/blob/v0.3.0/README.md",
+            "apiDocs": "http://hazelcast.github.io/hazelcast-nodejs-client/api/0.3/docs/",
+            "releaseNotes": "https://github.com/hazelcast/hazelcast-nodejs-client/releases/tag/v0.3.0"
+          },
+          {
+            "version": "0.2.1",
+            "date": "2016-04-19",
+            "download": {
+              "url": "https://github.com/hazelcast/hazelcast-nodejs-client/releases/download/v0.2.1/hazelcast-client-0.2.1.zip",
+              "size": "187.3 KB"
+            },
+            "github": "https://github.com/hazelcast/hazelcast-nodejs-client/tree/v0.2.1",
+            "docs": "https://github.com/hazelcast/hazelcast-nodejs-client/blob/v0.2.1/README.md",
+            "apiDocs": "",
+            "releaseNotes": "https://github.com/hazelcast/hazelcast-nodejs-client/releases/tag/v0.2.1"
+          },
+          {
+            "version": "0.2.0",
+            "date": "2016-04-18",
+            "download": {
+              "url": "https://github.com/hazelcast/hazelcast-nodejs-client/releases/download/v0.2.0/hazelcast-client-0.2.0.zip",
+              "size": "186 KB"
+            },
+            "github": "https://github.com/hazelcast/hazelcast-nodejs-client/tree/v0.2.0",
+            "docs": "https://github.com/hazelcast/hazelcast-nodejs-client/blob/v0.2.0/README.md",
+            "apiDocs": "http://hazelcast.github.io/hazelcast-nodejs-client/api/0.2/docs/",
+            "releaseNotes": "https://github.com/hazelcast/hazelcast-nodejs-client/releases/tag/v0.2.0"
+          },
+          {
+            "version": "0.1",
+            "date": "2016-03-16",
+            "download": {
+              "url": "https://github.com/hazelcast/hazelcast-nodejs-client/releases/download/v0.1/hazelcast-client-0.1.zip",
+              "size": "14.6 MB"
+            },
+            "github": "https://github.com/hazelcast/hazelcast-nodejs-client/tree/v0.1",
+            "docs": "https://github.com/hazelcast/hazelcast-nodejs-client/blob/v0.1/README.md",
+            "apiDocs": "",
+            "releaseNotes": ""
+          }
+        ]
+      },
+      {
+        "type": "Scala",
+        "show": false,
+        "versions": [
+          {
+            "version": "3.9.1",
+            "date": "2018-06-19",
+            "download": {
+              "url": "https://github.com/hazelcast/hazelcast-scala/archive/v3.9.1.zip",
+              "size": "331 KB"
+            },
+            "github": "https://github.com/hazelcast/hazelcast-scala/tree/v3.9.1",
+            "docs": "https://github.com/hazelcast/hazelcast-scala/blob/v3.9.1/README.md",
+            "apiDocs": "https://github.com/hazelcast/hazelcast-scala/wiki",
+            "releaseNotes": ""
+          },
+          {
+            "version": "3.7.2",
+            "date": "2016-09-22",
+            "download": {
+              "url": "https://github.com/hazelcast/hazelcast-scala/archive/v3.7.2.zip",
+              "size": "331 KB"
+            },
+            "github": "https://github.com/hazelcast/hazelcast-scala/tree/v3.7.2",
+            "docs": "https://github.com/hazelcast/hazelcast-scala/blob/v3.7.2/README.md",
+            "apiDocs": "https://github.com/hazelcast/hazelcast-scala/wiki",
+            "releaseNotes": ""
+          },
+          {
+            "version": "3.7.1",
+            "date": "2016-09-21",
+            "download": {
+              "url": "https://github.com/hazelcast/hazelcast-scala/archive/v3.7.1.zip",
+              "size": "330.9 KB"
+            },
+            "github": "https://github.com/hazelcast/hazelcast-scala/tree/v3.7.1",
+            "docs": "https://github.com/hazelcast/hazelcast-scala/blob/v3.7.1/README.md",
+            "apiDocs": "https://github.com/hazelcast/hazelcast-scala/wiki",
+            "releaseNotes": ""
+          },
+          {
+            "version": "3.7.0",
+            "date": "2016-09-20",
+            "download": {
+              "url": "https://github.com/hazelcast/hazelcast-scala/archive/v3.7.0.zip",
+              "size": "331 KB"
+            },
+            "github": "https://github.com/hazelcast/hazelcast-scala/tree/v3.7.0",
+            "docs": "https://github.com/hazelcast/hazelcast-scala/blob/v3.7.0/README.md",
+            "apiDocs": "https://github.com/hazelcast/hazelcast-scala/wiki",
+            "releaseNotes": ""
+          },
+          {
+            "version": "3.6.2",
+            "date": "2016-09-21",
+            "download": {
+              "url": "https://github.com/hazelcast/hazelcast-scala/archive/v3.6.2.zip",
+              "size": "331.4 KB"
+            },
+            "github": "https://github.com/hazelcast/hazelcast-scala/tree/v3.6.2",
+            "docs": "https://github.com/hazelcast/hazelcast-scala/blob/v3.6.2/README.md",
+            "apiDocs": "https://github.com/hazelcast/hazelcast-scala/wiki",
+            "releaseNotes": ""
+          },
+          {
+            "version": "3.6.1",
+            "date": "2016-08-31",
+            "download": {
+              "url": "https://github.com/hazelcast/hazelcast-scala/archive/v3.6.1.zip",
+              "size": "331.4 KB"
+            },
+            "github": "https://github.com/hazelcast/hazelcast-scala/tree/v3.6.1",
+            "docs": "https://github.com/hazelcast/hazelcast-scala/blob/v3.6.1/README.md",
+            "apiDocs": "https://github.com/hazelcast/hazelcast-scala/wiki",
+            "releaseNotes": ""
+          },
+          {
+            "version": "3.6.0",
+            "date": "2016-08-04",
+            "download": {
+              "url": "https://github.com/hazelcast/hazelcast-scala/archive/v3.6.0.zip",
+              "size": "330.9 KB"
+            },
+            "github": "https://github.com/hazelcast/hazelcast-scala/tree/v3.6.0",
+            "docs": "https://github.com/hazelcast/hazelcast-scala/blob/v3.6.0/README.md",
+            "apiDocs": "https://github.com/hazelcast/hazelcast-scala/wiki",
+            "releaseNotes": ""
+          },
+          {
+            "version": "0.2.0",
+            "date": "2016-06-14",
+            "download": {
+              "url": "https://github.com/hazelcast/hazelcast-scala/archive/v0.2.0.zip",
+              "size": "323 KB"
+            },
+            "github": "https://github.com/hazelcast/hazelcast-scala/tree/v0.2.0",
+            "docs": "https://github.com/hazelcast/hazelcast-scala/blob/v0.2.0/README.md",
+            "apiDocs": "https://github.com/hazelcast/hazelcast-scala/wiki",
+            "releaseNotes": ""
+          },
+          {
+            "version": "0.1.0",
+            "date": "2016-05-25",
+            "download": {
+              "url": "https://github.com/hazelcast/hazelcast-scala/archive/v0.1.0.zip",
+              "size": "319.2 KB"
+            },
+            "github": "https://github.com/hazelcast/hazelcast-scala/tree/v0.1.0",
+            "docs": "https://github.com/hazelcast/hazelcast-scala/blob/v0.1.0/README.md",
+            "apiDocs": "https://github.com/hazelcast/hazelcast-scala/wiki",
+            "releaseNotes": ""
+          },
+          {
+            "version": "0.0.1.12",
+            "date": "2016-05-11",
+            "download": {
+              "url": "https://github.com/hazelcast/hazelcast-scala/archive/v0.0.1.12.zip",
+              "size": "318.4 KB"
+            },
+            "github": "https://github.com/hazelcast/hazelcast-scala/tree/v0.0.1.12",
+            "docs": "https://github.com/hazelcast/hazelcast-scala/blob/v0.0.1.12/README.md",
+            "apiDocs": "https://github.com/hazelcast/hazelcast-scala/wiki",
+            "releaseNotes": ""
+          },
+          {
+            "version": "0.0.1.11",
+            "date": "2016-04-21",
+            "download": {
+              "url": "https://github.com/hazelcast/hazelcast-scala/archive/v0.0.1.11.zip",
+              "size": "314.6 KB"
+            },
+            "github": "https://github.com/hazelcast/hazelcast-scala/tree/v0.0.1.11",
+            "docs": "https://github.com/hazelcast/hazelcast-scala/blob/v0.0.1.11/README.md",
+            "apiDocs": "https://github.com/hazelcast/hazelcast-scala/wiki",
+            "releaseNotes": ""
+          },
+          {
+            "version": "0.0.1.10",
+            "date": "2016-04-14",
+            "download": {
+              "url": "https://github.com/hazelcast/hazelcast-scala/archive/v0.0.1.10.zip",
+              "size": "312.1 KB"
+            },
+            "github": "https://github.com/hazelcast/hazelcast-scala/tree/v0.0.1.10",
+            "docs": "https://github.com/hazelcast/hazelcast-scala/blob/v0.0.1.10/README.md",
+            "apiDocs": "",
+            "releaseNotes": ""
+          },
+          {
+            "version": "0.0.1.9",
+            "date": "2016-04-07",
+            "download": {
+              "url": "https://github.com/hazelcast/hazelcast-scala/archive/v0.0.1.9.zip",
+              "size": "311.7 KB"
+            },
+            "github": "https://github.com/hazelcast/hazelcast-scala/tree/v0.0.1.9",
+            "docs": "https://github.com/hazelcast/hazelcast-scala/blob/v0.0.1.9/README.md",
+            "apiDocs": "",
+            "releaseNotes": ""
+          },
+          {
+            "version": "0.0.1.8",
+            "date": "2016-04-01",
+            "download": {
+              "url": "https://github.com/hazelcast/hazelcast-scala/archive/v0.0.1.8.zip",
+              "size": "311.5 KB"
+            },
+            "github": "https://github.com/hazelcast/hazelcast-scala/tree/v0.0.1.8",
+            "docs": "https://github.com/hazelcast/hazelcast-scala/blob/v0.0.1.8/README.md",
+            "apiDocs": "",
+            "releaseNotes": ""
+          },
+          {
+            "version": "0.0.1.7",
+            "date": "2016-03-30",
+            "download": {
+              "url": "https://github.com/hazelcast/hazelcast-scala/archive/v0.0.1.7.zip",
+              "size": "310.2 KB"
+            },
+            "github": "https://github.com/hazelcast/hazelcast-scala/tree/v0.0.1.7",
+            "docs": "https://github.com/hazelcast/hazelcast-scala/blob/v0.0.1.7/README.md",
+            "apiDocs": "",
+            "releaseNotes": ""
+          }
+        ]
+      },
+      {
+        "type": "Go",
+        "show": true,
+        "versions": [
+          {
+            "version": "1.4.3",
+            "date": "2025-09-15",
+            "download": {
+              "url": "https://github.com/hazelcast/hazelcast-go-client/archive/v1.4.3.zip",
+              "size": "975 KB"
+            },
+            "github": "https://github.com/hazelcast/hazelcast-go-client/tree/v1.4.3",
+            "docs": "https://pkg.go.dev/github.com/hazelcast/hazelcast-go-client@v1.4.3",
+            "apiDocs": "https://pkg.go.dev/github.com/hazelcast/hazelcast-go-client@v1.4.3",
+            "releaseNotes": "https://github.com/hazelcast/hazelcast-go-client/releases/tag/v1.4.3"
+          },
+          {
+            "version": "1.4.2",
+            "date": "2024-08-07",
+            "download": {
+              "url": "https://github.com/hazelcast/hazelcast-go-client/archive/v1.4.2.zip",
+              "size": "975 KB"
+            },
+            "github": "https://github.com/hazelcast/hazelcast-go-client/tree/v1.4.2",
+            "docs": "https://pkg.go.dev/github.com/hazelcast/hazelcast-go-client",
+            "apiDocs": "https://pkg.go.dev/github.com/hazelcast/hazelcast-go-client",
+            "releaseNotes": "https://github.com/hazelcast/hazelcast-go-client/releases/tag/v1.4.2"
+          },
+          {
+            "version": "1.4.1",
+            "date": "2023-08-22",
+            "download": {
+              "url": "https://github.com/hazelcast/hazelcast-go-client/archive/v1.4.1.zip",
+              "size": "975 KB"
+            },
+            "github": "https://github.com/hazelcast/hazelcast-go-client/tree/v1.4.1",
+            "docs": "https://pkg.go.dev/github.com/hazelcast/hazelcast-go-client",
+            "apiDocs": "https://pkg.go.dev/github.com/hazelcast/hazelcast-go-client",
+            "releaseNotes": "https://github.com/hazelcast/hazelcast-go-client/releases/tag/v1.4.1"
+          },
+          {
+            "version": "1.4.0",
+            "date": "2023-03-17",
+            "download": {
+              "url": "https://github.com/hazelcast/hazelcast-go-client/archive/v1.4.0.zip",
+              "size": "975 KB"
+            },
+            "github": "https://github.com/hazelcast/hazelcast-go-client/tree/v1.4.0",
+            "docs": "https://pkg.go.dev/github.com/hazelcast/hazelcast-go-client",
+            "apiDocs": "https://pkg.go.dev/github.com/hazelcast/hazelcast-go-client",
+            "releaseNotes": "https://github.com/hazelcast/hazelcast-go-client/releases/tag/v1.4.0"
+          },
+          {
+            "version": "1.3.2",
+            "date": "2023-02-10",
+            "download": {
+              "url": "https://github.com/hazelcast/hazelcast-go-client/archive/v1.3.2.zip",
+              "size": "842 KB"
+            },
+            "github": "https://github.com/hazelcast/hazelcast-go-client/tree/v1.3.2",
+            "docs": "https://pkg.go.dev/github.com/hazelcast/hazelcast-go-client",
+            "apiDocs": "https://pkg.go.dev/github.com/hazelcast/hazelcast-go-client",
+            "releaseNotes": "https://github.com/hazelcast/hazelcast-go-client/releases/tag/v1.3.2"
+          },
+          {
+            "version": "1.3.1",
+            "date": "2022-10-06",
+            "download": {
+              "url": "https://github.com/hazelcast/hazelcast-go-client/archive/v1.3.1.zip",
+              "size": "842 KB"
+            },
+            "github": "https://github.com/hazelcast/hazelcast-go-client/tree/v1.3.1",
+            "docs": "https://pkg.go.dev/github.com/hazelcast/hazelcast-go-client",
+            "apiDocs": "https://pkg.go.dev/github.com/hazelcast/hazelcast-go-client",
+            "releaseNotes": "https://github.com/hazelcast/hazelcast-go-client/releases/tag/v1.3.1"
+          },
+          {
+            "version": "1.3.0",
+            "date": "2022-07-22",
+            "download": {
+              "url": "https://github.com/hazelcast/hazelcast-go-client/archive/v1.3.0.zip",
+              "size": "842 KB"
+            },
+            "github": "https://github.com/hazelcast/hazelcast-go-client/tree/v1.3.0",
+            "docs": "https://pkg.go.dev/github.com/hazelcast/hazelcast-go-client",
+            "apiDocs": "https://pkg.go.dev/github.com/hazelcast/hazelcast-go-client",
+            "releaseNotes": "https://github.com/hazelcast/hazelcast-go-client/releases/tag/v1.3.0"
+          },
+          {
+            "version": "1.2.1",
+            "date": "2022-07-08",
+            "download": {
+              "url": "https://github.com/hazelcast/hazelcast-go-client/archive/v1.2.1.zip",
+              "size": "717 KB"
+            },
+            "github": "https://github.com/hazelcast/hazelcast-go-client/tree/v1.2.1",
+            "docs": "https://pkg.go.dev/github.com/hazelcast/hazelcast-go-client",
+            "apiDocs": "https://pkg.go.dev/github.com/hazelcast/hazelcast-go-client",
+            "releaseNotes": "https://github.com/hazelcast/hazelcast-go-client/releases/tag/v1.2.1"
+          },
+          {
+            "version": "1.2.0",
+            "date": "2022-04-13",
+            "download": {
+              "url": "https://github.com/hazelcast/hazelcast-go-client/archive/v1.2.0.zip",
+              "size": "717 KB"
+            },
+            "github": "https://github.com/hazelcast/hazelcast-go-client/tree/v1.2.0",
+            "docs": "https://pkg.go.dev/github.com/hazelcast/hazelcast-go-client",
+            "apiDocs": "https://pkg.go.dev/github.com/hazelcast/hazelcast-go-client",
+            "releaseNotes": "https://github.com/hazelcast/hazelcast-go-client/releases/tag/v1.2.0"
+          },
+          {
+            "version": "1.1.1",
+            "date": "2021-11-09",
+            "download": {
+              "url": "https://github.com/hazelcast/hazelcast-go-client/archive/v1.1.1.zip",
+              "size": "593 KB"
+            },
+            "github": "https://github.com/hazelcast/hazelcast-go-client/tree/v1.1.1",
+            "docs": "https://pkg.go.dev/github.com/hazelcast/hazelcast-go-client",
+            "apiDocs": "https://pkg.go.dev/github.com/hazelcast/hazelcast-go-client",
+            "releaseNotes": "https://github.com/hazelcast/hazelcast-go-client/releases/tag/v1.1.1"
+          },
+          {
+            "version": "1.1.0",
+            "date": "2021-09-14",
+            "download": {
+              "url": "https://github.com/hazelcast/hazelcast-go-client/archive/v1.1.0.zip",
+              "size": "559 KB"
+            },
+            "github": "https://github.com/hazelcast/hazelcast-go-client/tree/v1.1.0",
+            "docs": "https://pkg.go.dev/github.com/hazelcast/hazelcast-go-client",
+            "apiDocs": "https://pkg.go.dev/github.com/hazelcast/hazelcast-go-client",
+            "releaseNotes": "https://github.com/hazelcast/hazelcast-go-client/releases/tag/v1.1.0"
+          },
+          {
+            "version": "1.0.0",
+            "date": "2021-06-13",
+            "download": {
+              "url": "https://github.com/hazelcast/hazelcast-go-client/archive/v1.0.0.zip",
+              "size": "526 KB"
+            },
+            "github": "https://github.com/hazelcast/hazelcast-go-client/tree/v1.0.0",
+            "docs": "https://github.com/hazelcast/hazelcast-go-client/blob/v1.0.0/README.md",
+            "apiDocs": "https://godoc.org/github.com/hazelcast/hazelcast-go-client",
+            "releaseNotes": "https://github.com/hazelcast/hazelcast-go-client/releases/tag/v1.0.0"
+          },
+          {
+            "version": "0.6.0",
+            "date": "2020-03-11",
+            "download": {
+              "url": "https://github.com/hazelcast/hazelcast-go-client/archive/v0.6.0.zip",
+              "size": "799 KB"
+            },
+            "github": "https://github.com/hazelcast/hazelcast-go-client",
+            "docs": "https://github.com/hazelcast/hazelcast-go-client/blob/v0.6.0/README.md",
+            "apiDocs": "https://godoc.org/github.com/hazelcast/hazelcast-go-client",
+            "releaseNotes": "https://github.com/hazelcast/hazelcast-go-client/releases/tag/v0.6.0"
+          },
+          {
+            "version": "0.5",
+            "date": "2019-03-20",
+            "download": {
+              "url": "https://github.com/hazelcast/hazelcast-go-client/archive/v0.5.zip",
+              "size": "797 KB"
+            },
+            "github": "https://github.com/hazelcast/hazelcast-go-client",
+            "docs": "https://github.com/hazelcast/hazelcast-go-client/blob/v0.5/README.md",
+            "apiDocs": "https://godoc.org/github.com/hazelcast/hazelcast-go-client",
+            "releaseNotes": "https://github.com/hazelcast/hazelcast-go-client/releases/tag/v0.5"
+          },
+          {
+            "version": "0.4",
+            "date": "2018-12-27",
+            "download": {
+              "url": "https://github.com/hazelcast/hazelcast-go-client/archive/v0.4.zip",
+              "size": "766 KB"
+            },
+            "github": "https://github.com/hazelcast/hazelcast-go-client",
+            "docs": "https://github.com/hazelcast/hazelcast-go-client/blob/v0.4/README.md",
+            "apiDocs": "https://godoc.org/github.com/hazelcast/hazelcast-go-client",
+            "releaseNotes": "https://github.com/hazelcast/hazelcast-go-client/releases/tag/v0.4"
+          },
+          {
+            "version": "0.3",
+            "date": "2018-05-31",
+            "download": {
+              "url": "https://github.com/hazelcast/hazelcast-go-client/archive/v0.3.zip",
+              "size": "624 KB"
+            },
+            "github": "https://github.com/hazelcast/hazelcast-go-client",
+            "docs": "https://github.com/hazelcast/hazelcast-go-client/blob/v0.3/README.md",
+            "apiDocs": "https://godoc.org/github.com/hazelcast/hazelcast-go-client",
+            "releaseNotes": "https://github.com/hazelcast/hazelcast-go-client/releases/tag/v0.3"
+          },
+          {
+            "version": "0.2",
+            "date": "2018-03-13",
+            "download": {
+              "url": "https://github.com/hazelcast/hazelcast-go-client/archive/v0.2.zip",
+              "size": "543 KB"
+            },
+            "github": "https://github.com/hazelcast/hazelcast-go-client",
+            "docs": "https://github.com/hazelcast/hazelcast-go-client/blob/v0.2/README.md",
+            "apiDocs": "https://godoc.org/github.com/hazelcast/hazelcast-go-client",
+            "releaseNotes": "https://github.com/hazelcast/hazelcast-go-client/releases/tag/v0.2"
+          },
+          {
+            "version": "0.1",
+            "date": "2018-01-25",
+            "download": {
+              "url": "https://github.com/hazelcast/hazelcast-go-client/archive/v0.1.zip",
+              "size": "380 KB"
+            },
+            "github": "https://github.com/hazelcast/hazelcast-go-client",
+            "docs": "https://github.com/hazelcast/hazelcast-go-client/blob/v0.1/README.md",
+            "apiDocs": "https://godoc.org/github.com/hazelcast/hazelcast-go-client",
+            "releaseNotes": "https://github.com/hazelcast/hazelcast-go-client/releases/tag/v0.1"
+          }
+        ]
       }
     ]
   }
-}
