@@ -1,6 +1,9 @@
 {
   "product": "Platform Enterprise",
   "lastUpdated": "2025-10-28T08:22:24",
+  "type": "Platform",
+  "license": "enterprise",
+  "display": "Active",
   "sections": {
     "currentStable": {
       "version": "1.0",

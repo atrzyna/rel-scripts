@@ -1,6 +1,9 @@
 {
   "product": "Data Migration Tool",
   "lastUpdated": "2025-10-28T08:22:24",
+  "type": "Data Migration Tool",
+  "license": "public",
+  "display": "Active",
   "sections": {
     "currentStable": {
       "version": "1.0",

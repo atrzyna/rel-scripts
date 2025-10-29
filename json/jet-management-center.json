@@ -1,6 +1,9 @@
 {
   "product": "Jet Management Center",
   "lastUpdated": "2025-10-28T08:22:24",
+  "type": "Management Center",
+  "license": "public",
+  "display": "Active",
   "sections": {
     "currentStable": {
       "version": "4.3.1",
