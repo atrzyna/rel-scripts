@@ -4,6 +4,7 @@
   "type": "Platform",
   "license": "enterprise",
   "display": "Active",
+  "shortName": "Flow",
   "sections": {
     "currentStable": {
       "version": "1.0",

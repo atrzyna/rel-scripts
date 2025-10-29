@@ -4,6 +4,7 @@
   "type": "IMDG",
   "license": "enterprise",
   "display": "Maintained",
+  "shortName": "IMDG",
   "sections": {
     "currentStable": {
       "version": "4.2.8",

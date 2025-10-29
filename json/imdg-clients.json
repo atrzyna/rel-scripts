@@ -4,6 +4,7 @@
   "type": "IMDG_CLIENTS",
   "license": "public",
   "display": "Hazelcast Clients",
+  "shortName": "Clients",
   "summary": "Hazelcast clients and programming language APIs allow you to extend the benefits of operational in-memory computing to applications in these languages. All of these clients and APIs are open source and supported by Hazelcast.",
   "clients": [
       {

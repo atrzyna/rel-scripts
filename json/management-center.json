@@ -4,6 +4,7 @@
   "type": "Management Center",
   "license": "public",
   "display": "Active",
+  "shortName": "Management Center",
   "sections": {
     "currentStable": {
       "version": "5.9.0",

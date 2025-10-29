@@ -4,6 +4,7 @@
   "type": "Data Migration Tool",
   "license": "public",
   "display": "Tools",
+  "shortName": "Data Migration Tool",
   "sections": {
     "currentStable": {
       "version": "5.3.6",

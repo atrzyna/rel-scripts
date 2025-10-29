@@ -4,6 +4,7 @@
   "type": "Management Center",
   "license": "public",
   "display": "Active",
+  "shortName": "Jet Management Center",
   "sections": {
     "currentStable": {
       "version": "4.3.1",

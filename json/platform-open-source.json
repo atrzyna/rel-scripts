@@ -4,6 +4,7 @@
   "type": "Platform",
   "license": "open-source",
   "display": "Active",
+  "shortName": "Platform",
   "sections": {
     "currentStable": {
       "version": "4.0",

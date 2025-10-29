@@ -4,6 +4,7 @@
   "type": "Jet",
   "license": "enterprise",
   "display": "Maintained",
+  "shortName": "Jet",
   "sections": {
     "currentStable": {
       "version": "4.5.4",

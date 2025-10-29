@@ -4,6 +4,7 @@
   "type": "IMDG",
   "license": "public",
   "display": "Tools",
+  "shortName": "Simulator",
   "sections": {
     "currentStable": {
       "version": "0.13",
