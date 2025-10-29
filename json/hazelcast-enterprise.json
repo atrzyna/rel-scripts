@@ -1,7 +1,7 @@
 {
   "product": "Hazelcast Enterprise",
   "lastUpdated": "2025-10-28T08:22:24",
-  "type": "Platform",
+  "type": "Hazelcast Platform",
   "license": "enterprise",
   "display": "Active",
   "sections": {
