@@ -1,5 +1,5 @@
 {
-  "product": "Jet Open Source",
+  "product": "Hazelcast Jet",
   "lastUpdated": "2025-10-28T08:22:24",
   "type": "Jet",
   "license": "open-source",
@@ -11,11 +11,11 @@
       "downloads": {
         "zip": {
           "url": "https://github.com/hazelcast/hazelcast-jet/releases/download/v4.5.4/hazelcast-jet-4.5.4.zip",
-          "size": "655 MB"
+          "size": "655.0 MB"
         },
         "tar": {
           "url": "https://github.com/hazelcast/hazelcast-jet/releases/download/v4.5.4/hazelcast-jet-4.5.4.tar.gz",
-          "size": "655 MB"
+          "size": "655.0 MB"
         }
       },
       "documentation": {
@@ -37,11 +37,11 @@
         "downloads": {
           "zip": {
             "url": "https://github.com/hazelcast/hazelcast-jet/releases/download/v4.5.3/hazelcast-jet-4.5.3.zip",
-            "size": "602 MB"
+            "size": "602.0 MB"
           },
           "tar": {
             "url": "https://github.com/hazelcast/hazelcast-jet/releases/download/v4.5.3/hazelcast-jet-4.5.3.tar.gz",
-            "size": "602 MB"
+            "size": "602.0 MB"
           }
         },
         "documentation": {
@@ -62,11 +62,11 @@
         "downloads": {
           "zip": {
             "url": "https://github.com/hazelcast/hazelcast-jet/releases/download/v4.5.2/hazelcast-jet-4.5.2.zip",
-            "size": "602 MB"
+            "size": "602.0 MB"
           },
           "tar": {
             "url": "https://github.com/hazelcast/hazelcast-jet/releases/download/v4.5.2/hazelcast-jet-4.5.2.tar.gz",
-            "size": "602 MB"
+            "size": "602.0 MB"
           }
         },
         "documentation": {
@@ -87,11 +87,11 @@
         "downloads": {
           "zip": {
             "url": "https://github.com/hazelcast/hazelcast-jet/releases/download/v4.5.1/hazelcast-jet-4.5.1.zip",
-            "size": "561 MB"
+            "size": "561.0 MB"
           },
           "tar": {
             "url": "https://github.com/hazelcast/hazelcast-jet/releases/download/v4.5.1/hazelcast-jet-4.5.1.tar.gz",
-            "size": "561 MB"
+            "size": "561.0 MB"
           }
         },
         "documentation": {
@@ -112,11 +112,11 @@
         "downloads": {
           "zip": {
             "url": "https://github.com/hazelcast/hazelcast-jet/releases/download/v4.5/hazelcast-jet-4.5.zip",
-            "size": "558 MB"
+            "size": "558.0 MB"
           },
           "tar": {
             "url": "https://github.com/hazelcast/hazelcast-jet/releases/download/v4.5/hazelcast-jet-4.5.tar.gz",
-            "size": "558 MB"
+            "size": "558.0 MB"
           }
         },
         "documentation": {
@@ -130,6 +130,531 @@
           "size": null
         },
         "github": "https://github.com/hazelcast/hazelcast-jet/tree/v4.5"
+      },
+      {
+        "version": "4.4",
+        "date": "2021-02-03",
+        "downloads": {
+          "zip": {
+            "url": "https://github.com/hazelcast/hazelcast-jet/releases/download/v4.4/hazelcast-jet-4.4.zip",
+            "size": "547.0 MB"
+          },
+          "tar": {
+            "url": "https://github.com/hazelcast/hazelcast-jet/releases/download/v4.4/hazelcast-jet-4.4.tar.gz",
+            "size": "547.0 MB"
+          }
+        },
+        "documentation": {
+          "html": "https://github.com/hazelcast/hazelcast-jet/tree/master/site/docs",
+          "pdf": null,
+          "apiDocs": "https://javadoc.io/doc/com.hazelcast.jet/hazelcast-jet/4.4",
+          "releaseNotes": "https://github.com/hazelcast/hazelcast-jet/releases/tag/v4.4"
+        },
+        "codeSamples": {
+          "url": "https://github.com/hazelcast/hazelcast-jet/tree/4.4-maintenance/examples",
+          "size": null
+        },
+        "github": "https://github.com/hazelcast/hazelcast-jet/tree/v4.4"
+      },
+      {
+        "version": "4.3.1",
+        "date": "2021-03-10",
+        "downloads": {
+          "zip": {
+            "url": "https://github.com/hazelcast/hazelcast-jet/releases/download/v4.3.1/hazelcast-jet-4.3.1.zip",
+            "size": "107.0 MB"
+          },
+          "tar": {
+            "url": "https://github.com/hazelcast/hazelcast-jet/releases/download/v4.3.1/hazelcast-jet-4.3.1.tar.gz",
+            "size": "107.0 MB"
+          }
+        },
+        "documentation": {
+          "html": "https://github.com/hazelcast/hazelcast-jet/tree/master/site/docs",
+          "pdf": null,
+          "apiDocs": "https://javadoc.io/doc/com.hazelcast.jet/hazelcast-jet/4.3.1",
+          "releaseNotes": "https://github.com/hazelcast/hazelcast-jet/releases/tag/v4.3.1"
+        },
+        "codeSamples": {
+          "url": "https://github.com/hazelcast/hazelcast-jet/tree/4.3-maintenance/examples",
+          "size": null
+        },
+        "github": "https://github.com/hazelcast/hazelcast-jet/tree/v4.3.1"
+      },
+      {
+        "version": "4.3",
+        "date": "2020-10-23",
+        "downloads": {
+          "zip": {
+            "url": "https://github.com/hazelcast/hazelcast-jet/releases/download/v4.3/hazelcast-jet-4.3.zip",
+            "size": "102.0 MB"
+          },
+          "tar": {
+            "url": "https://github.com/hazelcast/hazelcast-jet/releases/download/v4.3/hazelcast-jet-4.3.tar.gz",
+            "size": "102.0 MB"
+          }
+        },
+        "documentation": {
+          "html": "https://github.com/hazelcast/hazelcast-jet/tree/master/site/docs",
+          "pdf": null,
+          "apiDocs": "https://javadoc.io/doc/com.hazelcast.jet/hazelcast-jet/4.3",
+          "releaseNotes": "https://github.com/hazelcast/hazelcast-jet/releases/tag/v4.3"
+        },
+        "codeSamples": {
+          "url": "https://github.com/hazelcast/hazelcast-jet/tree/4.3-maintenance/examples",
+          "size": null
+        },
+        "github": "https://github.com/hazelcast/hazelcast-jet/tree/v4.3"
+      },
+      {
+        "version": "4.2",
+        "date": "2020-07-14",
+        "downloads": {
+          "zip": {
+            "url": "https://github.com/hazelcast/hazelcast-jet/releases/download/v4.2/hazelcast-jet-4.2.zip",
+            "size": "102.0 MB"
+          },
+          "tar": {
+            "url": "https://github.com/hazelcast/hazelcast-jet/releases/download/v4.2/hazelcast-jet-4.2.tar.gz",
+            "size": "102.0 MB"
+          }
+        },
+        "documentation": {
+          "html": "https://github.com/hazelcast/hazelcast-jet/tree/master/site/docs",
+          "pdf": null,
+          "apiDocs": "https://javadoc.io/doc/com.hazelcast.jet/hazelcast-jet/4.2",
+          "releaseNotes": "https://github.com/hazelcast/hazelcast-jet/releases/tag/v4.2"
+        },
+        "codeSamples": {
+          "url": "https://github.com/hazelcast/hazelcast-jet/tree/4.2-maintenance/examples",
+          "size": null
+        },
+        "github": "https://github.com/hazelcast/hazelcast-jet/tree/v4.2"
+      },
+      {
+        "version": "4.1.1",
+        "date": "2020-06-05",
+        "downloads": {
+          "zip": {
+            "url": "https://github.com/hazelcast/hazelcast-jet/releases/download/v4.1.1/hazelcast-jet-4.1.1.zip",
+            "size": "61.0 MB"
+          },
+          "tar": {
+            "url": "https://github.com/hazelcast/hazelcast-jet/releases/download/v4.1.1/hazelcast-jet-4.1.1.tar.gz",
+            "size": "61.0 MB"
+          }
+        },
+        "documentation": {
+          "html": "https://github.com/hazelcast/hazelcast-jet/tree/master/site/docs",
+          "pdf": null,
+          "apiDocs": "https://javadoc.io/doc/com.hazelcast.jet/hazelcast-jet/4.1.1",
+          "releaseNotes": "https://github.com/hazelcast/hazelcast-jet/releases/tag/v4.1.1"
+        },
+        "codeSamples": {
+          "url": "https://github.com/hazelcast/hazelcast-jet/tree/4.1-maintenance/examples",
+          "size": null
+        },
+        "github": "https://github.com/hazelcast/hazelcast-jet/tree/v4.1.1"
+      },
+      {
+        "version": "4.1",
+        "date": "2020-04-29",
+        "downloads": {
+          "zip": {
+            "url": "https://github.com/hazelcast/hazelcast-jet/releases/download/v4.1/hazelcast-jet-4.1.zip",
+            "size": "61.0 MB"
+          },
+          "tar": {
+            "url": "https://github.com/hazelcast/hazelcast-jet/releases/download/v4.1/hazelcast-jet-4.1.tar.gz",
+            "size": "61.0 MB"
+          }
+        },
+        "documentation": {
+          "html": "https://github.com/hazelcast/hazelcast-jet/tree/master/site/docs",
+          "pdf": null,
+          "apiDocs": "https://javadoc.io/doc/com.hazelcast.jet/hazelcast-jet/4.1",
+          "releaseNotes": "https://github.com/hazelcast/hazelcast-jet/releases/tag/v4.1"
+        },
+        "codeSamples": {
+          "url": "https://github.com/hazelcast/hazelcast-jet/tree/4.1-maintenance/examples",
+          "size": null
+        },
+        "github": "https://github.com/hazelcast/hazelcast-jet/tree/v4.1"
+      },
+      {
+        "version": "4.0",
+        "date": "2020-03-10",
+        "downloads": {
+          "zip": {
+            "url": "https://github.com/hazelcast/hazelcast-jet/releases/download/v4.0/hazelcast-jet-4.0.zip",
+            "size": "45.0 MB"
+          },
+          "tar": {
+            "url": "https://github.com/hazelcast/hazelcast-jet/releases/download/v4.0/hazelcast-jet-4.0.tar.gz",
+            "size": "45.0 MB"
+          }
+        },
+        "documentation": {
+          "html": "https://github.com/hazelcast/hazelcast-jet/tree/master/site/docs",
+          "pdf": null,
+          "apiDocs": "https://javadoc.io/doc/com.hazelcast.jet/hazelcast-jet/4.0",
+          "releaseNotes": "https://docs.hazelcast.org/docs/jet/release-notes/index.html#4-0"
+        },
+        "codeSamples": {
+          "url": "https://github.com/hazelcast/hazelcast-jet/tree/4.0-maintenance/examples",
+          "size": null
+        },
+        "github": "https://github.com/hazelcast/hazelcast-jet/tree/v4.0"
+      },
+      {
+        "version": "3.2.2",
+        "date": "2020-02-04",
+        "downloads": {
+          "zip": {
+            "url": "https://github.com/hazelcast/hazelcast-jet/releases/download/v3.2.2/hazelcast-jet-3.2.2.zip",
+            "size": "68.0 MB"
+          },
+          "tar": {
+            "url": "https://github.com/hazelcast/hazelcast-jet/releases/download/v3.2.2/hazelcast-jet-3.2.2.tar.gz",
+            "size": "61.0 MB"
+          }
+        },
+        "documentation": {
+          "html": "https://docs.hazelcast.org/docs/jet/3.2.2/manual/",
+          "pdf": null,
+          "apiDocs": "https://docs.hazelcast.org/docs/jet/3.2.2/javadoc/",
+          "releaseNotes": "https://docs.hazelcast.org/docs/jet/release-notes/index.html#3-2-2"
+        },
+        "codeSamples": {
+          "url": "https://github.com/hazelcast/hazelcast-jet/tree/3.2-maintenance/examples",
+          "size": null
+        },
+        "github": "https://github.com/hazelcast/hazelcast-jet/tree/v3.2.2"
+      },
+      {
+        "version": "3.2.1",
+        "date": "2019-12-23",
+        "downloads": {
+          "zip": {
+            "url": "https://github.com/hazelcast/hazelcast-jet/releases/download/v3.2.1/hazelcast-jet-3.2.1.zip",
+            "size": null
+          },
+          "tar": {
+            "url": "https://github.com/hazelcast/hazelcast-jet/releases/download/v3.2.1/hazelcast-jet-3.2.1.tar.gz",
+            "size": null
+          }
+        },
+        "documentation": {
+          "html": "https://docs.hazelcast.org/docs/jet/3.2.1/manual/",
+          "pdf": null,
+          "apiDocs": "https://docs.hazelcast.org/docs/jet/3.2.1/javadoc/",
+          "releaseNotes": "https://docs.hazelcast.org/docs/jet/release-notes/index.html#3-2-1"
+        },
+        "codeSamples": {
+          "url": "https://github.com/hazelcast/hazelcast-jet/tree/3.2-maintenance/examples",
+          "size": null
+        },
+        "github": "https://github.com/hazelcast/hazelcast-jet/tree/v3.2.1"
+      },
+      {
+        "version": "3.2",
+        "date": "2019-10-18",
+        "downloads": {
+          "zip": {
+            "url": "https://github.com/hazelcast/hazelcast-jet/releases/download/v3.2/hazelcast-jet-3.2.zip",
+            "size": null
+          },
+          "tar": {
+            "url": "https://github.com/hazelcast/hazelcast-jet/releases/download/v3.2/hazelcast-jet-3.2.tar.gz",
+            "size": null
+          }
+        },
+        "documentation": {
+          "html": "https://docs.hazelcast.org/docs/jet/3.2/manual/",
+          "pdf": null,
+          "apiDocs": "https://docs.hazelcast.org/docs/jet/3.2/javadoc/",
+          "releaseNotes": "https://docs.hazelcast.org/docs/jet/release-notes/index.html#3-2"
+        },
+        "codeSamples": {
+          "url": "https://github.com/hazelcast/hazelcast-jet/tree/3.2-maintenance/examples",
+          "size": null
+        },
+        "github": "https://github.com/hazelcast/hazelcast-jet/tree/v3.2"
+      },
+      {
+        "version": "3.1",
+        "date": "2019-06-24",
+        "downloads": {
+          "zip": {
+            "url": "https://github.com/hazelcast/hazelcast-jet/releases/download/v3.1/hazelcast-jet-3.1.zip",
+            "size": null
+          },
+          "tar": {
+            "url": "https://github.com/hazelcast/hazelcast-jet/releases/download/v3.1/hazelcast-jet-3.1.tar.gz",
+            "size": null
+          }
+        },
+        "documentation": {
+          "html": "https://docs.hazelcast.org/docs/jet/3.1/manual/",
+          "pdf": null,
+          "apiDocs": "https://docs.hazelcast.org/docs/jet/3.1/javadoc/",
+          "releaseNotes": "https://docs.hazelcast.org/docs/jet/release-notes/index.html#3-1"
+        },
+        "codeSamples": {
+          "url": "https://github.com/hazelcast/hazelcast-jet/releases/download/v3.1/hazelcast-jet-code-samples-3.1.zip",
+          "size": null
+        },
+        "github": "https://github.com/hazelcast/hazelcast-jet/tree/v3.1"
+      },
+      {
+        "version": "3.0",
+        "date": "2019-04-12",
+        "downloads": {
+          "zip": {
+            "url": "https://github.com/hazelcast/hazelcast-jet/releases/download/v3.0/hazelcast-jet-3.0.zip",
+            "size": null
+          },
+          "tar": {
+            "url": "https://github.com/hazelcast/hazelcast-jet/releases/download/v3.0/hazelcast-jet-3.0.tar.gz",
+            "size": null
+          }
+        },
+        "documentation": {
+          "html": "https://docs.hazelcast.org/docs/jet/3.0/manual/",
+          "pdf": null,
+          "apiDocs": "https://docs.hazelcast.org/docs/jet/3.0/javadoc/",
+          "releaseNotes": "https://docs.hazelcast.org/docs/jet/release-notes/index.html#3-0"
+        },
+        "codeSamples": {
+          "url": "https://github.com/hazelcast/hazelcast-jet/releases/download/v3.0/hazelcast-jet-code-samples-3.0.zip",
+          "size": null
+        },
+        "github": "https://github.com/hazelcast/hazelcast-jet/tree/v3.0"
+      },
+      {
+        "version": "0.7.2",
+        "date": "2018-12-19",
+        "downloads": {
+          "zip": {
+            "url": "https://github.com/hazelcast/hazelcast-jet/releases/download/v0.7.2/hazelcast-jet-0.7.2.zip",
+            "size": null
+          },
+          "tar": {
+            "url": "https://github.com/hazelcast/hazelcast-jet/releases/download/v0.7.2/hazelcast-jet-0.7.2.tar.gz",
+            "size": null
+          }
+        },
+        "documentation": {
+          "html": "https://docs.hazelcast.org/docs/jet/0.7.2/manual/",
+          "pdf": null,
+          "apiDocs": "https://docs.hazelcast.org/docs/jet/0.7.2/javadoc/",
+          "releaseNotes": "https://docs.hazelcast.org/docs/jet/release-notes/index.html#0-7-2"
+        },
+        "codeSamples": {
+          "url": "https://github.com/hazelcast/hazelcast-jet/releases/download/v0.7.2/hazelcast-jet-code-samples-0.7.2.zip",
+          "size": null
+        },
+        "github": "https://github.com/hazelcast/hazelcast-jet/tree/v0.7.2"
+      },
+      {
+        "version": "0.7",
+        "date": "2018-09-10",
+        "downloads": {
+          "zip": {
+            "url": "https://github.com/hazelcast/hazelcast-jet/releases/download/v0.7/hazelcast-jet-0.7.zip",
+            "size": null
+          },
+          "tar": {
+            "url": "https://github.com/hazelcast/hazelcast-jet/releases/download/v0.7/hazelcast-jet-0.7.tar.gz",
+            "size": null
+          }
+        },
+        "documentation": {
+          "html": "https://docs.hazelcast.org/docs/jet/0.7/manual/",
+          "pdf": null,
+          "apiDocs": "https://docs.hazelcast.org/docs/jet/0.7/javadoc/",
+          "releaseNotes": "https://docs.hazelcast.org/docs/jet/release-notes/index.html#0-7"
+        },
+        "codeSamples": {
+          "url": "https://github.com/hazelcast/hazelcast-jet/releases/download/v0.7/hazelcast-jet-code-samples-0.7.zip",
+          "size": null
+        },
+        "github": "https://github.com/hazelcast/hazelcast-jet/tree/v0.7"
+      },
+      {
+        "version": "0.6.1",
+        "date": "2018-03-05",
+        "downloads": {
+          "zip": {
+            "url": "https://github.com/hazelcast/hazelcast-jet/releases/download/v0.6.1/hazelcast-jet-0.6.1.zip",
+            "size": null
+          },
+          "tar": {
+            "url": "https://github.com/hazelcast/hazelcast-jet/releases/download/v0.6.1/hazelcast-jet-0.6.1.tar.gz",
+            "size": null
+          }
+        },
+        "documentation": {
+          "html": "https://docs.hazelcast.org/docs/jet/0.6.1/manual/",
+          "pdf": null,
+          "apiDocs": "https://docs.hazelcast.org/docs/jet/0.6.1/javadoc/",
+          "releaseNotes": "https://docs.hazelcast.org/docs/jet/release-notes/index.html#0-6-1"
+        },
+        "codeSamples": {
+          "url": "https://github.com/hazelcast/hazelcast-jet/releases/download/v0.6.1/hazelcast-jet-code-samples-0.6.1.zip",
+          "size": null
+        },
+        "github": "https://github.com/hazelcast/hazelcast-jet/tree/v0.6.1"
+      },
+      {
+        "version": "0.6",
+        "date": "2018-11-04",
+        "downloads": {
+          "zip": {
+            "url": "https://github.com/hazelcast/hazelcast-jet/releases/download/v0.6/hazelcast-jet-0.6.zip",
+            "size": null
+          },
+          "tar": {
+            "url": "https://github.com/hazelcast/hazelcast-jet/releases/download/v0.6/hazelcast-jet-0.6.tar.gz",
+            "size": null
+          }
+        },
+        "documentation": {
+          "html": "https://docs.hazelcast.org/docs/jet/0.6/manual/",
+          "pdf": null,
+          "apiDocs": "https://docs.hazelcast.org/docs/jet/0.6/javadoc/",
+          "releaseNotes": "https://docs.hazelcast.org/docs/jet/release-notes/index.html#0-6"
+        },
+        "codeSamples": {
+          "url": "https://github.com/hazelcast/hazelcast-jet/releases/download/v0.6/hazelcast-jet-code-samples-0.6.zip",
+          "size": null
+        },
+        "github": "https://github.com/hazelcast/hazelcast-jet/tree/v0.6"
+      },
+      {
+        "version": "0.5.1",
+        "date": "2017-12-06",
+        "downloads": {
+          "zip": {
+            "url": "https://github.com/hazelcast/hazelcast-jet/releases/download/v0.5.1/hazelcast-jet-0.5.1.zip",
+            "size": null
+          },
+          "tar": {
+            "url": "https://github.com/hazelcast/hazelcast-jet/releases/download/v0.5.1/hazelcast-jet-0.5.1.tar.gz",
+            "size": null
+          }
+        },
+        "documentation": {
+          "html": "https://docs.hazelcast.org/docs/jet/0.5.1/manual/",
+          "pdf": null,
+          "apiDocs": "https://docs.hazelcast.org/docs/jet/0.5.1/javadoc/",
+          "releaseNotes": "https://docs.hazelcast.org/docs/jet/release-notes/index.html#0-5-1"
+        },
+        "codeSamples": {
+          "url": "https://github.com/hazelcast/hazelcast-jet/releases/download/v0.5.1/hazelcast-jet-code-samples-0.5.1.zip",
+          "size": null
+        },
+        "github": "https://github.com/hazelcast/hazelcast-jet/tree/v0.5.1"
+      },
+      {
+        "version": "0.5",
+        "date": "2017-11-16",
+        "downloads": {
+          "zip": {
+            "url": "https://github.com/hazelcast/hazelcast-jet/releases/download/v0.5/hazelcast-jet-0.5.zip",
+            "size": null
+          },
+          "tar": {
+            "url": "https://github.com/hazelcast/hazelcast-jet/releases/download/v0.5/hazelcast-jet-0.5.tar.gz",
+            "size": null
+          }
+        },
+        "documentation": {
+          "html": "https://docs.hazelcast.org/docs/jet/0.5/manual/",
+          "pdf": null,
+          "apiDocs": "https://docs.hazelcast.org/docs/jet/0.5/javadoc/",
+          "releaseNotes": "https://docs.hazelcast.org/docs/jet/release-notes/index.html#0-5"
+        },
+        "codeSamples": {
+          "url": "https://github.com/hazelcast/hazelcast-jet/releases/download/v0.5/hazelcast-jet-code-samples-0.5.zip",
+          "size": null
+        },
+        "github": "https://github.com/hazelcast/hazelcast-jet/tree/v0.5"
+      },
+      {
+        "version": "0.4",
+        "date": "2017-06-14",
+        "downloads": {
+          "zip": {
+            "url": "https://github.com/hazelcast/hazelcast-jet/releases/download/v0.4/hazelcast-jet-0.4.zip",
+            "size": null
+          },
+          "tar": {
+            "url": "https://github.com/hazelcast/hazelcast-jet/releases/download/v0.4/hazelcast-jet-0.4.tar.gz",
+            "size": null
+          }
+        },
+        "documentation": {
+          "html": "https://docs.hazelcast.org/docs/jet/0.4/manual/",
+          "pdf": null,
+          "apiDocs": "https://docs.hazelcast.org/docs/jet/0.4/javadoc/",
+          "releaseNotes": "https://docs.hazelcast.org/docs/jet/release-notes/index.html#0-4"
+        },
+        "codeSamples": {
+          "url": "https://github.com/hazelcast/hazelcast-jet/releases/download/v0.4/hazelcast-jet-code-samples-0.4.zip",
+          "size": null
+        },
+        "github": "https://github.com/hazelcast/hazelcast-jet/tree/v0.4"
+      },
+      {
+        "version": "0.3.1",
+        "date": "2017-03-21",
+        "downloads": {
+          "zip": {
+            "url": "https://github.com/hazelcast/hazelcast-jet/releases/download/v0.3.1/hazelcast-jet-0.3.1.zip",
+            "size": null
+          },
+          "tar": {
+            "url": "https://github.com/hazelcast/hazelcast-jet/releases/download/v0.3.1/hazelcast-jet-0.3.1.tar.gz",
+            "size": null
+          }
+        },
+        "documentation": {
+          "html": "https://docs.hazelcast.org/docs/jet/0.3.1/manual/",
+          "pdf": null,
+          "apiDocs": "https://docs.hazelcast.org/docs/jet/0.3.1/javadoc/",
+          "releaseNotes": "https://docs.hazelcast.org/docs/jet/release-notes/index.html#0-3-1"
+        },
+        "codeSamples": {
+          "url": "https://github.com/hazelcast/hazelcast-jet/releases/download/v0.3.1/hazelcast-jet-code-samples-0.3.1.zip",
+          "size": null
+        },
+        "github": "https://github.com/hazelcast/hazelcast-jet/tree/v0.3.1"
+      },
+      {
+        "version": "0.3",
+        "date": "2017-02-06",
+        "downloads": {
+          "zip": {
+            "url": "https://github.com/hazelcast/hazelcast-jet/releases/download/v0.3/hazelcast-jet-0.3.zip",
+            "size": null
+          },
+          "tar": {
+            "url": "https://github.com/hazelcast/hazelcast-jet/releases/download/v0.3/hazelcast-jet-0.3.tar.gz",
+            "size": null
+          }
+        },
+        "documentation": {
+          "html": "http://docs.hazelcast.org/docs/jet/0.3/manual/",
+          "pdf": null,
+          "apiDocs": "http://docs.hazelcast.org/docs/jet/0.3/javadoc/",
+          "releaseNotes": null
+        },
+        "codeSamples": {
+          "url": "https://github.com/hazelcast/hazelcast-jet/releases/download/v0.3/hazelcast-jet-code-samples-0.3.zip",
+          "size": null
+        },
+        "github": "https://github.com/hazelcast/hazelcast-jet/tree/v0.3"
       }
     ],
     "development": []
