@@ -1,4 +1,7 @@
 {
+  "slug": "hazelcast-icache-connector",
+  "name": "Hazelcast Icache Connector",
+  "category": "Connector",
   "lastUpdated": "2025-10-28T08:22:24",
   "sections": {
     "Current Stable": {

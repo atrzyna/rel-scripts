@@ -1,4 +1,7 @@
 {
+  "slug": "hazelcast-management-center-docker-image",
+  "name": "Hazelcast Management Center Docker Image",
+  "category": "Container",
   "lastUpdated": "2025-10-28T08:22:24",
   "sections": {
     "Current Stable": {

@@ -1,4 +1,7 @@
 {
+  "slug": "hazelcast-component-for-apache-camel",
+  "name": "Hazelcast Component For Apache Camel",
+  "category": "Hazelcast Component",
   "lastUpdated": "2025-10-28T08:22:24",
   "sections": {
     "Current Stable": {

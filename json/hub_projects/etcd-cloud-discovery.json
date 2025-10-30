@@ -1,4 +1,7 @@
 {
+  "slug": "etcd-cloud-discovery",
+  "name": "Etcd Cloud Discovery",
+  "category": "Cloud Discovery",
   "lastUpdated": "2025-10-28T08:22:24",
   "sections": {
     "Current Stable": {

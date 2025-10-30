@@ -1,4 +1,7 @@
 {
+  "slug": "kafka-connect-sink-for-hazelcast",
+  "name": "Kafka Connect Sink For Hazelcast",
+  "category": "Connector",
   "lastUpdated": "2025-10-28T08:22:24",
   "sections": {
     "Current Stable": {
