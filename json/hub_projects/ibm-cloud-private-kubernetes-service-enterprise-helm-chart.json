@@ -1,8 +1,12 @@
 {
-  "slug": "ibm-cloud-private-kubernetes-service-enterprise-helm-chart",
   "name": "Ibm Cloud Private Kubernetes Service Enterprise Helm Chart",
-  "category": "Cloud Discovery",
   "lastUpdated": "2025-10-28T08:22:24",
+  "type": "Cloud Discovery",
+  "product": "",
+  "shortDescription": "The official Hazelcast Enterprise Helm Chart for IBM Cloud Private and IBM Kubernetes Service.",
+  "longDescription": "The official Hazelcast Enterprise Helm Chart for IBM Cloud Private and IBM Kubernetes Service.",
+  "features": [],
+  "status": true,
   "sections": {
     "Current Stable": {
       "version": "0.3",

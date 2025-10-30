@@ -1,8 +1,12 @@
 {
-  "slug": "redhat-openshift",
   "name": "Redhat Openshift",
-  "category": "Other",
   "lastUpdated": "2025-10-28T08:22:24",
+  "type": "Other",
+  "product": "",
+  "shortDescription": "Hazelcast IMDG Enterprise in the RedHat Container Catalog",
+  "longDescription": "Hazelcast IMDG Enterprise in the RedHat Container Catalog",
+  "features": [],
+  "status": true,
   "sections": {
     "Current Stable": {
       "version": "",

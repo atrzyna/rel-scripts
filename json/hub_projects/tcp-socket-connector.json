@@ -1,8 +1,16 @@
 {
-  "slug": "tcp-socket-connector",
   "name": "Tcp Socket Connector",
-  "category": "Connector",
   "lastUpdated": "2025-10-28T08:22:24",
+  "type": "Connector",
+  "product": "Hazelcast Platform",
+  "shortDescription": "Connects to the specified socket, reads (source) or writes (sink) lines of text received from it.",
+  "longDescription": "Connects to the specified socket, reads (source) or writes (sink) lines of text received from it.\r \r The connector is included in the base Jet package. No plugin download is required.",
+  "features": [
+    "Source",
+    "Sink",
+    "Streaming"
+  ],
+  "status": true,
   "sections": {
     "Current Stable": {
       "version": "4.0",

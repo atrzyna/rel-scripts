@@ -1,8 +1,12 @@
 {
-  "slug": "tomcat-web-sessions",
   "name": "Tomcat Web Sessions",
-  "category": "Web Integration",
   "lastUpdated": "2025-10-28T08:22:24",
+  "type": "Web Integration",
+  "product": "",
+  "shortDescription": "Seamless failover for Apache Tomcat web sessions.",
+  "longDescription": "Hazelcast Tomcat Session Manager is a container-specific module that enables session replication for Tomcat web applications without requiring changes to the application.  Features:   - Tomcat 7, 8, 8.5 & 9 support - Support for sticky and non-sticky sessions. - Deferred write for performance boost. - Embedded or remote Hazelcast setups  See also the step-by-step <a href=\"https://guides.hazelcast.org/springboot-tomcat-session-replication/\">Tomcat Session Replication Guide for Spring Boot</a> applications",
+  "features": [],
+  "status": true,
   "sections": {
     "Current Stable": {
       "version": "3.6.3",

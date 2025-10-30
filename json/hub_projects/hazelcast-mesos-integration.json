@@ -1,8 +1,12 @@
 {
-  "slug": "hazelcast-mesos-integration",
   "name": "Hazelcast Mesos Integration",
-  "category": "Hazelcast Component",
   "lastUpdated": "2025-10-28T08:22:24",
+  "type": "Hazelcast Component",
+  "product": "Community Contribution",
+  "shortDescription": "The Hazelcast Mesos Integration Community project gives you the ability to deploy Hazelcast on the Mesos cluster.",
+  "longDescription": "Hazelcast Mesos Integration module gives you the ability to deploy Hazelcast on the Mesos cluster.  Since it depends on the Hazelcast Zookeeper module for discovery, the deployed version of Hazelcast on Mesos cluster should not be lesser than 3.6. This module is developed and supported by the Community contributor.",
+  "features": [],
+  "status": true,
   "sections": {
     "Current Stable": {
       "version": "3.7.2",

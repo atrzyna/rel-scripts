@@ -1,8 +1,19 @@
 {
-  "slug": "jms-connector",
   "name": "Jms Connector",
-  "category": "Connector",
   "lastUpdated": "2025-10-28T08:22:24",
+  "type": "Connector",
+  "product": "Hazelcast Platform",
+  "shortDescription": "Streams messages from/to a JMS queue or a JMS topic using a JMS Client on a classpath. Reading from the queue can be parallelized.",
+  "longDescription": "Streams messages from/to a JMS queue or a JMS topic using a JMS Client on a classpath. Reading from the queue can be parallelized.\r \r The source connector is fault-tolerant with the exactly-once guarantee. Fault tolerance is achieved by acknowledging the consumed messages only after they were fully processed by the downstream stages.\r \r The connector is included in Jet core package. It requires a JMS client for the respective broker.",
+  "features": [
+    "Source",
+    "Sink",
+    "Streaming",
+    "Queue",
+    "Topic",
+    "Java Messaging Servi…"
+  ],
+  "status": true,
   "sections": {
     "Current Stable": {
       "version": "4.0",

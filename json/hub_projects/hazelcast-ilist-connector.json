@@ -1,8 +1,16 @@
 {
-  "slug": "hazelcast-ilist-connector",
   "name": "Hazelcast Ilist Connector",
-  "category": "Connector",
   "lastUpdated": "2025-10-28T08:22:24",
+  "type": "Connector",
+  "product": "Hazelcast Platform",
+  "shortDescription": "Reads and adds items to a distributed list (IList) in local or remote Hazelcast cluster.",
+  "longDescription": "Reads items retrieved from a Hazelcast IList. All elements are read on a single member of a Jet cluster — IList isn’t partitioned. Sink adds items to the IList.\r \r The connector is included in the base Jet package. No plugin download is required.",
+  "features": [
+    "Source",
+    "Sink",
+    "Batch"
+  ],
+  "status": true,
   "sections": {
     "Current Stable": {
       "version": "4.0",

@@ -1,8 +1,17 @@
 {
-  "slug": "debezium-connector",
   "name": "Debezium Connector",
-  "category": "Connector",
   "lastUpdated": "2025-10-28T08:22:24",
+  "type": "Connector",
+  "product": "Hazelcast Platform",
+  "shortDescription": "A Hazelcast Jet connector for Debezium which enables Hazelcast Jet pipelines to consume CDC events from various databases.",
+  "longDescription": "A Hazelcast Jet connector for Debezium which enables Hazelcast Jet pipelines to consume CDC events from various databases. Use any plugin provided by the Debezium.io project for the event-driven database integration.\r \r Consider using first class Jet CDC sources for MySQL and PostgreSQL databases to benefit from the full range of convenience Jet can additionally provide on top of Debezium.",
+  "features": [
+    "Source",
+    "Streaming",
+    "JSON",
+    "Change Data Capture"
+  ],
+  "status": true,
   "sections": {
     "Current Stable": {
       "version": "0.1",

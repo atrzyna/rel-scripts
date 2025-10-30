@@ -1,8 +1,16 @@
 {
-  "slug": "kafka-connect-connector",
   "name": "Kafka Connect Connector",
-  "category": "Connector",
   "lastUpdated": "2025-10-28T08:22:24",
+  "type": "Connector",
+  "product": "Hazelcast Platform",
+  "shortDescription": "A generic Kafka Connect source provides the ability to plug any Kafka Connect source for data ingestion to Jet pipelines.",
+  "longDescription": "A generic Kafka Connect source provides the ability to plug any Kafka Connect source for data ingestion to Jet pipelines.",
+  "features": [
+    "Source",
+    "Batch",
+    "Streaming"
+  ],
+  "status": true,
   "sections": {
     "Current Stable": {
       "version": "0.1",

@@ -1,8 +1,12 @@
 {
-  "slug": "application-log",
   "name": "Application Log",
-  "category": "Other",
   "lastUpdated": "2025-10-28T08:22:24",
+  "type": "Other",
+  "product": "",
+  "shortDescription": "",
+  "longDescription": "",
+  "features": [],
+  "status": true,
   "sections": {
     "Current Stable": {
       "version": "123.23.456",

@@ -1,8 +1,12 @@
 {
-  "slug": "hazelcast-jet-for-pcf",
   "name": "Hazelcast Jet For Pcf",
-  "category": "Hazelcast Component",
   "lastUpdated": "2025-10-28T08:22:24",
+  "type": "Hazelcast Component",
+  "product": "Hazelcast Platform",
+  "shortDescription": "Clickable Hazelcast JET Tile for Pivotal Cloud Foundry – the easiest way to deploy an open source Hazelcast JET cluster on Cloud Foundry.",
+  "longDescription": "Clickable Hazelcast JET Tile for Pivotal Cloud Foundry – the easiest way to deploy an open source Hazelcast JET cluster on Cloud Foundry.",
+  "features": [],
+  "status": true,
   "sections": {
     "Current Stable": {
       "version": "",

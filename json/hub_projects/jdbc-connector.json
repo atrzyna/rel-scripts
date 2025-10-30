@@ -1,8 +1,18 @@
 {
-  "slug": "jdbc-connector",
   "name": "Jdbc Connector",
-  "category": "Connector",
   "lastUpdated": "2025-10-28T08:22:24",
+  "type": "Connector",
+  "product": "Hazelcast Platform",
+  "shortDescription": "Reads or writes the data from/to relational database or another source that supports the standard JDBC API. Supports parallel reading for partitioned sources.",
+  "longDescription": "Reads or writes the data from/to relational database or another source that supports the standard JDBC API. Supports parallel reading for partitioned sources. Supports transactions to avoid multiple writes during failures.\r \r The connector is included in the Jet package. It requires a JDBC driver for the respective database.\r \r The JDBC source only works in batching mode, meaning the query is only executed once. For streaming changes from the database please use the CDC Connectors.",
+  "features": [
+    "Source",
+    "Sink",
+    "Batch",
+    "Java Database Connec…",
+    "Relational"
+  ],
+  "status": true,
   "sections": {
     "Current Stable": {
       "version": "4.0",

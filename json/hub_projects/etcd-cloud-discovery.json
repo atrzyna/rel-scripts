@@ -1,8 +1,12 @@
 {
-  "slug": "etcd-cloud-discovery",
   "name": "Etcd Cloud Discovery",
-  "category": "Cloud Discovery",
   "lastUpdated": "2025-10-28T08:22:24",
+  "type": "Cloud Discovery",
+  "product": "",
+  "shortDescription": "The Hazelcast etcd plugin provides an etcd based DiscoveryStrategy for Hazlecast 3.6-EA+ enabled applications. This is an easy to configure plug-and-play Hazelcast DiscoveryStrategy that will optionally register each of your Hazelcast instances with etcd and enable Hazelcast nodes to dynamically discover one another via etcd.",
+  "longDescription": "The Hazelcast etcd plugin provides an etcd based DiscoveryStrategy for Hazlecast 3.6-EA+ enabled applications. This is an easy to configure plug-and-play Hazelcast DiscoveryStrategy that will optionally register each of your Hazelcast instances with etcd and enable Hazelcast nodes to dynamically discover one another via etcd.",
+  "features": [],
+  "status": true,
   "sections": {
     "Current Stable": {
       "version": "3.8.3",

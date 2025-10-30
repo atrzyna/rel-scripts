@@ -1,8 +1,12 @@
 {
-  "slug": "pivotal-cloud-foundry",
   "name": "Pivotal Cloud Foundry",
-  "category": "Cloud Discovery",
   "lastUpdated": "2025-10-28T08:22:24",
+  "type": "Cloud Discovery",
+  "product": "",
+  "shortDescription": "",
+  "longDescription": "",
+  "features": [],
+  "status": true,
   "sections": {
     "Current Stable": {
       "version": "3.12.3-1",

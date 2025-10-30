@@ -1,8 +1,12 @@
 {
-  "slug": "jetty-web-sessions",
   "name": "Jetty Web Sessions",
-  "category": "Web Integration",
   "lastUpdated": "2025-10-28T08:22:24",
+  "type": "Web Integration",
+  "product": "",
+  "shortDescription": "",
+  "longDescription": "",
+  "features": [],
+  "status": true,
   "sections": {
     "Current Stable": {
       "version": "3.0",

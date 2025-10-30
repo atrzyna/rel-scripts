@@ -1,8 +1,20 @@
 {
-  "slug": "file-connector",
   "name": "File Connector",
-  "category": "Connector",
   "lastUpdated": "2025-10-28T08:22:24",
+  "type": "Connector",
+  "product": "Hazelcast Platform",
+  "shortDescription": "Reads text-oriented data (JSON records, CSV lines or plain text) from files on a shared filesystem or watches a directory for new data.",
+  "longDescription": "Reads from files on a shared filesystem or watches shared directory and streams the new lines of text coming from the files in the watched directory. Data can be parsed from JSON or CSV format. The same directory has to be available to all cluster members (using a shared network file system for example).\r \r Sink writes processed data to a filesystem.",
+  "features": [
+    "Source",
+    "Sink",
+    "Batch",
+    "Streaming",
+    "Watcher",
+    "JSON",
+    "CSV"
+  ],
+  "status": true,
   "sections": {
     "Current Stable": {
       "version": "4.0",

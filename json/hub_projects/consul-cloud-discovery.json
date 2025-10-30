@@ -1,8 +1,12 @@
 {
-  "slug": "consul-cloud-discovery",
   "name": "Consul Cloud Discovery",
-  "category": "Cloud Discovery",
   "lastUpdated": "2025-10-28T08:22:24",
+  "type": "Cloud Discovery",
+  "product": "",
+  "shortDescription": "Consul is a tool for discovering and configuring services in your infrastructure. It provides: Service Discovery, Health Checking, Key/Value Store, and Multi Datacenter support out-of-the-box.",
+  "longDescription": "Consul is a tool for discovering and configuring services in your infrastructure. It provides: Service Discovery, Health Checking, Key/Value Store, and Multi Datacenter support out-of-the-box.",
+  "features": [],
+  "status": true,
   "sections": {
     "Current Stable": {
       "version": "1.0-RC4",

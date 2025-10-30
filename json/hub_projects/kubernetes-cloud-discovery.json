@@ -1,8 +1,12 @@
 {
-  "slug": "kubernetes-cloud-discovery",
   "name": "Kubernetes Cloud Discovery",
-  "category": "Cloud Discovery",
   "lastUpdated": "2025-10-28T08:22:24",
+  "type": "Cloud Discovery",
+  "product": "",
+  "shortDescription": "The Hazelcast Kubernetes discovery plugin provides the possibility to lookup IP addresses of other members by resolving those requests against a Kubernetes Service Discovery system.",
+  "longDescription": "The Hazelcast Kubernetes discovery plugin provides the possibility to lookup IP addresses of other members by resolving those requests against a Kubernetes Service Discovery system. This plugin supports two different options of resolving against the discovery registry: a request to the REST API, and DNS lookup against a given DNS service name.\r \r From Hazelcast 5.0, this functionality is built-in and requires no additional dependency.\r \r Copy and paste the following snippet into your build:",
+  "features": [],
+  "status": true,
   "sections": {
     "Current Stable": {
       "version": "",

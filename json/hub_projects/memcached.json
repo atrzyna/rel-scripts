@@ -1,8 +1,12 @@
 {
-  "slug": "memcached",
   "name": "Memcached",
-  "category": "Other",
   "lastUpdated": "2025-10-28T08:22:24",
+  "type": "Other",
+  "product": "",
+  "shortDescription": "A Memcache client written in any language can talk directly to a Hazelcast cluster. No additional configuration is required.",
+  "longDescription": "A Memcache client written in any language can talk directly to a Hazelcast cluster. No additional configuration is required.",
+  "features": [],
+  "status": true,
   "sections": {
     "Current Stable": {
       "version": "",

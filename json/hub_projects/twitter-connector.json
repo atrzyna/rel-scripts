@@ -1,8 +1,16 @@
 {
-  "slug": "twitter-connector",
   "name": "Twitter Connector",
-  "category": "Connector",
   "lastUpdated": "2025-10-28T08:22:24",
+  "type": "Connector",
+  "product": "Hazelcast Platform",
+  "shortDescription": "A Hazelcast Jet connector for consuming data from Twitter stream sources in Jet pipelines.",
+  "longDescription": "A Hazelcast Jet connector for Twitter Streaming API which enables Hazelcast Jet pipelines to consume tweets from multiple Twitter APIs:\r \r - Twitter’s Streaming API – Push from Twitter, real-time stream, it samples tweets (1-40% of Tweets can be consumed this way)\r - Twitter’s Search API – result limited to 15 tweets per request, and 180 requests every 15 minutes.",
+  "features": [
+    "Source",
+    "Batch",
+    "Streaming"
+  ],
+  "status": true,
   "sections": {
     "Current Stable": {
       "version": "0.1",

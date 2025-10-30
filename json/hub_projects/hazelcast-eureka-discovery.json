@@ -1,8 +1,12 @@
 {
-  "slug": "hazelcast-eureka-discovery",
   "name": "Hazelcast Eureka Discovery",
-  "category": "Cloud Discovery",
   "lastUpdated": "2025-10-28T08:22:24",
+  "type": "Cloud Discovery",
+  "product": "",
+  "shortDescription": "Eureka is a REST-based service that is primarily used in the AWS cloud for locating services for the purpose of load balancing and failover of middle-tier servers.",
+  "longDescription": "Eureka is a REST-based service that is primarily used in the AWS cloud for locating services for the purpose of load balancing and failover of middle-tier servers. Hazelcast supports Eureka V1 discovery; Hazelcast members within EC2 Virtual Private Cloud can discover each other using this mechanism. This discovery feature is provided as a Hazelcast plugin.",
+  "features": [],
+  "status": true,
   "sections": {
     "Current Stable": {
       "version": "",

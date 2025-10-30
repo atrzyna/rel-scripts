@@ -1,8 +1,12 @@
 {
-  "slug": "customer-connector",
   "name": "Customer Connector",
-  "category": "Connector",
   "lastUpdated": "2025-10-28T08:22:24",
+  "type": "Connector",
+  "product": "",
+  "shortDescription": "",
+  "longDescription": "",
+  "features": [],
+  "status": true,
   "sections": {
     "Current Stable": {
       "version": "3.7.2",

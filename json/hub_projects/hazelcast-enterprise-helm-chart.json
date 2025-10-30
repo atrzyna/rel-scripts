@@ -1,8 +1,12 @@
 {
-  "slug": "hazelcast-enterprise-helm-chart",
   "name": "Hazelcast Enterprise Helm Chart",
-  "category": "Container",
   "lastUpdated": "2025-10-28T08:22:24",
+  "type": "Container",
+  "product": "",
+  "shortDescription": "The Helm Chart for Hazelcast Enterprise.",
+  "longDescription": "The Helm Chart for Hazelcast Enterprise. It includes the Hazelcast Enterprise and Management Center. A license must be obtained to use it. Please fill out the form on <a href=\"https://hazelcast.com/download/\">this page</a> to obtain a license.",
+  "features": [],
+  "status": true,
   "sections": {
     "Current Stable": {
       "version": "1.1.2",

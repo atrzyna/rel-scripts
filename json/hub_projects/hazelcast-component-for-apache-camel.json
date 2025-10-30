@@ -1,8 +1,12 @@
 {
-  "slug": "hazelcast-component-for-apache-camel",
   "name": "Hazelcast Component For Apache Camel",
-  "category": "Hazelcast Component",
   "lastUpdated": "2025-10-28T08:22:24",
+  "type": "Hazelcast Component",
+  "product": "",
+  "shortDescription": "The Hazelcast component for Apache Camel allows you to work with the Hazelcast distributed data grid/cache.",
+  "longDescription": "The Hazelcast component for Apache Camel allows you to work with the Hazelcast distributed data grid/cache. If you have enabled multicast on your network, you can run a cluster with a hundred nodes with no extra configuration. Hazelcast can be simply configured to add additional features like n copies between nodes (default is 1), cache persistence, network configuration (if needed), near cache, eviction and so on.",
+  "features": [],
+  "status": true,
   "sections": {
     "Current Stable": {
       "version": "",

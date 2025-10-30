@@ -1,8 +1,12 @@
 {
-  "slug": "hibernate5-2lc",
   "name": "Hibernate5 2Lc",
-  "category": "Framework Integration",
   "lastUpdated": "2025-10-28T08:22:24",
+  "type": "Framework Integration",
+  "product": "",
+  "shortDescription": "Accelerating Hibernate applications typically involves reducing their reliance on the database when fetching data. Hazelcast offers its own second level cache implementation for Hibernate5.",
+  "longDescription": "Accelerating Hibernate applications typically involves reducing their reliance on the database when fetching data. Hazelcast offers its own second level cache implementation for Hibernate5.  Copy and paste the following snippet into your build:",
+  "features": [],
+  "status": true,
   "sections": {
     "Current Stable": {
       "version": "1.3.2",

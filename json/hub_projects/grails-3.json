@@ -1,8 +1,12 @@
 {
-  "slug": "grails-3",
   "name": "Grails 3",
-  "category": "Framework Integration",
   "lastUpdated": "2025-10-28T08:22:24",
+  "type": "Framework Integration",
+  "product": "Community Contribution",
+  "shortDescription": "This Community project plugin integrates the Hazelcast data distribution framework into your grails application. You can reach distributed data structures (map, queue, list, topic) injecting hazelService. Also, you can cache your domain class into Hazelcast distributed cache.",
+  "longDescription": "This plugin integrates the Hazelcast data distribution framework into your grails application. You can reach distributed data structures (map, queue, list, topic) injecting hazelService. Also, you can cache your domain class into Hazelcast distributed cache.\r \r  This module is developed and supported by the Community contributor.",
+  "features": [],
+  "status": true,
   "sections": {
     "Current Stable": {
       "version": "",

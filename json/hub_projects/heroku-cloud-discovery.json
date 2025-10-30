@@ -1,8 +1,12 @@
 {
-  "slug": "heroku-cloud-discovery",
   "name": "Heroku Cloud Discovery",
-  "category": "Cloud Discovery",
   "lastUpdated": "2025-10-28T08:22:24",
+  "type": "Cloud Discovery",
+  "product": "",
+  "shortDescription": "This Hazelcast Discovery Plugin will lookup IP addresses of other members by resolving service names against the Heroku DNS Discovery in Heroku Private Spaces.",
+  "longDescription": "This Hazelcast Discovery Plugin will lookup IP addresses of other members by resolving service names against the Heroku DNS Discovery in Heroku Private Spaces.  Copy and paste the following snippet into your build:",
+  "features": [],
+  "status": true,
   "sections": {
     "Current Stable": {
       "version": "3.8.4",

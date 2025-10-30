@@ -1,8 +1,12 @@
 {
-  "slug": "hazelcast-imdg-enterprise-for-pcf",
   "name": "Hazelcast Imdg Enterprise For Pcf",
-  "category": "Hazelcast Component",
   "lastUpdated": "2025-10-28T08:22:24",
+  "type": "Hazelcast Component",
+  "product": "Hazelcast Platform",
+  "shortDescription": "Clickable Hazelcast IMDG Tile for Pivotal Cloud Foundry – the easiest way to deploy an open source Hazelcast cluster on Cloud Foundry.",
+  "longDescription": "Clickable Hazelcast IMDG Tile for Pivotal Cloud Foundry – the easiest way to deploy an open source Hazelcast cluster on Cloud Foundry.",
+  "features": [],
+  "status": true,
   "sections": {
     "Current Stable": {
       "version": "3.7.3",

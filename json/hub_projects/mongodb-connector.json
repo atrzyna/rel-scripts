@@ -1,8 +1,19 @@
 {
-  "slug": "mongodb-connector",
   "name": "Mongodb Connector",
-  "category": "Connector",
   "lastUpdated": "2025-10-28T08:22:24",
+  "type": "Connector",
+  "product": "Hazelcast Platform",
+  "shortDescription": "A Hazelcast Jet connector for MongoDB which enables Hazelcast Jet pipelines to read/write data points from/to MongoDB.",
+  "longDescription": "A Hazelcast Jet connector for MongoDB which enables Hazelcast Jet pipelines to read/write data points from/to MongoDB.",
+  "features": [
+    "Source",
+    "Sink",
+    "Batch",
+    "Streaming",
+    "Document Store",
+    "JSON"
+  ],
+  "status": true,
   "sections": {
     "Current Stable": {
       "version": "0.2",

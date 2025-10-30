@@ -1,8 +1,17 @@
 {
-  "slug": "elasticsearch-connector",
   "name": "Elasticsearch Connector",
-  "category": "Connector",
   "lastUpdated": "2025-10-28T08:22:24",
+  "type": "Connector",
+  "product": "Hazelcast Platform",
+  "shortDescription": "A Hazelcast Jet connector for Elasticsearch for querying/indexing objects from/to Elasticsearch.",
+  "longDescription": "Elasticsearch is a popular fulltext search engine. Hazelcast Jet can use it both as a source and a sink. Use the Hazelcast Jet connector for querying/indexing objects from/to Elasticsearch.\r \r Jet supports connecting to  Elasticsearch servers running on versions 6.x and 7.x.",
+  "features": [
+    "Source",
+    "Sink",
+    "Batch",
+    "Search Engine"
+  ],
+  "status": true,
   "sections": {
     "Current Stable": {
       "version": "7.x.x",

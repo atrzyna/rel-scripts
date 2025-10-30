@@ -1,8 +1,12 @@
 {
-  "slug": "clojure",
   "name": "Clojure",
-  "category": "Other",
   "lastUpdated": "2025-10-28T08:22:24",
+  "type": "Other",
+  "product": "",
+  "shortDescription": "It’s now easier than ever to connect to a Hazelcast cluster from your JClojure application using this JClojure API.",
+  "longDescription": "It’s now easier than ever to connect to a Hazelcast cluster from your JClojure application using this JClojure API.",
+  "features": [],
+  "status": true,
   "sections": {
     "Current Stable": {
       "version": "1.0.2",

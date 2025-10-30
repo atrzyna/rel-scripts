@@ -1,8 +1,12 @@
 {
-  "slug": "openfire",
   "name": "Openfire",
-  "category": "Other",
   "lastUpdated": "2025-10-28T08:22:24",
+  "type": "Other",
+  "product": "",
+  "shortDescription": "The Hazelcast plugin adds support for running multiple redundant Openfire servers together in a cluster.",
+  "longDescription": "The Hazelcast plugin adds support for running multiple redundant Openfire servers together in a cluster. By running Openfire as a cluster, you can distribute the connection load among several servers, while also providing failover in the event that one of your servers fails. This plugin is a drop-in replacement for the original Openfire clustering plugin, using the open source Hazelcast data distribution framework in lieu of an expensive proprietary third-party product.",
+  "features": [],
+  "status": true,
   "sections": {
     "Current Stable": {
       "version": "",

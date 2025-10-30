@@ -1,8 +1,18 @@
 {
-  "slug": "hdfs-connector",
   "name": "Hdfs Connector",
-  "category": "Connector",
   "lastUpdated": "2025-10-28T08:22:24",
+  "type": "Connector",
+  "product": "Hazelcast Platform",
+  "shortDescription": "Reads from and writes to Apache Hadoop HDFS.",
+  "longDescription": "You can use Hadoop connector to read/write files from/to Apache Hadoop Distributed File System (HDFS).",
+  "features": [
+    "Source",
+    "Sink",
+    "Batch",
+    "Hadoop",
+    "Object Store"
+  ],
+  "status": true,
   "sections": {
     "Current Stable": {
       "version": "4.0",

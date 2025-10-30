@@ -1,8 +1,12 @@
 {
-  "slug": "spring-integration",
   "name": "Spring Integration",
-  "category": "Framework Integration",
   "lastUpdated": "2025-10-28T08:22:24",
+  "type": "Framework Integration",
+  "product": "",
+  "shortDescription": "Spring Integration Hazelcast Support is developed by SpringSource.",
+  "longDescription": "Spring Integration Hazelcast Support is developed by SpringSource. The project provides event-driven inbound channel adapter, continuous query inbound channel adapter, cluster monitor inbound channel adapter, distributed-sql inbound channel adapter, outbound channel adapter, and leader election.",
+  "features": [],
+  "status": true,
   "sections": {
     "Current Stable": {
       "version": "2.2.2",

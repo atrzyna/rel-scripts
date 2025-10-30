@@ -1,8 +1,12 @@
 {
-  "slug": "hazelcast-helm-chart",
   "name": "Hazelcast Helm Chart",
-  "category": "Container",
   "lastUpdated": "2025-10-28T08:22:24",
+  "type": "Container",
+  "product": "",
+  "shortDescription": "The official Helm Chart for Hazelcast IMDG.",
+  "longDescription": "The official Helm Chart for Hazelcast IMDG.",
+  "features": [],
+  "status": true,
   "sections": {
     "Current Stable": {
       "version": "",

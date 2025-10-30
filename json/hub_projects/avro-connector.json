@@ -1,8 +1,18 @@
 {
-  "slug": "avro-connector",
   "name": "Avro Connector",
-  "category": "Connector",
   "lastUpdated": "2025-10-28T08:22:24",
+  "type": "Connector",
+  "product": "Hazelcast Platform",
+  "shortDescription": "Jet can read and write Avro-serialized data from self-contained files (Avro Object Container format), HDFS and Kafka. Kafka connector can be configured to use the schema registry.",
+  "longDescription": "Jet can read and write Avro-serialized data from self-contained files (Avro Object Container format), HDFS and Kafka. Kafka connector can be configured to use the schema registry.",
+  "features": [
+    "Source",
+    "Sink",
+    "Batch",
+    "Streaming",
+    "Serialization"
+  ],
+  "status": true,
   "sections": {
     "Current Stable": {
       "version": "4.0",

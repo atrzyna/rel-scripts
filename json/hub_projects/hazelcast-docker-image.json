@@ -1,8 +1,12 @@
 {
-  "slug": "hazelcast-docker-image",
   "name": "Hazelcast Docker Image",
-  "category": "Container",
   "lastUpdated": "2025-10-28T08:22:24",
+  "type": "Container",
+  "product": "",
+  "shortDescription": "Hazelcast base Docker image.",
+  "longDescription": "Hazelcast base Docker image.  Pull command: <pre>docker pull hazelcast/hazelcast</pre>",
+  "features": [],
+  "status": true,
   "sections": {
     "Current Stable": {
       "version": "Latest",

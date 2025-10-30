@@ -1,8 +1,12 @@
 {
-  "slug": "subzero",
   "name": "Subzero",
-  "category": "Other",
   "lastUpdated": "2025-10-28T08:22:24",
+  "type": "Integration",
+  "product": "",
+  "shortDescription": "SubZero provides dead easy Hazelcast – Kryo integration. No coding required.",
+  "longDescription": "SubZero provides dead easy Hazelcast – Kryo integration. No coding required. Kryo is a popular serialization library. It’s super-fast yet easy-to-use. It does not pollute your domain model and it can even serialize classes that are not marked as Serializable.  Copy and paste the following snippet into your build:",
+  "features": [],
+  "status": true,
   "sections": {
     "Current Stable": {
       "version": "1.1.4",
