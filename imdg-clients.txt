@@ -1028,6 +1028,15 @@ ReleaseNotes:
 ---
 ========== .NET/CSharp Client
 ---
+Version: 5.6.0
+Date: 12/05/2025
+Download: https://www.nuget.org/api/v2/package/Hazelcast.Net/5.6.0
+Download_Size: 2 MB
+Github: https://github.com/hazelcast/hazelcast-csharp-client/tree/v5.6.0
+Docs: http://hazelcast.github.io/hazelcast-csharp-client/5.6.0/doc/index.html
+APIDocs: http://hazelcast.github.io/hazelcast-csharp-client/5.6.0/api/index.html
+ReleaseNotes: https://github.com/hazelcast/hazelcast-csharp-client/releases/tag/v5.6.0
+---
 Version: 5.5.1
 Date: 06/26/2024
 Download: https://www.nuget.org/api/v2/package/Hazelcast.Net/5.5.1
@@ -1398,6 +1407,22 @@ APIDocs: http://docs.hazelcast.org/docs/clients/net/3.6-EA2/
 ReleaseNotes:
 ---
 ========== C++ Client
+---
+Version: 5.6.0
+Date: 01/20/2026
+Github: https://github.com/hazelcast/hazelcast-cpp-client/tree/v5.6.0
+Docs: https://github.com/hazelcast/hazelcast-cpp-client/blob/v5.6.0/Reference_Manual.md
+APIDocs: http://hazelcast.github.io/hazelcast-cpp-client/api-index.html
+ReleaseNotes: https://github.com/hazelcast/hazelcast-cpp-client/releases/tag/v5.6.0
+InstallationInstructions_URL: https://docs.hazelcast.com/hazelcast/5.6/clients/cplusplus#install-the-c-client
+---
+Version: 5.5.0
+Date: 11/07/2025
+Github: https://github.com/hazelcast/hazelcast-cpp-client/tree/v5.5.0
+Docs: https://github.com/hazelcast/hazelcast-cpp-client/blob/v5.5.0/Reference_Manual.md
+APIDocs: http://hazelcast.github.io/hazelcast-cpp-client/api-index.html
+ReleaseNotes: https://github.com/hazelcast/hazelcast-cpp-client/releases/tag/v5.5.0
+InstallationInstructions_URL: https://docs.hazelcast.com/hazelcast/5.6/clients/cplusplus#install-the-c-client
 ---
 Version: 5.4.0
 Date: 06/13/2025
@@ -1794,6 +1819,14 @@ ReleaseNotes:
 ---
 ========== Python Client
 ---
+Version: 5.6.0
+Date: 01/16/2026
+Download: https://files.pythonhosted.org/packages/f8/98/00e665530789906f2bdaff0b49b45e9a277ac883c0ea1726f9472727b42b/hazelcast_python_client-5.6.0.tar.gz
+Download_Size: 293 KB
+Github: https://github.com/hazelcast/hazelcast-python-client/tree/v5.6.0
+Docs: https://github.com/hazelcast/hazelcast-python-client/blob/v5.6.0/README.rst
+APIDocs: https://hazelcast.readthedocs.io/en/v5.6.0/
+---
 Version: 5.5.0
 Date: 08/06/2024
 Download: https://files.pythonhosted.org/packages/25/92/4886d8038fa9fa5d3e5f1de012c6dbcbae9887edaa51402e9b3d47101b4d/hazelcast_python_client-5.5.0.tar.gz
@@ -2033,6 +2066,14 @@ APIDocs:
 ReleaseNotes:
 ---
 ========== NodeJS Client
+---
+Version: 5.6.0
+Date: 02/16/2026
+Download: https://github.com/hazelcast/hazelcast-nodejs-client/archive/v5.6.0.zip
+Github: https://github.com/hazelcast/hazelcast-nodejs-client/tree/v5.6.0
+Docs: https://github.com/hazelcast/hazelcast-nodejs-client/blob/v5.6.0/README.md
+APIDocs: https://hazelcast.github.io/hazelcast-nodejs-client/api/5.6.0/docs/
+ReleaseNotes: https://github.com/hazelcast/hazelcast-nodejs-client/releases/tag/v5.6.0
 ---
 Version: 5.3.0
 Date: 06/21/2023
@@ -2460,6 +2501,15 @@ APIDocs:
 ReleaseNotes:
 ---
 ========== Go Client
+---
+Version: 1.5.0
+Date: 11/11/2025
+Download: https://github.com/hazelcast/hazelcast-go-client/archive/v1.5.0.zip
+Download_Size:
+Github: https://github.com/hazelcast/hazelcast-go-client/tree/v1.5.0
+Docs: https://pkg.go.dev/github.com/hazelcast/hazelcast-go-client@v1.5.0
+APIDocs: https://pkg.go.dev/github.com/hazelcast/hazelcast-go-client@v1.5.0
+ReleaseNotes: https://github.com/hazelcast/hazelcast-go-client/releases/tag/v1.5.0
 ---
 Version: 1.4.3
 Date: 09/15/2025
