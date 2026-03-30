@@ -1,0 +1,19 @@
+{
+  "name": "Customer Connector",
+  "lastUpdated": "2025-10-28T08:22:24",
+  "type": "Connector",
+  "product": "",
+  "shortDescription": "",
+  "longDescription": "",
+  "features": [],
+  "status": true,
+  "sections": {
+    "Current Stable": {
+      "version": "3.7.2",
+      "download_url": "https://example.com",
+      "sample_code_url": "https://example.com",
+      "docs_url": "https://example.com",
+      "learn_more_url": "https://example.com"
+    }
+  }
+}

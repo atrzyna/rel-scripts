@@ -1,0 +1,19 @@
+{
+  "name": "Google Cloud Platform Gcp",
+  "lastUpdated": "2025-10-28T08:22:24",
+  "type": "Cloud Discovery",
+  "product": "",
+  "shortDescription": "This plugin provides the automatic Hazelcast member discovery in the Google Cloud Platform (Compute Engine) environment.",
+  "longDescription": "This plugin provides the automatic Hazelcast member discovery in the Google Cloud Platform (Compute Engine) environment.  Copy and paste the following snippet into your build:",
+  "features": [],
+  "status": true,
+  "sections": {
+    "Current Stable": {
+      "version": "1.0.2",
+      "download_url": "https://github.com/hazelcast/hazelcast-gcp/releases",
+      "sample_code_url": "",
+      "docs_url": "https://github.com/hazelcast/hazelcast-gcp/blob/master/README.md",
+      "learn_more_url": "https://github.com/hazelcast/hazelcast-gcp"
+    }
+  }
+}

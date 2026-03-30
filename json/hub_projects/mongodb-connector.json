@@ -1,0 +1,26 @@
+{
+  "name": "Mongodb Connector",
+  "lastUpdated": "2025-10-28T08:22:24",
+  "type": "Connector",
+  "product": "Hazelcast Platform",
+  "shortDescription": "A Hazelcast Jet connector for MongoDB which enables Hazelcast Jet pipelines to read/write data points from/to MongoDB.",
+  "longDescription": "A Hazelcast Jet connector for MongoDB which enables Hazelcast Jet pipelines to read/write data points from/to MongoDB.",
+  "features": [
+    "Source",
+    "Sink",
+    "Batch",
+    "Streaming",
+    "Document Store",
+    "JSON"
+  ],
+  "status": true,
+  "sections": {
+    "Current Stable": {
+      "version": "0.2",
+      "download_url": "https://search.maven.org/artifact/com.hazelcast.jet.contrib/mongodb/0.2/jar",
+      "sample_code_url": "https://github.com/hazelcast/hazelcast-jet-contrib/tree/master/mongodb#usage",
+      "docs_url": "https://github.com/hazelcast/hazelcast-jet-contrib/tree/master/mongodb",
+      "learn_more_url": ""
+    }
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Ibm Dynacache Plugin",
+  "lastUpdated": "2025-10-28T08:22:24",
+  "type": "Other",
+  "product": "",
+  "shortDescription": "Hazelcast Dynacache Provider for IBM WAS Traditional and Liberty Profiles.",
+  "longDescription": "Hazelcast Dynacache Provider for IBM WAS Traditional and Liberty Profiles.",
+  "features": [],
+  "status": true,
+  "sections": {
+    "Current Stable": {
+      "version": "",
+      "download_url": "https://github.com/hazelcast/hazelcast-dynacache/releases",
+      "sample_code_url": "",
+      "docs_url": "https://github.com/hazelcast/hazelcast-dynacache/blob/master/README.md",
+      "learn_more_url": "https://github.com/hazelcast/hazelcast-dynacache"
+    }
+  }
+}

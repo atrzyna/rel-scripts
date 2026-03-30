@@ -1,0 +1,19 @@
+{
+  "name": "Kafka Connect Sink For Hazelcast",
+  "lastUpdated": "2025-10-28T08:22:24",
+  "type": "Connector",
+  "product": "",
+  "shortDescription": "A Connector and Sink to write events from Kafka to Hazelcast. The connector takes the value from the Kafka Connect SinkRecords and inserts a new entry to a Hazelcast reliable topic.",
+  "longDescription": "A Connector and Sink to write events from Kafka to Hazelcast. The connector takes the value from the Kafka Connect SinkRecords and inserts a new entry to a Hazelcast reliable topic.",
+  "features": [],
+  "status": true,
+  "sections": {
+    "Current Stable": {
+      "version": "",
+      "download_url": "https://docs.lenses.io/3.0/connectors/sink/hazelcast.html#id1",
+      "sample_code_url": "",
+      "docs_url": "",
+      "learn_more_url": ""
+    }
+  }
+}

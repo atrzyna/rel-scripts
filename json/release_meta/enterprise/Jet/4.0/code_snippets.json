@@ -1,0 +1,45 @@
+{
+  "lastUpdated": "2025-10-28T08:22:24",
+  "platforms": [
+    {
+      "platform": "Maven",
+      "snippets": [
+        {
+          "description": "Click to copy, then paste the following snippets into your build:",
+          "code": "<repository>\n    <id>private-repository</id>\n    <name>Hazelcast Private Repository</name>\n    <url>https://repository.hazelcast.com/release/</url>\n</repository>\n\n<dependency>\n    <groupId>com.hazelcast.jet</groupId>\n    <artifactId>hazelcast-jet-enterprise</artifactId>\n    <version>4.0</version>\n</dependency>"
+        }
+      ]
+    },
+    {
+      "platform": "Gradle",
+      "snippets": [
+        {
+          "description": "Click to copy, then paste the following snippets into your build:",
+          "code": "compile 'com.hazelcast.jet:hazelcast-jet-enterprise:4.0'"
+        }
+      ]
+    },
+    {
+      "platform": "Docker",
+      "snippets": [
+        {
+          "description": "Pull hazelcast docker image from Docker registry via this command:",
+          "code": "docker pull hazelcast/hazelcast-jet-enterprise"
+        },
+        {
+          "description": "After that you should be able to run Hazelcast docker image by:",
+          "code": "docker run -e JET_LICENSE_KEY=<your_license_key> -ti hazelcast/hazelcast-jet-enterprise"
+        }
+      ]
+    },
+    {
+      "platform": "Helm",
+      "snippets": [
+        {
+          "description": "Install Hazelcast from the official Helm Chart via this command:",
+          "code": "helm repo add hazelcast https://hazelcast.github.io/charts/ \nhelm repo update\nhelm install --set image.tag=4.0 hazelcast/hazelcast-jet-enterprise"
+        }
+      ]
+    }
+  ]
+}
