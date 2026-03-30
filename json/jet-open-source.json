@@ -1,9 +1,9 @@
 {
   "product": "Hazelcast Jet",
-  "lastUpdated": "2025-10-28T08:22:24",
+  "lastUpdated": "2026-03-30T14:57:30",
   "type": "Jet",
   "license": "open-source",
-  "display": "Tools",
+  "display": "Maintained",
   "shortName": "Jet",
   "sections": {
     "currentStable": {
@@ -12,11 +12,11 @@
       "downloads": {
         "zip": {
           "url": "https://github.com/hazelcast/hazelcast-jet/releases/download/v4.5.4/hazelcast-jet-4.5.4.zip",
-          "size": "655.0 MB"
+          "size": "655 MB"
         },
         "tar": {
           "url": "https://github.com/hazelcast/hazelcast-jet/releases/download/v4.5.4/hazelcast-jet-4.5.4.tar.gz",
-          "size": "655.0 MB"
+          "size": "655 MB"
         }
       },
       "documentation": {
@@ -38,11 +38,11 @@
         "downloads": {
           "zip": {
             "url": "https://github.com/hazelcast/hazelcast-jet/releases/download/v4.5.3/hazelcast-jet-4.5.3.zip",
-            "size": "602.0 MB"
+            "size": "602 MB"
           },
           "tar": {
             "url": "https://github.com/hazelcast/hazelcast-jet/releases/download/v4.5.3/hazelcast-jet-4.5.3.tar.gz",
-            "size": "602.0 MB"
+            "size": "602 MB"
           }
         },
         "documentation": {
@@ -63,11 +63,11 @@
         "downloads": {
           "zip": {
             "url": "https://github.com/hazelcast/hazelcast-jet/releases/download/v4.5.2/hazelcast-jet-4.5.2.zip",
-            "size": "602.0 MB"
+            "size": "602 MB"
           },
           "tar": {
             "url": "https://github.com/hazelcast/hazelcast-jet/releases/download/v4.5.2/hazelcast-jet-4.5.2.tar.gz",
-            "size": "602.0 MB"
+            "size": "602 MB"
           }
         },
         "documentation": {
@@ -88,11 +88,11 @@
         "downloads": {
           "zip": {
             "url": "https://github.com/hazelcast/hazelcast-jet/releases/download/v4.5.1/hazelcast-jet-4.5.1.zip",
-            "size": "561.0 MB"
+            "size": "561 MB"
           },
           "tar": {
             "url": "https://github.com/hazelcast/hazelcast-jet/releases/download/v4.5.1/hazelcast-jet-4.5.1.tar.gz",
-            "size": "561.0 MB"
+            "size": "561 MB"
           }
         },
         "documentation": {
@@ -113,11 +113,11 @@
         "downloads": {
           "zip": {
             "url": "https://github.com/hazelcast/hazelcast-jet/releases/download/v4.5/hazelcast-jet-4.5.zip",
-            "size": "558.0 MB"
+            "size": "558 MB"
           },
           "tar": {
             "url": "https://github.com/hazelcast/hazelcast-jet/releases/download/v4.5/hazelcast-jet-4.5.tar.gz",
-            "size": "558.0 MB"
+            "size": "558 MB"
           }
         },
         "documentation": {
@@ -138,11 +138,11 @@
         "downloads": {
           "zip": {
             "url": "https://github.com/hazelcast/hazelcast-jet/releases/download/v4.4/hazelcast-jet-4.4.zip",
-            "size": "547.0 MB"
+            "size": "547 MB"
           },
           "tar": {
             "url": "https://github.com/hazelcast/hazelcast-jet/releases/download/v4.4/hazelcast-jet-4.4.tar.gz",
-            "size": "547.0 MB"
+            "size": "547 MB"
           }
         },
         "documentation": {
@@ -163,11 +163,11 @@
         "downloads": {
           "zip": {
             "url": "https://github.com/hazelcast/hazelcast-jet/releases/download/v4.3.1/hazelcast-jet-4.3.1.zip",
-            "size": "107.0 MB"
+            "size": "107 MB"
           },
           "tar": {
             "url": "https://github.com/hazelcast/hazelcast-jet/releases/download/v4.3.1/hazelcast-jet-4.3.1.tar.gz",
-            "size": "107.0 MB"
+            "size": "107 MB"
           }
         },
         "documentation": {
@@ -188,11 +188,11 @@
         "downloads": {
           "zip": {
             "url": "https://github.com/hazelcast/hazelcast-jet/releases/download/v4.3/hazelcast-jet-4.3.zip",
-            "size": "102.0 MB"
+            "size": "102 MB"
           },
           "tar": {
             "url": "https://github.com/hazelcast/hazelcast-jet/releases/download/v4.3/hazelcast-jet-4.3.tar.gz",
-            "size": "102.0 MB"
+            "size": "102 MB"
           }
         },
         "documentation": {
@@ -213,11 +213,11 @@
         "downloads": {
           "zip": {
             "url": "https://github.com/hazelcast/hazelcast-jet/releases/download/v4.2/hazelcast-jet-4.2.zip",
-            "size": "102.0 MB"
+            "size": "102 MB"
           },
           "tar": {
             "url": "https://github.com/hazelcast/hazelcast-jet/releases/download/v4.2/hazelcast-jet-4.2.tar.gz",
-            "size": "102.0 MB"
+            "size": "102 MB"
           }
         },
         "documentation": {
@@ -238,11 +238,11 @@
         "downloads": {
           "zip": {
             "url": "https://github.com/hazelcast/hazelcast-jet/releases/download/v4.1.1/hazelcast-jet-4.1.1.zip",
-            "size": "61.0 MB"
+            "size": "61 MB"
           },
           "tar": {
             "url": "https://github.com/hazelcast/hazelcast-jet/releases/download/v4.1.1/hazelcast-jet-4.1.1.tar.gz",
-            "size": "61.0 MB"
+            "size": "61 MB"
           }
         },
         "documentation": {
@@ -263,11 +263,11 @@
         "downloads": {
           "zip": {
             "url": "https://github.com/hazelcast/hazelcast-jet/releases/download/v4.1/hazelcast-jet-4.1.zip",
-            "size": "61.0 MB"
+            "size": "61 MB"
           },
           "tar": {
             "url": "https://github.com/hazelcast/hazelcast-jet/releases/download/v4.1/hazelcast-jet-4.1.tar.gz",
-            "size": "61.0 MB"
+            "size": "61 MB"
           }
         },
         "documentation": {
@@ -288,11 +288,11 @@
         "downloads": {
           "zip": {
             "url": "https://github.com/hazelcast/hazelcast-jet/releases/download/v4.0/hazelcast-jet-4.0.zip",
-            "size": "45.0 MB"
+            "size": "45 MB"
           },
           "tar": {
             "url": "https://github.com/hazelcast/hazelcast-jet/releases/download/v4.0/hazelcast-jet-4.0.tar.gz",
-            "size": "45.0 MB"
+            "size": "45 MB"
           }
         },
         "documentation": {
@@ -313,11 +313,11 @@
         "downloads": {
           "zip": {
             "url": "https://github.com/hazelcast/hazelcast-jet/releases/download/v3.2.2/hazelcast-jet-3.2.2.zip",
-            "size": "68.0 MB"
+            "size": "68 MB"
           },
           "tar": {
             "url": "https://github.com/hazelcast/hazelcast-jet/releases/download/v3.2.2/hazelcast-jet-3.2.2.tar.gz",
-            "size": "61.0 MB"
+            "size": "61 MB"
           }
         },
         "documentation": {

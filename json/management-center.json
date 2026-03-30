@@ -1,22 +1,22 @@
 {
   "product": "Hazelcast Management Center",
-  "lastUpdated": "2025-10-28T08:22:24",
+  "lastUpdated": "2026-03-30T14:57:30",
   "type": "Management Center",
   "license": "public",
   "display": "Active",
   "shortName": "Management Center",
   "sections": {
     "currentStable": {
-      "version": "5.9.0",
-      "date": "2025-10-15",
+      "version": "5.10.0",
+      "date": "2026-02-24",
       "downloads": {
         "zip": {
-          "url": "https://repository.hazelcast.com/download/management-center/hazelcast-management-center-5.9.0.zip",
-          "size": "319.1 MB"
+          "url": "https://repository.hazelcast.com/download/management-center/hazelcast-management-center-5.10.0.zip",
+          "size": "310.2 MB"
         },
         "tar": {
-          "url": "https://repository.hazelcast.com/download/management-center/hazelcast-management-center-5.9.0.tar.gz",
-          "size": "318.8 MB"
+          "url": "https://repository.hazelcast.com/download/management-center/hazelcast-management-center-5.10.0.tar.gz",
+          "size": "310.2 MB"
         },
         "war": {
           "url": null,
@@ -24,10 +24,10 @@
         }
       },
       "documentation": {
-        "html": "https://docs.hazelcast.com/management-center/5.9/",
+        "html": "https://docs.hazelcast.com/management-center/5.10/",
         "pdf": null,
         "apiDocs": null,
-        "releaseNotes": "https://docs.hazelcast.com/management-center/5.9/release-notes/5-9-0"
+        "releaseNotes": "https://docs.hazelcast.com/management-center/5.10/release-notes/5-10-0"
       },
       "codeSamples": {
         "url": null,
@@ -36,6 +36,35 @@
       "github": null
     },
     "previousStable": [
+      {
+        "version": "5.9.0",
+        "date": "2025-10-15",
+        "downloads": {
+          "zip": {
+            "url": "https://repository.hazelcast.com/download/management-center/hazelcast-management-center-5.9.0.zip",
+            "size": "319.1 MB"
+          },
+          "tar": {
+            "url": "https://repository.hazelcast.com/download/management-center/hazelcast-management-center-5.9.0.tar.gz",
+            "size": "318.8 MB"
+          },
+          "war": {
+            "url": null,
+            "size": null
+          }
+        },
+        "documentation": {
+          "html": "https://docs.hazelcast.com/management-center/5.9/",
+          "pdf": null,
+          "apiDocs": null,
+          "releaseNotes": "https://docs.hazelcast.com/management-center/5.9/release-notes/5-9-0"
+        },
+        "codeSamples": {
+          "url": null,
+          "size": null
+        },
+        "github": null
+      },
       {
         "version": "5.8.0",
         "date": "2025-05-14",
@@ -2172,7 +2201,7 @@
         },
         "documentation": {
           "html": "http://docs.hazelcast.org/docs/management-center/3.8.5/manual/html/index.html",
-          "pdf": "http://docs.hazelcast.org/docs/management-center/3.8.5/manual/pdf/hazelcast-management-center-documentation-3.8.5.pdf",
+          "pdf": "http://docs.hazelcast.org/docs/management-center/3.8.5/manual/pdf/management-center-documentation-3.8.5.pdf",
           "apiDocs": null,
           "releaseNotes": "http://docs.hazelcast.org/docs/management-center/rn/index.html#3-8-5"
         },
@@ -2201,7 +2230,7 @@
         },
         "documentation": {
           "html": "http://docs.hazelcast.org/docs/management-center/3.8.4/manual/html/index.html",
-          "pdf": "http://docs.hazelcast.org/docs/management-center/3.8.4/manual/pdf/hazelcast-management-center-documentation-3.8.4.pdf",
+          "pdf": "http://docs.hazelcast.org/docs/management-center/3.8.4/manual/pdf/management-center-documentation-3.8.4.pdf",
           "apiDocs": null,
           "releaseNotes": "http://docs.hazelcast.org/docs/management-center/rn/index.html#3-8-4"
         },
@@ -2230,7 +2259,7 @@
         },
         "documentation": {
           "html": "http://docs.hazelcast.org/docs/management-center/3.8.3/manual/html/index.html",
-          "pdf": "http://docs.hazelcast.org/docs/management-center/3.8.3/manual/pdf/hazelcast-management-center-documentation-3.8.3.pdf",
+          "pdf": "http://docs.hazelcast.org/docs/management-center/3.8.3/manual/pdf/management-center-documentation-3.8.3.pdf",
           "apiDocs": null,
           "releaseNotes": "http://docs.hazelcast.org/docs/management-center/rn/index.html#3-8-3"
         },
@@ -2241,36 +2270,39 @@
         "github": null
       }
     ],
-    "development": [
-      {
-        "version": "5.4.0-BETA-2",
-        "date": "2024-02-13",
-        "downloads": {
-          "zip": {
-            "url": "https://repository.hazelcast.com/download/management-center/hazelcast-management-center-5.4.0-BETA-2.zip",
-            "size": "227.8 MB"
+    "development": {
+      "status": "HIDE",
+      "versions": [
+        {
+          "version": "5.4.0-BETA-2",
+          "date": "2024-02-13",
+          "downloads": {
+            "zip": {
+              "url": "https://repository.hazelcast.com/download/management-center/hazelcast-management-center-5.4.0-BETA-2.zip",
+              "size": "227.8 MB"
+            },
+            "tar": {
+              "url": "https://repository.hazelcast.com/download/management-center/hazelcast-management-center-5.4.0-BETA-2.tar.gz",
+              "size": "227.8 MB"
+            },
+            "war": {
+              "url": null,
+              "size": null
+            }
           },
-          "tar": {
-            "url": "https://repository.hazelcast.com/download/management-center/hazelcast-management-center-5.4.0-BETA-2.tar.gz",
-            "size": "227.8 MB"
+          "documentation": {
+            "html": "https://docs.hazelcast.com/management-center/5.4.0-BETA-2/",
+            "pdf": null,
+            "apiDocs": null,
+            "releaseNotes": "https://docs.hazelcast.com/management-center/5.4.0-beta-2/release-notes/5-4-0-beta-2"
           },
-          "war": {
+          "codeSamples": {
             "url": null,
             "size": null
-          }
-        },
-        "documentation": {
-          "html": "https://docs.hazelcast.com/management-center/5.4.0-BETA-2/",
-          "pdf": null,
-          "apiDocs": null,
-          "releaseNotes": "https://docs.hazelcast.com/management-center/5.4.0-beta-2/release-notes/5-4-0-beta-2"
-        },
-        "codeSamples": {
-          "url": null,
-          "size": null
-        },
-        "github": null
-      }
-    ]
+          },
+          "github": null
+        }
+      ]
+    }
   }
 }

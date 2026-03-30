@@ -1,6 +1,6 @@
 {
   "product": "Hazelcast IMDG",
-  "lastUpdated": "2025-10-28T08:22:24",
+  "lastUpdated": "2026-03-30T14:57:30",
   "type": "IMDG",
   "license": "enterprise",
   "display": "Maintained",
@@ -2783,32 +2783,35 @@
         "github": null
       }
     ],
-    "development": [
-      {
-        "version": "4.2-BETA-1",
-        "date": "2021-02-17",
-        "downloads": {
-          "zip": {
-            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-4.2-BETA-1.zip",
-            "size": "147 MB"
+    "development": {
+      "status": "SHOW",
+      "versions": [
+        {
+          "version": "4.2-BETA-1",
+          "date": "2021-02-17",
+          "downloads": {
+            "zip": {
+              "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-4.2-BETA-1.zip",
+              "size": "147 MB"
+            },
+            "tar": {
+              "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-4.2-BETA-1.tar.gz",
+              "size": "147 MB"
+            }
           },
-          "tar": {
-            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-4.2-BETA-1.tar.gz",
-            "size": "147 MB"
-          }
-        },
-        "documentation": {
-          "html": "http://docs.hazelcast.org/docs/4.2-BETA-1/manual/html-single/index.html",
-          "pdf": "http://docs.hazelcast.org/docs/4.2-BETA-1/manual/pdf/index.pdf",
-          "apiDocs": "http://docs.hazelcast.org/docs/4.2-BETA-1/javadoc",
-          "releaseNotes": "http://docs.hazelcast.org/docs/ern/index.html#4.2-BETA-1"
-        },
-        "codeSamples": {
-          "url": null,
-          "size": null
-        },
-        "github": null
-      }
-    ]
+          "documentation": {
+            "html": "http://docs.hazelcast.org/docs/4.2-BETA-1/manual/html-single/index.html",
+            "pdf": "http://docs.hazelcast.org/docs/4.2-BETA-1/manual/pdf/index.pdf",
+            "apiDocs": "http://docs.hazelcast.org/docs/4.2-BETA-1/javadoc",
+            "releaseNotes": "http://docs.hazelcast.org/docs/ern/index.html#4.2-BETA-1"
+          },
+          "codeSamples": {
+            "url": null,
+            "size": null
+          },
+          "github": null
+        }
+      ]
+    }
   }
 }

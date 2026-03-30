@@ -1,6 +1,6 @@
 {
   "product": "Hazelcast Platform",
-  "lastUpdated": "2025-10-28T08:22:24",
+  "lastUpdated": "2026-03-30T14:57:30",
   "type": "Platform",
   "license": "open-source",
   "display": "Active",
@@ -998,40 +998,43 @@
         "github": "https://github.com/hazelcast/hazelcast/tree/v5.0"
       }
     ],
-    "development": [
-      {
-        "version": "5.4.0-BETA-2",
-        "date": "2024-02-13",
-        "downloads": {
-          "zip": {
-            "url": "https://github.com/hazelcast/hazelcast/releases/download/v5.4.0-BETA-2/hazelcast-5.4.0-BETA-2.zip",
-            "size": "640 MB"
+    "development": {
+      "status": "HIDE",
+      "versions": [
+        {
+          "version": "5.4.0-BETA-2",
+          "date": "2024-02-13",
+          "downloads": {
+            "zip": {
+              "url": "https://github.com/hazelcast/hazelcast/releases/download/v5.4.0-BETA-2/hazelcast-5.4.0-BETA-2.zip",
+              "size": "640 MB"
+            },
+            "zipSlim": {
+              "url": "https://github.com/hazelcast/hazelcast/releases/download/v5.4.0-BETA-2/hazelcast-5.4.0-BETA-2-slim.zip",
+              "size": "39 MB"
+            },
+            "tar": {
+              "url": "https://github.com/hazelcast/hazelcast/releases/download/v5.4.0-BETA-2/hazelcast-5.4.0-BETA-2.tar.gz",
+              "size": "640 MB"
+            },
+            "tarSlim": {
+              "url": "https://github.com/hazelcast/hazelcast/releases/download/v5.4.0-BETA-2/hazelcast-5.4.0-BETA-2-slim.tar.gz",
+              "size": "39 MB"
+            }
           },
-          "zipSlim": {
-            "url": "https://github.com/hazelcast/hazelcast/releases/download/v5.4.0-BETA-2/hazelcast-5.4.0-BETA-2-slim.zip",
-            "size": "39 MB"
+          "documentation": {
+            "html": "https://docs.hazelcast.com/hazelcast/5.4/getting-started/quickstart.html",
+            "pdf": null,
+            "apiDocs": "https://docs.hazelcast.org/docs/5.4.0-BETA-2/javadoc",
+            "releaseNotes": "https://docs.hazelcast.com/hazelcast/5.4/release-notes/5-4-0-beta-2"
           },
-          "tar": {
-            "url": "https://github.com/hazelcast/hazelcast/releases/download/v5.4.0-BETA-2/hazelcast-5.4.0-BETA-2.tar.gz",
-            "size": "640 MB"
+          "codeSamples": {
+            "url": "https://github.com/hazelcast/hazelcast/releases/download/v5.4.0-BETA-2/hazelcast-code-samples-5.4.0-BETA-2.zip",
+            "size": "60 MB"
           },
-          "tarSlim": {
-            "url": "https://github.com/hazelcast/hazelcast/releases/download/v5.4.0-BETA-2/hazelcast-5.4.0-BETA-2-slim.tar.gz",
-            "size": "39 MB"
-          }
-        },
-        "documentation": {
-          "html": "https://docs.hazelcast.com/hazelcast/5.4/getting-started/quickstart.html",
-          "pdf": null,
-          "apiDocs": "https://docs.hazelcast.org/docs/5.4.0-BETA-2/javadoc",
-          "releaseNotes": "https://docs.hazelcast.com/hazelcast/5.4/release-notes/5-4-0-beta-2"
-        },
-        "codeSamples": {
-          "url": "https://github.com/hazelcast/hazelcast/releases/download/v5.4.0-BETA-2/hazelcast-code-samples-5.4.0-BETA-2.zip",
-          "size": "60 MB"
-        },
-        "github": "https://github.com/hazelcast/hazelcast/tree/v5.4.0-BETA-2"
-      }
-    ]
+          "github": "https://github.com/hazelcast/hazelcast/tree/v5.4.0-BETA-2"
+        }
+      ]
+    }
   }
 }
