@@ -1,29 +1,28 @@
 {
   "product": "Data Migration Tool",
-  "lastUpdated": "2026-04-10T18:08:05",
+  "lastUpdated": "2026-04-10T18:47:44",
   "type": "Data Migration Tool",
   "license": "public",
   "display": "Tools",
   "shortName": "Data Migration Tool",
-  "sections": {
-    "currentStable": {
+  "versions": [
+    {
       "version": "5.3.6",
       "date": "2024-01-17",
       "downloads": {
         "zip": {
           "url": "https://repository.hazelcast.com/data-migration/com/hazelcast/hazelcast-enterprise-distribution/5.3.6-DM-1/hazelcast-enterprise-distribution-5.3.6-DM-1-slim.zip",
-          "size": "72.05 MB"
+          "size": 75549900
         },
         "tar": {
           "url": "https://repository.hazelcast.com/data-migration/com/hazelcast/hazelcast-enterprise-distribution/5.3.6-DM-1/hazelcast-enterprise-distribution-5.3.6-DM-1-slim.tar.gz",
-          "size": "72.08 MB"
+          "size": 75581358
         }
       },
       "documentation": {
         "html": "https://docs.hazelcast.com/hazelcast/5.3/migrate/data-migration-tool"
-      }
-    },
-    "previousStable": [],
-    "development": []
-  }
+      },
+      "stability": "current"
+    }
+  ]
 }

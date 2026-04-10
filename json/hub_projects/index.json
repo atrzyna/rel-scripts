@@ -41,7 +41,7 @@
     "Cloud Discovery": [
       {
         "slug": "apache-jclouds-cloud-discovery",
-        "name": "Apache Jclouds Cloud Discovery",
+        "name": "Apache jclouds Cloud Discovery",
         "category": "Cloud Discovery",
         "file": "apache-jclouds-cloud-discovery.json",
         "sections": [
@@ -52,7 +52,7 @@
       },
       {
         "slug": "aws-cloud-discovery",
-        "name": "Aws Cloud Discovery",
+        "name": "AWS Cloud Discovery",
         "category": "Cloud Discovery",
         "file": "aws-cloud-discovery.json",
         "sections": [
@@ -96,7 +96,7 @@
       },
       {
         "slug": "google-cloud-platform-gcp",
-        "name": "Google Cloud Platform Gcp",
+        "name": "Google Cloud Platform (GCP)",
         "category": "Cloud Discovery",
         "file": "google-cloud-platform-gcp.json",
         "sections": [
@@ -129,7 +129,7 @@
       },
       {
         "slug": "ibm-cloud-private-kubernetes-service-enterprise-helm-chart",
-        "name": "Ibm Cloud Private Kubernetes Service Enterprise Helm Chart",
+        "name": "IBM Cloud Private Kubernetes Service Enterprise Helm Chart",
         "category": "Cloud Discovery",
         "file": "ibm-cloud-private-kubernetes-service-enterprise-helm-chart.json",
         "sections": [
@@ -162,7 +162,7 @@
       },
       {
         "slug": "zookeeper-cloud-discovery",
-        "name": "Zookeeper Cloud Discovery",
+        "name": "ZooKeeper Cloud Discovery",
         "category": "Cloud Discovery",
         "file": "zookeeper-cloud-discovery.json",
         "sections": [
@@ -264,7 +264,7 @@
       },
       {
         "slug": "hazelcast-icache-connector",
-        "name": "Hazelcast Icache Connector",
+        "name": "Hazelcast ICache Connector",
         "category": "Connector",
         "file": "hazelcast-icache-connector.json",
         "sections": [
@@ -275,7 +275,7 @@
       },
       {
         "slug": "hazelcast-ilist-connector",
-        "name": "Hazelcast Ilist Connector",
+        "name": "Hazelcast IList Connector",
         "category": "Connector",
         "file": "hazelcast-ilist-connector.json",
         "sections": [
@@ -286,7 +286,7 @@
       },
       {
         "slug": "hazelcast-imap-connector",
-        "name": "Hazelcast Imap Connector",
+        "name": "Hazelcast IMap Connector",
         "category": "Connector",
         "file": "hazelcast-imap-connector.json",
         "sections": [
@@ -297,7 +297,7 @@
       },
       {
         "slug": "hazelcast-jca-resource-adapter",
-        "name": "Hazelcast Jca Resource Adapter",
+        "name": "Hazelcast JCA Resource Adapter",
         "category": "Connector",
         "file": "hazelcast-jca-resource-adapter.json",
         "sections": [
@@ -308,7 +308,7 @@
       },
       {
         "slug": "hdfs-connector",
-        "name": "Hdfs Connector",
+        "name": "HDFS Connector",
         "category": "Connector",
         "file": "hdfs-connector.json",
         "sections": [
@@ -319,7 +319,7 @@
       },
       {
         "slug": "influxdb-connector",
-        "name": "Influxdb Connector",
+        "name": "InfluxDB Connector",
         "category": "Connector",
         "file": "influxdb-connector.json",
         "sections": [
@@ -330,7 +330,7 @@
       },
       {
         "slug": "jdbc-connector",
-        "name": "Jdbc Connector",
+        "name": "JDBC Connector",
         "category": "Connector",
         "file": "jdbc-connector.json",
         "sections": [
@@ -341,7 +341,7 @@
       },
       {
         "slug": "jms-connector",
-        "name": "Jms Connector",
+        "name": "JMS Connector",
         "category": "Connector",
         "file": "jms-connector.json",
         "sections": [
@@ -385,7 +385,7 @@
       },
       {
         "slug": "mongodb-connector",
-        "name": "Mongodb Connector",
+        "name": "MongoDB Connector",
         "category": "Connector",
         "file": "mongodb-connector.json",
         "sections": [
@@ -407,7 +407,7 @@
       },
       {
         "slug": "tcp-socket-connector",
-        "name": "Tcp Socket Connector",
+        "name": "TCP Socket Connector",
         "category": "Connector",
         "file": "tcp-socket-connector.json",
         "sections": [
@@ -499,7 +499,7 @@
       },
       {
         "slug": "ibm-dynacache-plugin",
-        "name": "Ibm Dynacache Plugin",
+        "name": "IBM Dynacache Plugin",
         "category": "Other",
         "file": "ibm-dynacache-plugin.json",
         "sections": [
@@ -543,7 +543,7 @@
       },
       {
         "slug": "redhat-openshift",
-        "name": "Redhat Openshift",
+        "name": "Red Hat OpenShift",
         "category": "Other",
         "file": "redhat-openshift.json",
         "sections": [
@@ -578,7 +578,7 @@
       },
       {
         "slug": "hazelcast-imdg-enterprise-for-pcf",
-        "name": "Hazelcast Imdg Enterprise For Pcf",
+        "name": "Hazelcast IMDG Enterprise for PCF",
         "category": "Hazelcast Component",
         "file": "hazelcast-imdg-enterprise-for-pcf.json",
         "sections": [
@@ -589,7 +589,7 @@
       },
       {
         "slug": "hazelcast-jet-for-pcf",
-        "name": "Hazelcast Jet For Pcf",
+        "name": "Hazelcast Jet for PCF",
         "category": "Hazelcast Component",
         "file": "hazelcast-jet-for-pcf.json",
         "sections": [
@@ -637,7 +637,7 @@
       },
       {
         "slug": "hibernate3-and-hibernate4-2lc",
-        "name": "Hibernate3 And Hibernate4 2Lc",
+        "name": "Hibernate 3 and Hibernate 4 2LC",
         "category": "Framework Integration",
         "file": "hibernate3-and-hibernate4-2lc.json",
         "sections": [
@@ -648,7 +648,7 @@
       },
       {
         "slug": "hibernate5-2lc",
-        "name": "Hibernate5 2Lc",
+        "name": "Hibernate 5 2LC",
         "category": "Framework Integration",
         "file": "hibernate5-2lc.json",
         "sections": [
@@ -684,7 +684,7 @@
   "projects": [
     {
       "slug": "apache-jclouds-cloud-discovery",
-      "name": "Apache Jclouds Cloud Discovery",
+      "name": "Apache jclouds Cloud Discovery",
       "category": "Cloud Discovery",
       "file": "apache-jclouds-cloud-discovery.json",
       "sections": [
@@ -739,7 +739,7 @@
     },
     {
       "slug": "aws-cloud-discovery",
-      "name": "Aws Cloud Discovery",
+      "name": "AWS Cloud Discovery",
       "category": "Cloud Discovery",
       "file": "aws-cloud-discovery.json",
       "sections": [
@@ -861,7 +861,7 @@
     },
     {
       "slug": "google-cloud-platform-gcp",
-      "name": "Google Cloud Platform Gcp",
+      "name": "Google Cloud Platform (GCP)",
       "category": "Cloud Discovery",
       "file": "google-cloud-platform-gcp.json",
       "sections": [
@@ -938,7 +938,7 @@
     },
     {
       "slug": "hazelcast-icache-connector",
-      "name": "Hazelcast Icache Connector",
+      "name": "Hazelcast ICache Connector",
       "category": "Connector",
       "file": "hazelcast-icache-connector.json",
       "sections": [
@@ -949,7 +949,7 @@
     },
     {
       "slug": "hazelcast-ilist-connector",
-      "name": "Hazelcast Ilist Connector",
+      "name": "Hazelcast IList Connector",
       "category": "Connector",
       "file": "hazelcast-ilist-connector.json",
       "sections": [
@@ -960,7 +960,7 @@
     },
     {
       "slug": "hazelcast-imap-connector",
-      "name": "Hazelcast Imap Connector",
+      "name": "Hazelcast IMap Connector",
       "category": "Connector",
       "file": "hazelcast-imap-connector.json",
       "sections": [
@@ -971,7 +971,7 @@
     },
     {
       "slug": "hazelcast-imdg-enterprise-for-pcf",
-      "name": "Hazelcast Imdg Enterprise For Pcf",
+      "name": "Hazelcast IMDG Enterprise for PCF",
       "category": "Hazelcast Component",
       "file": "hazelcast-imdg-enterprise-for-pcf.json",
       "sections": [
@@ -982,7 +982,7 @@
     },
     {
       "slug": "hazelcast-jca-resource-adapter",
-      "name": "Hazelcast Jca Resource Adapter",
+      "name": "Hazelcast JCA Resource Adapter",
       "category": "Connector",
       "file": "hazelcast-jca-resource-adapter.json",
       "sections": [
@@ -993,7 +993,7 @@
     },
     {
       "slug": "hazelcast-jet-for-pcf",
-      "name": "Hazelcast Jet For Pcf",
+      "name": "Hazelcast Jet for PCF",
       "category": "Hazelcast Component",
       "file": "hazelcast-jet-for-pcf.json",
       "sections": [
@@ -1026,7 +1026,7 @@
     },
     {
       "slug": "hdfs-connector",
-      "name": "Hdfs Connector",
+      "name": "HDFS Connector",
       "category": "Connector",
       "file": "hdfs-connector.json",
       "sections": [
@@ -1048,7 +1048,7 @@
     },
     {
       "slug": "hibernate3-and-hibernate4-2lc",
-      "name": "Hibernate3 And Hibernate4 2Lc",
+      "name": "Hibernate 3 and Hibernate 4 2LC",
       "category": "Framework Integration",
       "file": "hibernate3-and-hibernate4-2lc.json",
       "sections": [
@@ -1059,7 +1059,7 @@
     },
     {
       "slug": "hibernate5-2lc",
-      "name": "Hibernate5 2Lc",
+      "name": "Hibernate 5 2LC",
       "category": "Framework Integration",
       "file": "hibernate5-2lc.json",
       "sections": [
@@ -1070,7 +1070,7 @@
     },
     {
       "slug": "ibm-cloud-private-kubernetes-service-enterprise-helm-chart",
-      "name": "Ibm Cloud Private Kubernetes Service Enterprise Helm Chart",
+      "name": "IBM Cloud Private Kubernetes Service Enterprise Helm Chart",
       "category": "Cloud Discovery",
       "file": "ibm-cloud-private-kubernetes-service-enterprise-helm-chart.json",
       "sections": [
@@ -1081,7 +1081,7 @@
     },
     {
       "slug": "ibm-dynacache-plugin",
-      "name": "Ibm Dynacache Plugin",
+      "name": "IBM Dynacache Plugin",
       "category": "Other",
       "file": "ibm-dynacache-plugin.json",
       "sections": [
@@ -1092,7 +1092,7 @@
     },
     {
       "slug": "influxdb-connector",
-      "name": "Influxdb Connector",
+      "name": "InfluxDB Connector",
       "category": "Connector",
       "file": "influxdb-connector.json",
       "sections": [
@@ -1103,7 +1103,7 @@
     },
     {
       "slug": "jdbc-connector",
-      "name": "Jdbc Connector",
+      "name": "JDBC Connector",
       "category": "Connector",
       "file": "jdbc-connector.json",
       "sections": [
@@ -1125,7 +1125,7 @@
     },
     {
       "slug": "jms-connector",
-      "name": "Jms Connector",
+      "name": "JMS Connector",
       "category": "Connector",
       "file": "jms-connector.json",
       "sections": [
@@ -1191,7 +1191,7 @@
     },
     {
       "slug": "mongodb-connector",
-      "name": "Mongodb Connector",
+      "name": "MongoDB Connector",
       "category": "Connector",
       "file": "mongodb-connector.json",
       "sections": [
@@ -1235,7 +1235,7 @@
     },
     {
       "slug": "redhat-openshift",
-      "name": "Redhat Openshift",
+      "name": "Red Hat OpenShift",
       "category": "Other",
       "file": "redhat-openshift.json",
       "sections": [
@@ -1301,7 +1301,7 @@
     },
     {
       "slug": "tcp-socket-connector",
-      "name": "Tcp Socket Connector",
+      "name": "TCP Socket Connector",
       "category": "Connector",
       "file": "tcp-socket-connector.json",
       "sections": [
@@ -1334,7 +1334,7 @@
     },
     {
       "slug": "zookeeper-cloud-discovery",
-      "name": "Zookeeper Cloud Discovery",
+      "name": "ZooKeeper Cloud Discovery",
       "category": "Cloud Discovery",
       "file": "zookeeper-cloud-discovery.json",
       "sections": [

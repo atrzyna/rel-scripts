@@ -1,5 +1,5 @@
 {
-  "name": "Jdbc Connector",
+  "name": "JDBC Connector",
   "lastUpdated": "2025-10-28T08:22:24",
   "type": "Connector",
   "product": "Hazelcast Platform",
@@ -9,7 +9,7 @@
     "Source",
     "Sink",
     "Batch",
-    "Java Database Connec…",
+    "Java Database Connec\u2026",
     "Relational"
   ],
   "status": true,

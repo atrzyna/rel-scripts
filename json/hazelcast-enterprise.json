@@ -1,1205 +1,1243 @@
 {
   "product": "Hazelcast Platform",
-  "lastUpdated": "2026-04-10T18:08:05",
+  "lastUpdated": "2026-04-10T18:47:44",
   "type": "Platform",
   "license": "enterprise",
   "display": "Active",
   "shortName": "Platform",
-  "sections": {
-    "currentStable": {
+  "versions": [
+    {
       "version": "5.6.1",
       "date": "2026-03-25",
       "downloads": {
         "zip": {
           "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-5.6.1.zip",
-          "size": "845 MB"
+          "size": 886046720
         },
         "zipSlim": {
           "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-5.6.1-slim.zip",
-          "size": "48 MB"
+          "size": 50331648
         },
         "tar": {
           "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-5.6.1.tar.gz",
-          "size": "845 MB"
+          "size": 886046720
         },
         "tarSlim": {
           "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-5.6.1-slim.tar.gz",
-          "size": "48 MB"
+          "size": 50331648
         }
       },
       "documentation": {
         "html": "https://docs.hazelcast.com/hazelcast/5.6/getting-started/quickstart.html",
         "apiDocs": "https://docs.hazelcast.org/hazelcast-ee-docs/5.6.1/javadoc",
         "releaseNotes": "https://docs.hazelcast.com/hazelcast/5.6/release-notes/enterprise#5-6-1"
-      }
+      },
+      "stability": "current"
     },
-    "previousStable": [
-      {
-        "version": "5.6.0",
-        "date": "2025-10-15",
-        "downloads": {
-          "zip": {
-            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-5.6.0.zip",
-            "size": "839 MB"
-          },
-          "zipSlim": {
-            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-5.6.0-slim.zip",
-            "size": "47 MB"
-          },
-          "tar": {
-            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-5.6.0.tar.gz",
-            "size": "839 MB"
-          },
-          "tarSlim": {
-            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-5.6.0-slim.tar.gz",
-            "size": "47 MB"
-          }
+    {
+      "version": "5.6.0",
+      "date": "2025-10-15",
+      "downloads": {
+        "zip": {
+          "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-5.6.0.zip",
+          "size": 879755264
         },
-        "documentation": {
-          "html": "https://docs.hazelcast.com/hazelcast/5.6/getting-started/quickstart.html",
-          "apiDocs": "https://docs.hazelcast.org/hazelcast-ee-docs/5.6.0/javadoc",
-          "releaseNotes": "https://docs.hazelcast.com/hazelcast/5.6/release-notes/5-6-0"
+        "zipSlim": {
+          "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-5.6.0-slim.zip",
+          "size": 49283072
+        },
+        "tar": {
+          "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-5.6.0.tar.gz",
+          "size": 879755264
+        },
+        "tarSlim": {
+          "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-5.6.0-slim.tar.gz",
+          "size": 49283072
         }
       },
-      {
-        "version": "5.5.9",
-        "date": "2026-03-02",
-        "downloads": {
-          "zip": {
-            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-5.5.9.zip",
-            "size": "828 MB"
-          },
-          "zipSlim": {
-            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-5.5.9-slim.zip",
-            "size": "46 MB"
-          },
-          "tar": {
-            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-5.5.9.tar.gz",
-            "size": "828 MB"
-          },
-          "tarSlim": {
-            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-5.5.9-slim.tar.gz",
-            "size": "46 MB"
-          }
+      "documentation": {
+        "html": "https://docs.hazelcast.com/hazelcast/5.6/getting-started/quickstart.html",
+        "apiDocs": "https://docs.hazelcast.org/hazelcast-ee-docs/5.6.0/javadoc",
+        "releaseNotes": "https://docs.hazelcast.com/hazelcast/5.6/release-notes/5-6-0"
+      },
+      "stability": "stable"
+    },
+    {
+      "version": "5.5.9",
+      "date": "2026-03-02",
+      "downloads": {
+        "zip": {
+          "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-5.5.9.zip",
+          "size": 868220928
         },
-        "documentation": {
-          "html": "https://docs.hazelcast.com/hazelcast/5.5/getting-started/quickstart.html",
-          "apiDocs": "https://docs.hazelcast.org/hazelcast-ee-docs/5.5.9/javadoc",
-          "releaseNotes": "https://docs.hazelcast.com/hazelcast/5.5/release-notes/enterprise#5-5-9"
+        "zipSlim": {
+          "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-5.5.9-slim.zip",
+          "size": 48234496
+        },
+        "tar": {
+          "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-5.5.9.tar.gz",
+          "size": 868220928
+        },
+        "tarSlim": {
+          "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-5.5.9-slim.tar.gz",
+          "size": 48234496
         }
       },
-      {
-        "version": "5.5.8",
-        "date": "2025-11-12",
-        "downloads": {
-          "zip": {
-            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-5.5.8.zip",
-            "size": "829 MB"
-          },
-          "zipSlim": {
-            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-5.5.8-slim.zip",
-            "size": "46 MB"
-          },
-          "tar": {
-            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-5.5.8.tar.gz",
-            "size": "829 MB"
-          },
-          "tarSlim": {
-            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-5.5.8-slim.tar.gz",
-            "size": "46 MB"
-          }
+      "documentation": {
+        "html": "https://docs.hazelcast.com/hazelcast/5.5/getting-started/quickstart.html",
+        "apiDocs": "https://docs.hazelcast.org/hazelcast-ee-docs/5.5.9/javadoc",
+        "releaseNotes": "https://docs.hazelcast.com/hazelcast/5.5/release-notes/enterprise#5-5-9"
+      },
+      "stability": "stable"
+    },
+    {
+      "version": "5.5.8",
+      "date": "2025-11-12",
+      "downloads": {
+        "zip": {
+          "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-5.5.8.zip",
+          "size": 869269504
         },
-        "documentation": {
-          "html": "https://docs.hazelcast.com/hazelcast/5.5/getting-started/quickstart.html",
-          "apiDocs": "https://docs.hazelcast.org/hazelcast-ee-docs/5.5.8/javadoc",
-          "releaseNotes": "https://docs.hazelcast.com/hazelcast/5.5/release-notes/enterprise#5-5-8"
+        "zipSlim": {
+          "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-5.5.8-slim.zip",
+          "size": 48234496
+        },
+        "tar": {
+          "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-5.5.8.tar.gz",
+          "size": 869269504
+        },
+        "tarSlim": {
+          "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-5.5.8-slim.tar.gz",
+          "size": 48234496
         }
       },
-      {
-        "version": "5.5.7",
-        "date": "2025-07-22",
-        "downloads": {
-          "zip": {
-            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-5.5.7.zip",
-            "size": "768 MB"
-          },
-          "zipSlim": {
-            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-5.5.7-slim.zip",
-            "size": "46 MB"
-          },
-          "tar": {
-            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-5.5.7.tar.gz",
-            "size": "768 MB"
-          },
-          "tarSlim": {
-            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-5.5.7-slim.tar.gz",
-            "size": "46 MB"
-          }
+      "documentation": {
+        "html": "https://docs.hazelcast.com/hazelcast/5.5/getting-started/quickstart.html",
+        "apiDocs": "https://docs.hazelcast.org/hazelcast-ee-docs/5.5.8/javadoc",
+        "releaseNotes": "https://docs.hazelcast.com/hazelcast/5.5/release-notes/enterprise#5-5-8"
+      },
+      "stability": "stable"
+    },
+    {
+      "version": "5.5.7",
+      "date": "2025-07-22",
+      "downloads": {
+        "zip": {
+          "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-5.5.7.zip",
+          "size": 805306368
         },
-        "documentation": {
-          "html": "https://docs.hazelcast.com/hazelcast/5.5/getting-started/quickstart.html",
-          "apiDocs": "https://docs.hazelcast.org/hazelcast-ee-docs/5.5.7/javadoc",
-          "releaseNotes": "https://docs.hazelcast.com/hazelcast/5.5/release-notes/5-5-7"
+        "zipSlim": {
+          "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-5.5.7-slim.zip",
+          "size": 48234496
+        },
+        "tar": {
+          "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-5.5.7.tar.gz",
+          "size": 805306368
+        },
+        "tarSlim": {
+          "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-5.5.7-slim.tar.gz",
+          "size": 48234496
         }
       },
-      {
-        "version": "5.5.6",
-        "date": "2025-05-19",
-        "downloads": {
-          "zip": {
-            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-5.5.6.zip",
-            "size": "767 MB"
-          },
-          "zipSlim": {
-            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-5.5.6-slim.zip",
-            "size": "46 MB"
-          },
-          "tar": {
-            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-5.5.6.tar.gz",
-            "size": "767 MB"
-          },
-          "tarSlim": {
-            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-5.5.6-slim.tar.gz",
-            "size": "46 MB"
-          }
+      "documentation": {
+        "html": "https://docs.hazelcast.com/hazelcast/5.5/getting-started/quickstart.html",
+        "apiDocs": "https://docs.hazelcast.org/hazelcast-ee-docs/5.5.7/javadoc",
+        "releaseNotes": "https://docs.hazelcast.com/hazelcast/5.5/release-notes/5-5-7"
+      },
+      "stability": "stable"
+    },
+    {
+      "version": "5.5.6",
+      "date": "2025-05-19",
+      "downloads": {
+        "zip": {
+          "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-5.5.6.zip",
+          "size": 804257792
         },
-        "documentation": {
-          "html": "https://docs.hazelcast.com/hazelcast/5.5/getting-started/quickstart.html",
-          "apiDocs": "https://docs.hazelcast.org/hazelcast-ee-docs/5.5.6/javadoc",
-          "releaseNotes": "https://docs.hazelcast.com/hazelcast/5.5/release-notes/5-5-6"
+        "zipSlim": {
+          "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-5.5.6-slim.zip",
+          "size": 48234496
+        },
+        "tar": {
+          "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-5.5.6.tar.gz",
+          "size": 804257792
+        },
+        "tarSlim": {
+          "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-5.5.6-slim.tar.gz",
+          "size": 48234496
         }
       },
-      {
-        "version": "5.5.5",
-        "date": "2025-03-19",
-        "downloads": {
-          "zip": {
-            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-5.5.5.zip",
-            "size": "767 MB"
-          },
-          "zipSlim": {
-            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-5.5.5-slim.zip",
-            "size": "46 MB"
-          },
-          "tar": {
-            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-5.5.5.tar.gz",
-            "size": "767 MB"
-          },
-          "tarSlim": {
-            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-5.5.5-slim.tar.gz",
-            "size": "46 MB"
-          }
+      "documentation": {
+        "html": "https://docs.hazelcast.com/hazelcast/5.5/getting-started/quickstart.html",
+        "apiDocs": "https://docs.hazelcast.org/hazelcast-ee-docs/5.5.6/javadoc",
+        "releaseNotes": "https://docs.hazelcast.com/hazelcast/5.5/release-notes/5-5-6"
+      },
+      "stability": "stable"
+    },
+    {
+      "version": "5.5.5",
+      "date": "2025-03-19",
+      "downloads": {
+        "zip": {
+          "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-5.5.5.zip",
+          "size": 804257792
         },
-        "documentation": {
-          "html": "https://docs.hazelcast.com/hazelcast/5.5/getting-started/quickstart.html",
-          "apiDocs": "https://docs.hazelcast.org/hazelcast-ee-docs/5.5.5/javadoc",
-          "releaseNotes": "https://docs.hazelcast.com/hazelcast/5.5/release-notes/5-5-5"
+        "zipSlim": {
+          "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-5.5.5-slim.zip",
+          "size": 48234496
+        },
+        "tar": {
+          "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-5.5.5.tar.gz",
+          "size": 804257792
+        },
+        "tarSlim": {
+          "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-5.5.5-slim.tar.gz",
+          "size": 48234496
         }
       },
-      {
-        "version": "5.5.4",
-        "date": "2025-02-19",
-        "downloads": {
-          "zip": {
-            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-5.5.4.zip",
-            "size": "767 MB"
-          },
-          "zipSlim": {
-            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-5.5.4-slim.zip",
-            "size": "46 MB"
-          },
-          "tar": {
-            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-5.5.4.tar.gz",
-            "size": "767 MB"
-          },
-          "tarSlim": {
-            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-5.5.4-slim.tar.gz",
-            "size": "46 MB"
-          }
+      "documentation": {
+        "html": "https://docs.hazelcast.com/hazelcast/5.5/getting-started/quickstart.html",
+        "apiDocs": "https://docs.hazelcast.org/hazelcast-ee-docs/5.5.5/javadoc",
+        "releaseNotes": "https://docs.hazelcast.com/hazelcast/5.5/release-notes/5-5-5"
+      },
+      "stability": "stable"
+    },
+    {
+      "version": "5.5.4",
+      "date": "2025-02-19",
+      "downloads": {
+        "zip": {
+          "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-5.5.4.zip",
+          "size": 804257792
         },
-        "documentation": {
-          "html": "https://docs.hazelcast.com/hazelcast/5.5/getting-started/quickstart.html",
-          "apiDocs": "https://docs.hazelcast.org/hazelcast-ee-docs/5.5.4/javadoc",
-          "releaseNotes": "https://docs.hazelcast.com/hazelcast/5.5/release-notes/5-5-4"
+        "zipSlim": {
+          "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-5.5.4-slim.zip",
+          "size": 48234496
+        },
+        "tar": {
+          "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-5.5.4.tar.gz",
+          "size": 804257792
+        },
+        "tarSlim": {
+          "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-5.5.4-slim.tar.gz",
+          "size": 48234496
         }
       },
-      {
-        "version": "5.5.2",
-        "date": "2024-10-17",
-        "downloads": {
-          "zip": {
-            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-5.5.2.zip",
-            "size": "761 MB"
-          },
-          "zipSlim": {
-            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-5.5.2-slim.zip",
-            "size": "46 MB"
-          },
-          "tar": {
-            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-5.5.2.tar.gz",
-            "size": "761 MB"
-          },
-          "tarSlim": {
-            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-5.5.2-slim.tar.gz",
-            "size": "46 MB"
-          }
+      "documentation": {
+        "html": "https://docs.hazelcast.com/hazelcast/5.5/getting-started/quickstart.html",
+        "apiDocs": "https://docs.hazelcast.org/hazelcast-ee-docs/5.5.4/javadoc",
+        "releaseNotes": "https://docs.hazelcast.com/hazelcast/5.5/release-notes/5-5-4"
+      },
+      "stability": "stable"
+    },
+    {
+      "version": "5.5.2",
+      "date": "2024-10-17",
+      "downloads": {
+        "zip": {
+          "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-5.5.2.zip",
+          "size": 797966336
         },
-        "documentation": {
-          "html": "https://docs.hazelcast.com/hazelcast/5.5/getting-started/quickstart.html",
-          "apiDocs": "https://docs.hazelcast.org/hazelcast-ee-docs/5.5.2/javadoc",
-          "releaseNotes": "https://docs.hazelcast.com/hazelcast/5.5/release-notes/5-5-2"
+        "zipSlim": {
+          "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-5.5.2-slim.zip",
+          "size": 48234496
+        },
+        "tar": {
+          "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-5.5.2.tar.gz",
+          "size": 797966336
+        },
+        "tarSlim": {
+          "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-5.5.2-slim.tar.gz",
+          "size": 48234496
         }
       },
-      {
-        "version": "5.5.1",
-        "date": "2024-09-13",
-        "downloads": {
-          "zip": {
-            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-5.5.1.zip",
-            "size": "739 MB"
-          },
-          "zipSlim": {
-            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-5.5.1-slim.zip",
-            "size": "46 MB"
-          },
-          "tar": {
-            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-5.5.1.tar.gz",
-            "size": "739 MB"
-          },
-          "tarSlim": {
-            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-5.5.1-slim.tar.gz",
-            "size": "46 MB"
-          }
+      "documentation": {
+        "html": "https://docs.hazelcast.com/hazelcast/5.5/getting-started/quickstart.html",
+        "apiDocs": "https://docs.hazelcast.org/hazelcast-ee-docs/5.5.2/javadoc",
+        "releaseNotes": "https://docs.hazelcast.com/hazelcast/5.5/release-notes/5-5-2"
+      },
+      "stability": "stable"
+    },
+    {
+      "version": "5.5.1",
+      "date": "2024-09-13",
+      "downloads": {
+        "zip": {
+          "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-5.5.1.zip",
+          "size": 774897664
         },
-        "documentation": {
-          "html": "https://docs.hazelcast.com/hazelcast/5.5/getting-started/quickstart.html",
-          "apiDocs": "https://docs.hazelcast.org/hazelcast-ee-docs/5.5.1/javadoc",
-          "releaseNotes": "https://docs.hazelcast.com/hazelcast/5.5/release-notes/5-5-1"
+        "zipSlim": {
+          "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-5.5.1-slim.zip",
+          "size": 48234496
+        },
+        "tar": {
+          "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-5.5.1.tar.gz",
+          "size": 774897664
+        },
+        "tarSlim": {
+          "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-5.5.1-slim.tar.gz",
+          "size": 48234496
         }
       },
-      {
-        "version": "5.5.0",
-        "date": "2024-07-26",
-        "downloads": {
-          "zip": {
-            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-5.5.0.zip",
-            "size": "739 MB"
-          },
-          "zipSlim": {
-            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-5.5.0-slim.zip",
-            "size": "46 MB"
-          },
-          "tar": {
-            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-5.5.0.tar.gz",
-            "size": "739 MB"
-          },
-          "tarSlim": {
-            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-5.5.0-slim.tar.gz",
-            "size": "46 MB"
-          }
+      "documentation": {
+        "html": "https://docs.hazelcast.com/hazelcast/5.5/getting-started/quickstart.html",
+        "apiDocs": "https://docs.hazelcast.org/hazelcast-ee-docs/5.5.1/javadoc",
+        "releaseNotes": "https://docs.hazelcast.com/hazelcast/5.5/release-notes/5-5-1"
+      },
+      "stability": "stable"
+    },
+    {
+      "version": "5.5.0",
+      "date": "2024-07-26",
+      "downloads": {
+        "zip": {
+          "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-5.5.0.zip",
+          "size": 774897664
         },
-        "documentation": {
-          "html": "https://docs.hazelcast.com/hazelcast/5.5/getting-started/quickstart.html",
-          "apiDocs": "https://docs.hazelcast.org/hazelcast-ee-docs/5.5.0/javadoc",
-          "releaseNotes": "https://docs.hazelcast.com/hazelcast/5.5/release-notes/5-5-0"
+        "zipSlim": {
+          "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-5.5.0-slim.zip",
+          "size": 48234496
+        },
+        "tar": {
+          "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-5.5.0.tar.gz",
+          "size": 774897664
+        },
+        "tarSlim": {
+          "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-5.5.0-slim.tar.gz",
+          "size": 48234496
         }
       },
-      {
-        "version": "5.4.4",
-        "date": "2025-12-01",
-        "downloads": {
-          "zip": {
-            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-5.4.4.zip",
-            "size": "770 MB"
-          },
-          "zipSlim": {
-            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-5.4.4-slim.zip",
-            "size": "43 MB"
-          },
-          "tar": {
-            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-5.4.4.tar.gz",
-            "size": "770 MB"
-          },
-          "tarSlim": {
-            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-5.4.4-slim.tar.gz",
-            "size": "43 MB"
-          }
+      "documentation": {
+        "html": "https://docs.hazelcast.com/hazelcast/5.5/getting-started/quickstart.html",
+        "apiDocs": "https://docs.hazelcast.org/hazelcast-ee-docs/5.5.0/javadoc",
+        "releaseNotes": "https://docs.hazelcast.com/hazelcast/5.5/release-notes/5-5-0"
+      },
+      "stability": "stable"
+    },
+    {
+      "version": "5.4.4",
+      "date": "2025-12-01",
+      "downloads": {
+        "zip": {
+          "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-5.4.4.zip",
+          "size": 807403520
         },
-        "documentation": {
-          "html": "https://docs.hazelcast.com/hazelcast/5.4/getting-started/quickstart.html",
-          "apiDocs": "https://docs.hazelcast.org/hazelcast-ee-docs/5.4.4/javadoc",
-          "releaseNotes": "https://docs.hazelcast.com/hazelcast/5.4/release-notes/enterprise#5-4-4"
+        "zipSlim": {
+          "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-5.4.4-slim.zip",
+          "size": 45088768
+        },
+        "tar": {
+          "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-5.4.4.tar.gz",
+          "size": 807403520
+        },
+        "tarSlim": {
+          "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-5.4.4-slim.tar.gz",
+          "size": 45088768
         }
       },
-      {
-        "version": "5.4.3",
-        "date": "2025-08-26",
-        "downloads": {
-          "zip": {
-            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-5.4.3.zip",
-            "size": "712 MB"
-          },
-          "zipSlim": {
-            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-5.4.3-slim.zip",
-            "size": "43 MB"
-          },
-          "tar": {
-            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-5.4.3.tar.gz",
-            "size": "712 MB"
-          },
-          "tarSlim": {
-            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-5.4.3-slim.tar.gz",
-            "size": "43 MB"
-          }
+      "documentation": {
+        "html": "https://docs.hazelcast.com/hazelcast/5.4/getting-started/quickstart.html",
+        "apiDocs": "https://docs.hazelcast.org/hazelcast-ee-docs/5.4.4/javadoc",
+        "releaseNotes": "https://docs.hazelcast.com/hazelcast/5.4/release-notes/enterprise#5-4-4"
+      },
+      "stability": "stable"
+    },
+    {
+      "version": "5.4.3",
+      "date": "2025-08-26",
+      "downloads": {
+        "zip": {
+          "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-5.4.3.zip",
+          "size": 746586112
         },
-        "documentation": {
-          "html": "https://docs.hazelcast.com/hazelcast/5.4/getting-started/quickstart.html",
-          "apiDocs": "https://docs.hazelcast.org/hazelcast-ee-docs/5.4.3/javadoc",
-          "releaseNotes": "https://docs.hazelcast.com/hazelcast/5.4/release-notes/5-4-3"
+        "zipSlim": {
+          "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-5.4.3-slim.zip",
+          "size": 45088768
+        },
+        "tar": {
+          "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-5.4.3.tar.gz",
+          "size": 746586112
+        },
+        "tarSlim": {
+          "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-5.4.3-slim.tar.gz",
+          "size": 45088768
         }
       },
-      {
-        "version": "5.4.2",
-        "date": "2025-06-30",
-        "downloads": {
-          "zip": {
-            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-5.4.2.zip",
-            "size": "695 MB"
-          },
-          "zipSlim": {
-            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-5.4.2-slim.zip",
-            "size": "43 MB"
-          },
-          "tar": {
-            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-5.4.2.tar.gz",
-            "size": "695 MB"
-          },
-          "tarSlim": {
-            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-5.4.2-slim.tar.gz",
-            "size": "43 MB"
-          }
+      "documentation": {
+        "html": "https://docs.hazelcast.com/hazelcast/5.4/getting-started/quickstart.html",
+        "apiDocs": "https://docs.hazelcast.org/hazelcast-ee-docs/5.4.3/javadoc",
+        "releaseNotes": "https://docs.hazelcast.com/hazelcast/5.4/release-notes/5-4-3"
+      },
+      "stability": "stable"
+    },
+    {
+      "version": "5.4.2",
+      "date": "2025-06-30",
+      "downloads": {
+        "zip": {
+          "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-5.4.2.zip",
+          "size": 728760320
         },
-        "documentation": {
-          "html": "https://docs.hazelcast.com/hazelcast/5.4/getting-started/quickstart.html",
-          "apiDocs": "https://docs.hazelcast.org/hazelcast-ee-docs/5.4.2/javadoc",
-          "releaseNotes": "https://docs.hazelcast.com/hazelcast/5.4/release-notes/5-4-2"
+        "zipSlim": {
+          "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-5.4.2-slim.zip",
+          "size": 45088768
+        },
+        "tar": {
+          "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-5.4.2.tar.gz",
+          "size": 728760320
+        },
+        "tarSlim": {
+          "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-5.4.2-slim.tar.gz",
+          "size": 45088768
         }
       },
-      {
-        "version": "5.4.1",
-        "date": "2024-07-11",
-        "downloads": {
-          "zip": {
-            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-5.4.1.zip",
-            "size": "683 MB"
-          },
-          "zipSlim": {
-            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-5.4.1-slim.zip",
-            "size": "43 MB"
-          },
-          "tar": {
-            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-5.4.1.tar.gz",
-            "size": "683 MB"
-          },
-          "tarSlim": {
-            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-5.4.1-slim.tar.gz",
-            "size": "43 MB"
-          }
+      "documentation": {
+        "html": "https://docs.hazelcast.com/hazelcast/5.4/getting-started/quickstart.html",
+        "apiDocs": "https://docs.hazelcast.org/hazelcast-ee-docs/5.4.2/javadoc",
+        "releaseNotes": "https://docs.hazelcast.com/hazelcast/5.4/release-notes/5-4-2"
+      },
+      "stability": "stable"
+    },
+    {
+      "version": "5.4.1",
+      "date": "2024-07-11",
+      "downloads": {
+        "zip": {
+          "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-5.4.1.zip",
+          "size": 716177408
         },
-        "documentation": {
-          "html": "https://docs.hazelcast.com/hazelcast/5.4/getting-started/quickstart.html",
-          "apiDocs": "https://docs.hazelcast.org/docs/5.4.1/javadoc",
-          "releaseNotes": "https://docs.hazelcast.com/hazelcast/5.4/release-notes/5-4-1"
+        "zipSlim": {
+          "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-5.4.1-slim.zip",
+          "size": 45088768
+        },
+        "tar": {
+          "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-5.4.1.tar.gz",
+          "size": 716177408
+        },
+        "tarSlim": {
+          "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-5.4.1-slim.tar.gz",
+          "size": 45088768
         }
       },
-      {
-        "version": "5.4.0",
-        "date": "2024-04-15",
-        "downloads": {
-          "zip": {
-            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-5.4.0.zip",
-            "size": "663 MB"
-          },
-          "zipSlim": {
-            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-5.4.0-slim.zip",
-            "size": "43 MB"
-          },
-          "tar": {
-            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-5.4.0.tar.gz",
-            "size": "663 MB"
-          },
-          "tarSlim": {
-            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-5.4.0-slim.tar.gz",
-            "size": "43 MB"
-          }
+      "documentation": {
+        "html": "https://docs.hazelcast.com/hazelcast/5.4/getting-started/quickstart.html",
+        "apiDocs": "https://docs.hazelcast.org/docs/5.4.1/javadoc",
+        "releaseNotes": "https://docs.hazelcast.com/hazelcast/5.4/release-notes/5-4-1"
+      },
+      "stability": "stable"
+    },
+    {
+      "version": "5.4.0",
+      "date": "2024-04-15",
+      "downloads": {
+        "zip": {
+          "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-5.4.0.zip",
+          "size": 695205888
         },
-        "documentation": {
-          "html": "https://docs.hazelcast.com/hazelcast/5.4/getting-started/quickstart.html",
-          "apiDocs": "https://docs.hazelcast.org/docs/5.4.0/javadoc",
-          "releaseNotes": "https://docs.hazelcast.com/hazelcast/5.4/release-notes/5-4-0"
+        "zipSlim": {
+          "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-5.4.0-slim.zip",
+          "size": 45088768
+        },
+        "tar": {
+          "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-5.4.0.tar.gz",
+          "size": 695205888
+        },
+        "tarSlim": {
+          "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-5.4.0-slim.tar.gz",
+          "size": 45088768
         }
       },
-      {
-        "version": "5.3.8",
-        "date": "2024-07-17",
-        "downloads": {
-          "zip": {
-            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-5.3.8.zip",
-            "size": "564 MB"
-          },
-          "zipSlim": {
-            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-5.3.8-slim.zip",
-            "size": "40 MB"
-          },
-          "tar": {
-            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-5.3.8.tar.gz",
-            "size": "564 MB"
-          },
-          "tarSlim": {
-            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-5.3.8-slim.tar.gz",
-            "size": "40 MB"
-          }
+      "documentation": {
+        "html": "https://docs.hazelcast.com/hazelcast/5.4/getting-started/quickstart.html",
+        "apiDocs": "https://docs.hazelcast.org/docs/5.4.0/javadoc",
+        "releaseNotes": "https://docs.hazelcast.com/hazelcast/5.4/release-notes/5-4-0"
+      },
+      "stability": "stable"
+    },
+    {
+      "version": "5.3.8",
+      "date": "2024-07-17",
+      "downloads": {
+        "zip": {
+          "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-5.3.8.zip",
+          "size": 591396864
         },
-        "documentation": {
-          "html": "https://docs.hazelcast.com/hazelcast/5.3/getting-started/quickstart.html",
-          "apiDocs": "https://docs.hazelcast.org/docs/5.3.8/javadoc",
-          "releaseNotes": "https://docs.hazelcast.com/hazelcast/5.3/release-notes/5-3-8"
+        "zipSlim": {
+          "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-5.3.8-slim.zip",
+          "size": 41943040
+        },
+        "tar": {
+          "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-5.3.8.tar.gz",
+          "size": 591396864
+        },
+        "tarSlim": {
+          "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-5.3.8-slim.tar.gz",
+          "size": 41943040
         }
       },
-      {
-        "version": "5.3.7",
-        "date": "2024-04-03",
-        "downloads": {
-          "zip": {
-            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-5.3.7.zip",
-            "size": "541 MB"
-          },
-          "zipSlim": {
-            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-5.3.7-slim.zip",
-            "size": "40 MB"
-          },
-          "tar": {
-            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-5.3.7.tar.gz",
-            "size": "541 MB"
-          },
-          "tarSlim": {
-            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-5.3.7-slim.tar.gz",
-            "size": "40 MB"
-          }
+      "documentation": {
+        "html": "https://docs.hazelcast.com/hazelcast/5.3/getting-started/quickstart.html",
+        "apiDocs": "https://docs.hazelcast.org/docs/5.3.8/javadoc",
+        "releaseNotes": "https://docs.hazelcast.com/hazelcast/5.3/release-notes/5-3-8"
+      },
+      "stability": "stable"
+    },
+    {
+      "version": "5.3.7",
+      "date": "2024-04-03",
+      "downloads": {
+        "zip": {
+          "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-5.3.7.zip",
+          "size": 567279616
         },
-        "documentation": {
-          "html": "https://docs.hazelcast.com/hazelcast/5.3/getting-started/quickstart.html",
-          "apiDocs": "https://docs.hazelcast.org/docs/5.3.7/javadoc",
-          "releaseNotes": "https://docs.hazelcast.com/hazelcast/5.3/release-notes/5-3-7"
+        "zipSlim": {
+          "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-5.3.7-slim.zip",
+          "size": 41943040
+        },
+        "tar": {
+          "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-5.3.7.tar.gz",
+          "size": 567279616
+        },
+        "tarSlim": {
+          "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-5.3.7-slim.tar.gz",
+          "size": 41943040
         }
       },
-      {
-        "version": "5.3.6",
-        "date": "2023-11-09",
-        "downloads": {
-          "zip": {
-            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-5.3.6.zip",
-            "size": "542 MB"
-          },
-          "zipSlim": {
-            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-5.3.6-slim.zip",
-            "size": "40 MB"
-          },
-          "tar": {
-            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-5.3.6.tar.gz",
-            "size": "542 MB"
-          },
-          "tarSlim": {
-            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-5.3.6-slim.tar.gz",
-            "size": "40 MB"
-          }
+      "documentation": {
+        "html": "https://docs.hazelcast.com/hazelcast/5.3/getting-started/quickstart.html",
+        "apiDocs": "https://docs.hazelcast.org/docs/5.3.7/javadoc",
+        "releaseNotes": "https://docs.hazelcast.com/hazelcast/5.3/release-notes/5-3-7"
+      },
+      "stability": "stable"
+    },
+    {
+      "version": "5.3.6",
+      "date": "2023-11-09",
+      "downloads": {
+        "zip": {
+          "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-5.3.6.zip",
+          "size": 568328192
         },
-        "documentation": {
-          "html": "https://docs.hazelcast.com/hazelcast/5.3/getting-started/quickstart.html",
-          "apiDocs": "https://docs.hazelcast.org/docs/5.3.6/javadoc",
-          "releaseNotes": "https://docs.hazelcast.com/hazelcast/5.3/release-notes/5-3-6"
+        "zipSlim": {
+          "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-5.3.6-slim.zip",
+          "size": 41943040
+        },
+        "tar": {
+          "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-5.3.6.tar.gz",
+          "size": 568328192
+        },
+        "tarSlim": {
+          "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-5.3.6-slim.tar.gz",
+          "size": 41943040
         }
       },
-      {
-        "version": "5.3.5",
-        "date": "2023-10-24",
-        "downloads": {
-          "zip": {
-            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-5.3.5.zip",
-            "size": "542 MB"
-          },
-          "zipSlim": {
-            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-5.3.5-slim.zip",
-            "size": "40 MB"
-          },
-          "tar": {
-            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-5.3.5.tar.gz",
-            "size": "542 MB"
-          },
-          "tarSlim": {
-            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-5.3.5-slim.tar.gz",
-            "size": "40 MB"
-          }
+      "documentation": {
+        "html": "https://docs.hazelcast.com/hazelcast/5.3/getting-started/quickstart.html",
+        "apiDocs": "https://docs.hazelcast.org/docs/5.3.6/javadoc",
+        "releaseNotes": "https://docs.hazelcast.com/hazelcast/5.3/release-notes/5-3-6"
+      },
+      "stability": "stable"
+    },
+    {
+      "version": "5.3.5",
+      "date": "2023-10-24",
+      "downloads": {
+        "zip": {
+          "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-5.3.5.zip",
+          "size": 568328192
         },
-        "documentation": {
-          "html": "https://docs.hazelcast.com/hazelcast/5.3/getting-started/quickstart.html",
-          "apiDocs": "https://docs.hazelcast.org/docs/5.3.5/javadoc",
-          "releaseNotes": "https://docs.hazelcast.com/hazelcast/5.3/release-notes/5-3-5"
+        "zipSlim": {
+          "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-5.3.5-slim.zip",
+          "size": 41943040
+        },
+        "tar": {
+          "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-5.3.5.tar.gz",
+          "size": 568328192
+        },
+        "tarSlim": {
+          "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-5.3.5-slim.tar.gz",
+          "size": 41943040
         }
       },
-      {
-        "version": "5.3.2",
-        "date": "2023-08-21",
-        "downloads": {
-          "zip": {
-            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-5.3.2.zip",
-            "size": "548 MB"
-          },
-          "zipSlim": {
-            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-5.3.2-slim.zip",
-            "size": "40 MB"
-          },
-          "tar": {
-            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-5.3.2.tar.gz",
-            "size": "548 MB"
-          },
-          "tarSlim": {
-            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-5.3.2-slim.tar.gz",
-            "size": "40 MB"
-          }
+      "documentation": {
+        "html": "https://docs.hazelcast.com/hazelcast/5.3/getting-started/quickstart.html",
+        "apiDocs": "https://docs.hazelcast.org/docs/5.3.5/javadoc",
+        "releaseNotes": "https://docs.hazelcast.com/hazelcast/5.3/release-notes/5-3-5"
+      },
+      "stability": "stable"
+    },
+    {
+      "version": "5.3.2",
+      "date": "2023-08-21",
+      "downloads": {
+        "zip": {
+          "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-5.3.2.zip",
+          "size": 574619648
         },
-        "documentation": {
-          "html": "https://docs.hazelcast.com/hazelcast/5.3/getting-started/quickstart.html",
-          "apiDocs": "https://docs.hazelcast.org/docs/5.3.2/javadoc",
-          "releaseNotes": "https://docs.hazelcast.com/hazelcast/5.3/release-notes/5-3-2"
+        "zipSlim": {
+          "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-5.3.2-slim.zip",
+          "size": 41943040
+        },
+        "tar": {
+          "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-5.3.2.tar.gz",
+          "size": 574619648
+        },
+        "tarSlim": {
+          "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-5.3.2-slim.tar.gz",
+          "size": 41943040
         }
       },
-      {
-        "version": "5.3.1",
-        "date": "2023-06-09",
-        "downloads": {
-          "zip": {
-            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-5.3.1.zip",
-            "size": "548 MB"
-          },
-          "zipSlim": {
-            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-5.3.1-slim.zip",
-            "size": "40 MB"
-          },
-          "tar": {
-            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-5.3.1.tar.gz",
-            "size": "548 MB"
-          },
-          "tarSlim": {
-            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-5.3.1-slim.tar.gz",
-            "size": "40 MB"
-          }
+      "documentation": {
+        "html": "https://docs.hazelcast.com/hazelcast/5.3/getting-started/quickstart.html",
+        "apiDocs": "https://docs.hazelcast.org/docs/5.3.2/javadoc",
+        "releaseNotes": "https://docs.hazelcast.com/hazelcast/5.3/release-notes/5-3-2"
+      },
+      "stability": "stable"
+    },
+    {
+      "version": "5.3.1",
+      "date": "2023-06-09",
+      "downloads": {
+        "zip": {
+          "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-5.3.1.zip",
+          "size": 574619648
         },
-        "documentation": {
-          "html": "https://docs.hazelcast.com/hazelcast/5.3/getting-started/quickstart.html",
-          "apiDocs": "https://docs.hazelcast.org/docs/5.3.1/javadoc",
-          "releaseNotes": "https://docs.hazelcast.com/hazelcast/5.3/release-notes/5-3-1"
+        "zipSlim": {
+          "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-5.3.1-slim.zip",
+          "size": 41943040
+        },
+        "tar": {
+          "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-5.3.1.tar.gz",
+          "size": 574619648
+        },
+        "tarSlim": {
+          "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-5.3.1-slim.tar.gz",
+          "size": 41943040
         }
       },
-      {
-        "version": "5.3.0",
-        "date": "2023-05-19",
-        "downloads": {
-          "zip": {
-            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-5.3.0.zip",
-            "size": "547 MB"
-          },
-          "zipSlim": {
-            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-5.3.0-slim.zip",
-            "size": "40 MB"
-          },
-          "tar": {
-            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-5.3.0.tar.gz",
-            "size": "547 MB"
-          },
-          "tarSlim": {
-            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-5.3.0-slim.tar.gz",
-            "size": "40 MB"
-          }
+      "documentation": {
+        "html": "https://docs.hazelcast.com/hazelcast/5.3/getting-started/quickstart.html",
+        "apiDocs": "https://docs.hazelcast.org/docs/5.3.1/javadoc",
+        "releaseNotes": "https://docs.hazelcast.com/hazelcast/5.3/release-notes/5-3-1"
+      },
+      "stability": "stable"
+    },
+    {
+      "version": "5.3.0",
+      "date": "2023-05-19",
+      "downloads": {
+        "zip": {
+          "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-5.3.0.zip",
+          "size": 573571072
         },
-        "documentation": {
-          "html": "https://docs.hazelcast.com/hazelcast/5.3/getting-started/quickstart.html",
-          "apiDocs": "https://docs.hazelcast.org/docs/5.3.0/javadoc",
-          "releaseNotes": "https://docs.hazelcast.com/hazelcast/5.3/release-notes/5-3-0"
+        "zipSlim": {
+          "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-5.3.0-slim.zip",
+          "size": 41943040
+        },
+        "tar": {
+          "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-5.3.0.tar.gz",
+          "size": 573571072
+        },
+        "tarSlim": {
+          "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-5.3.0-slim.tar.gz",
+          "size": 41943040
         }
       },
-      {
-        "version": "5.2.5",
-        "date": "2024-02-26",
-        "downloads": {
-          "zip": {
-            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-5.2.5.zip",
-            "size": "523 MB"
-          },
-          "zipSlim": {
-            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-5.2.5-slim.zip",
-            "size": "39 MB"
-          },
-          "tar": {
-            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-5.2.5.tar.gz",
-            "size": "523 MB"
-          },
-          "tarSlim": {
-            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-5.2.5-slim.tar.gz",
-            "size": "39 MB"
-          }
+      "documentation": {
+        "html": "https://docs.hazelcast.com/hazelcast/5.3/getting-started/quickstart.html",
+        "apiDocs": "https://docs.hazelcast.org/docs/5.3.0/javadoc",
+        "releaseNotes": "https://docs.hazelcast.com/hazelcast/5.3/release-notes/5-3-0"
+      },
+      "stability": "stable"
+    },
+    {
+      "version": "5.2.5",
+      "date": "2024-02-26",
+      "downloads": {
+        "zip": {
+          "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-5.2.5.zip",
+          "size": 548405248
         },
-        "documentation": {
-          "html": "https://docs.hazelcast.com/hazelcast/5.2/getting-started/quickstart.html",
-          "apiDocs": "https://docs.hazelcast.org/docs/5.2.5/javadoc",
-          "releaseNotes": "https://docs.hazelcast.com/hazelcast/5.2/release-notes/5-2-5"
+        "zipSlim": {
+          "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-5.2.5-slim.zip",
+          "size": 40894464
+        },
+        "tar": {
+          "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-5.2.5.tar.gz",
+          "size": 548405248
+        },
+        "tarSlim": {
+          "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-5.2.5-slim.tar.gz",
+          "size": 40894464
         }
       },
-      {
-        "version": "5.2.4",
-        "date": "2023-06-13",
-        "downloads": {
-          "zip": {
-            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-5.2.4.zip",
-            "size": "519 MB"
-          },
-          "zipSlim": {
-            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-5.2.4-slim.zip",
-            "size": "39 MB"
-          },
-          "tar": {
-            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-5.2.4.tar.gz",
-            "size": "519 MB"
-          },
-          "tarSlim": {
-            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-5.2.4-slim.tar.gz",
-            "size": "39 MB"
-          }
+      "documentation": {
+        "html": "https://docs.hazelcast.com/hazelcast/5.2/getting-started/quickstart.html",
+        "apiDocs": "https://docs.hazelcast.org/docs/5.2.5/javadoc",
+        "releaseNotes": "https://docs.hazelcast.com/hazelcast/5.2/release-notes/5-2-5"
+      },
+      "stability": "stable"
+    },
+    {
+      "version": "5.2.4",
+      "date": "2023-06-13",
+      "downloads": {
+        "zip": {
+          "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-5.2.4.zip",
+          "size": 544210944
         },
-        "documentation": {
-          "html": "https://docs.hazelcast.com/hazelcast/5.2/getting-started/quickstart.html",
-          "apiDocs": "https://docs.hazelcast.org/docs/5.2.4/javadoc",
-          "releaseNotes": "https://docs.hazelcast.com/hazelcast/5.2/release-notes/5-2-4"
+        "zipSlim": {
+          "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-5.2.4-slim.zip",
+          "size": 40894464
+        },
+        "tar": {
+          "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-5.2.4.tar.gz",
+          "size": 544210944
+        },
+        "tarSlim": {
+          "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-5.2.4-slim.tar.gz",
+          "size": 40894464
         }
       },
-      {
-        "version": "5.2.3",
-        "date": "2023-03-23",
-        "downloads": {
-          "zip": {
-            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-5.2.3.zip",
-            "size": "517 MB"
-          },
-          "zipSlim": {
-            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-5.2.3-slim.zip",
-            "size": "39 MB"
-          },
-          "tar": {
-            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-5.2.3.tar.gz",
-            "size": "517 MB"
-          },
-          "tarSlim": {
-            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-5.2.3-slim.tar.gz",
-            "size": "39 MB"
-          }
+      "documentation": {
+        "html": "https://docs.hazelcast.com/hazelcast/5.2/getting-started/quickstart.html",
+        "apiDocs": "https://docs.hazelcast.org/docs/5.2.4/javadoc",
+        "releaseNotes": "https://docs.hazelcast.com/hazelcast/5.2/release-notes/5-2-4"
+      },
+      "stability": "stable"
+    },
+    {
+      "version": "5.2.3",
+      "date": "2023-03-23",
+      "downloads": {
+        "zip": {
+          "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-5.2.3.zip",
+          "size": 542113792
         },
-        "documentation": {
-          "html": "https://docs.hazelcast.com/hazelcast/5.2/getting-started/quickstart.html",
-          "apiDocs": "https://docs.hazelcast.org/docs/5.2.3/javadoc",
-          "releaseNotes": "https://docs.hazelcast.com/hazelcast/5.2/release-notes/5-2-3"
+        "zipSlim": {
+          "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-5.2.3-slim.zip",
+          "size": 40894464
+        },
+        "tar": {
+          "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-5.2.3.tar.gz",
+          "size": 542113792
+        },
+        "tarSlim": {
+          "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-5.2.3-slim.tar.gz",
+          "size": 40894464
         }
       },
-      {
-        "version": "5.2.2",
-        "date": "2023-02-15",
-        "downloads": {
-          "zip": {
-            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-5.2.2.zip",
-            "size": "516 MB"
-          },
-          "zipSlim": {
-            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-5.2.2-slim.zip",
-            "size": "38 MB"
-          },
-          "tar": {
-            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-5.2.2.tar.gz",
-            "size": "516 MB"
-          },
-          "tarSlim": {
-            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-5.2.2-slim.tar.gz",
-            "size": "38 MB"
-          }
+      "documentation": {
+        "html": "https://docs.hazelcast.com/hazelcast/5.2/getting-started/quickstart.html",
+        "apiDocs": "https://docs.hazelcast.org/docs/5.2.3/javadoc",
+        "releaseNotes": "https://docs.hazelcast.com/hazelcast/5.2/release-notes/5-2-3"
+      },
+      "stability": "stable"
+    },
+    {
+      "version": "5.2.2",
+      "date": "2023-02-15",
+      "downloads": {
+        "zip": {
+          "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-5.2.2.zip",
+          "size": 541065216
         },
-        "documentation": {
-          "html": "https://docs.hazelcast.com/hazelcast/5.2/getting-started/quickstart.html",
-          "apiDocs": "https://docs.hazelcast.org/docs/5.2.2/javadoc",
-          "releaseNotes": "https://docs.hazelcast.com/hazelcast/5.2/release-notes/5-2-2"
+        "zipSlim": {
+          "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-5.2.2-slim.zip",
+          "size": 39845888
+        },
+        "tar": {
+          "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-5.2.2.tar.gz",
+          "size": 541065216
+        },
+        "tarSlim": {
+          "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-5.2.2-slim.tar.gz",
+          "size": 39845888
         }
       },
-      {
-        "version": "5.2.1",
-        "date": "2022-11-14",
-        "downloads": {
-          "zip": {
-            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-5.2.1.zip",
-            "size": "514 MB"
-          },
-          "zipSlim": {
-            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-5.2.1-slim.zip",
-            "size": "38 MB"
-          },
-          "tar": {
-            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-5.2.1.tar.gz",
-            "size": "514 MB"
-          },
-          "tarSlim": {
-            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-5.2.1-slim.tar.gz",
-            "size": "38 MB"
-          }
+      "documentation": {
+        "html": "https://docs.hazelcast.com/hazelcast/5.2/getting-started/quickstart.html",
+        "apiDocs": "https://docs.hazelcast.org/docs/5.2.2/javadoc",
+        "releaseNotes": "https://docs.hazelcast.com/hazelcast/5.2/release-notes/5-2-2"
+      },
+      "stability": "stable"
+    },
+    {
+      "version": "5.2.1",
+      "date": "2022-11-14",
+      "downloads": {
+        "zip": {
+          "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-5.2.1.zip",
+          "size": 538968064
         },
-        "documentation": {
-          "html": "https://docs.hazelcast.com/hazelcast/5.2/getting-started/quickstart.html",
-          "apiDocs": "https://docs.hazelcast.org/docs/5.2.1/javadoc",
-          "releaseNotes": "https://docs.hazelcast.com/hazelcast/5.2/release-notes/5-2-1"
+        "zipSlim": {
+          "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-5.2.1-slim.zip",
+          "size": 39845888
+        },
+        "tar": {
+          "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-5.2.1.tar.gz",
+          "size": 538968064
+        },
+        "tarSlim": {
+          "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-5.2.1-slim.tar.gz",
+          "size": 39845888
         }
       },
-      {
-        "version": "5.2.0",
-        "date": "2022-10-25",
-        "downloads": {
-          "zip": {
-            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-5.2.0.zip",
-            "size": "509 MB"
-          },
-          "zipSlim": {
-            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-5.2.0-slim.zip",
-            "size": "37 MB"
-          },
-          "tar": {
-            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-5.2.0.tar.gz",
-            "size": "509 MB"
-          },
-          "tarSlim": {
-            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-5.2.0-slim.tar.gz",
-            "size": "37 MB"
-          }
+      "documentation": {
+        "html": "https://docs.hazelcast.com/hazelcast/5.2/getting-started/quickstart.html",
+        "apiDocs": "https://docs.hazelcast.org/docs/5.2.1/javadoc",
+        "releaseNotes": "https://docs.hazelcast.com/hazelcast/5.2/release-notes/5-2-1"
+      },
+      "stability": "stable"
+    },
+    {
+      "version": "5.2.0",
+      "date": "2022-10-25",
+      "downloads": {
+        "zip": {
+          "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-5.2.0.zip",
+          "size": 533725184
         },
-        "documentation": {
-          "html": "https://docs.hazelcast.com/hazelcast/5.2/getting-started/quickstart.html",
-          "apiDocs": "https://docs.hazelcast.org/docs/5.2.0/javadoc",
-          "releaseNotes": "https://docs.hazelcast.com/hazelcast/5.2/release-notes/5-2-0"
+        "zipSlim": {
+          "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-5.2.0-slim.zip",
+          "size": 38797312
+        },
+        "tar": {
+          "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-5.2.0.tar.gz",
+          "size": 533725184
+        },
+        "tarSlim": {
+          "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-5.2.0-slim.tar.gz",
+          "size": 38797312
         }
       },
-      {
-        "version": "5.1.7",
-        "date": "2023-06-19",
-        "downloads": {
-          "zip": {
-            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-5.1.7.zip",
-            "size": "476 MB"
-          },
-          "zipSlim": {
-            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-5.1.7-slim.zip",
-            "size": "38 MB"
-          },
-          "tar": {
-            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-5.1.7.tar.gz",
-            "size": "476 MB"
-          },
-          "tarSlim": {
-            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-5.1.7-slim.tar.gz",
-            "size": "38 MB"
-          }
+      "documentation": {
+        "html": "https://docs.hazelcast.com/hazelcast/5.2/getting-started/quickstart.html",
+        "apiDocs": "https://docs.hazelcast.org/docs/5.2.0/javadoc",
+        "releaseNotes": "https://docs.hazelcast.com/hazelcast/5.2/release-notes/5-2-0"
+      },
+      "stability": "stable"
+    },
+    {
+      "version": "5.1.7",
+      "date": "2023-06-19",
+      "downloads": {
+        "zip": {
+          "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-5.1.7.zip",
+          "size": 499122176
         },
-        "documentation": {
-          "html": "https://docs.hazelcast.com/hazelcast/5.1/getting-started/quickstart.html",
-          "apiDocs": "https://docs.hazelcast.org/docs/5.1.7/javadoc",
-          "releaseNotes": "https://docs.hazelcast.com/hazelcast/5.1/release-notes/5-1-7"
+        "zipSlim": {
+          "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-5.1.7-slim.zip",
+          "size": 39845888
+        },
+        "tar": {
+          "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-5.1.7.tar.gz",
+          "size": 499122176
+        },
+        "tarSlim": {
+          "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-5.1.7-slim.tar.gz",
+          "size": 39845888
         }
       },
-      {
-        "version": "5.1.6",
-        "date": "2023-05-10",
-        "downloads": {
-          "zip": {
-            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-5.1.6.zip",
-            "size": "476 MB"
-          },
-          "zipSlim": {
-            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-5.1.6-slim.zip",
-            "size": "38 MB"
-          },
-          "tar": {
-            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-5.1.6.tar.gz",
-            "size": "476 MB"
-          },
-          "tarSlim": {
-            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-5.1.6-slim.tar.gz",
-            "size": "38 MB"
-          }
+      "documentation": {
+        "html": "https://docs.hazelcast.com/hazelcast/5.1/getting-started/quickstart.html",
+        "apiDocs": "https://docs.hazelcast.org/docs/5.1.7/javadoc",
+        "releaseNotes": "https://docs.hazelcast.com/hazelcast/5.1/release-notes/5-1-7"
+      },
+      "stability": "stable"
+    },
+    {
+      "version": "5.1.6",
+      "date": "2023-05-10",
+      "downloads": {
+        "zip": {
+          "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-5.1.6.zip",
+          "size": 499122176
         },
-        "documentation": {
-          "html": "https://docs.hazelcast.com/hazelcast/5.1/getting-started/quickstart.html",
-          "apiDocs": "https://docs.hazelcast.org/docs/5.1.6/javadoc",
-          "releaseNotes": "https://docs.hazelcast.com/hazelcast/5.1/release-notes/5-1-6"
+        "zipSlim": {
+          "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-5.1.6-slim.zip",
+          "size": 39845888
+        },
+        "tar": {
+          "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-5.1.6.tar.gz",
+          "size": 499122176
+        },
+        "tarSlim": {
+          "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-5.1.6-slim.tar.gz",
+          "size": 39845888
         }
       },
-      {
-        "version": "5.1.5",
-        "date": "2022-11-14",
-        "downloads": {
-          "zip": {
-            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-5.1.5.zip",
-            "size": "474 MB"
-          },
-          "zipSlim": {
-            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-5.1.5-slim.zip",
-            "size": "38 MB"
-          },
-          "tar": {
-            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-5.1.5.tar.gz",
-            "size": "474 MB"
-          },
-          "tarSlim": {
-            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-5.1.5-slim.tar.gz",
-            "size": "38 MB"
-          }
+      "documentation": {
+        "html": "https://docs.hazelcast.com/hazelcast/5.1/getting-started/quickstart.html",
+        "apiDocs": "https://docs.hazelcast.org/docs/5.1.6/javadoc",
+        "releaseNotes": "https://docs.hazelcast.com/hazelcast/5.1/release-notes/5-1-6"
+      },
+      "stability": "stable"
+    },
+    {
+      "version": "5.1.5",
+      "date": "2022-11-14",
+      "downloads": {
+        "zip": {
+          "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-5.1.5.zip",
+          "size": 497025024
         },
-        "documentation": {
-          "html": "https://docs.hazelcast.com/hazelcast/5.1/getting-started/quickstart.html",
-          "apiDocs": "https://docs.hazelcast.org/docs/5.1.5/javadoc",
-          "releaseNotes": "https://docs.hazelcast.com/hazelcast/5.1/release-notes/5-1-5"
+        "zipSlim": {
+          "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-5.1.5-slim.zip",
+          "size": 39845888
+        },
+        "tar": {
+          "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-5.1.5.tar.gz",
+          "size": 497025024
+        },
+        "tarSlim": {
+          "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-5.1.5-slim.tar.gz",
+          "size": 39845888
         }
       },
-      {
-        "version": "5.1.4",
-        "date": "2022-10-11",
-        "downloads": {
-          "zip": {
-            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-5.1.4.zip",
-            "size": "469 MB"
-          },
-          "zipSlim": {
-            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-5.1.4-slim.zip",
-            "size": "37 MB"
-          },
-          "tar": {
-            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-5.1.4.tar.gz",
-            "size": "469 MB"
-          },
-          "tarSlim": {
-            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-5.1.4-slim.tar.gz",
-            "size": "37 MB"
-          }
+      "documentation": {
+        "html": "https://docs.hazelcast.com/hazelcast/5.1/getting-started/quickstart.html",
+        "apiDocs": "https://docs.hazelcast.org/docs/5.1.5/javadoc",
+        "releaseNotes": "https://docs.hazelcast.com/hazelcast/5.1/release-notes/5-1-5"
+      },
+      "stability": "stable"
+    },
+    {
+      "version": "5.1.4",
+      "date": "2022-10-11",
+      "downloads": {
+        "zip": {
+          "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-5.1.4.zip",
+          "size": 491782144
         },
-        "documentation": {
-          "html": "https://docs.hazelcast.com/hazelcast/5.1/getting-started/quickstart.html",
-          "apiDocs": "https://docs.hazelcast.org/docs/5.1.4/javadoc",
-          "releaseNotes": "https://docs.hazelcast.com/hazelcast/5.1/release-notes/5-1-4"
+        "zipSlim": {
+          "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-5.1.4-slim.zip",
+          "size": 38797312
+        },
+        "tar": {
+          "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-5.1.4.tar.gz",
+          "size": 491782144
+        },
+        "tarSlim": {
+          "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-5.1.4-slim.tar.gz",
+          "size": 38797312
         }
       },
-      {
-        "version": "5.1.3",
-        "date": "2022-08-01",
-        "downloads": {
-          "zip": {
-            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-5.1.3.zip",
-            "size": "477 MB"
-          },
-          "zipSlim": {
-            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-5.1.3-slim.zip",
-            "size": "36 MB"
-          },
-          "tar": {
-            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-5.1.3.tar.gz",
-            "size": "477 MB"
-          },
-          "tarSlim": {
-            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-5.1.3-slim.tar.gz",
-            "size": "36 MB"
-          }
+      "documentation": {
+        "html": "https://docs.hazelcast.com/hazelcast/5.1/getting-started/quickstart.html",
+        "apiDocs": "https://docs.hazelcast.org/docs/5.1.4/javadoc",
+        "releaseNotes": "https://docs.hazelcast.com/hazelcast/5.1/release-notes/5-1-4"
+      },
+      "stability": "stable"
+    },
+    {
+      "version": "5.1.3",
+      "date": "2022-08-01",
+      "downloads": {
+        "zip": {
+          "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-5.1.3.zip",
+          "size": 500170752
         },
-        "documentation": {
-          "html": "https://docs.hazelcast.com/hazelcast/5.1/getting-started/quickstart.html",
-          "apiDocs": "https://docs.hazelcast.org/docs/5.1.3/javadoc",
-          "releaseNotes": "https://docs.hazelcast.com/hazelcast/5.1/release-notes/5-1-3"
+        "zipSlim": {
+          "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-5.1.3-slim.zip",
+          "size": 37748736
+        },
+        "tar": {
+          "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-5.1.3.tar.gz",
+          "size": 500170752
+        },
+        "tarSlim": {
+          "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-5.1.3-slim.tar.gz",
+          "size": 37748736
         }
       },
-      {
-        "version": "5.1.2",
-        "date": "2022-06-13",
-        "downloads": {
-          "zip": {
-            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-5.1.2.zip",
-            "size": "478 MB"
-          },
-          "zipSlim": {
-            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-5.1.2-slim.zip",
-            "size": "36 MB"
-          },
-          "tar": {
-            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-5.1.2.tar.gz",
-            "size": "477 MB"
-          },
-          "tarSlim": {
-            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-5.1.2-slim.tar.gz",
-            "size": "36 MB"
-          }
+      "documentation": {
+        "html": "https://docs.hazelcast.com/hazelcast/5.1/getting-started/quickstart.html",
+        "apiDocs": "https://docs.hazelcast.org/docs/5.1.3/javadoc",
+        "releaseNotes": "https://docs.hazelcast.com/hazelcast/5.1/release-notes/5-1-3"
+      },
+      "stability": "stable"
+    },
+    {
+      "version": "5.1.2",
+      "date": "2022-06-13",
+      "downloads": {
+        "zip": {
+          "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-5.1.2.zip",
+          "size": 501219328
         },
-        "documentation": {
-          "html": "https://docs.hazelcast.com/hazelcast/5.1/getting-started/quickstart.html",
-          "apiDocs": "https://docs.hazelcast.org/docs/5.1.2/javadoc",
-          "releaseNotes": "https://docs.hazelcast.com/hazelcast/5.1/5-1-2-release-notes"
+        "zipSlim": {
+          "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-5.1.2-slim.zip",
+          "size": 37748736
+        },
+        "tar": {
+          "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-5.1.2.tar.gz",
+          "size": 500170752
+        },
+        "tarSlim": {
+          "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-5.1.2-slim.tar.gz",
+          "size": 37748736
         }
       },
-      {
-        "version": "5.1.1",
-        "date": "2022-03-17",
-        "downloads": {
-          "zip": {
-            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-5.1.1.zip",
-            "size": "483 MB"
-          },
-          "zipSlim": {
-            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-5.1.1-slim.zip",
-            "size": "36 MB"
-          },
-          "tar": {
-            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-5.1.1.tar.gz",
-            "size": "483 MB"
-          },
-          "tarSlim": {
-            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-5.1.1-slim.tar.gz",
-            "size": "36 MB"
-          }
+      "documentation": {
+        "html": "https://docs.hazelcast.com/hazelcast/5.1/getting-started/quickstart.html",
+        "apiDocs": "https://docs.hazelcast.org/docs/5.1.2/javadoc",
+        "releaseNotes": "https://docs.hazelcast.com/hazelcast/5.1/5-1-2-release-notes"
+      },
+      "stability": "stable"
+    },
+    {
+      "version": "5.1.1",
+      "date": "2022-03-17",
+      "downloads": {
+        "zip": {
+          "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-5.1.1.zip",
+          "size": 506462208
         },
-        "documentation": {
-          "html": "https://docs.hazelcast.com/hazelcast/5.1/getting-started/quickstart.html",
-          "apiDocs": "https://docs.hazelcast.org/docs/5.1.1/javadoc",
-          "releaseNotes": "https://docs.hazelcast.com/hazelcast/5.1/5-1-1-release-notes"
+        "zipSlim": {
+          "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-5.1.1-slim.zip",
+          "size": 37748736
+        },
+        "tar": {
+          "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-5.1.1.tar.gz",
+          "size": 506462208
+        },
+        "tarSlim": {
+          "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-5.1.1-slim.tar.gz",
+          "size": 37748736
         }
       },
-      {
-        "version": "5.1",
-        "date": "2022-03-01",
-        "downloads": {
-          "zip": {
-            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-5.1.zip",
-            "size": "483 MB"
-          },
-          "zipSlim": {
-            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-5.1-slim.zip",
-            "size": "36 MB"
-          },
-          "tar": {
-            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-5.1.tar.gz",
-            "size": "483 MB"
-          },
-          "tarSlim": {
-            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-5.1-slim.tar.gz",
-            "size": "36 MB"
-          }
+      "documentation": {
+        "html": "https://docs.hazelcast.com/hazelcast/5.1/getting-started/quickstart.html",
+        "apiDocs": "https://docs.hazelcast.org/docs/5.1.1/javadoc",
+        "releaseNotes": "https://docs.hazelcast.com/hazelcast/5.1/5-1-1-release-notes"
+      },
+      "stability": "stable"
+    },
+    {
+      "version": "5.1",
+      "date": "2022-03-01",
+      "downloads": {
+        "zip": {
+          "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-5.1.zip",
+          "size": 506462208
         },
-        "documentation": {
-          "html": "https://docs.hazelcast.com/hazelcast/5.1/getting-started/quickstart.html",
-          "apiDocs": "https://docs.hazelcast.org/docs/5.1/javadoc",
-          "releaseNotes": "https://docs.hazelcast.com/hazelcast/5.1/5-1-release-notes"
+        "zipSlim": {
+          "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-5.1-slim.zip",
+          "size": 37748736
+        },
+        "tar": {
+          "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-5.1.tar.gz",
+          "size": 506462208
+        },
+        "tarSlim": {
+          "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-5.1-slim.tar.gz",
+          "size": 37748736
         }
       },
-      {
-        "version": "5.0.5",
-        "date": "2023-06-28",
-        "downloads": {
-          "zip": {
-            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-5.0.5.zip",
-            "size": "466 MB"
-          },
-          "zipSlim": {
-            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-5.0.5-slim.zip",
-            "size": "31 MB"
-          },
-          "tar": {
-            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-5.0.5.tar.gz",
-            "size": "466 MB"
-          },
-          "tarSlim": {
-            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-5.0.5-slim.tar.gz",
-            "size": "31 MB"
-          }
+      "documentation": {
+        "html": "https://docs.hazelcast.com/hazelcast/5.1/getting-started/quickstart.html",
+        "apiDocs": "https://docs.hazelcast.org/docs/5.1/javadoc",
+        "releaseNotes": "https://docs.hazelcast.com/hazelcast/5.1/5-1-release-notes"
+      },
+      "stability": "stable"
+    },
+    {
+      "version": "5.0.5",
+      "date": "2023-06-28",
+      "downloads": {
+        "zip": {
+          "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-5.0.5.zip",
+          "size": 488636416
         },
-        "documentation": {
-          "html": "https://docs.hazelcast.com/hazelcast/5.0/getting-started/quickstart.html",
-          "apiDocs": "https://docs.hazelcast.org/docs/5.0.5/javadoc",
-          "releaseNotes": "https://docs.hazelcast.com/hazelcast/5.0/release-notes/5-0-5"
+        "zipSlim": {
+          "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-5.0.5-slim.zip",
+          "size": 32505856
+        },
+        "tar": {
+          "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-5.0.5.tar.gz",
+          "size": 488636416
+        },
+        "tarSlim": {
+          "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-5.0.5-slim.tar.gz",
+          "size": 32505856
         }
       },
-      {
-        "version": "5.0.4",
-        "date": "2022-11-24",
-        "downloads": {
-          "zip": {
-            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-5.0.4.zip",
-            "size": "466 MB"
-          },
-          "zipSlim": {
-            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-5.0.4-slim.zip",
-            "size": "31 MB"
-          },
-          "tar": {
-            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-5.0.4.tar.gz",
-            "size": "466 MB"
-          },
-          "tarSlim": {
-            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-5.0.4-slim.tar.gz",
-            "size": "31 MB"
-          }
+      "documentation": {
+        "html": "https://docs.hazelcast.com/hazelcast/5.0/getting-started/quickstart.html",
+        "apiDocs": "https://docs.hazelcast.org/docs/5.0.5/javadoc",
+        "releaseNotes": "https://docs.hazelcast.com/hazelcast/5.0/release-notes/5-0-5"
+      },
+      "stability": "stable"
+    },
+    {
+      "version": "5.0.4",
+      "date": "2022-11-24",
+      "downloads": {
+        "zip": {
+          "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-5.0.4.zip",
+          "size": 488636416
         },
-        "documentation": {
-          "html": "https://docs.hazelcast.com/hazelcast/5.0/getting-started/quickstart.html",
-          "apiDocs": "https://docs.hazelcast.org/docs/5.0.4/javadoc",
-          "releaseNotes": "https://docs.hazelcast.com/hazelcast/5.0/release-notes/5-0-4"
+        "zipSlim": {
+          "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-5.0.4-slim.zip",
+          "size": 32505856
+        },
+        "tar": {
+          "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-5.0.4.tar.gz",
+          "size": 488636416
+        },
+        "tarSlim": {
+          "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-5.0.4-slim.tar.gz",
+          "size": 32505856
         }
       },
-      {
-        "version": "5.0.3",
-        "date": "2022-03-28",
-        "downloads": {
-          "zip": {
-            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-5.0.3.zip",
-            "size": "471 MB"
-          },
-          "zipSlim": {
-            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-5.0.3-slim.zip",
-            "size": "30 MB"
-          },
-          "tar": {
-            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-5.0.3.tar.gz",
-            "size": "471 MB"
-          },
-          "tarSlim": {
-            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-5.0.3-slim.tar.gz",
-            "size": "30 MB"
-          }
+      "documentation": {
+        "html": "https://docs.hazelcast.com/hazelcast/5.0/getting-started/quickstart.html",
+        "apiDocs": "https://docs.hazelcast.org/docs/5.0.4/javadoc",
+        "releaseNotes": "https://docs.hazelcast.com/hazelcast/5.0/release-notes/5-0-4"
+      },
+      "stability": "stable"
+    },
+    {
+      "version": "5.0.3",
+      "date": "2022-03-28",
+      "downloads": {
+        "zip": {
+          "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-5.0.3.zip",
+          "size": 493879296
         },
-        "documentation": {
-          "html": "https://docs.hazelcast.com/hazelcast/5.0/getting-started/quickstart.html",
-          "apiDocs": "https://docs.hazelcast.org/docs/5.0.3/javadoc",
-          "releaseNotes": "https://docs.hazelcast.com/hazelcast/5.0/5-0-3-release-notes"
+        "zipSlim": {
+          "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-5.0.3-slim.zip",
+          "size": 31457280
+        },
+        "tar": {
+          "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-5.0.3.tar.gz",
+          "size": 493879296
+        },
+        "tarSlim": {
+          "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-5.0.3-slim.tar.gz",
+          "size": 31457280
         }
       },
-      {
-        "version": "5.0.2",
-        "date": "2021-12-21",
-        "downloads": {
-          "zip": {
-            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-5.0.2.zip",
-            "size": "724 MB"
-          },
-          "zipSlim": {
-            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-5.0.2-slim.zip",
-            "size": "30 MB"
-          },
-          "tar": {
-            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-5.0.2.tar.gz",
-            "size": "724 MB"
-          },
-          "tarSlim": {
-            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-5.0.2-slim.tar.gz",
-            "size": "29 MB"
-          }
+      "documentation": {
+        "html": "https://docs.hazelcast.com/hazelcast/5.0/getting-started/quickstart.html",
+        "apiDocs": "https://docs.hazelcast.org/docs/5.0.3/javadoc",
+        "releaseNotes": "https://docs.hazelcast.com/hazelcast/5.0/5-0-3-release-notes"
+      },
+      "stability": "stable"
+    },
+    {
+      "version": "5.0.2",
+      "date": "2021-12-21",
+      "downloads": {
+        "zip": {
+          "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-5.0.2.zip",
+          "size": 759169024
         },
-        "documentation": {
-          "html": "https://docs.hazelcast.com/hazelcast/5.0/getting-started/quickstart.html",
-          "apiDocs": "https://docs.hazelcast.org/docs/5.0.2/javadoc",
-          "releaseNotes": "https://docs.hazelcast.com/hazelcast/5.0/5-0-2-release-notes"
+        "zipSlim": {
+          "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-5.0.2-slim.zip",
+          "size": 31457280
+        },
+        "tar": {
+          "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-5.0.2.tar.gz",
+          "size": 759169024
+        },
+        "tarSlim": {
+          "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-5.0.2-slim.tar.gz",
+          "size": 30408704
         }
       },
-      {
-        "version": "5.0.1",
-        "date": "2021-12-17",
-        "downloads": {
-          "zip": {
-            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-5.0.1.zip",
-            "size": "724 MB"
-          },
-          "zipSlim": {
-            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-5.0.1-slim.zip",
-            "size": "30 MB"
-          },
-          "tar": {
-            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-5.0.1.tar.gz",
-            "size": "724 MB"
-          },
-          "tarSlim": {
-            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-5.0.1-slim.tar.gz",
-            "size": "29 MB"
-          }
+      "documentation": {
+        "html": "https://docs.hazelcast.com/hazelcast/5.0/getting-started/quickstart.html",
+        "apiDocs": "https://docs.hazelcast.org/docs/5.0.2/javadoc",
+        "releaseNotes": "https://docs.hazelcast.com/hazelcast/5.0/5-0-2-release-notes"
+      },
+      "stability": "stable"
+    },
+    {
+      "version": "5.0.1",
+      "date": "2021-12-17",
+      "downloads": {
+        "zip": {
+          "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-5.0.1.zip",
+          "size": 759169024
         },
-        "documentation": {
-          "html": "https://docs.hazelcast.com/hazelcast/5.0/getting-started/quickstart.html",
-          "apiDocs": "https://docs.hazelcast.org/docs/5.0.1/javadoc",
-          "releaseNotes": "https://docs.hazelcast.com/hazelcast/5.0/5-0-1-release-notes"
+        "zipSlim": {
+          "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-5.0.1-slim.zip",
+          "size": 31457280
+        },
+        "tar": {
+          "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-5.0.1.tar.gz",
+          "size": 759169024
+        },
+        "tarSlim": {
+          "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-5.0.1-slim.tar.gz",
+          "size": 30408704
         }
       },
-      {
-        "version": "5.0",
-        "date": "2021-09-22",
-        "downloads": {
-          "zip": {
-            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-5.0.zip",
-            "size": "681 MB"
-          },
-          "zipSlim": {
-            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-5.0-slim.zip",
-            "size": "29 MB"
-          },
-          "tar": {
-            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-5.0.tar.gz",
-            "size": "681 MB"
-          },
-          "tarSlim": {
-            "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-5.0-slim.tar.gz",
-            "size": "29 MB"
-          }
+      "documentation": {
+        "html": "https://docs.hazelcast.com/hazelcast/5.0/getting-started/quickstart.html",
+        "apiDocs": "https://docs.hazelcast.org/docs/5.0.1/javadoc",
+        "releaseNotes": "https://docs.hazelcast.com/hazelcast/5.0/5-0-1-release-notes"
+      },
+      "stability": "stable"
+    },
+    {
+      "version": "5.0",
+      "date": "2021-09-22",
+      "downloads": {
+        "zip": {
+          "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-5.0.zip",
+          "size": 714080256
         },
-        "documentation": {
-          "html": "https://docs.hazelcast.com/hazelcast/5.0/getting-started/quickstart.html",
-          "apiDocs": "https://docs.hazelcast.org/docs/5.0/javadoc",
-          "releaseNotes": "https://docs.hazelcast.com/hazelcast/5.0/release-notes.html"
+        "zipSlim": {
+          "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-5.0-slim.zip",
+          "size": 30408704
+        },
+        "tar": {
+          "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-5.0.tar.gz",
+          "size": 714080256
+        },
+        "tarSlim": {
+          "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-5.0-slim.tar.gz",
+          "size": 30408704
         }
-      }
-    ],
-    "development": {
-      "status": "HIDE",
-      "versions": [
-        {
-          "version": "5.4.0-BETA-2",
-          "date": "2024-02-13",
-          "downloads": {
-            "zip": {
-              "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-5.4.0-BETA-2.zip",
-              "size": "657 MB"
-            },
-            "zipSlim": {
-              "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-5.4.0-BETA-2-slim.zip",
-              "size": "43 MB"
-            },
-            "tar": {
-              "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-5.4.0-BETA-2.tar.gz",
-              "size": "657 MB"
-            },
-            "tarSlim": {
-              "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-5.4.0-BETA-2-slim.tar.gz",
-              "size": "43 MB"
-            }
-          },
-          "documentation": {
-            "html": "https://docs.hazelcast.com/hazelcast/5.4/getting-started/quickstart.html",
-            "apiDocs": "https://docs.hazelcast.org/docs/5.4.0-BETA-2/javadoc",
-            "releaseNotes": "https://docs.hazelcast.com/hazelcast/5.4/release-notes/5-4-0-beta-2"
-          }
+      },
+      "documentation": {
+        "html": "https://docs.hazelcast.com/hazelcast/5.0/getting-started/quickstart.html",
+        "apiDocs": "https://docs.hazelcast.org/docs/5.0/javadoc",
+        "releaseNotes": "https://docs.hazelcast.com/hazelcast/5.0/release-notes.html"
+      },
+      "stability": "stable"
+    },
+    {
+      "version": "5.4.0-BETA-2",
+      "date": "2024-02-13",
+      "downloads": {
+        "zip": {
+          "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-5.4.0-BETA-2.zip",
+          "size": 688914432
+        },
+        "zipSlim": {
+          "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-5.4.0-BETA-2-slim.zip",
+          "size": 45088768
+        },
+        "tar": {
+          "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-5.4.0-BETA-2.tar.gz",
+          "size": 688914432
+        },
+        "tarSlim": {
+          "url": "https://repository.hazelcast.com/download/hazelcast-enterprise/hazelcast-enterprise-5.4.0-BETA-2-slim.tar.gz",
+          "size": 45088768
         }
-      ]
+      },
+      "documentation": {
+        "html": "https://docs.hazelcast.com/hazelcast/5.4/getting-started/quickstart.html",
+        "apiDocs": "https://docs.hazelcast.org/docs/5.4.0-BETA-2/javadoc",
+        "releaseNotes": "https://docs.hazelcast.com/hazelcast/5.4/release-notes/5-4-0-beta-2"
+      },
+      "stability": "development",
+      "developmentStatus": "HIDE"
     }
-  }
+  ]
 }

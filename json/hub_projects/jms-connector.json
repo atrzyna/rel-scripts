@@ -1,5 +1,5 @@
 {
-  "name": "Jms Connector",
+  "name": "JMS Connector",
   "lastUpdated": "2025-10-28T08:22:24",
   "type": "Connector",
   "product": "Hazelcast Platform",
@@ -11,7 +11,7 @@
     "Streaming",
     "Queue",
     "Topic",
-    "Java Messaging Servi…"
+    "Java Messaging Servi\u2026"
   ],
   "status": true,
   "sections": {

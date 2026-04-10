@@ -1,1555 +1,1628 @@
 {
   "product": "Hazelcast Management Center",
-  "lastUpdated": "2026-04-10T18:08:05",
+  "lastUpdated": "2026-04-10T18:47:44",
   "type": "Management Center",
   "license": "public",
   "display": "Active",
   "shortName": "Management Center",
-  "sections": {
-    "currentStable": {
+  "versions": [
+    {
       "version": "5.10.0",
       "date": "2026-02-24",
       "downloads": {
         "zip": {
           "url": "https://repository.hazelcast.com/download/management-center/hazelcast-management-center-5.10.0.zip",
-          "size": "310.2 MB"
+          "size": 325268275
         },
         "tar": {
           "url": "https://repository.hazelcast.com/download/management-center/hazelcast-management-center-5.10.0.tar.gz",
-          "size": "310.2 MB"
+          "size": 325268275
         }
       },
       "documentation": {
         "html": "https://docs.hazelcast.com/management-center/5.10/",
         "releaseNotes": "https://docs.hazelcast.com/management-center/5.10/release-notes/5-10-0"
-      }
+      },
+      "stability": "current"
     },
-    "previousStable": [
-      {
-        "version": "5.9.0",
-        "date": "2025-10-15",
-        "downloads": {
-          "zip": {
-            "url": "https://repository.hazelcast.com/download/management-center/hazelcast-management-center-5.9.0.zip",
-            "size": "319.1 MB"
-          },
-          "tar": {
-            "url": "https://repository.hazelcast.com/download/management-center/hazelcast-management-center-5.9.0.tar.gz",
-            "size": "318.8 MB"
-          }
-        },
-        "documentation": {
-          "html": "https://docs.hazelcast.com/management-center/5.9/",
-          "releaseNotes": "https://docs.hazelcast.com/management-center/5.9/release-notes/5-9-0"
-        }
-      },
-      {
-        "version": "5.8.0",
-        "date": "2025-05-14",
-        "downloads": {
-          "zip": {
-            "url": "https://repository.hazelcast.com/download/management-center/hazelcast-management-center-5.8.0.zip",
-            "size": "256.7 MB"
-          },
-          "tar": {
-            "url": "https://repository.hazelcast.com/download/management-center/hazelcast-management-center-5.8.0.tar.gz",
-            "size": "256.7 MB"
-          }
-        },
-        "documentation": {
-          "html": "https://docs.hazelcast.com/management-center/5.8/",
-          "releaseNotes": "https://docs.hazelcast.com/management-center/5.8/release-notes/5-8-0"
-        }
-      },
-      {
-        "version": "5.7.1",
-        "date": "2025-02-19",
-        "downloads": {
-          "zip": {
-            "url": "https://repository.hazelcast.com/download/management-center/hazelcast-management-center-5.7.1.zip",
-            "size": "244.57 MB"
-          },
-          "tar": {
-            "url": "https://repository.hazelcast.com/download/management-center/hazelcast-management-center-5.7.1.tar.gz",
-            "size": "244.57 MB"
-          }
-        },
-        "documentation": {
-          "html": "https://docs.hazelcast.com/management-center/5.7/",
-          "releaseNotes": "https://docs.hazelcast.com/management-center/5.7/release-notes/5-7-1"
-        }
-      },
-      {
-        "version": "5.7.0",
-        "date": "2025-02-12",
-        "downloads": {
-          "zip": {
-            "url": "https://repository.hazelcast.com/download/management-center/hazelcast-management-center-5.7.0.zip",
-            "size": "244.6 MB"
-          },
-          "tar": {
-            "url": "https://repository.hazelcast.com/download/management-center/hazelcast-management-center-5.7.0.tar.gz",
-            "size": "244.6 MB"
-          }
-        },
-        "documentation": {
-          "html": "https://docs.hazelcast.com/management-center/5.7/",
-          "releaseNotes": "https://docs.hazelcast.com/management-center/5.7/release-notes/5-7-0"
-        }
-      },
-      {
-        "version": "5.6.0",
-        "date": "2024-10-21",
-        "downloads": {
-          "zip": {
-            "url": "https://repository.hazelcast.com/download/management-center/hazelcast-management-center-5.6.0.zip",
-            "size": "240.9 MB"
-          },
-          "tar": {
-            "url": "https://repository.hazelcast.com/download/management-center/hazelcast-management-center-5.6.0.tar.gz",
-            "size": "240.9 MB"
-          }
-        },
-        "documentation": {
-          "html": "https://docs.hazelcast.com/management-center/5.6/",
-          "releaseNotes": "https://docs.hazelcast.com/management-center/5.6/release-notes/5-6-0"
-        }
-      },
-      {
-        "version": "5.5.2",
-        "date": "2024-09-02",
-        "downloads": {
-          "zip": {
-            "url": "https://repository.hazelcast.com/download/management-center/hazelcast-management-center-5.5.2.zip",
-            "size": "239.9 MB"
-          },
-          "tar": {
-            "url": "https://repository.hazelcast.com/download/management-center/hazelcast-management-center-5.5.2.tar.gz",
-            "size": "239.9 MB"
-          }
-        },
-        "documentation": {
-          "html": "https://docs.hazelcast.com/management-center/5.5/",
-          "releaseNotes": "https://docs.hazelcast.com/management-center/5.5/release-notes/5-5-2"
-        }
-      },
-      {
-        "version": "5.5.1",
-        "date": "2024-08-07",
-        "downloads": {
-          "zip": {
-            "url": "https://repository.hazelcast.com/download/management-center/hazelcast-management-center-5.5.1.zip",
-            "size": "239.9 MB"
-          },
-          "tar": {
-            "url": "https://repository.hazelcast.com/download/management-center/hazelcast-management-center-5.5.1.tar.gz",
-            "size": "239.9 MB"
-          }
-        },
-        "documentation": {
-          "html": "https://docs.hazelcast.com/management-center/5.5/",
-          "releaseNotes": "https://docs.hazelcast.com/management-center/5.5/release-notes/5-5-1"
-        }
-      },
-      {
-        "version": "5.5.0",
-        "date": "2024-07-29",
-        "downloads": {
-          "zip": {
-            "url": "https://repository.hazelcast.com/download/management-center/hazelcast-management-center-5.5.0.zip",
-            "size": "239.9 MB"
-          },
-          "tar": {
-            "url": "https://repository.hazelcast.com/download/management-center/hazelcast-management-center-5.5.0.tar.gz",
-            "size": "239.9 MB"
-          }
-        },
-        "documentation": {
-          "html": "https://docs.hazelcast.com/management-center/5.5/",
-          "releaseNotes": "https://docs.hazelcast.com/management-center/5.5/release-notes/5-5-0"
-        }
-      },
-      {
-        "version": "5.4.1",
-        "date": "2024-04-19",
-        "downloads": {
-          "zip": {
-            "url": "https://repository.hazelcast.com/download/management-center/hazelcast-management-center-5.4.1.zip",
-            "size": "233.1 MB"
-          },
-          "tar": {
-            "url": "https://repository.hazelcast.com/download/management-center/hazelcast-management-center-5.4.1.tar.gz",
-            "size": "233.1 MB"
-          }
-        },
-        "documentation": {
-          "html": "https://docs.hazelcast.com/management-center/5.4/",
-          "releaseNotes": "https://docs.hazelcast.com/management-center/5.4/release-notes/5-4-1"
-        }
-      },
-      {
-        "version": "5.4.0",
-        "date": "2024-04-15",
-        "downloads": {
-          "zip": {
-            "url": "https://repository.hazelcast.com/download/management-center/hazelcast-management-center-5.4.0.zip",
-            "size": "233.0 MB"
-          },
-          "tar": {
-            "url": "https://repository.hazelcast.com/download/management-center/hazelcast-management-center-5.4.0.tar.gz",
-            "size": "233.0 MB"
-          }
-        },
-        "documentation": {
-          "html": "https://docs.hazelcast.com/management-center/5.4/",
-          "releaseNotes": "https://docs.hazelcast.com/management-center/5.4/release-notes/5-4-0"
-        }
-      },
-      {
-        "version": "5.3.4",
-        "date": "2023-09-20",
-        "downloads": {
-          "zip": {
-            "url": "https://repository.hazelcast.com/download/management-center/hazelcast-management-center-5.3.4.zip",
-            "size": "160.8 MB"
-          },
-          "tar": {
-            "url": "https://repository.hazelcast.com/download/management-center/hazelcast-management-center-5.3.4.tar.gz",
-            "size": "160.8 MB"
-          }
-        },
-        "documentation": {
-          "html": "https://docs.hazelcast.com/management-center/5.3/",
-          "releaseNotes": "https://docs.hazelcast.com/management-center/5.3/release-notes/5-3-4"
-        }
-      },
-      {
-        "version": "5.3.3",
-        "date": "2023-10-17",
-        "downloads": {
-          "zip": {
-            "url": "https://repository.hazelcast.com/download/management-center/hazelcast-management-center-5.3.3.zip",
-            "size": "158.1 MB"
-          },
-          "tar": {
-            "url": "https://repository.hazelcast.com/download/management-center/hazelcast-management-center-5.3.3.tar.gz",
-            "size": "158.1 MB"
-          }
-        },
-        "documentation": {
-          "html": "https://docs.hazelcast.com/management-center/5.3/",
-          "releaseNotes": "https://docs.hazelcast.com/management-center/5.3/release-notes/5-3-3"
-        }
-      },
-      {
-        "version": "5.3.2",
-        "date": "2023-08-10",
-        "downloads": {
-          "zip": {
-            "url": "https://repository.hazelcast.com/download/management-center/hazelcast-management-center-5.3.2.zip",
-            "size": "158.0 MB"
-          },
-          "tar": {
-            "url": "https://repository.hazelcast.com/download/management-center/hazelcast-management-center-5.3.2.tar.gz",
-            "size": "158.0 MB"
-          }
-        },
-        "documentation": {
-          "html": "https://docs.hazelcast.com/management-center/5.3/",
-          "releaseNotes": "https://docs.hazelcast.com/management-center/5.3/release-notes/5-3-2"
-        }
-      },
-      {
-        "version": "5.3.1",
-        "date": "2023-07-06",
-        "downloads": {
-          "zip": {
-            "url": "https://repository.hazelcast.com/download/management-center/hazelcast-management-center-5.3.1.zip",
-            "size": "158.0 MB"
-          },
-          "tar": {
-            "url": "https://repository.hazelcast.com/download/management-center/hazelcast-management-center-5.3.1.tar.gz",
-            "size": "158.0 MB"
-          }
-        },
-        "documentation": {
-          "html": "https://docs.hazelcast.com/management-center/5.3/",
-          "releaseNotes": "https://docs.hazelcast.com/management-center/5.3/release-notes/5-3-1"
-        }
-      },
-      {
-        "version": "5.3.0",
-        "date": "2023-05-19",
-        "downloads": {
-          "zip": {
-            "url": "https://repository.hazelcast.com/download/management-center/hazelcast-management-center-5.3.0.zip",
-            "size": "157.0 MB"
-          },
-          "tar": {
-            "url": "https://repository.hazelcast.com/download/management-center/hazelcast-management-center-5.3.0.tar.gz",
-            "size": "157.0 MB"
-          }
-        },
-        "documentation": {
-          "html": "https://docs.hazelcast.com/management-center/5.3/",
-          "releaseNotes": "https://docs.hazelcast.com/management-center/5.3/release-notes/5-3-0"
-        }
-      },
-      {
-        "version": "5.2.1",
-        "date": "2022-12-01",
-        "downloads": {
-          "zip": {
-            "url": "https://repository.hazelcast.com/download/management-center/hazelcast-management-center-5.2.1.zip",
-            "size": "150.0 MB"
-          },
-          "tar": {
-            "url": "https://repository.hazelcast.com/download/management-center/hazelcast-management-center-5.2.1.tar.gz",
-            "size": "150.0 MB"
-          }
-        },
-        "documentation": {
-          "html": "https://docs.hazelcast.com/management-center/5.2/",
-          "releaseNotes": "https://docs.hazelcast.com/management-center/5.2/release-notes/5-2-1"
-        }
-      },
-      {
-        "version": "5.2.0",
-        "date": "2022-10-24",
-        "downloads": {
-          "zip": {
-            "url": "https://repository.hazelcast.com/download/management-center/hazelcast-management-center-5.2.1.zip",
-            "size": "150.0 MB"
-          },
-          "tar": {
-            "url": "https://repository.hazelcast.com/download/management-center/hazelcast-management-center-5.2.1.tar.gz",
-            "size": "150.0 MB"
-          }
-        },
-        "documentation": {
-          "html": "https://docs.hazelcast.com/management-center/5.2/",
-          "releaseNotes": "https://docs.hazelcast.com/management-center/5.2/release-notes/5-2-0"
-        }
-      },
-      {
-        "version": "5.1.4",
-        "date": "2022-07-05",
-        "downloads": {
-          "zip": {
-            "url": "https://repository.hazelcast.com/download/management-center/hazelcast-management-center-5.1.4.zip",
-            "size": "120.6 MB"
-          },
-          "tar": {
-            "url": "https://repository.hazelcast.com/download/management-center/hazelcast-management-center-5.1.4.tar.gz",
-            "size": "120.6 MB"
-          },
-          "war": {
-            "url": "https://repository.hazelcast.com/download/management-center/hazelcast-management-center-5.1.4.war",
-            "size": "135.0 MB"
-          }
-        },
-        "documentation": {
-          "html": "https://docs.hazelcast.com/management-center/5.1/",
-          "releaseNotes": "https://docs.hazelcast.com/management-center/5.1/release-notes/5-1-4"
-        }
-      },
-      {
-        "version": "5.1.3",
-        "date": "2022-04-22",
-        "downloads": {
-          "zip": {
-            "url": "https://repository.hazelcast.com/download/management-center/hazelcast-management-center-5.1.3.zip",
-            "size": "120.5 MB"
-          },
-          "tar": {
-            "url": "https://repository.hazelcast.com/download/management-center/hazelcast-management-center-5.1.3.tar.gz",
-            "size": "120.5 MB"
-          },
-          "war": {
-            "url": "https://repository.hazelcast.com/download/management-center/hazelcast-management-center-5.1.3.war",
-            "size": "135.0 MB"
-          }
-        },
-        "documentation": {
-          "html": "https://docs.hazelcast.com/management-center/5.1/",
-          "releaseNotes": "https://docs.hazelcast.com/management-center/5.1/release-notes/5-1-3"
-        }
-      },
-      {
-        "version": "5.1.2",
-        "date": "2022-04-06",
-        "downloads": {
-          "zip": {
-            "url": "https://repository.hazelcast.com/download/management-center/hazelcast-management-center-5.1.2.zip",
-            "size": "120.5 MB"
-          },
-          "tar": {
-            "url": "https://repository.hazelcast.com/download/management-center/hazelcast-management-center-5.1.2.tar.gz",
-            "size": "120.5 MB"
-          },
-          "war": {
-            "url": "https://repository.hazelcast.com/download/management-center/hazelcast-management-center-5.1.2.war",
-            "size": "135.0 MB"
-          }
-        },
-        "documentation": {
-          "html": "https://docs.hazelcast.com/management-center/5.1/",
-          "releaseNotes": "https://docs.hazelcast.com/management-center/5.1/release-notes/5-1-2"
-        }
-      },
-      {
-        "version": "5.1.1",
-        "date": "2022-03-01",
-        "downloads": {
-          "zip": {
-            "url": "https://repository.hazelcast.com/download/management-center/hazelcast-management-center-5.1.1.zip",
-            "size": "120.5 MB"
-          },
-          "tar": {
-            "url": "https://repository.hazelcast.com/download/management-center/hazelcast-management-center-5.1.1.tar.gz",
-            "size": "120.5 MB"
-          },
-          "war": {
-            "url": "https://repository.hazelcast.com/download/management-center/hazelcast-management-center-5.1.1.war",
-            "size": "135.0 MB"
-          }
-        },
-        "documentation": {
-          "html": "https://docs.hazelcast.com/management-center/5.1/",
-          "releaseNotes": "http://docs.hazelcast.org/docs/management-center/rn/index.html#5-1-1"
-        }
-      },
-      {
-        "version": "5.0.4",
-        "date": "2021-12-20",
-        "downloads": {
-          "zip": {
-            "url": "https://repository.hazelcast.com/download/management-center/hazelcast-management-center-5.0.4.zip",
-            "size": "117.9 MB"
-          },
-          "tar": {
-            "url": "https://repository.hazelcast.com/download/management-center/hazelcast-management-center-5.0.4.tar.gz",
-            "size": "117.9 MB"
-          },
-          "war": {
-            "url": "https://repository.hazelcast.com/download/management-center/hazelcast-management-center-5.0.4.war",
-            "size": "133.2 MB"
-          }
-        },
-        "documentation": {
-          "html": "https://docs.hazelcast.com/management-center/5.0/",
-          "releaseNotes": "http://docs.hazelcast.org/docs/management-center/rn/index.html#5-0-4"
-        }
-      },
-      {
-        "version": "5.0.3",
-        "date": "2021-12-14",
-        "downloads": {
-          "zip": {
-            "url": "https://repository.hazelcast.com/download/management-center/hazelcast-management-center-5.0.3.zip",
-            "size": "117.9 MB"
-          },
-          "tar": {
-            "url": "https://repository.hazelcast.com/download/management-center/hazelcast-management-center-5.0.3.tar.gz",
-            "size": "117.9 MB"
-          },
-          "war": {
-            "url": "https://repository.hazelcast.com/download/management-center/hazelcast-management-center-5.0.3.war",
-            "size": "133.2 MB"
-          }
-        },
-        "documentation": {
-          "html": "https://docs.hazelcast.com/management-center/5.0/",
-          "releaseNotes": "http://docs.hazelcast.org/docs/management-center/rn/index.html#5-0-3"
-        }
-      },
-      {
-        "version": "5.0.2",
-        "date": "2021-11-16",
-        "downloads": {
-          "zip": {
-            "url": "https://repository.hazelcast.com/download/management-center/hazelcast-management-center-5.0.2.zip",
-            "size": "123.5 MB"
-          },
-          "tar": {
-            "url": "https://repository.hazelcast.com/download/management-center/hazelcast-management-center-5.0.2.tar.gz",
-            "size": "123.6 MB"
-          },
-          "war": {
-            "url": "https://repository.hazelcast.com/download/management-center/hazelcast-management-center-5.0.2.war",
-            "size": "139.7 MB"
-          }
-        },
-        "documentation": {
-          "html": "https://docs.hazelcast.com/management-center/5.0/",
-          "releaseNotes": "http://docs.hazelcast.org/docs/management-center/rn/index.html#5-0-2"
-        }
-      },
-      {
-        "version": "5.0.1",
-        "date": "2021-10-26",
-        "downloads": {
-          "zip": {
-            "url": "https://repository.hazelcast.com/download/management-center/hazelcast-management-center-5.0.1.zip",
-            "size": "115.8 MB"
-          },
-          "tar": {
-            "url": "https://repository.hazelcast.com/download/management-center/hazelcast-management-center-5.0.1.tar.gz",
-            "size": "115.8 MB"
-          },
-          "war": {
-            "url": "https://repository.hazelcast.com/download/management-center/hazelcast-management-center-5.0.1.war",
-            "size": "131.9 MB"
-          }
-        },
-        "documentation": {
-          "html": "https://docs.hazelcast.com/management-center/5.0.1/",
-          "releaseNotes": "http://docs.hazelcast.org/docs/management-center/rn/index.html#5-0-1"
-        }
-      },
-      {
-        "version": "5.0",
-        "date": "2021-09-22",
-        "downloads": {
-          "zip": {
-            "url": "https://repository.hazelcast.com/download/management-center/hazelcast-management-center-5.0.zip",
-            "size": "114.2 MB"
-          },
-          "tar": {
-            "url": "https://repository.hazelcast.com/download/management-center/hazelcast-management-center-5.0.tar.gz",
-            "size": "114.3 MB"
-          },
-          "war": {
-            "url": "https://repository.hazelcast.com/download/management-center/hazelcast-management-center-5.0.war",
-            "size": "138.1 MB"
-          }
-        },
-        "documentation": {
-          "html": "https://docs.hazelcast.com/management-center/5.0/",
-          "releaseNotes": "http://docs.hazelcast.org/docs/management-center/rn/index.html#5-0"
-        }
-      },
-      {
-        "version": "4.2022.01",
-        "date": "2022-01-06",
-        "downloads": {
-          "zip": {
-            "url": "https://repository.hazelcast.com/download/management-center/hazelcast-management-center-4.2022.01.zip",
-            "size": "116.0 MB"
-          },
-          "tar": {
-            "url": "https://repository.hazelcast.com/download/management-center/hazelcast-management-center-4.2022.01.tar.gz",
-            "size": "116.1 MB"
-          },
-          "war": {
-            "url": "https://repository.hazelcast.com/download/management-center/hazelcast-management-center-4.2022.01.war",
-            "size": "137.1 MB"
-          }
-        },
-        "documentation": {
-          "html": "https://docs.hazelcast.com/management-center/4.2022.01/",
-          "releaseNotes": "http://docs.hazelcast.org/docs/management-center/rn/index.html#4-2022-01"
-        }
-      },
-      {
-        "version": "4.2021.12-1",
-        "date": "2021-12-20",
-        "downloads": {
-          "zip": {
-            "url": "https://repository.hazelcast.com/download/management-center/hazelcast-management-center-4.2021.12-1.zip",
-            "size": "116.0 MB"
-          },
-          "tar": {
-            "url": "https://repository.hazelcast.com/download/management-center/hazelcast-management-center-4.2021.12-1.tar.gz",
-            "size": "116.1 MB"
-          },
-          "war": {
-            "url": "https://repository.hazelcast.com/download/management-center/hazelcast-management-center-4.2021.12-1.war",
-            "size": "137.1 MB"
-          }
-        },
-        "documentation": {
-          "html": "https://docs.hazelcast.com/management-center/4.2021.12-1/",
-          "releaseNotes": "http://docs.hazelcast.org/docs/management-center/rn/index.html#4-2021-12-1"
-        }
-      },
-      {
-        "version": "4.2021.12",
-        "date": "2021-12-13",
-        "downloads": {
-          "zip": {
-            "url": "https://repository.hazelcast.com/download/management-center/hazelcast-management-center-4.2021.12.zip",
-            "size": "121.6 MB"
-          },
-          "tar": {
-            "url": "https://repository.hazelcast.com/download/management-center/hazelcast-management-center-4.2021.12.tar.gz",
-            "size": "121.7 MB"
-          },
-          "war": {
-            "url": "https://repository.hazelcast.com/download/management-center/hazelcast-management-center-4.2021.12.war",
-            "size": "143.7 MB"
-          }
-        },
-        "documentation": {
-          "html": "https://docs.hazelcast.com/management-center/4.2021.12/",
-          "releaseNotes": "http://docs.hazelcast.org/docs/management-center/rn/index.html#4-2021-12"
-        }
-      },
-      {
-        "version": "4.2021.06",
-        "date": "2021-06-21",
-        "downloads": {
-          "zip": {
-            "url": "https://repository.hazelcast.com/download/management-center/hazelcast-management-center-4.2021.06.zip",
-            "size": "115.9 MB"
-          },
-          "tar": {
-            "url": "https://repository.hazelcast.com/download/management-center/hazelcast-management-center-4.2021.06.tar.gz",
-            "size": "116 MB"
-          },
-          "war": {
-            "url": "https://repository.hazelcast.com/download/management-center/hazelcast-management-center-4.2021.06.war",
-            "size": "137 MB"
-          }
-        },
-        "documentation": {
-          "html": "https://docs.hazelcast.com/management-center/4.2021.06/",
-          "releaseNotes": "http://docs.hazelcast.org/docs/management-center/rn/index.html#4-2021-06"
-        }
-      },
-      {
-        "version": "4.2021.04",
-        "date": "2021-04-26",
-        "downloads": {
-          "zip": {
-            "url": "https://repository.hazelcast.com/download/management-center/hazelcast-management-center-4.2021.04.zip",
-            "size": "115.2 MB"
-          },
-          "tar": {
-            "url": "https://repository.hazelcast.com/download/management-center/hazelcast-management-center-4.2021.04.tar.gz",
-            "size": "115.3 MB"
-          },
-          "war": {
-            "url": "https://repository.hazelcast.com/download/management-center/hazelcast-management-center-4.2021.04.war",
-            "size": "132.7 MB"
-          }
-        },
-        "documentation": {
-          "html": "https://docs.hazelcast.com/management-center/4.2021.04/",
-          "releaseNotes": "http://docs.hazelcast.org/docs/management-center/rn/index.html#4-2021-04"
-        }
-      },
-      {
-        "version": "4.2021.03",
-        "date": "2021-03-04",
-        "downloads": {
-          "zip": {
-            "url": "https://repository.hazelcast.com/download/management-center/hazelcast-management-center-4.2021.03.zip",
-            "size": "113.9 MB"
-          },
-          "tar": {
-            "url": "https://repository.hazelcast.com/download/management-center/hazelcast-management-center-4.2021.03.tar.gz",
-            "size": "113.9 MB"
-          },
-          "war": {
-            "url": "https://repository.hazelcast.com/download/management-center/hazelcast-management-center-4.2021.03.war",
-            "size": "131.9 MB"
-          }
-        },
-        "documentation": {
-          "html": "https://docs.hazelcast.com/management-center/4.2021.03/",
-          "releaseNotes": "http://docs.hazelcast.org/docs/management-center/rn/index.html#4-2021-03"
-        }
-      },
-      {
-        "version": "4.2021.02",
-        "date": "2021-02-12",
-        "downloads": {
-          "zip": {
-            "url": "https://repository.hazelcast.com/download/management-center/hazelcast-management-center-4.2021.02.zip",
-            "size": "113.8 MB"
-          },
-          "tar": {
-            "url": "https://repository.hazelcast.com/download/management-center/hazelcast-management-center-4.2021.02.tar.gz",
-            "size": "113.9 MB"
-          },
-          "war": {
-            "url": "https://repository.hazelcast.com/download/management-center/hazelcast-management-center-4.2021.02.war",
-            "size": "131.9 MB"
-          }
-        },
-        "documentation": {
-          "html": "https://docs.hazelcast.com/management-center/4.2021.02/",
-          "releaseNotes": "http://docs.hazelcast.org/docs/management-center/rn/index.html#4-2021-02"
-        }
-      },
-      {
-        "version": "4.2020.12",
-        "date": "2020-12-11",
-        "downloads": {
-          "zip": {
-            "url": "https://repository.hazelcast.com/download/management-center/hazelcast-management-center-4.2020.12.zip",
-            "size": "103.8 MB"
-          },
-          "tar": {
-            "url": "https://repository.hazelcast.com/download/management-center/hazelcast-management-center-4.2020.12.tar.gz",
-            "size": "103.8 MB"
-          },
-          "war": {
-            "url": "https://repository.hazelcast.com/download/management-center/hazelcast-management-center-4.2020.12.war",
-            "size": "103.2 MB"
-          }
-        },
-        "documentation": {
-          "html": "http://docs.hazelcast.org/docs/management-center/4.2020.12/manual/html/index.html",
-          "pdf": "http://docs.hazelcast.org/docs/management-center/4.2020.12/manual/pdf/hazelcast-management-center-documentation-4.2020.12.pdf",
-          "releaseNotes": "http://docs.hazelcast.org/docs/management-center/rn/index.html#4-2020-12"
-        }
-      },
-      {
-        "version": "4.2020.10",
-        "date": "2020-10-29",
-        "downloads": {
-          "zip": {
-            "url": "https://repository.hazelcast.com/download/management-center/hazelcast-management-center-4.2020.10.zip",
-            "size": "100.5 MB"
-          },
-          "tar": {
-            "url": "https://repository.hazelcast.com/download/management-center/hazelcast-management-center-4.2020.10.tar.gz",
-            "size": "100.6 MB"
-          },
-          "war": {
-            "url": "https://repository.hazelcast.com/download/management-center/hazelcast-management-center-4.2020.10.war",
-            "size": "99.4 MB"
-          }
-        },
-        "documentation": {
-          "html": "http://docs.hazelcast.org/docs/management-center/4.2020.10/manual/html/index.html",
-          "pdf": "http://docs.hazelcast.org/docs/management-center/4.2020.10/manual/pdf/hazelcast-management-center-documentation-4.2020.10.pdf",
-          "releaseNotes": "http://docs.hazelcast.org/docs/management-center/rn/index.html#4-2020-10"
-        }
-      },
-      {
-        "version": "4.2020.08",
-        "date": "2020-08-11",
-        "downloads": {
-          "zip": {
-            "url": "https://repository.hazelcast.com/download/management-center/hazelcast-management-center-4.2020.08.zip",
-            "size": "82.7 MB"
-          },
-          "tar": {
-            "url": "https://repository.hazelcast.com/download/management-center/hazelcast-management-center-4.2020.08.tar.gz",
-            "size": "82.8 MB"
-          }
-        },
-        "documentation": {
-          "html": "http://docs.hazelcast.org/docs/management-center/4.2020.08/manual/html/index.html",
-          "pdf": "http://docs.hazelcast.org/docs/management-center/4.2020.08/manual/pdf/hazelcast-management-center-documentation-4.2020.08.pdf",
-          "releaseNotes": "http://docs.hazelcast.org/docs/management-center/rn/index.html#4-2020-08"
-        }
-      },
-      {
-        "version": "4.0.3",
-        "date": "2020-06-05",
-        "downloads": {
-          "zip": {
-            "url": "https://repository.hazelcast.com/download/management-center/hazelcast-management-center-4.0.3.zip",
-            "size": "86.5 MB"
-          },
-          "tar": {
-            "url": "https://repository.hazelcast.com/download/management-center/hazelcast-management-center-4.0.3.tar.gz",
-            "size": "86.5 MB"
-          }
-        },
-        "documentation": {
-          "html": "http://docs.hazelcast.org/docs/management-center/4.0.3/manual/html/index.html",
-          "pdf": "http://docs.hazelcast.org/docs/management-center/4.0.3/manual/pdf/hazelcast-management-center-documentation-4.0.3.pdf",
-          "releaseNotes": "http://docs.hazelcast.org/docs/management-center/rn/index.html#4-0-3"
-        }
-      },
-      {
-        "version": "4.0.2",
-        "date": "2020-04-29",
-        "downloads": {
-          "zip": {
-            "url": "https://repository.hazelcast.com/download/management-center/hazelcast-management-center-4.0.2.zip",
-            "size": "88 MB"
-          },
-          "tar": {
-            "url": "https://repository.hazelcast.com/download/management-center/hazelcast-management-center-4.0.2.tar.gz",
-            "size": "88 MB"
-          }
-        },
-        "documentation": {
-          "html": "http://docs.hazelcast.org/docs/management-center/4.0.2/manual/html/index.html",
-          "pdf": "http://docs.hazelcast.org/docs/management-center/4.0.2/manual/pdf/hazelcast-management-center-documentation-4.0.2.pdf",
-          "releaseNotes": "http://docs.hazelcast.org/docs/management-center/rn/index.html#4-0-2"
-        }
-      },
-      {
-        "version": "4.0.1",
-        "date": "2020-03-09",
-        "downloads": {
-          "zip": {
-            "url": "https://repository.hazelcast.com/download/management-center/hazelcast-management-center-4.0.1.zip",
-            "size": "90 MB"
-          },
-          "tar": {
-            "url": "https://repository.hazelcast.com/download/management-center/hazelcast-management-center-4.0.1.tar.gz",
-            "size": "90 MB"
-          }
-        },
-        "documentation": {
-          "html": "http://docs.hazelcast.org/docs/management-center/4.0.1/manual/html/index.html",
-          "pdf": "http://docs.hazelcast.org/docs/management-center/4.0.1/manual/pdf/hazelcast-management-center-documentation-4.0.1.pdf",
-          "releaseNotes": "http://docs.hazelcast.org/docs/management-center/rn/index.html#4-0-1"
-        }
-      },
-      {
-        "version": "4.0",
-        "date": "2020-02-04",
-        "downloads": {
-          "zip": {
-            "url": "https://repository.hazelcast.com/download/management-center/hazelcast-management-center-4.0.zip",
-            "size": "108 MB"
-          },
-          "tar": {
-            "url": "https://repository.hazelcast.com/download/management-center/hazelcast-management-center-4.0.tar.gz",
-            "size": "108 MB"
-          }
-        },
-        "documentation": {
-          "html": "http://docs.hazelcast.org/docs/management-center/4.0/manual/html/index.html",
-          "pdf": "http://docs.hazelcast.org/docs/management-center/4.0/manual/pdf/hazelcast-management-center-documentation-4.0.pdf",
-          "releaseNotes": "http://docs.hazelcast.org/docs/management-center/rn/index.html#4-0"
-        }
-      },
-      {
-        "version": "3.12.18",
-        "date": "2022-08-23",
-        "downloads": {
-          "zip": {
-            "url": "https://repository.hazelcast.com/download/management-center/hazelcast-management-center-3.12.18.zip",
-            "size": "91.4 MB"
-          },
-          "tar": {
-            "url": "https://repository.hazelcast.com/download/management-center/hazelcast-management-center-3.12.18.tar.gz",
-            "size": "91.5 MB"
-          }
-        },
-        "documentation": {
-          "html": "http://docs.hazelcast.org/docs/management-center/3.12.18/manual/html/index.html",
-          "pdf": "http://docs.hazelcast.org/docs/management-center/3.12.18/manual/pdf/hazelcast-management-center-documentation-3.12.18.pdf",
-          "releaseNotes": "http://docs.hazelcast.org/docs/management-center/rn/index.html#3-12-18"
-        }
-      },
-      {
-        "version": "3.12.17",
-        "date": "2021-06-28",
-        "downloads": {
-          "zip": {
-            "url": "https://repository.hazelcast.com/download/management-center/hazelcast-management-center-3.12.17.zip",
-            "size": "88.4 MB"
-          },
-          "tar": {
-            "url": "https://repository.hazelcast.com/download/management-center/hazelcast-management-center-3.12.17.tar.gz",
-            "size": "88.4 MB"
-          }
-        },
-        "documentation": {
-          "html": "http://docs.hazelcast.org/docs/management-center/3.12.17/manual/html/index.html",
-          "pdf": "http://docs.hazelcast.org/docs/management-center/3.12.17/manual/pdf/hazelcast-management-center-documentation-3.12.17.pdf",
-          "releaseNotes": "http://docs.hazelcast.org/docs/management-center/rn/index.html#3-12-17"
-        }
-      },
-      {
-        "version": "3.12.16",
-        "date": "2021-05-08",
-        "downloads": {
-          "zip": {
-            "url": "https://repository.hazelcast.com/download/management-center/hazelcast-management-center-3.12.16.zip",
-            "size": "88.4 MB"
-          },
-          "tar": {
-            "url": "https://repository.hazelcast.com/download/management-center/hazelcast-management-center-3.12.16.tar.gz",
-            "size": "88.4 MB"
-          }
-        },
-        "documentation": {
-          "html": "http://docs.hazelcast.org/docs/management-center/3.12.16/manual/html/index.html",
-          "pdf": "http://docs.hazelcast.org/docs/management-center/3.12.16/manual/pdf/hazelcast-management-center-documentation-3.12.16.pdf",
-          "releaseNotes": "http://docs.hazelcast.org/docs/management-center/rn/index.html#3-12-16"
-        }
-      },
-      {
-        "version": "3.12.15",
-        "date": "2021-03-11",
-        "downloads": {
-          "zip": {
-            "url": "https://repository.hazelcast.com/download/management-center/hazelcast-management-center-3.12.15.zip",
-            "size": "88.1 MB"
-          },
-          "tar": {
-            "url": "https://repository.hazelcast.com/download/management-center/hazelcast-management-center-3.12.15.tar.gz",
-            "size": "88.1 MB"
-          }
-        },
-        "documentation": {
-          "html": "http://docs.hazelcast.org/docs/management-center/3.12.15/manual/html/index.html",
-          "pdf": "http://docs.hazelcast.org/docs/management-center/3.12.15/manual/pdf/hazelcast-management-center-documentation-3.12.15.pdf",
-          "releaseNotes": "http://docs.hazelcast.org/docs/management-center/rn/index.html#3-12-15"
-        }
-      },
-      {
-        "version": "3.12.14",
-        "date": "2020-12-28",
-        "downloads": {
-          "zip": {
-            "url": "https://repository.hazelcast.com/download/management-center/hazelcast-management-center-3.12.14.zip",
-            "size": "90.7 MB"
-          },
-          "tar": {
-            "url": "https://repository.hazelcast.com/download/management-center/hazelcast-management-center-3.12.14.tar.gz",
-            "size": "90.7 MB"
-          }
-        },
-        "documentation": {
-          "html": "http://docs.hazelcast.org/docs/management-center/3.12.14/manual/html/index.html",
-          "pdf": "http://docs.hazelcast.org/docs/management-center/3.12.14/manual/pdf/hazelcast-management-center-documentation-3.12.14.pdf",
-          "releaseNotes": "http://docs.hazelcast.org/docs/management-center/rn/index.html#3-12-14"
-        }
-      },
-      {
-        "version": "3.12.13",
-        "date": "2020-11-13",
-        "downloads": {
-          "zip": {
-            "url": "https://repository.hazelcast.com/download/management-center/hazelcast-management-center-3.12.13.zip",
-            "size": "89.2 MB"
-          },
-          "tar": {
-            "url": "https://repository.hazelcast.com/download/management-center/hazelcast-management-center-3.12.13.tar.gz",
-            "size": "89.2 MB"
-          }
-        },
-        "documentation": {
-          "html": "http://docs.hazelcast.org/docs/management-center/3.12.13/manual/html/index.html",
-          "pdf": "http://docs.hazelcast.org/docs/management-center/3.12.13/manual/pdf/hazelcast-management-center-documentation-3.12.13.pdf",
-          "releaseNotes": "http://docs.hazelcast.org/docs/management-center/rn/index.html#3-12-13"
-        }
-      },
-      {
-        "version": "3.12.12",
-        "date": "2020-09-08",
-        "downloads": {
-          "zip": {
-            "url": "https://repository.hazelcast.com/download/management-center/hazelcast-management-center-3.12.12.zip",
-            "size": "84.3 MB"
-          },
-          "tar": {
-            "url": "https://repository.hazelcast.com/download/management-center/hazelcast-management-center-3.12.12.tar.gz",
-            "size": "84.3 MB"
-          }
-        },
-        "documentation": {
-          "html": "http://docs.hazelcast.org/docs/management-center/3.12.12/manual/html/index.html",
-          "pdf": "http://docs.hazelcast.org/docs/management-center/3.12.12/manual/pdf/hazelcast-management-center-documentation-3.12.12.pdf",
-          "releaseNotes": "http://docs.hazelcast.org/docs/management-center/rn/index.html#3-12-12"
-        }
-      },
-      {
-        "version": "3.12.11",
-        "date": "2020-07-13",
-        "downloads": {
-          "zip": {
-            "url": "https://repository.hazelcast.com/download/management-center/hazelcast-management-center-3.12.11.zip",
-            "size": "60.4 MB"
-          },
-          "tar": {
-            "url": "https://repository.hazelcast.com/download/management-center/hazelcast-management-center-3.12.11.tar.gz",
-            "size": "60.4 MB"
-          }
-        },
-        "documentation": {
-          "html": "http://docs.hazelcast.org/docs/management-center/3.12.11/manual/html/index.html",
-          "pdf": "http://docs.hazelcast.org/docs/management-center/3.12.11/manual/pdf/hazelcast-management-center-documentation-3.12.11.pdf",
-          "releaseNotes": "http://docs.hazelcast.org/docs/management-center/rn/index.html#3-12-11"
-        }
-      },
-      {
-        "version": "3.12.10",
-        "date": "2020-06-05",
-        "downloads": {
-          "zip": {
-            "url": "https://repository.hazelcast.com/download/management-center/hazelcast-management-center-3.12.10.zip",
-            "size": "60.3 MB"
-          },
-          "tar": {
-            "url": "https://repository.hazelcast.com/download/management-center/hazelcast-management-center-3.12.10.tar.gz",
-            "size": "60.3 MB"
-          }
-        },
-        "documentation": {
-          "html": "http://docs.hazelcast.org/docs/management-center/3.12.10/manual/html/index.html",
-          "pdf": "http://docs.hazelcast.org/docs/management-center/3.12.10/manual/pdf/hazelcast-management-center-documentation-3.12.10.pdf",
-          "releaseNotes": "http://docs.hazelcast.org/docs/management-center/rn/index.html#3-12-10"
-        }
-      },
-      {
-        "version": "3.12.9",
-        "date": "2020-03-17",
-        "downloads": {
-          "zip": {
-            "url": "https://repository.hazelcast.com/download/management-center/hazelcast-management-center-3.12.9.zip",
-            "size": "61 MB"
-          },
-          "tar": {
-            "url": "https://repository.hazelcast.com/download/management-center/hazelcast-management-center-3.12.9.tar.gz",
-            "size": "61 MB"
-          }
-        },
-        "documentation": {
-          "html": "http://docs.hazelcast.org/docs/management-center/3.12.9/manual/html/index.html",
-          "pdf": "http://docs.hazelcast.org/docs/management-center/3.12.9/manual/pdf/hazelcast-management-center-documentation-3.12.9.pdf",
-          "releaseNotes": "http://docs.hazelcast.org/docs/management-center/rn/index.html#3-12-9"
-        }
-      },
-      {
-        "version": "3.12.8",
-        "date": "2019-12-19",
-        "downloads": {
-          "zip": {
-            "url": "https://repository.hazelcast.com/download/management-center/hazelcast-management-center-3.12.8.zip",
-            "size": "57 MB"
-          },
-          "tar": {
-            "url": "https://repository.hazelcast.com/download/management-center/hazelcast-management-center-3.12.8.tar.gz",
-            "size": "57 MB"
-          }
-        },
-        "documentation": {
-          "html": "http://docs.hazelcast.org/docs/management-center/3.12.8/manual/html/index.html",
-          "pdf": "http://docs.hazelcast.org/docs/management-center/3.12.8/manual/pdf/hazelcast-management-center-documentation-3.12.8.pdf",
-          "releaseNotes": "http://docs.hazelcast.org/docs/management-center/rn/index.html#3-12-8"
-        }
-      },
-      {
-        "version": "3.12.7",
-        "date": "2019-11-11",
-        "downloads": {
-          "zip": {
-            "url": "https://repository.hazelcast.com/download/management-center/hazelcast-management-center-3.12.7.zip",
-            "size": "57.1 MB"
-          },
-          "tar": {
-            "url": "https://repository.hazelcast.com/download/management-center/hazelcast-management-center-3.12.7.tar.gz",
-            "size": "57.1 MB"
-          }
-        },
-        "documentation": {
-          "html": "http://docs.hazelcast.org/docs/management-center/3.12.7/manual/html/index.html",
-          "pdf": "http://docs.hazelcast.org/docs/management-center/3.12.7/manual/pdf/hazelcast-management-center-documentation-3.12.7.pdf",
-          "releaseNotes": "http://docs.hazelcast.org/docs/management-center/rn/index.html#3-12-7"
-        }
-      },
-      {
-        "version": "3.12.6",
-        "date": "2019-10-10",
-        "downloads": {
-          "zip": {
-            "url": "https://repository.hazelcast.com/download/management-center/hazelcast-management-center-3.12.6.zip",
-            "size": "57.1 MB"
-          },
-          "tar": {
-            "url": "https://repository.hazelcast.com/download/management-center/hazelcast-management-center-3.12.6.tar.gz",
-            "size": "57.1 MB"
-          }
-        },
-        "documentation": {
-          "html": "http://docs.hazelcast.org/docs/management-center/3.12.6/manual/html/index.html",
-          "pdf": "http://docs.hazelcast.org/docs/management-center/3.12.6/manual/pdf/hazelcast-management-center-documentation-3.12.6.pdf",
-          "releaseNotes": "http://docs.hazelcast.org/docs/management-center/rn/index.html#3-12-6"
-        }
-      },
-      {
-        "version": "3.12.5",
-        "date": "2019-09-02",
-        "downloads": {
-          "zip": {
-            "url": "https://repository.hazelcast.com/download/management-center/hazelcast-management-center-3.12.5.zip",
-            "size": "56.9 MB"
-          },
-          "tar": {
-            "url": "https://repository.hazelcast.com/download/management-center/hazelcast-management-center-3.12.5.tar.gz",
-            "size": "56.8 MB"
-          }
-        },
-        "documentation": {
-          "html": "http://docs.hazelcast.org/docs/management-center/3.12.5/manual/html/index.html",
-          "pdf": "http://docs.hazelcast.org/docs/management-center/3.12.5/manual/pdf/hazelcast-management-center-documentation-3.12.5.pdf",
-          "releaseNotes": "http://docs.hazelcast.org/docs/management-center/rn/index.html#3-12-5"
-        }
-      },
-      {
-        "version": "3.12.4",
-        "date": "2019-08-13",
-        "downloads": {
-          "zip": {
-            "url": "https://repository.hazelcast.com/download/management-center/hazelcast-management-center-3.12.4.zip",
-            "size": "56.4 MB"
-          },
-          "tar": {
-            "url": "https://repository.hazelcast.com/download/management-center/hazelcast-management-center-3.12.4.tar.gz",
-            "size": "56.3 MB"
-          }
-        },
-        "documentation": {
-          "html": "http://docs.hazelcast.org/docs/management-center/3.12.4/manual/html/index.html",
-          "pdf": "http://docs.hazelcast.org/docs/management-center/3.12.4/manual/pdf/hazelcast-management-center-documentation-3.12.4.pdf",
-          "releaseNotes": "http://docs.hazelcast.org/docs/management-center/rn/index.html#3-12-4"
-        }
-      },
-      {
-        "version": "3.12.3",
-        "date": "2019-07-30",
-        "downloads": {
-          "zip": {
-            "url": "https://repository.hazelcast.com/download/management-center/hazelcast-management-center-3.12.3.zip",
-            "size": "57.1 MB"
-          },
-          "tar": {
-            "url": "https://repository.hazelcast.com/download/management-center/hazelcast-management-center-3.12.3.tar.gz",
-            "size": "57.1 MB"
-          }
-        },
-        "documentation": {
-          "html": "http://docs.hazelcast.org/docs/management-center/3.12.3/manual/html/index.html",
-          "pdf": "http://docs.hazelcast.org/docs/management-center/3.12.3/manual/pdf/hazelcast-management-center-documentation-3.12.3.pdf",
-          "releaseNotes": "http://docs.hazelcast.org/docs/management-center/rn/index.html#3-12-3"
-        }
-      },
-      {
-        "version": "3.12.2",
-        "date": "2019-07-18",
-        "downloads": {
-          "zip": {
-            "url": "https://repository.hazelcast.com/download/management-center/hazelcast-management-center-3.12.2.zip",
-            "size": "57.1 MB"
-          },
-          "tar": {
-            "url": "https://repository.hazelcast.com/download/management-center/hazelcast-management-center-3.12.2.tar.gz",
-            "size": "57.1 MB"
-          }
-        },
-        "documentation": {
-          "html": "http://docs.hazelcast.org/docs/management-center/3.12.2/manual/html/index.html",
-          "pdf": "http://docs.hazelcast.org/docs/management-center/3.12.2/manual/pdf/hazelcast-management-center-documentation-3.12.2.pdf",
-          "releaseNotes": "http://docs.hazelcast.org/docs/management-center/rn/index.html#3-12-2"
-        }
-      },
-      {
-        "version": "3.12.1",
-        "date": "2019-06-19",
-        "downloads": {
-          "zip": {
-            "url": "https://repository.hazelcast.com/download/management-center/hazelcast-management-center-3.12.1.zip",
-            "size": "60.1 MB"
-          },
-          "tar": {
-            "url": "https://repository.hazelcast.com/download/management-center/hazelcast-management-center-3.12.1.tar.gz",
-            "size": "60.1 MB"
-          }
-        },
-        "documentation": {
-          "html": "http://docs.hazelcast.org/docs/management-center/3.12.1/manual/html/index.html",
-          "pdf": "https://docs.hazelcast.org/docs/management-center/3.12.1/manual/pdf/hazelcast-management-center-documentation-3.12.1.pdf",
-          "releaseNotes": "http://docs.hazelcast.org/docs/management-center/rn/index.html#3-12-1"
-        }
-      },
-      {
-        "version": "3.12",
-        "date": "2019-04-09",
-        "downloads": {
-          "zip": {
-            "url": "https://repository.hazelcast.com/download/management-center/hazelcast-management-center-3.12.zip",
-            "size": "57 MB"
-          },
-          "tar": {
-            "url": "https://repository.hazelcast.com/download/management-center/hazelcast-management-center-3.12.tar.gz",
-            "size": "57 MB"
-          }
-        },
-        "documentation": {
-          "html": "http://docs.hazelcast.org/docs/management-center/3.12/manual/html/index.html",
-          "pdf": "http://docs.hazelcast.org/docs/management-center/3.12/manual/pdf/hazelcast-management-center-documentation-3.12.pdf",
-          "releaseNotes": "http://docs.hazelcast.org/docs/management-center/rn/index.html#3-12"
-        }
-      },
-      {
-        "version": "3.11.4",
-        "date": "2020-10-01",
-        "downloads": {
-          "zip": {
-            "url": "https://repository.hazelcast.com/download/management-center/hazelcast-management-center-3.11.4.zip",
-            "size": "52.9 MB"
-          },
-          "tar": {
-            "url": "https://repository.hazelcast.com/download/management-center/hazelcast-management-center-3.11.4.tar.gz",
-            "size": "52.9 MB"
-          }
-        },
-        "documentation": {
-          "html": "http://docs.hazelcast.org/docs/management-center/3.11.4/manual/html/index.html",
-          "pdf": "http://docs.hazelcast.org/docs/management-center/3.11.4/manual/pdf/hazelcast-management-center-documentation-3.11.4.pdf",
-          "releaseNotes": "http://docs.hazelcast.org/docs/management-center/rn/index.html#3-11-4"
-        }
-      },
-      {
-        "version": "3.11.3",
-        "date": "2019-01-31",
-        "downloads": {
-          "zip": {
-            "url": "https://repository.hazelcast.com/download/management-center/hazelcast-management-center-3.11.3.zip",
-            "size": "52.9 MB"
-          },
-          "tar": {
-            "url": "https://repository.hazelcast.com/download/management-center/hazelcast-management-center-3.11.3.tar.gz",
-            "size": "52.9 MB"
-          }
-        },
-        "documentation": {
-          "html": "http://docs.hazelcast.org/docs/management-center/3.11.3/manual/html/index.html",
-          "pdf": "http://docs.hazelcast.org/docs/management-center/3.11.3/manual/pdf/hazelcast-management-center-documentation-3.11.3.pdf",
-          "releaseNotes": "http://docs.hazelcast.org/docs/management-center/rn/index.html#3-11-3"
-        }
-      },
-      {
-        "version": "3.11.2",
-        "date": "2018-12-14",
-        "downloads": {
-          "zip": {
-            "url": "https://repository.hazelcast.com/download/management-center/hazelcast-management-center-3.11.2.zip",
-            "size": "43.8 MB"
-          },
-          "tar": {
-            "url": "https://repository.hazelcast.com/download/management-center/hazelcast-management-center-3.11.2.tar.gz",
-            "size": "43.8 MB"
-          }
-        },
-        "documentation": {
-          "html": "http://docs.hazelcast.org/docs/management-center/3.11.2/manual/html/index.html",
-          "pdf": "http://docs.hazelcast.org/docs/management-center/3.11.2/manual/pdf/hazelcast-management-center-documentation-3.11.2.pdf",
-          "releaseNotes": "http://docs.hazelcast.org/docs/management-center/rn/index.html#3-11-2"
-        }
-      },
-      {
-        "version": "3.11.1",
-        "date": "2018-11-30",
-        "downloads": {
-          "zip": {
-            "url": "https://repository.hazelcast.com/download/management-center/hazelcast-management-center-3.11.1.zip",
-            "size": "43.8 MB"
-          },
-          "tar": {
-            "url": "https://repository.hazelcast.com/download/management-center/hazelcast-management-center-3.11.1.tar.gz",
-            "size": "43.8 MB"
-          }
-        },
-        "documentation": {
-          "html": "http://docs.hazelcast.org/docs/management-center/3.11.1/manual/html/index.html",
-          "pdf": "http://docs.hazelcast.org/docs/management-center/3.11.1/manual/pdf/hazelcast-management-center-documentation-3.11.1.pdf",
-          "releaseNotes": "http://docs.hazelcast.org/docs/management-center/rn/index.html#3-11-1"
-        }
-      },
-      {
-        "version": "3.11",
-        "date": "2018-10-23",
-        "downloads": {
-          "zip": {
-            "url": "https://repository.hazelcast.com/download/management-center/hazelcast-management-center-3.11.zip",
-            "size": "43.4 MB"
-          },
-          "tar": {
-            "url": "https://repository.hazelcast.com/download/management-center/hazelcast-management-center-3.11.tar.gz",
-            "size": "43.4 MB"
-          }
-        },
-        "documentation": {
-          "html": "http://docs.hazelcast.org/docs/management-center/3.11/manual/html/index.html",
-          "pdf": "http://docs.hazelcast.org/docs/management-center/3.11/manual/pdf/hazelcast-management-center-documentation-3.11.pdf",
-          "releaseNotes": "http://docs.hazelcast.org/docs/management-center/rn/index.html#3-11"
-        }
-      },
-      {
-        "version": "3.10.4",
-        "date": "2019-09-18",
-        "downloads": {
-          "zip": {
-            "url": "https://repository.hazelcast.com/download/management-center/hazelcast-management-center-3.10.4.zip",
-            "size": "41.2 MB"
-          },
-          "tar": {
-            "url": "https://repository.hazelcast.com/download/management-center/hazelcast-management-center-3.10.4.tar.gz",
-            "size": "41.2 MB"
-          }
-        },
-        "documentation": {
-          "html": "http://docs.hazelcast.org/docs/management-center/3.10.4/manual/html/index.html",
-          "pdf": "http://docs.hazelcast.org/docs/management-center/3.10.4/manual/pdf/hazelcast-management-center-documentation-3.10.4.pdf",
-          "releaseNotes": "http://docs.hazelcast.org/docs/management-center/rn/index.html#3-10-4"
-        }
-      },
-      {
-        "version": "3.10.3",
-        "date": "2018-09-07",
-        "downloads": {
-          "zip": {
-            "url": "https://repository.hazelcast.com/download/management-center/hazelcast-management-center-3.10.3.zip",
-            "size": "41.2 MB"
-          },
-          "tar": {
-            "url": "https://repository.hazelcast.com/download/management-center/hazelcast-management-center-3.10.3.tar.gz",
-            "size": "41.2 MB"
-          }
-        },
-        "documentation": {
-          "html": "http://docs.hazelcast.org/docs/management-center/3.10.3/manual/html/index.html",
-          "pdf": "http://docs.hazelcast.org/docs/management-center/3.10.3/manual/pdf/hazelcast-management-center-documentation-3.10.3.pdf",
-          "releaseNotes": "http://docs.hazelcast.org/docs/management-center/rn/index.html#3-10-3"
-        }
-      },
-      {
-        "version": "3.10.2",
-        "date": "2018-07-02",
-        "downloads": {
-          "zip": {
-            "url": "https://repository.hazelcast.com/download/management-center/hazelcast-management-center-3.10.2.zip",
-            "size": "40.4 MB"
-          },
-          "tar": {
-            "url": "https://repository.hazelcast.com/download/management-center/hazelcast-management-center-3.10.2.tar.gz",
-            "size": "40.4 MB"
-          }
-        },
-        "documentation": {
-          "html": "http://docs.hazelcast.org/docs/management-center/3.10.2/manual/html/index.html",
-          "pdf": "http://docs.hazelcast.org/docs/management-center/3.10.2/manual/pdf/hazelcast-management-center-documentation-3.10.2.pdf",
-          "releaseNotes": "http://docs.hazelcast.org/docs/management-center/rn/index.html#3-10-2"
-        }
-      },
-      {
-        "version": "3.10.1",
-        "date": "2018-05-28",
-        "downloads": {
-          "zip": {
-            "url": "https://repository.hazelcast.com/download/management-center/hazelcast-management-center-3.10.1.zip",
-            "size": "39 MB"
-          },
-          "tar": {
-            "url": "https://repository.hazelcast.com/download/management-center/hazelcast-management-center-3.10.1.tar.gz",
-            "size": "39 MB"
-          }
-        },
-        "documentation": {
-          "html": "http://docs.hazelcast.org/docs/management-center/3.10.1/manual/html/index.html",
-          "pdf": "http://docs.hazelcast.org/docs/management-center/3.10.1/manual/pdf/hazelcast-management-center-documentation-3.10.1.pdf",
-          "releaseNotes": "http://docs.hazelcast.org/docs/management-center/rn/index.html#3-10-1"
-        }
-      },
-      {
-        "version": "3.10",
-        "date": "2018-05-03",
-        "downloads": {
-          "zip": {
-            "url": "https://repository.hazelcast.com/download/management-center/hazelcast-management-center-3.10.zip",
-            "size": "26.5 MB"
-          },
-          "tar": {
-            "url": "https://repository.hazelcast.com/download/management-center/hazelcast-management-center-3.10.tar.gz",
-            "size": "26.5 MB"
-          }
-        },
-        "documentation": {
-          "html": "http://docs.hazelcast.org/docs/management-center/3.10/manual/html/index.html",
-          "pdf": "http://docs.hazelcast.org/docs/management-center/3.10/manual/pdf/hazelcast-management-center-documentation-3.10.pdf",
-          "releaseNotes": "http://docs.hazelcast.org/docs/management-center/rn/index.html#3-10"
-        }
-      },
-      {
-        "version": "3.9.4",
-        "date": "2018-04-09",
-        "downloads": {
-          "zip": {
-            "url": "https://repository.hazelcast.com/download/management-center/management-center-3.9.4.zip",
-            "size": "20.8 MB"
-          },
-          "tar": {
-            "url": "https://repository.hazelcast.com/download/management-center/management-center-3.9.4.tar.gz",
-            "size": "20.8 MB"
-          }
-        },
-        "documentation": {
-          "html": "http://docs.hazelcast.org/docs/management-center/3.9.4/manual/html/index.html",
-          "pdf": "http://docs.hazelcast.org/docs/management-center/3.9.4/manual/pdf/management-center-documentation-3.9.4.pdf",
-          "releaseNotes": "http://docs.hazelcast.org/docs/management-center/rn/index.html#3-9-4"
-        }
-      },
-      {
-        "version": "3.9.3",
-        "date": "2018-03-22",
-        "downloads": {
-          "zip": {
-            "url": "https://repository.hazelcast.com/download/management-center/management-center-3.9.3.zip",
-            "size": "20.8 MB"
-          },
-          "tar": {
-            "url": "https://repository.hazelcast.com/download/management-center/management-center-3.9.3.tar.gz",
-            "size": "20.8 MB"
-          }
-        },
-        "documentation": {
-          "html": "http://docs.hazelcast.org/docs/management-center/3.9.3/manual/html/index.html",
-          "pdf": "http://docs.hazelcast.org/docs/management-center/3.9.3/manual/pdf/management-center-documentation-3.9.3.pdf",
-          "releaseNotes": "http://docs.hazelcast.org/docs/management-center/rn/index.html#3-9-3"
-        }
-      },
-      {
-        "version": "3.9.2",
-        "date": "2018-01-31",
-        "downloads": {
-          "zip": {
-            "url": "https://repository.hazelcast.com/download/management-center/management-center-3.9.2.zip",
-            "size": "20.8 MB"
-          },
-          "tar": {
-            "url": "https://repository.hazelcast.com/download/management-center/management-center-3.9.2.tar.gz",
-            "size": "20.6 MB"
-          }
-        },
-        "documentation": {
-          "html": "http://docs.hazelcast.org/docs/management-center/3.9.2/manual/html/index.html",
-          "pdf": "http://docs.hazelcast.org/docs/management-center/3.9.2/manual/pdf/management-center-documentation-3.9.2.pdf",
-          "releaseNotes": "http://docs.hazelcast.org/docs/management-center/rn/index.html#3-9-2"
-        }
-      },
-      {
-        "version": "3.9.1",
-        "date": "2017-11-29",
-        "downloads": {
-          "zip": {
-            "url": "https://repository.hazelcast.com/download/management-center/management-center-3.9.1.zip",
-            "size": "24 MB"
-          },
-          "tar": {
-            "url": "https://repository.hazelcast.com/download/management-center/management-center-3.9.1.tar.gz",
-            "size": "24 MB"
-          }
-        },
-        "documentation": {
-          "html": "http://docs.hazelcast.org/docs/management-center/3.9.1/manual/html/index.html",
-          "pdf": "http://docs.hazelcast.org/docs/management-center/3.9.1/manual/pdf/management-center-documentation-3.9.1.pdf",
-          "releaseNotes": "http://docs.hazelcast.org/docs/management-center/rn/index.html#3-9-1"
-        }
-      },
-      {
-        "version": "3.9",
-        "date": "2017-10-27",
-        "downloads": {
-          "zip": {
-            "url": "https://repository.hazelcast.com/download/management-center/management-center-3.9.zip",
-            "size": "24 MB"
-          },
-          "tar": {
-            "url": "https://repository.hazelcast.com/download/management-center/management-center-3.9.tar.gz",
-            "size": "24 MB"
-          }
-        },
-        "documentation": {
-          "html": "http://docs.hazelcast.org/docs/management-center/3.9/manual/html/index.html",
-          "pdf": "http://docs.hazelcast.org/docs/management-center/3.9/manual/pdf/management-center-documentation-3.9.pdf",
-          "releaseNotes": "http://docs.hazelcast.org/docs/management-center/rn/index.html#3-9"
-        }
-      },
-      {
-        "version": "3.8.5",
-        "date": "2017-10-27",
-        "downloads": {
-          "zip": {
-            "url": "https://repository.hazelcast.com/download/management-center/management-center-3.8.5.zip",
-            "size": "22.0 MB"
-          },
-          "tar": {
-            "url": "https://repository.hazelcast.com/download/management-center/management-center-3.8.5.tar.gz",
-            "size": "21.9 MB"
-          }
-        },
-        "documentation": {
-          "html": "http://docs.hazelcast.org/docs/management-center/3.8.5/manual/html/index.html",
-          "pdf": "http://docs.hazelcast.org/docs/management-center/3.8.5/manual/pdf/management-center-documentation-3.8.5.pdf",
-          "releaseNotes": "http://docs.hazelcast.org/docs/management-center/rn/index.html#3-8-5"
-        }
-      },
-      {
-        "version": "3.8.4",
-        "date": "2017-08-16",
-        "downloads": {
-          "zip": {
-            "url": "https://repository.hazelcast.com/download/management-center/management-center-3.8.4.zip",
-            "size": "22.7 MB"
-          },
-          "tar": {
-            "url": "https://repository.hazelcast.com/download/management-center/management-center-3.8.4.tar.gz",
-            "size": "22.6 MB"
-          }
-        },
-        "documentation": {
-          "html": "http://docs.hazelcast.org/docs/management-center/3.8.4/manual/html/index.html",
-          "pdf": "http://docs.hazelcast.org/docs/management-center/3.8.4/manual/pdf/management-center-documentation-3.8.4.pdf",
-          "releaseNotes": "http://docs.hazelcast.org/docs/management-center/rn/index.html#3-8-4"
-        }
-      },
-      {
-        "version": "3.8.3",
-        "date": "2017-06-21",
-        "downloads": {
-          "zip": {
-            "url": "https://repository.hazelcast.com/download/management-center/management-center-3.8.3.zip",
-            "size": "22.7 MB"
-          },
-          "tar": {
-            "url": "https://repository.hazelcast.com/download/management-center/management-center-3.8.3.tar.gz",
-            "size": "22.6 MB"
-          }
-        },
-        "documentation": {
-          "html": "http://docs.hazelcast.org/docs/management-center/3.8.3/manual/html/index.html",
-          "pdf": "http://docs.hazelcast.org/docs/management-center/3.8.3/manual/pdf/management-center-documentation-3.8.3.pdf",
-          "releaseNotes": "http://docs.hazelcast.org/docs/management-center/rn/index.html#3-8-3"
-        }
-      }
-    ],
-    "development": {
-      "status": "HIDE",
-      "versions": [
-        {
-          "version": "5.4.0-BETA-2",
-          "date": "2024-02-13",
-          "downloads": {
-            "zip": {
-              "url": "https://repository.hazelcast.com/download/management-center/hazelcast-management-center-5.4.0-BETA-2.zip",
-              "size": "227.8 MB"
-            },
-            "tar": {
-              "url": "https://repository.hazelcast.com/download/management-center/hazelcast-management-center-5.4.0-BETA-2.tar.gz",
-              "size": "227.8 MB"
-            }
-          },
-          "documentation": {
-            "html": "https://docs.hazelcast.com/management-center/5.4.0-BETA-2/",
-            "releaseNotes": "https://docs.hazelcast.com/management-center/5.4.0-beta-2/release-notes/5-4-0-beta-2"
-          }
-        }
-      ]
+    {
+      "version": "5.9.0",
+      "date": "2025-10-15",
+      "downloads": {
+        "zip": {
+          "url": "https://repository.hazelcast.com/download/management-center/hazelcast-management-center-5.9.0.zip",
+          "size": 334600601
+        },
+        "tar": {
+          "url": "https://repository.hazelcast.com/download/management-center/hazelcast-management-center-5.9.0.tar.gz",
+          "size": 334286028
+        }
+      },
+      "documentation": {
+        "html": "https://docs.hazelcast.com/management-center/5.9/",
+        "releaseNotes": "https://docs.hazelcast.com/management-center/5.9/release-notes/5-9-0"
+      },
+      "stability": "stable"
+    },
+    {
+      "version": "5.8.0",
+      "date": "2025-05-14",
+      "downloads": {
+        "zip": {
+          "url": "https://repository.hazelcast.com/download/management-center/hazelcast-management-center-5.8.0.zip",
+          "size": 269169459
+        },
+        "tar": {
+          "url": "https://repository.hazelcast.com/download/management-center/hazelcast-management-center-5.8.0.tar.gz",
+          "size": 269169459
+        }
+      },
+      "documentation": {
+        "html": "https://docs.hazelcast.com/management-center/5.8/",
+        "releaseNotes": "https://docs.hazelcast.com/management-center/5.8/release-notes/5-8-0"
+      },
+      "stability": "stable"
+    },
+    {
+      "version": "5.7.1",
+      "date": "2025-02-19",
+      "downloads": {
+        "zip": {
+          "url": "https://repository.hazelcast.com/download/management-center/hazelcast-management-center-5.7.1.zip",
+          "size": 256450232
+        },
+        "tar": {
+          "url": "https://repository.hazelcast.com/download/management-center/hazelcast-management-center-5.7.1.tar.gz",
+          "size": 256450232
+        }
+      },
+      "documentation": {
+        "html": "https://docs.hazelcast.com/management-center/5.7/",
+        "releaseNotes": "https://docs.hazelcast.com/management-center/5.7/release-notes/5-7-1"
+      },
+      "stability": "stable"
+    },
+    {
+      "version": "5.7.0",
+      "date": "2025-02-12",
+      "downloads": {
+        "zip": {
+          "url": "https://repository.hazelcast.com/download/management-center/hazelcast-management-center-5.7.0.zip",
+          "size": 256481689
+        },
+        "tar": {
+          "url": "https://repository.hazelcast.com/download/management-center/hazelcast-management-center-5.7.0.tar.gz",
+          "size": 256481689
+        }
+      },
+      "documentation": {
+        "html": "https://docs.hazelcast.com/management-center/5.7/",
+        "releaseNotes": "https://docs.hazelcast.com/management-center/5.7/release-notes/5-7-0"
+      },
+      "stability": "stable"
+    },
+    {
+      "version": "5.6.0",
+      "date": "2024-10-21",
+      "downloads": {
+        "zip": {
+          "url": "https://repository.hazelcast.com/download/management-center/hazelcast-management-center-5.6.0.zip",
+          "size": 252601958
+        },
+        "tar": {
+          "url": "https://repository.hazelcast.com/download/management-center/hazelcast-management-center-5.6.0.tar.gz",
+          "size": 252601958
+        }
+      },
+      "documentation": {
+        "html": "https://docs.hazelcast.com/management-center/5.6/",
+        "releaseNotes": "https://docs.hazelcast.com/management-center/5.6/release-notes/5-6-0"
+      },
+      "stability": "stable"
+    },
+    {
+      "version": "5.5.2",
+      "date": "2024-09-02",
+      "downloads": {
+        "zip": {
+          "url": "https://repository.hazelcast.com/download/management-center/hazelcast-management-center-5.5.2.zip",
+          "size": 251553382
+        },
+        "tar": {
+          "url": "https://repository.hazelcast.com/download/management-center/hazelcast-management-center-5.5.2.tar.gz",
+          "size": 251553382
+        }
+      },
+      "documentation": {
+        "html": "https://docs.hazelcast.com/management-center/5.5/",
+        "releaseNotes": "https://docs.hazelcast.com/management-center/5.5/release-notes/5-5-2"
+      },
+      "stability": "stable"
+    },
+    {
+      "version": "5.5.1",
+      "date": "2024-08-07",
+      "downloads": {
+        "zip": {
+          "url": "https://repository.hazelcast.com/download/management-center/hazelcast-management-center-5.5.1.zip",
+          "size": 251553382
+        },
+        "tar": {
+          "url": "https://repository.hazelcast.com/download/management-center/hazelcast-management-center-5.5.1.tar.gz",
+          "size": 251553382
+        }
+      },
+      "documentation": {
+        "html": "https://docs.hazelcast.com/management-center/5.5/",
+        "releaseNotes": "https://docs.hazelcast.com/management-center/5.5/release-notes/5-5-1"
+      },
+      "stability": "stable"
+    },
+    {
+      "version": "5.5.0",
+      "date": "2024-07-29",
+      "downloads": {
+        "zip": {
+          "url": "https://repository.hazelcast.com/download/management-center/hazelcast-management-center-5.5.0.zip",
+          "size": 251553382
+        },
+        "tar": {
+          "url": "https://repository.hazelcast.com/download/management-center/hazelcast-management-center-5.5.0.tar.gz",
+          "size": 251553382
+        }
+      },
+      "documentation": {
+        "html": "https://docs.hazelcast.com/management-center/5.5/",
+        "releaseNotes": "https://docs.hazelcast.com/management-center/5.5/release-notes/5-5-0"
+      },
+      "stability": "stable"
+    },
+    {
+      "version": "5.4.1",
+      "date": "2024-04-19",
+      "downloads": {
+        "zip": {
+          "url": "https://repository.hazelcast.com/download/management-center/hazelcast-management-center-5.4.1.zip",
+          "size": 244423065
+        },
+        "tar": {
+          "url": "https://repository.hazelcast.com/download/management-center/hazelcast-management-center-5.4.1.tar.gz",
+          "size": 244423065
+        }
+      },
+      "documentation": {
+        "html": "https://docs.hazelcast.com/management-center/5.4/",
+        "releaseNotes": "https://docs.hazelcast.com/management-center/5.4/release-notes/5-4-1"
+      },
+      "stability": "stable"
+    },
+    {
+      "version": "5.4.0",
+      "date": "2024-04-15",
+      "downloads": {
+        "zip": {
+          "url": "https://repository.hazelcast.com/download/management-center/hazelcast-management-center-5.4.0.zip",
+          "size": 244318208
+        },
+        "tar": {
+          "url": "https://repository.hazelcast.com/download/management-center/hazelcast-management-center-5.4.0.tar.gz",
+          "size": 244318208
+        }
+      },
+      "documentation": {
+        "html": "https://docs.hazelcast.com/management-center/5.4/",
+        "releaseNotes": "https://docs.hazelcast.com/management-center/5.4/release-notes/5-4-0"
+      },
+      "stability": "stable"
+    },
+    {
+      "version": "5.3.4",
+      "date": "2023-09-20",
+      "downloads": {
+        "zip": {
+          "url": "https://repository.hazelcast.com/download/management-center/hazelcast-management-center-5.3.4.zip",
+          "size": 168611020
+        },
+        "tar": {
+          "url": "https://repository.hazelcast.com/download/management-center/hazelcast-management-center-5.3.4.tar.gz",
+          "size": 168611020
+        }
+      },
+      "documentation": {
+        "html": "https://docs.hazelcast.com/management-center/5.3/",
+        "releaseNotes": "https://docs.hazelcast.com/management-center/5.3/release-notes/5-3-4"
+      },
+      "stability": "stable"
+    },
+    {
+      "version": "5.3.3",
+      "date": "2023-10-17",
+      "downloads": {
+        "zip": {
+          "url": "https://repository.hazelcast.com/download/management-center/hazelcast-management-center-5.3.3.zip",
+          "size": 165779865
+        },
+        "tar": {
+          "url": "https://repository.hazelcast.com/download/management-center/hazelcast-management-center-5.3.3.tar.gz",
+          "size": 165779865
+        }
+      },
+      "documentation": {
+        "html": "https://docs.hazelcast.com/management-center/5.3/",
+        "releaseNotes": "https://docs.hazelcast.com/management-center/5.3/release-notes/5-3-3"
+      },
+      "stability": "stable"
+    },
+    {
+      "version": "5.3.2",
+      "date": "2023-08-10",
+      "downloads": {
+        "zip": {
+          "url": "https://repository.hazelcast.com/download/management-center/hazelcast-management-center-5.3.2.zip",
+          "size": 165675008
+        },
+        "tar": {
+          "url": "https://repository.hazelcast.com/download/management-center/hazelcast-management-center-5.3.2.tar.gz",
+          "size": 165675008
+        }
+      },
+      "documentation": {
+        "html": "https://docs.hazelcast.com/management-center/5.3/",
+        "releaseNotes": "https://docs.hazelcast.com/management-center/5.3/release-notes/5-3-2"
+      },
+      "stability": "stable"
+    },
+    {
+      "version": "5.3.1",
+      "date": "2023-07-06",
+      "downloads": {
+        "zip": {
+          "url": "https://repository.hazelcast.com/download/management-center/hazelcast-management-center-5.3.1.zip",
+          "size": 165675008
+        },
+        "tar": {
+          "url": "https://repository.hazelcast.com/download/management-center/hazelcast-management-center-5.3.1.tar.gz",
+          "size": 165675008
+        }
+      },
+      "documentation": {
+        "html": "https://docs.hazelcast.com/management-center/5.3/",
+        "releaseNotes": "https://docs.hazelcast.com/management-center/5.3/release-notes/5-3-1"
+      },
+      "stability": "stable"
+    },
+    {
+      "version": "5.3.0",
+      "date": "2023-05-19",
+      "downloads": {
+        "zip": {
+          "url": "https://repository.hazelcast.com/download/management-center/hazelcast-management-center-5.3.0.zip",
+          "size": 164626432
+        },
+        "tar": {
+          "url": "https://repository.hazelcast.com/download/management-center/hazelcast-management-center-5.3.0.tar.gz",
+          "size": 164626432
+        }
+      },
+      "documentation": {
+        "html": "https://docs.hazelcast.com/management-center/5.3/",
+        "releaseNotes": "https://docs.hazelcast.com/management-center/5.3/release-notes/5-3-0"
+      },
+      "stability": "stable"
+    },
+    {
+      "version": "5.2.1",
+      "date": "2022-12-01",
+      "downloads": {
+        "zip": {
+          "url": "https://repository.hazelcast.com/download/management-center/hazelcast-management-center-5.2.1.zip",
+          "size": 157286400
+        },
+        "tar": {
+          "url": "https://repository.hazelcast.com/download/management-center/hazelcast-management-center-5.2.1.tar.gz",
+          "size": 157286400
+        }
+      },
+      "documentation": {
+        "html": "https://docs.hazelcast.com/management-center/5.2/",
+        "releaseNotes": "https://docs.hazelcast.com/management-center/5.2/release-notes/5-2-1"
+      },
+      "stability": "stable"
+    },
+    {
+      "version": "5.2.0",
+      "date": "2022-10-24",
+      "downloads": {
+        "zip": {
+          "url": "https://repository.hazelcast.com/download/management-center/hazelcast-management-center-5.2.1.zip",
+          "size": 157286400
+        },
+        "tar": {
+          "url": "https://repository.hazelcast.com/download/management-center/hazelcast-management-center-5.2.1.tar.gz",
+          "size": 157286400
+        }
+      },
+      "documentation": {
+        "html": "https://docs.hazelcast.com/management-center/5.2/",
+        "releaseNotes": "https://docs.hazelcast.com/management-center/5.2/release-notes/5-2-0"
+      },
+      "stability": "stable"
+    },
+    {
+      "version": "5.1.4",
+      "date": "2022-07-05",
+      "downloads": {
+        "zip": {
+          "url": "https://repository.hazelcast.com/download/management-center/hazelcast-management-center-5.1.4.zip",
+          "size": 126458265
+        },
+        "tar": {
+          "url": "https://repository.hazelcast.com/download/management-center/hazelcast-management-center-5.1.4.tar.gz",
+          "size": 126458265
+        },
+        "war": {
+          "url": "https://repository.hazelcast.com/download/management-center/hazelcast-management-center-5.1.4.war",
+          "size": 141557760
+        }
+      },
+      "documentation": {
+        "html": "https://docs.hazelcast.com/management-center/5.1/",
+        "releaseNotes": "https://docs.hazelcast.com/management-center/5.1/release-notes/5-1-4"
+      },
+      "stability": "stable"
+    },
+    {
+      "version": "5.1.3",
+      "date": "2022-04-22",
+      "downloads": {
+        "zip": {
+          "url": "https://repository.hazelcast.com/download/management-center/hazelcast-management-center-5.1.3.zip",
+          "size": 126353408
+        },
+        "tar": {
+          "url": "https://repository.hazelcast.com/download/management-center/hazelcast-management-center-5.1.3.tar.gz",
+          "size": 126353408
+        },
+        "war": {
+          "url": "https://repository.hazelcast.com/download/management-center/hazelcast-management-center-5.1.3.war",
+          "size": 141557760
+        }
+      },
+      "documentation": {
+        "html": "https://docs.hazelcast.com/management-center/5.1/",
+        "releaseNotes": "https://docs.hazelcast.com/management-center/5.1/release-notes/5-1-3"
+      },
+      "stability": "stable"
+    },
+    {
+      "version": "5.1.2",
+      "date": "2022-04-06",
+      "downloads": {
+        "zip": {
+          "url": "https://repository.hazelcast.com/download/management-center/hazelcast-management-center-5.1.2.zip",
+          "size": 126353408
+        },
+        "tar": {
+          "url": "https://repository.hazelcast.com/download/management-center/hazelcast-management-center-5.1.2.tar.gz",
+          "size": 126353408
+        },
+        "war": {
+          "url": "https://repository.hazelcast.com/download/management-center/hazelcast-management-center-5.1.2.war",
+          "size": 141557760
+        }
+      },
+      "documentation": {
+        "html": "https://docs.hazelcast.com/management-center/5.1/",
+        "releaseNotes": "https://docs.hazelcast.com/management-center/5.1/release-notes/5-1-2"
+      },
+      "stability": "stable"
+    },
+    {
+      "version": "5.1.1",
+      "date": "2022-03-01",
+      "downloads": {
+        "zip": {
+          "url": "https://repository.hazelcast.com/download/management-center/hazelcast-management-center-5.1.1.zip",
+          "size": 126353408
+        },
+        "tar": {
+          "url": "https://repository.hazelcast.com/download/management-center/hazelcast-management-center-5.1.1.tar.gz",
+          "size": 126353408
+        },
+        "war": {
+          "url": "https://repository.hazelcast.com/download/management-center/hazelcast-management-center-5.1.1.war",
+          "size": 141557760
+        }
+      },
+      "documentation": {
+        "html": "https://docs.hazelcast.com/management-center/5.1/",
+        "releaseNotes": "http://docs.hazelcast.org/docs/management-center/rn/index.html#5-1-1"
+      },
+      "stability": "stable"
+    },
+    {
+      "version": "5.0.4",
+      "date": "2021-12-20",
+      "downloads": {
+        "zip": {
+          "url": "https://repository.hazelcast.com/download/management-center/hazelcast-management-center-5.0.4.zip",
+          "size": 123627110
+        },
+        "tar": {
+          "url": "https://repository.hazelcast.com/download/management-center/hazelcast-management-center-5.0.4.tar.gz",
+          "size": 123627110
+        },
+        "war": {
+          "url": "https://repository.hazelcast.com/download/management-center/hazelcast-management-center-5.0.4.war",
+          "size": 139670323
+        }
+      },
+      "documentation": {
+        "html": "https://docs.hazelcast.com/management-center/5.0/",
+        "releaseNotes": "http://docs.hazelcast.org/docs/management-center/rn/index.html#5-0-4"
+      },
+      "stability": "stable"
+    },
+    {
+      "version": "5.0.3",
+      "date": "2021-12-14",
+      "downloads": {
+        "zip": {
+          "url": "https://repository.hazelcast.com/download/management-center/hazelcast-management-center-5.0.3.zip",
+          "size": 123627110
+        },
+        "tar": {
+          "url": "https://repository.hazelcast.com/download/management-center/hazelcast-management-center-5.0.3.tar.gz",
+          "size": 123627110
+        },
+        "war": {
+          "url": "https://repository.hazelcast.com/download/management-center/hazelcast-management-center-5.0.3.war",
+          "size": 139670323
+        }
+      },
+      "documentation": {
+        "html": "https://docs.hazelcast.com/management-center/5.0/",
+        "releaseNotes": "http://docs.hazelcast.org/docs/management-center/rn/index.html#5-0-3"
+      },
+      "stability": "stable"
+    },
+    {
+      "version": "5.0.2",
+      "date": "2021-11-16",
+      "downloads": {
+        "zip": {
+          "url": "https://repository.hazelcast.com/download/management-center/hazelcast-management-center-5.0.2.zip",
+          "size": 129499136
+        },
+        "tar": {
+          "url": "https://repository.hazelcast.com/download/management-center/hazelcast-management-center-5.0.2.tar.gz",
+          "size": 129603993
+        },
+        "war": {
+          "url": "https://repository.hazelcast.com/download/management-center/hazelcast-management-center-5.0.2.war",
+          "size": 146486067
+        }
+      },
+      "documentation": {
+        "html": "https://docs.hazelcast.com/management-center/5.0/",
+        "releaseNotes": "http://docs.hazelcast.org/docs/management-center/rn/index.html#5-0-2"
+      },
+      "stability": "stable"
+    },
+    {
+      "version": "5.0.1",
+      "date": "2021-10-26",
+      "downloads": {
+        "zip": {
+          "url": "https://repository.hazelcast.com/download/management-center/hazelcast-management-center-5.0.1.zip",
+          "size": 121425100
+        },
+        "tar": {
+          "url": "https://repository.hazelcast.com/download/management-center/hazelcast-management-center-5.0.1.tar.gz",
+          "size": 121425100
+        },
+        "war": {
+          "url": "https://repository.hazelcast.com/download/management-center/hazelcast-management-center-5.0.1.war",
+          "size": 138307174
+        }
+      },
+      "documentation": {
+        "html": "https://docs.hazelcast.com/management-center/5.0.1/",
+        "releaseNotes": "http://docs.hazelcast.org/docs/management-center/rn/index.html#5-0-1"
+      },
+      "stability": "stable"
+    },
+    {
+      "version": "5.0",
+      "date": "2021-09-22",
+      "downloads": {
+        "zip": {
+          "url": "https://repository.hazelcast.com/download/management-center/hazelcast-management-center-5.0.zip",
+          "size": 119747379
+        },
+        "tar": {
+          "url": "https://repository.hazelcast.com/download/management-center/hazelcast-management-center-5.0.tar.gz",
+          "size": 119852236
+        },
+        "war": {
+          "url": "https://repository.hazelcast.com/download/management-center/hazelcast-management-center-5.0.war",
+          "size": 144808345
+        }
+      },
+      "documentation": {
+        "html": "https://docs.hazelcast.com/management-center/5.0/",
+        "releaseNotes": "http://docs.hazelcast.org/docs/management-center/rn/index.html#5-0"
+      },
+      "stability": "stable"
+    },
+    {
+      "version": "4.2022.01",
+      "date": "2022-01-06",
+      "downloads": {
+        "zip": {
+          "url": "https://repository.hazelcast.com/download/management-center/hazelcast-management-center-4.2022.01.zip",
+          "size": 121634816
+        },
+        "tar": {
+          "url": "https://repository.hazelcast.com/download/management-center/hazelcast-management-center-4.2022.01.tar.gz",
+          "size": 121739673
+        },
+        "war": {
+          "url": "https://repository.hazelcast.com/download/management-center/hazelcast-management-center-4.2022.01.war",
+          "size": 143759769
+        }
+      },
+      "documentation": {
+        "html": "https://docs.hazelcast.com/management-center/4.2022.01/",
+        "releaseNotes": "http://docs.hazelcast.org/docs/management-center/rn/index.html#4-2022-01"
+      },
+      "stability": "stable"
+    },
+    {
+      "version": "4.2021.12-1",
+      "date": "2021-12-20",
+      "downloads": {
+        "zip": {
+          "url": "https://repository.hazelcast.com/download/management-center/hazelcast-management-center-4.2021.12-1.zip",
+          "size": 121634816
+        },
+        "tar": {
+          "url": "https://repository.hazelcast.com/download/management-center/hazelcast-management-center-4.2021.12-1.tar.gz",
+          "size": 121739673
+        },
+        "war": {
+          "url": "https://repository.hazelcast.com/download/management-center/hazelcast-management-center-4.2021.12-1.war",
+          "size": 143759769
+        }
+      },
+      "documentation": {
+        "html": "https://docs.hazelcast.com/management-center/4.2021.12-1/",
+        "releaseNotes": "http://docs.hazelcast.org/docs/management-center/rn/index.html#4-2021-12-1"
+      },
+      "stability": "stable"
+    },
+    {
+      "version": "4.2021.12",
+      "date": "2021-12-13",
+      "downloads": {
+        "zip": {
+          "url": "https://repository.hazelcast.com/download/management-center/hazelcast-management-center-4.2021.12.zip",
+          "size": 127506841
+        },
+        "tar": {
+          "url": "https://repository.hazelcast.com/download/management-center/hazelcast-management-center-4.2021.12.tar.gz",
+          "size": 127611699
+        },
+        "war": {
+          "url": "https://repository.hazelcast.com/download/management-center/hazelcast-management-center-4.2021.12.war",
+          "size": 150680371
+        }
+      },
+      "documentation": {
+        "html": "https://docs.hazelcast.com/management-center/4.2021.12/",
+        "releaseNotes": "http://docs.hazelcast.org/docs/management-center/rn/index.html#4-2021-12"
+      },
+      "stability": "stable"
+    },
+    {
+      "version": "4.2021.06",
+      "date": "2021-06-21",
+      "downloads": {
+        "zip": {
+          "url": "https://repository.hazelcast.com/download/management-center/hazelcast-management-center-4.2021.06.zip",
+          "size": 121529958
+        },
+        "tar": {
+          "url": "https://repository.hazelcast.com/download/management-center/hazelcast-management-center-4.2021.06.tar.gz",
+          "size": 121634816
+        },
+        "war": {
+          "url": "https://repository.hazelcast.com/download/management-center/hazelcast-management-center-4.2021.06.war",
+          "size": 143654912
+        }
+      },
+      "documentation": {
+        "html": "https://docs.hazelcast.com/management-center/4.2021.06/",
+        "releaseNotes": "http://docs.hazelcast.org/docs/management-center/rn/index.html#4-2021-06"
+      },
+      "stability": "stable"
+    },
+    {
+      "version": "4.2021.04",
+      "date": "2021-04-26",
+      "downloads": {
+        "zip": {
+          "url": "https://repository.hazelcast.com/download/management-center/hazelcast-management-center-4.2021.04.zip",
+          "size": 120795955
+        },
+        "tar": {
+          "url": "https://repository.hazelcast.com/download/management-center/hazelcast-management-center-4.2021.04.tar.gz",
+          "size": 120900812
+        },
+        "war": {
+          "url": "https://repository.hazelcast.com/download/management-center/hazelcast-management-center-4.2021.04.war",
+          "size": 139146035
+        }
+      },
+      "documentation": {
+        "html": "https://docs.hazelcast.com/management-center/4.2021.04/",
+        "releaseNotes": "http://docs.hazelcast.org/docs/management-center/rn/index.html#4-2021-04"
+      },
+      "stability": "stable"
+    },
+    {
+      "version": "4.2021.03",
+      "date": "2021-03-04",
+      "downloads": {
+        "zip": {
+          "url": "https://repository.hazelcast.com/download/management-center/hazelcast-management-center-4.2021.03.zip",
+          "size": 119432806
+        },
+        "tar": {
+          "url": "https://repository.hazelcast.com/download/management-center/hazelcast-management-center-4.2021.03.tar.gz",
+          "size": 119432806
+        },
+        "war": {
+          "url": "https://repository.hazelcast.com/download/management-center/hazelcast-management-center-4.2021.03.war",
+          "size": 138307174
+        }
+      },
+      "documentation": {
+        "html": "https://docs.hazelcast.com/management-center/4.2021.03/",
+        "releaseNotes": "http://docs.hazelcast.org/docs/management-center/rn/index.html#4-2021-03"
+      },
+      "stability": "stable"
+    },
+    {
+      "version": "4.2021.02",
+      "date": "2021-02-12",
+      "downloads": {
+        "zip": {
+          "url": "https://repository.hazelcast.com/download/management-center/hazelcast-management-center-4.2021.02.zip",
+          "size": 119327948
+        },
+        "tar": {
+          "url": "https://repository.hazelcast.com/download/management-center/hazelcast-management-center-4.2021.02.tar.gz",
+          "size": 119432806
+        },
+        "war": {
+          "url": "https://repository.hazelcast.com/download/management-center/hazelcast-management-center-4.2021.02.war",
+          "size": 138307174
+        }
+      },
+      "documentation": {
+        "html": "https://docs.hazelcast.com/management-center/4.2021.02/",
+        "releaseNotes": "http://docs.hazelcast.org/docs/management-center/rn/index.html#4-2021-02"
+      },
+      "stability": "stable"
+    },
+    {
+      "version": "4.2020.12",
+      "date": "2020-12-11",
+      "downloads": {
+        "zip": {
+          "url": "https://repository.hazelcast.com/download/management-center/hazelcast-management-center-4.2020.12.zip",
+          "size": 108842188
+        },
+        "tar": {
+          "url": "https://repository.hazelcast.com/download/management-center/hazelcast-management-center-4.2020.12.tar.gz",
+          "size": 108842188
+        },
+        "war": {
+          "url": "https://repository.hazelcast.com/download/management-center/hazelcast-management-center-4.2020.12.war",
+          "size": 108213043
+        }
+      },
+      "documentation": {
+        "html": "http://docs.hazelcast.org/docs/management-center/4.2020.12/manual/html/index.html",
+        "pdf": "http://docs.hazelcast.org/docs/management-center/4.2020.12/manual/pdf/hazelcast-management-center-documentation-4.2020.12.pdf",
+        "releaseNotes": "http://docs.hazelcast.org/docs/management-center/rn/index.html#4-2020-12"
+      },
+      "stability": "stable"
+    },
+    {
+      "version": "4.2020.10",
+      "date": "2020-10-29",
+      "downloads": {
+        "zip": {
+          "url": "https://repository.hazelcast.com/download/management-center/hazelcast-management-center-4.2020.10.zip",
+          "size": 105381888
+        },
+        "tar": {
+          "url": "https://repository.hazelcast.com/download/management-center/hazelcast-management-center-4.2020.10.tar.gz",
+          "size": 105486745
+        },
+        "war": {
+          "url": "https://repository.hazelcast.com/download/management-center/hazelcast-management-center-4.2020.10.war",
+          "size": 104228454
+        }
+      },
+      "documentation": {
+        "html": "http://docs.hazelcast.org/docs/management-center/4.2020.10/manual/html/index.html",
+        "pdf": "http://docs.hazelcast.org/docs/management-center/4.2020.10/manual/pdf/hazelcast-management-center-documentation-4.2020.10.pdf",
+        "releaseNotes": "http://docs.hazelcast.org/docs/management-center/rn/index.html#4-2020-10"
+      },
+      "stability": "stable"
+    },
+    {
+      "version": "4.2020.08",
+      "date": "2020-08-11",
+      "downloads": {
+        "zip": {
+          "url": "https://repository.hazelcast.com/download/management-center/hazelcast-management-center-4.2020.08.zip",
+          "size": 86717235
+        },
+        "tar": {
+          "url": "https://repository.hazelcast.com/download/management-center/hazelcast-management-center-4.2020.08.tar.gz",
+          "size": 86822092
+        }
+      },
+      "documentation": {
+        "html": "http://docs.hazelcast.org/docs/management-center/4.2020.08/manual/html/index.html",
+        "pdf": "http://docs.hazelcast.org/docs/management-center/4.2020.08/manual/pdf/hazelcast-management-center-documentation-4.2020.08.pdf",
+        "releaseNotes": "http://docs.hazelcast.org/docs/management-center/rn/index.html#4-2020-08"
+      },
+      "stability": "stable"
+    },
+    {
+      "version": "4.0.3",
+      "date": "2020-06-05",
+      "downloads": {
+        "zip": {
+          "url": "https://repository.hazelcast.com/download/management-center/hazelcast-management-center-4.0.3.zip",
+          "size": 90701824
+        },
+        "tar": {
+          "url": "https://repository.hazelcast.com/download/management-center/hazelcast-management-center-4.0.3.tar.gz",
+          "size": 90701824
+        }
+      },
+      "documentation": {
+        "html": "http://docs.hazelcast.org/docs/management-center/4.0.3/manual/html/index.html",
+        "pdf": "http://docs.hazelcast.org/docs/management-center/4.0.3/manual/pdf/hazelcast-management-center-documentation-4.0.3.pdf",
+        "releaseNotes": "http://docs.hazelcast.org/docs/management-center/rn/index.html#4-0-3"
+      },
+      "stability": "stable"
+    },
+    {
+      "version": "4.0.2",
+      "date": "2020-04-29",
+      "downloads": {
+        "zip": {
+          "url": "https://repository.hazelcast.com/download/management-center/hazelcast-management-center-4.0.2.zip",
+          "size": 92274688
+        },
+        "tar": {
+          "url": "https://repository.hazelcast.com/download/management-center/hazelcast-management-center-4.0.2.tar.gz",
+          "size": 92274688
+        }
+      },
+      "documentation": {
+        "html": "http://docs.hazelcast.org/docs/management-center/4.0.2/manual/html/index.html",
+        "pdf": "http://docs.hazelcast.org/docs/management-center/4.0.2/manual/pdf/hazelcast-management-center-documentation-4.0.2.pdf",
+        "releaseNotes": "http://docs.hazelcast.org/docs/management-center/rn/index.html#4-0-2"
+      },
+      "stability": "stable"
+    },
+    {
+      "version": "4.0.1",
+      "date": "2020-03-09",
+      "downloads": {
+        "zip": {
+          "url": "https://repository.hazelcast.com/download/management-center/hazelcast-management-center-4.0.1.zip",
+          "size": 94371840
+        },
+        "tar": {
+          "url": "https://repository.hazelcast.com/download/management-center/hazelcast-management-center-4.0.1.tar.gz",
+          "size": 94371840
+        }
+      },
+      "documentation": {
+        "html": "http://docs.hazelcast.org/docs/management-center/4.0.1/manual/html/index.html",
+        "pdf": "http://docs.hazelcast.org/docs/management-center/4.0.1/manual/pdf/hazelcast-management-center-documentation-4.0.1.pdf",
+        "releaseNotes": "http://docs.hazelcast.org/docs/management-center/rn/index.html#4-0-1"
+      },
+      "stability": "stable"
+    },
+    {
+      "version": "4.0",
+      "date": "2020-02-04",
+      "downloads": {
+        "zip": {
+          "url": "https://repository.hazelcast.com/download/management-center/hazelcast-management-center-4.0.zip",
+          "size": 113246208
+        },
+        "tar": {
+          "url": "https://repository.hazelcast.com/download/management-center/hazelcast-management-center-4.0.tar.gz",
+          "size": 113246208
+        }
+      },
+      "documentation": {
+        "html": "http://docs.hazelcast.org/docs/management-center/4.0/manual/html/index.html",
+        "pdf": "http://docs.hazelcast.org/docs/management-center/4.0/manual/pdf/hazelcast-management-center-documentation-4.0.pdf",
+        "releaseNotes": "http://docs.hazelcast.org/docs/management-center/rn/index.html#4-0"
+      },
+      "stability": "stable"
+    },
+    {
+      "version": "3.12.18",
+      "date": "2022-08-23",
+      "downloads": {
+        "zip": {
+          "url": "https://repository.hazelcast.com/download/management-center/hazelcast-management-center-3.12.18.zip",
+          "size": 95839846
+        },
+        "tar": {
+          "url": "https://repository.hazelcast.com/download/management-center/hazelcast-management-center-3.12.18.tar.gz",
+          "size": 95944704
+        }
+      },
+      "documentation": {
+        "html": "http://docs.hazelcast.org/docs/management-center/3.12.18/manual/html/index.html",
+        "pdf": "http://docs.hazelcast.org/docs/management-center/3.12.18/manual/pdf/hazelcast-management-center-documentation-3.12.18.pdf",
+        "releaseNotes": "http://docs.hazelcast.org/docs/management-center/rn/index.html#3-12-18"
+      },
+      "stability": "stable"
+    },
+    {
+      "version": "3.12.17",
+      "date": "2021-06-28",
+      "downloads": {
+        "zip": {
+          "url": "https://repository.hazelcast.com/download/management-center/hazelcast-management-center-3.12.17.zip",
+          "size": 92694118
+        },
+        "tar": {
+          "url": "https://repository.hazelcast.com/download/management-center/hazelcast-management-center-3.12.17.tar.gz",
+          "size": 92694118
+        }
+      },
+      "documentation": {
+        "html": "http://docs.hazelcast.org/docs/management-center/3.12.17/manual/html/index.html",
+        "pdf": "http://docs.hazelcast.org/docs/management-center/3.12.17/manual/pdf/hazelcast-management-center-documentation-3.12.17.pdf",
+        "releaseNotes": "http://docs.hazelcast.org/docs/management-center/rn/index.html#3-12-17"
+      },
+      "stability": "stable"
+    },
+    {
+      "version": "3.12.16",
+      "date": "2021-05-08",
+      "downloads": {
+        "zip": {
+          "url": "https://repository.hazelcast.com/download/management-center/hazelcast-management-center-3.12.16.zip",
+          "size": 92694118
+        },
+        "tar": {
+          "url": "https://repository.hazelcast.com/download/management-center/hazelcast-management-center-3.12.16.tar.gz",
+          "size": 92694118
+        }
+      },
+      "documentation": {
+        "html": "http://docs.hazelcast.org/docs/management-center/3.12.16/manual/html/index.html",
+        "pdf": "http://docs.hazelcast.org/docs/management-center/3.12.16/manual/pdf/hazelcast-management-center-documentation-3.12.16.pdf",
+        "releaseNotes": "http://docs.hazelcast.org/docs/management-center/rn/index.html#3-12-16"
+      },
+      "stability": "stable"
+    },
+    {
+      "version": "3.12.15",
+      "date": "2021-03-11",
+      "downloads": {
+        "zip": {
+          "url": "https://repository.hazelcast.com/download/management-center/hazelcast-management-center-3.12.15.zip",
+          "size": 92379545
+        },
+        "tar": {
+          "url": "https://repository.hazelcast.com/download/management-center/hazelcast-management-center-3.12.15.tar.gz",
+          "size": 92379545
+        }
+      },
+      "documentation": {
+        "html": "http://docs.hazelcast.org/docs/management-center/3.12.15/manual/html/index.html",
+        "pdf": "http://docs.hazelcast.org/docs/management-center/3.12.15/manual/pdf/hazelcast-management-center-documentation-3.12.15.pdf",
+        "releaseNotes": "http://docs.hazelcast.org/docs/management-center/rn/index.html#3-12-15"
+      },
+      "stability": "stable"
+    },
+    {
+      "version": "3.12.14",
+      "date": "2020-12-28",
+      "downloads": {
+        "zip": {
+          "url": "https://repository.hazelcast.com/download/management-center/hazelcast-management-center-3.12.14.zip",
+          "size": 95105843
+        },
+        "tar": {
+          "url": "https://repository.hazelcast.com/download/management-center/hazelcast-management-center-3.12.14.tar.gz",
+          "size": 95105843
+        }
+      },
+      "documentation": {
+        "html": "http://docs.hazelcast.org/docs/management-center/3.12.14/manual/html/index.html",
+        "pdf": "http://docs.hazelcast.org/docs/management-center/3.12.14/manual/pdf/hazelcast-management-center-documentation-3.12.14.pdf",
+        "releaseNotes": "http://docs.hazelcast.org/docs/management-center/rn/index.html#3-12-14"
+      },
+      "stability": "stable"
+    },
+    {
+      "version": "3.12.13",
+      "date": "2020-11-13",
+      "downloads": {
+        "zip": {
+          "url": "https://repository.hazelcast.com/download/management-center/hazelcast-management-center-3.12.13.zip",
+          "size": 93532979
+        },
+        "tar": {
+          "url": "https://repository.hazelcast.com/download/management-center/hazelcast-management-center-3.12.13.tar.gz",
+          "size": 93532979
+        }
+      },
+      "documentation": {
+        "html": "http://docs.hazelcast.org/docs/management-center/3.12.13/manual/html/index.html",
+        "pdf": "http://docs.hazelcast.org/docs/management-center/3.12.13/manual/pdf/hazelcast-management-center-documentation-3.12.13.pdf",
+        "releaseNotes": "http://docs.hazelcast.org/docs/management-center/rn/index.html#3-12-13"
+      },
+      "stability": "stable"
+    },
+    {
+      "version": "3.12.12",
+      "date": "2020-09-08",
+      "downloads": {
+        "zip": {
+          "url": "https://repository.hazelcast.com/download/management-center/hazelcast-management-center-3.12.12.zip",
+          "size": 88394956
+        },
+        "tar": {
+          "url": "https://repository.hazelcast.com/download/management-center/hazelcast-management-center-3.12.12.tar.gz",
+          "size": 88394956
+        }
+      },
+      "documentation": {
+        "html": "http://docs.hazelcast.org/docs/management-center/3.12.12/manual/html/index.html",
+        "pdf": "http://docs.hazelcast.org/docs/management-center/3.12.12/manual/pdf/hazelcast-management-center-documentation-3.12.12.pdf",
+        "releaseNotes": "http://docs.hazelcast.org/docs/management-center/rn/index.html#3-12-12"
+      },
+      "stability": "stable"
+    },
+    {
+      "version": "3.12.11",
+      "date": "2020-07-13",
+      "downloads": {
+        "zip": {
+          "url": "https://repository.hazelcast.com/download/management-center/hazelcast-management-center-3.12.11.zip",
+          "size": 63333990
+        },
+        "tar": {
+          "url": "https://repository.hazelcast.com/download/management-center/hazelcast-management-center-3.12.11.tar.gz",
+          "size": 63333990
+        }
+      },
+      "documentation": {
+        "html": "http://docs.hazelcast.org/docs/management-center/3.12.11/manual/html/index.html",
+        "pdf": "http://docs.hazelcast.org/docs/management-center/3.12.11/manual/pdf/hazelcast-management-center-documentation-3.12.11.pdf",
+        "releaseNotes": "http://docs.hazelcast.org/docs/management-center/rn/index.html#3-12-11"
+      },
+      "stability": "stable"
+    },
+    {
+      "version": "3.12.10",
+      "date": "2020-06-05",
+      "downloads": {
+        "zip": {
+          "url": "https://repository.hazelcast.com/download/management-center/hazelcast-management-center-3.12.10.zip",
+          "size": 63229132
+        },
+        "tar": {
+          "url": "https://repository.hazelcast.com/download/management-center/hazelcast-management-center-3.12.10.tar.gz",
+          "size": 63229132
+        }
+      },
+      "documentation": {
+        "html": "http://docs.hazelcast.org/docs/management-center/3.12.10/manual/html/index.html",
+        "pdf": "http://docs.hazelcast.org/docs/management-center/3.12.10/manual/pdf/hazelcast-management-center-documentation-3.12.10.pdf",
+        "releaseNotes": "http://docs.hazelcast.org/docs/management-center/rn/index.html#3-12-10"
+      },
+      "stability": "stable"
+    },
+    {
+      "version": "3.12.9",
+      "date": "2020-03-17",
+      "downloads": {
+        "zip": {
+          "url": "https://repository.hazelcast.com/download/management-center/hazelcast-management-center-3.12.9.zip",
+          "size": 63963136
+        },
+        "tar": {
+          "url": "https://repository.hazelcast.com/download/management-center/hazelcast-management-center-3.12.9.tar.gz",
+          "size": 63963136
+        }
+      },
+      "documentation": {
+        "html": "http://docs.hazelcast.org/docs/management-center/3.12.9/manual/html/index.html",
+        "pdf": "http://docs.hazelcast.org/docs/management-center/3.12.9/manual/pdf/hazelcast-management-center-documentation-3.12.9.pdf",
+        "releaseNotes": "http://docs.hazelcast.org/docs/management-center/rn/index.html#3-12-9"
+      },
+      "stability": "stable"
+    },
+    {
+      "version": "3.12.8",
+      "date": "2019-12-19",
+      "downloads": {
+        "zip": {
+          "url": "https://repository.hazelcast.com/download/management-center/hazelcast-management-center-3.12.8.zip",
+          "size": 59768832
+        },
+        "tar": {
+          "url": "https://repository.hazelcast.com/download/management-center/hazelcast-management-center-3.12.8.tar.gz",
+          "size": 59768832
+        }
+      },
+      "documentation": {
+        "html": "http://docs.hazelcast.org/docs/management-center/3.12.8/manual/html/index.html",
+        "pdf": "http://docs.hazelcast.org/docs/management-center/3.12.8/manual/pdf/hazelcast-management-center-documentation-3.12.8.pdf",
+        "releaseNotes": "http://docs.hazelcast.org/docs/management-center/rn/index.html#3-12-8"
+      },
+      "stability": "stable"
+    },
+    {
+      "version": "3.12.7",
+      "date": "2019-11-11",
+      "downloads": {
+        "zip": {
+          "url": "https://repository.hazelcast.com/download/management-center/hazelcast-management-center-3.12.7.zip",
+          "size": 59873689
+        },
+        "tar": {
+          "url": "https://repository.hazelcast.com/download/management-center/hazelcast-management-center-3.12.7.tar.gz",
+          "size": 59873689
+        }
+      },
+      "documentation": {
+        "html": "http://docs.hazelcast.org/docs/management-center/3.12.7/manual/html/index.html",
+        "pdf": "http://docs.hazelcast.org/docs/management-center/3.12.7/manual/pdf/hazelcast-management-center-documentation-3.12.7.pdf",
+        "releaseNotes": "http://docs.hazelcast.org/docs/management-center/rn/index.html#3-12-7"
+      },
+      "stability": "stable"
+    },
+    {
+      "version": "3.12.6",
+      "date": "2019-10-10",
+      "downloads": {
+        "zip": {
+          "url": "https://repository.hazelcast.com/download/management-center/hazelcast-management-center-3.12.6.zip",
+          "size": 59873689
+        },
+        "tar": {
+          "url": "https://repository.hazelcast.com/download/management-center/hazelcast-management-center-3.12.6.tar.gz",
+          "size": 59873689
+        }
+      },
+      "documentation": {
+        "html": "http://docs.hazelcast.org/docs/management-center/3.12.6/manual/html/index.html",
+        "pdf": "http://docs.hazelcast.org/docs/management-center/3.12.6/manual/pdf/hazelcast-management-center-documentation-3.12.6.pdf",
+        "releaseNotes": "http://docs.hazelcast.org/docs/management-center/rn/index.html#3-12-6"
+      },
+      "stability": "stable"
+    },
+    {
+      "version": "3.12.5",
+      "date": "2019-09-02",
+      "downloads": {
+        "zip": {
+          "url": "https://repository.hazelcast.com/download/management-center/hazelcast-management-center-3.12.5.zip",
+          "size": 59663974
+        },
+        "tar": {
+          "url": "https://repository.hazelcast.com/download/management-center/hazelcast-management-center-3.12.5.tar.gz",
+          "size": 59559116
+        }
+      },
+      "documentation": {
+        "html": "http://docs.hazelcast.org/docs/management-center/3.12.5/manual/html/index.html",
+        "pdf": "http://docs.hazelcast.org/docs/management-center/3.12.5/manual/pdf/hazelcast-management-center-documentation-3.12.5.pdf",
+        "releaseNotes": "http://docs.hazelcast.org/docs/management-center/rn/index.html#3-12-5"
+      },
+      "stability": "stable"
+    },
+    {
+      "version": "3.12.4",
+      "date": "2019-08-13",
+      "downloads": {
+        "zip": {
+          "url": "https://repository.hazelcast.com/download/management-center/hazelcast-management-center-3.12.4.zip",
+          "size": 59139686
+        },
+        "tar": {
+          "url": "https://repository.hazelcast.com/download/management-center/hazelcast-management-center-3.12.4.tar.gz",
+          "size": 59034828
+        }
+      },
+      "documentation": {
+        "html": "http://docs.hazelcast.org/docs/management-center/3.12.4/manual/html/index.html",
+        "pdf": "http://docs.hazelcast.org/docs/management-center/3.12.4/manual/pdf/hazelcast-management-center-documentation-3.12.4.pdf",
+        "releaseNotes": "http://docs.hazelcast.org/docs/management-center/rn/index.html#3-12-4"
+      },
+      "stability": "stable"
+    },
+    {
+      "version": "3.12.3",
+      "date": "2019-07-30",
+      "downloads": {
+        "zip": {
+          "url": "https://repository.hazelcast.com/download/management-center/hazelcast-management-center-3.12.3.zip",
+          "size": 59873689
+        },
+        "tar": {
+          "url": "https://repository.hazelcast.com/download/management-center/hazelcast-management-center-3.12.3.tar.gz",
+          "size": 59873689
+        }
+      },
+      "documentation": {
+        "html": "http://docs.hazelcast.org/docs/management-center/3.12.3/manual/html/index.html",
+        "pdf": "http://docs.hazelcast.org/docs/management-center/3.12.3/manual/pdf/hazelcast-management-center-documentation-3.12.3.pdf",
+        "releaseNotes": "http://docs.hazelcast.org/docs/management-center/rn/index.html#3-12-3"
+      },
+      "stability": "stable"
+    },
+    {
+      "version": "3.12.2",
+      "date": "2019-07-18",
+      "downloads": {
+        "zip": {
+          "url": "https://repository.hazelcast.com/download/management-center/hazelcast-management-center-3.12.2.zip",
+          "size": 59873689
+        },
+        "tar": {
+          "url": "https://repository.hazelcast.com/download/management-center/hazelcast-management-center-3.12.2.tar.gz",
+          "size": 59873689
+        }
+      },
+      "documentation": {
+        "html": "http://docs.hazelcast.org/docs/management-center/3.12.2/manual/html/index.html",
+        "pdf": "http://docs.hazelcast.org/docs/management-center/3.12.2/manual/pdf/hazelcast-management-center-documentation-3.12.2.pdf",
+        "releaseNotes": "http://docs.hazelcast.org/docs/management-center/rn/index.html#3-12-2"
+      },
+      "stability": "stable"
+    },
+    {
+      "version": "3.12.1",
+      "date": "2019-06-19",
+      "downloads": {
+        "zip": {
+          "url": "https://repository.hazelcast.com/download/management-center/hazelcast-management-center-3.12.1.zip",
+          "size": 63019417
+        },
+        "tar": {
+          "url": "https://repository.hazelcast.com/download/management-center/hazelcast-management-center-3.12.1.tar.gz",
+          "size": 63019417
+        }
+      },
+      "documentation": {
+        "html": "http://docs.hazelcast.org/docs/management-center/3.12.1/manual/html/index.html",
+        "pdf": "https://docs.hazelcast.org/docs/management-center/3.12.1/manual/pdf/hazelcast-management-center-documentation-3.12.1.pdf",
+        "releaseNotes": "http://docs.hazelcast.org/docs/management-center/rn/index.html#3-12-1"
+      },
+      "stability": "stable"
+    },
+    {
+      "version": "3.12",
+      "date": "2019-04-09",
+      "downloads": {
+        "zip": {
+          "url": "https://repository.hazelcast.com/download/management-center/hazelcast-management-center-3.12.zip",
+          "size": 59768832
+        },
+        "tar": {
+          "url": "https://repository.hazelcast.com/download/management-center/hazelcast-management-center-3.12.tar.gz",
+          "size": 59768832
+        }
+      },
+      "documentation": {
+        "html": "http://docs.hazelcast.org/docs/management-center/3.12/manual/html/index.html",
+        "pdf": "http://docs.hazelcast.org/docs/management-center/3.12/manual/pdf/hazelcast-management-center-documentation-3.12.pdf",
+        "releaseNotes": "http://docs.hazelcast.org/docs/management-center/rn/index.html#3-12"
+      },
+      "stability": "stable"
+    },
+    {
+      "version": "3.11.4",
+      "date": "2020-10-01",
+      "downloads": {
+        "zip": {
+          "url": "https://repository.hazelcast.com/download/management-center/hazelcast-management-center-3.11.4.zip",
+          "size": 55469670
+        },
+        "tar": {
+          "url": "https://repository.hazelcast.com/download/management-center/hazelcast-management-center-3.11.4.tar.gz",
+          "size": 55469670
+        }
+      },
+      "documentation": {
+        "html": "http://docs.hazelcast.org/docs/management-center/3.11.4/manual/html/index.html",
+        "pdf": "http://docs.hazelcast.org/docs/management-center/3.11.4/manual/pdf/hazelcast-management-center-documentation-3.11.4.pdf",
+        "releaseNotes": "http://docs.hazelcast.org/docs/management-center/rn/index.html#3-11-4"
+      },
+      "stability": "stable"
+    },
+    {
+      "version": "3.11.3",
+      "date": "2019-01-31",
+      "downloads": {
+        "zip": {
+          "url": "https://repository.hazelcast.com/download/management-center/hazelcast-management-center-3.11.3.zip",
+          "size": 55469670
+        },
+        "tar": {
+          "url": "https://repository.hazelcast.com/download/management-center/hazelcast-management-center-3.11.3.tar.gz",
+          "size": 55469670
+        }
+      },
+      "documentation": {
+        "html": "http://docs.hazelcast.org/docs/management-center/3.11.3/manual/html/index.html",
+        "pdf": "http://docs.hazelcast.org/docs/management-center/3.11.3/manual/pdf/hazelcast-management-center-documentation-3.11.3.pdf",
+        "releaseNotes": "http://docs.hazelcast.org/docs/management-center/rn/index.html#3-11-3"
+      },
+      "stability": "stable"
+    },
+    {
+      "version": "3.11.2",
+      "date": "2018-12-14",
+      "downloads": {
+        "zip": {
+          "url": "https://repository.hazelcast.com/download/management-center/hazelcast-management-center-3.11.2.zip",
+          "size": 45927628
+        },
+        "tar": {
+          "url": "https://repository.hazelcast.com/download/management-center/hazelcast-management-center-3.11.2.tar.gz",
+          "size": 45927628
+        }
+      },
+      "documentation": {
+        "html": "http://docs.hazelcast.org/docs/management-center/3.11.2/manual/html/index.html",
+        "pdf": "http://docs.hazelcast.org/docs/management-center/3.11.2/manual/pdf/hazelcast-management-center-documentation-3.11.2.pdf",
+        "releaseNotes": "http://docs.hazelcast.org/docs/management-center/rn/index.html#3-11-2"
+      },
+      "stability": "stable"
+    },
+    {
+      "version": "3.11.1",
+      "date": "2018-11-30",
+      "downloads": {
+        "zip": {
+          "url": "https://repository.hazelcast.com/download/management-center/hazelcast-management-center-3.11.1.zip",
+          "size": 45927628
+        },
+        "tar": {
+          "url": "https://repository.hazelcast.com/download/management-center/hazelcast-management-center-3.11.1.tar.gz",
+          "size": 45927628
+        }
+      },
+      "documentation": {
+        "html": "http://docs.hazelcast.org/docs/management-center/3.11.1/manual/html/index.html",
+        "pdf": "http://docs.hazelcast.org/docs/management-center/3.11.1/manual/pdf/hazelcast-management-center-documentation-3.11.1.pdf",
+        "releaseNotes": "http://docs.hazelcast.org/docs/management-center/rn/index.html#3-11-1"
+      },
+      "stability": "stable"
+    },
+    {
+      "version": "3.11",
+      "date": "2018-10-23",
+      "downloads": {
+        "zip": {
+          "url": "https://repository.hazelcast.com/download/management-center/hazelcast-management-center-3.11.zip",
+          "size": 45508198
+        },
+        "tar": {
+          "url": "https://repository.hazelcast.com/download/management-center/hazelcast-management-center-3.11.tar.gz",
+          "size": 45508198
+        }
+      },
+      "documentation": {
+        "html": "http://docs.hazelcast.org/docs/management-center/3.11/manual/html/index.html",
+        "pdf": "http://docs.hazelcast.org/docs/management-center/3.11/manual/pdf/hazelcast-management-center-documentation-3.11.pdf",
+        "releaseNotes": "http://docs.hazelcast.org/docs/management-center/rn/index.html#3-11"
+      },
+      "stability": "stable"
+    },
+    {
+      "version": "3.10.4",
+      "date": "2019-09-18",
+      "downloads": {
+        "zip": {
+          "url": "https://repository.hazelcast.com/download/management-center/hazelcast-management-center-3.10.4.zip",
+          "size": 43201331
+        },
+        "tar": {
+          "url": "https://repository.hazelcast.com/download/management-center/hazelcast-management-center-3.10.4.tar.gz",
+          "size": 43201331
+        }
+      },
+      "documentation": {
+        "html": "http://docs.hazelcast.org/docs/management-center/3.10.4/manual/html/index.html",
+        "pdf": "http://docs.hazelcast.org/docs/management-center/3.10.4/manual/pdf/hazelcast-management-center-documentation-3.10.4.pdf",
+        "releaseNotes": "http://docs.hazelcast.org/docs/management-center/rn/index.html#3-10-4"
+      },
+      "stability": "stable"
+    },
+    {
+      "version": "3.10.3",
+      "date": "2018-09-07",
+      "downloads": {
+        "zip": {
+          "url": "https://repository.hazelcast.com/download/management-center/hazelcast-management-center-3.10.3.zip",
+          "size": 43201331
+        },
+        "tar": {
+          "url": "https://repository.hazelcast.com/download/management-center/hazelcast-management-center-3.10.3.tar.gz",
+          "size": 43201331
+        }
+      },
+      "documentation": {
+        "html": "http://docs.hazelcast.org/docs/management-center/3.10.3/manual/html/index.html",
+        "pdf": "http://docs.hazelcast.org/docs/management-center/3.10.3/manual/pdf/hazelcast-management-center-documentation-3.10.3.pdf",
+        "releaseNotes": "http://docs.hazelcast.org/docs/management-center/rn/index.html#3-10-3"
+      },
+      "stability": "stable"
+    },
+    {
+      "version": "3.10.2",
+      "date": "2018-07-02",
+      "downloads": {
+        "zip": {
+          "url": "https://repository.hazelcast.com/download/management-center/hazelcast-management-center-3.10.2.zip",
+          "size": 42362470
+        },
+        "tar": {
+          "url": "https://repository.hazelcast.com/download/management-center/hazelcast-management-center-3.10.2.tar.gz",
+          "size": 42362470
+        }
+      },
+      "documentation": {
+        "html": "http://docs.hazelcast.org/docs/management-center/3.10.2/manual/html/index.html",
+        "pdf": "http://docs.hazelcast.org/docs/management-center/3.10.2/manual/pdf/hazelcast-management-center-documentation-3.10.2.pdf",
+        "releaseNotes": "http://docs.hazelcast.org/docs/management-center/rn/index.html#3-10-2"
+      },
+      "stability": "stable"
+    },
+    {
+      "version": "3.10.1",
+      "date": "2018-05-28",
+      "downloads": {
+        "zip": {
+          "url": "https://repository.hazelcast.com/download/management-center/hazelcast-management-center-3.10.1.zip",
+          "size": 40894464
+        },
+        "tar": {
+          "url": "https://repository.hazelcast.com/download/management-center/hazelcast-management-center-3.10.1.tar.gz",
+          "size": 40894464
+        }
+      },
+      "documentation": {
+        "html": "http://docs.hazelcast.org/docs/management-center/3.10.1/manual/html/index.html",
+        "pdf": "http://docs.hazelcast.org/docs/management-center/3.10.1/manual/pdf/hazelcast-management-center-documentation-3.10.1.pdf",
+        "releaseNotes": "http://docs.hazelcast.org/docs/management-center/rn/index.html#3-10-1"
+      },
+      "stability": "stable"
+    },
+    {
+      "version": "3.10",
+      "date": "2018-05-03",
+      "downloads": {
+        "zip": {
+          "url": "https://repository.hazelcast.com/download/management-center/hazelcast-management-center-3.10.zip",
+          "size": 27787264
+        },
+        "tar": {
+          "url": "https://repository.hazelcast.com/download/management-center/hazelcast-management-center-3.10.tar.gz",
+          "size": 27787264
+        }
+      },
+      "documentation": {
+        "html": "http://docs.hazelcast.org/docs/management-center/3.10/manual/html/index.html",
+        "pdf": "http://docs.hazelcast.org/docs/management-center/3.10/manual/pdf/hazelcast-management-center-documentation-3.10.pdf",
+        "releaseNotes": "http://docs.hazelcast.org/docs/management-center/rn/index.html#3-10"
+      },
+      "stability": "stable"
+    },
+    {
+      "version": "3.9.4",
+      "date": "2018-04-09",
+      "downloads": {
+        "zip": {
+          "url": "https://repository.hazelcast.com/download/management-center/management-center-3.9.4.zip",
+          "size": 21810380
+        },
+        "tar": {
+          "url": "https://repository.hazelcast.com/download/management-center/management-center-3.9.4.tar.gz",
+          "size": 21810380
+        }
+      },
+      "documentation": {
+        "html": "http://docs.hazelcast.org/docs/management-center/3.9.4/manual/html/index.html",
+        "pdf": "http://docs.hazelcast.org/docs/management-center/3.9.4/manual/pdf/management-center-documentation-3.9.4.pdf",
+        "releaseNotes": "http://docs.hazelcast.org/docs/management-center/rn/index.html#3-9-4"
+      },
+      "stability": "stable"
+    },
+    {
+      "version": "3.9.3",
+      "date": "2018-03-22",
+      "downloads": {
+        "zip": {
+          "url": "https://repository.hazelcast.com/download/management-center/management-center-3.9.3.zip",
+          "size": 21810380
+        },
+        "tar": {
+          "url": "https://repository.hazelcast.com/download/management-center/management-center-3.9.3.tar.gz",
+          "size": 21810380
+        }
+      },
+      "documentation": {
+        "html": "http://docs.hazelcast.org/docs/management-center/3.9.3/manual/html/index.html",
+        "pdf": "http://docs.hazelcast.org/docs/management-center/3.9.3/manual/pdf/management-center-documentation-3.9.3.pdf",
+        "releaseNotes": "http://docs.hazelcast.org/docs/management-center/rn/index.html#3-9-3"
+      },
+      "stability": "stable"
+    },
+    {
+      "version": "3.9.2",
+      "date": "2018-01-31",
+      "downloads": {
+        "zip": {
+          "url": "https://repository.hazelcast.com/download/management-center/management-center-3.9.2.zip",
+          "size": 21810380
+        },
+        "tar": {
+          "url": "https://repository.hazelcast.com/download/management-center/management-center-3.9.2.tar.gz",
+          "size": 21600665
+        }
+      },
+      "documentation": {
+        "html": "http://docs.hazelcast.org/docs/management-center/3.9.2/manual/html/index.html",
+        "pdf": "http://docs.hazelcast.org/docs/management-center/3.9.2/manual/pdf/management-center-documentation-3.9.2.pdf",
+        "releaseNotes": "http://docs.hazelcast.org/docs/management-center/rn/index.html#3-9-2"
+      },
+      "stability": "stable"
+    },
+    {
+      "version": "3.9.1",
+      "date": "2017-11-29",
+      "downloads": {
+        "zip": {
+          "url": "https://repository.hazelcast.com/download/management-center/management-center-3.9.1.zip",
+          "size": 25165824
+        },
+        "tar": {
+          "url": "https://repository.hazelcast.com/download/management-center/management-center-3.9.1.tar.gz",
+          "size": 25165824
+        }
+      },
+      "documentation": {
+        "html": "http://docs.hazelcast.org/docs/management-center/3.9.1/manual/html/index.html",
+        "pdf": "http://docs.hazelcast.org/docs/management-center/3.9.1/manual/pdf/management-center-documentation-3.9.1.pdf",
+        "releaseNotes": "http://docs.hazelcast.org/docs/management-center/rn/index.html#3-9-1"
+      },
+      "stability": "stable"
+    },
+    {
+      "version": "3.9",
+      "date": "2017-10-27",
+      "downloads": {
+        "zip": {
+          "url": "https://repository.hazelcast.com/download/management-center/management-center-3.9.zip",
+          "size": 25165824
+        },
+        "tar": {
+          "url": "https://repository.hazelcast.com/download/management-center/management-center-3.9.tar.gz",
+          "size": 25165824
+        }
+      },
+      "documentation": {
+        "html": "http://docs.hazelcast.org/docs/management-center/3.9/manual/html/index.html",
+        "pdf": "http://docs.hazelcast.org/docs/management-center/3.9/manual/pdf/management-center-documentation-3.9.pdf",
+        "releaseNotes": "http://docs.hazelcast.org/docs/management-center/rn/index.html#3-9"
+      },
+      "stability": "stable"
+    },
+    {
+      "version": "3.8.5",
+      "date": "2017-10-27",
+      "downloads": {
+        "zip": {
+          "url": "https://repository.hazelcast.com/download/management-center/management-center-3.8.5.zip",
+          "size": 23068672
+        },
+        "tar": {
+          "url": "https://repository.hazelcast.com/download/management-center/management-center-3.8.5.tar.gz",
+          "size": 22963814
+        }
+      },
+      "documentation": {
+        "html": "http://docs.hazelcast.org/docs/management-center/3.8.5/manual/html/index.html",
+        "pdf": "http://docs.hazelcast.org/docs/management-center/3.8.5/manual/pdf/management-center-documentation-3.8.5.pdf",
+        "releaseNotes": "http://docs.hazelcast.org/docs/management-center/rn/index.html#3-8-5"
+      },
+      "stability": "stable"
+    },
+    {
+      "version": "3.8.4",
+      "date": "2017-08-16",
+      "downloads": {
+        "zip": {
+          "url": "https://repository.hazelcast.com/download/management-center/management-center-3.8.4.zip",
+          "size": 23802675
+        },
+        "tar": {
+          "url": "https://repository.hazelcast.com/download/management-center/management-center-3.8.4.tar.gz",
+          "size": 23697817
+        }
+      },
+      "documentation": {
+        "html": "http://docs.hazelcast.org/docs/management-center/3.8.4/manual/html/index.html",
+        "pdf": "http://docs.hazelcast.org/docs/management-center/3.8.4/manual/pdf/management-center-documentation-3.8.4.pdf",
+        "releaseNotes": "http://docs.hazelcast.org/docs/management-center/rn/index.html#3-8-4"
+      },
+      "stability": "stable"
+    },
+    {
+      "version": "3.8.3",
+      "date": "2017-06-21",
+      "downloads": {
+        "zip": {
+          "url": "https://repository.hazelcast.com/download/management-center/management-center-3.8.3.zip",
+          "size": 23802675
+        },
+        "tar": {
+          "url": "https://repository.hazelcast.com/download/management-center/management-center-3.8.3.tar.gz",
+          "size": 23697817
+        }
+      },
+      "documentation": {
+        "html": "http://docs.hazelcast.org/docs/management-center/3.8.3/manual/html/index.html",
+        "pdf": "http://docs.hazelcast.org/docs/management-center/3.8.3/manual/pdf/management-center-documentation-3.8.3.pdf",
+        "releaseNotes": "http://docs.hazelcast.org/docs/management-center/rn/index.html#3-8-3"
+      },
+      "stability": "stable"
+    },
+    {
+      "version": "5.4.0-BETA-2",
+      "date": "2024-02-13",
+      "downloads": {
+        "zip": {
+          "url": "https://repository.hazelcast.com/download/management-center/hazelcast-management-center-5.4.0-BETA-2.zip",
+          "size": 238865612
+        },
+        "tar": {
+          "url": "https://repository.hazelcast.com/download/management-center/hazelcast-management-center-5.4.0-BETA-2.tar.gz",
+          "size": 238865612
+        }
+      },
+      "documentation": {
+        "html": "https://docs.hazelcast.com/management-center/5.4.0-BETA-2/",
+        "releaseNotes": "https://docs.hazelcast.com/management-center/5.4.0-beta-2/release-notes/5-4-0-beta-2"
+      },
+      "stability": "development",
+      "developmentStatus": "HIDE"
     }
-  }
+  ]
 }
