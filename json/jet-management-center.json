@@ -1,6 +1,6 @@
 {
   "product": "Hazelcast Jet Management Center",
-  "lastUpdated": "2026-03-30T14:57:30",
+  "lastUpdated": "2026-04-10T18:08:05",
   "type": "Jet Management Center",
   "license": "enterprise",
   "display": "Maintained",
@@ -21,15 +21,8 @@
       },
       "documentation": {
         "html": "https://docs.hazelcast.org/docs/jet-management-center/4.3.1/manual/",
-        "pdf": null,
-        "apiDocs": null,
         "releaseNotes": "http://docs.hazelcast.org/docs/jet-management-center/rn/index.html"
-      },
-      "codeSamples": {
-        "url": null,
-        "size": null
-      },
-      "github": null
+      }
     },
     "previousStable": [
       {
@@ -47,15 +40,8 @@
         },
         "documentation": {
           "html": "https://docs.hazelcast.org/docs/jet-management-center/4.3/manual/",
-          "pdf": null,
-          "apiDocs": null,
           "releaseNotes": "http://docs.hazelcast.org/docs/jet-management-center/rn/index.html"
-        },
-        "codeSamples": {
-          "url": null,
-          "size": null
-        },
-        "github": null
+        }
       },
       {
         "version": "4.2",
@@ -72,15 +58,8 @@
         },
         "documentation": {
           "html": "https://docs.hazelcast.org/docs/jet-management-center/4.2/manual/",
-          "pdf": null,
-          "apiDocs": null,
           "releaseNotes": "http://docs.hazelcast.org/docs/jet-management-center/rn/index.html"
-        },
-        "codeSamples": {
-          "url": null,
-          "size": null
-        },
-        "github": null
+        }
       },
       {
         "version": "4.1.1",
@@ -97,15 +76,8 @@
         },
         "documentation": {
           "html": "https://docs.hazelcast.org/docs/jet-management-center/4.1.1/manual/",
-          "pdf": null,
-          "apiDocs": null,
           "releaseNotes": "http://docs.hazelcast.org/docs/jet-management-center/rn/index.html"
-        },
-        "codeSamples": {
-          "url": null,
-          "size": null
-        },
-        "github": null
+        }
       },
       {
         "version": "4.1",
@@ -122,15 +94,8 @@
         },
         "documentation": {
           "html": "https://docs.hazelcast.org/docs/jet-management-center/4.1/manual/",
-          "pdf": null,
-          "apiDocs": null,
           "releaseNotes": "http://docs.hazelcast.org/docs/jet-management-center/rn/index.html"
-        },
-        "codeSamples": {
-          "url": null,
-          "size": null
-        },
-        "github": null
+        }
       },
       {
         "version": "4.0",
@@ -147,15 +112,8 @@
         },
         "documentation": {
           "html": "https://docs.hazelcast.org/docs/jet-management-center/4.0/manual/",
-          "pdf": null,
-          "apiDocs": null,
           "releaseNotes": "http://docs.hazelcast.org/docs/jet-management-center/rn/index.html"
-        },
-        "codeSamples": {
-          "url": null,
-          "size": null
-        },
-        "github": null
+        }
       },
       {
         "version": "3.2.2",
@@ -172,15 +130,8 @@
         },
         "documentation": {
           "html": "https://docs.hazelcast.org/docs/jet-management-center/3.2.2/manual/",
-          "pdf": null,
-          "apiDocs": null,
           "releaseNotes": "http://docs.hazelcast.org/docs/jet-management-center/rn/index.html"
-        },
-        "codeSamples": {
-          "url": null,
-          "size": null
-        },
-        "github": null
+        }
       },
       {
         "version": "3.2.1",
@@ -197,15 +148,8 @@
         },
         "documentation": {
           "html": "https://docs.hazelcast.org/docs/jet-management-center/3.2.1/manual/",
-          "pdf": null,
-          "apiDocs": null,
           "releaseNotes": "http://docs.hazelcast.org/docs/jet-management-center/rn/index.html"
-        },
-        "codeSamples": {
-          "url": null,
-          "size": null
-        },
-        "github": null
+        }
       },
       {
         "version": "3.2",
@@ -222,15 +166,8 @@
         },
         "documentation": {
           "html": "https://docs.hazelcast.org/docs/jet-management-center/3.2/manual/",
-          "pdf": null,
-          "apiDocs": null,
           "releaseNotes": "http://docs.hazelcast.org/docs/jet-management-center/rn/index.html"
-        },
-        "codeSamples": {
-          "url": null,
-          "size": null
-        },
-        "github": null
+        }
       },
       {
         "version": "3.1",
@@ -247,15 +184,8 @@
         },
         "documentation": {
           "html": "https://docs.hazelcast.org/docs/jet-management-center/3.1/manual/",
-          "pdf": null,
-          "apiDocs": null,
           "releaseNotes": "http://docs.hazelcast.org/docs/jet-management-center/rn/index.html"
-        },
-        "codeSamples": {
-          "url": null,
-          "size": null
-        },
-        "github": null
+        }
       },
       {
         "version": "3.0",
@@ -272,15 +202,8 @@
         },
         "documentation": {
           "html": "https://docs.hazelcast.org/docs/jet-management-center/3.0/manual/",
-          "pdf": null,
-          "apiDocs": null,
           "releaseNotes": "http://docs.hazelcast.org/docs/jet-management-center/rn/index.html"
-        },
-        "codeSamples": {
-          "url": null,
-          "size": null
-        },
-        "github": null
+        }
       },
       {
         "version": "0.7.2",
@@ -297,15 +220,8 @@
         },
         "documentation": {
           "html": "https://docs.hazelcast.org/docs/jet-management-center/0.7.2/manual/",
-          "pdf": null,
-          "apiDocs": null,
           "releaseNotes": "http://docs.hazelcast.org/docs/jet-management-center/rn/index.html"
-        },
-        "codeSamples": {
-          "url": null,
-          "size": null
-        },
-        "github": null
+        }
       },
       {
         "version": "0.7",
@@ -322,15 +238,8 @@
         },
         "documentation": {
           "html": "https://docs.hazelcast.org/docs/jet-management-center/0.7/manual/",
-          "pdf": null,
-          "apiDocs": null,
           "releaseNotes": "http://docs.hazelcast.org/docs/jet-management-center/rn/index.html"
-        },
-        "codeSamples": {
-          "url": null,
-          "size": null
-        },
-        "github": null
+        }
       }
     ],
     "development": []

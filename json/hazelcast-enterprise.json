@@ -1,6 +1,6 @@
 {
   "product": "Hazelcast Platform",
-  "lastUpdated": "2026-03-30T14:57:30",
+  "lastUpdated": "2026-04-10T18:08:05",
   "type": "Platform",
   "license": "enterprise",
   "display": "Active",
@@ -29,15 +29,9 @@
       },
       "documentation": {
         "html": "https://docs.hazelcast.com/hazelcast/5.6/getting-started/quickstart.html",
-        "pdf": null,
         "apiDocs": "https://docs.hazelcast.org/hazelcast-ee-docs/5.6.1/javadoc",
         "releaseNotes": "https://docs.hazelcast.com/hazelcast/5.6/release-notes/enterprise#5-6-1"
-      },
-      "codeSamples": {
-        "url": null,
-        "size": null
-      },
-      "github": null
+      }
     },
     "previousStable": [
       {
@@ -63,15 +57,9 @@
         },
         "documentation": {
           "html": "https://docs.hazelcast.com/hazelcast/5.6/getting-started/quickstart.html",
-          "pdf": null,
           "apiDocs": "https://docs.hazelcast.org/hazelcast-ee-docs/5.6.0/javadoc",
           "releaseNotes": "https://docs.hazelcast.com/hazelcast/5.6/release-notes/5-6-0"
-        },
-        "codeSamples": {
-          "url": null,
-          "size": null
-        },
-        "github": null
+        }
       },
       {
         "version": "5.5.9",
@@ -96,15 +84,9 @@
         },
         "documentation": {
           "html": "https://docs.hazelcast.com/hazelcast/5.5/getting-started/quickstart.html",
-          "pdf": null,
           "apiDocs": "https://docs.hazelcast.org/hazelcast-ee-docs/5.5.9/javadoc",
           "releaseNotes": "https://docs.hazelcast.com/hazelcast/5.5/release-notes/enterprise#5-5-9"
-        },
-        "codeSamples": {
-          "url": null,
-          "size": null
-        },
-        "github": null
+        }
       },
       {
         "version": "5.5.8",
@@ -129,15 +111,9 @@
         },
         "documentation": {
           "html": "https://docs.hazelcast.com/hazelcast/5.5/getting-started/quickstart.html",
-          "pdf": null,
           "apiDocs": "https://docs.hazelcast.org/hazelcast-ee-docs/5.5.8/javadoc",
           "releaseNotes": "https://docs.hazelcast.com/hazelcast/5.5/release-notes/enterprise#5-5-8"
-        },
-        "codeSamples": {
-          "url": null,
-          "size": null
-        },
-        "github": null
+        }
       },
       {
         "version": "5.5.7",
@@ -162,15 +138,9 @@
         },
         "documentation": {
           "html": "https://docs.hazelcast.com/hazelcast/5.5/getting-started/quickstart.html",
-          "pdf": null,
           "apiDocs": "https://docs.hazelcast.org/hazelcast-ee-docs/5.5.7/javadoc",
           "releaseNotes": "https://docs.hazelcast.com/hazelcast/5.5/release-notes/5-5-7"
-        },
-        "codeSamples": {
-          "url": null,
-          "size": null
-        },
-        "github": null
+        }
       },
       {
         "version": "5.5.6",
@@ -195,15 +165,9 @@
         },
         "documentation": {
           "html": "https://docs.hazelcast.com/hazelcast/5.5/getting-started/quickstart.html",
-          "pdf": null,
           "apiDocs": "https://docs.hazelcast.org/hazelcast-ee-docs/5.5.6/javadoc",
           "releaseNotes": "https://docs.hazelcast.com/hazelcast/5.5/release-notes/5-5-6"
-        },
-        "codeSamples": {
-          "url": null,
-          "size": null
-        },
-        "github": null
+        }
       },
       {
         "version": "5.5.5",
@@ -228,15 +192,9 @@
         },
         "documentation": {
           "html": "https://docs.hazelcast.com/hazelcast/5.5/getting-started/quickstart.html",
-          "pdf": null,
           "apiDocs": "https://docs.hazelcast.org/hazelcast-ee-docs/5.5.5/javadoc",
           "releaseNotes": "https://docs.hazelcast.com/hazelcast/5.5/release-notes/5-5-5"
-        },
-        "codeSamples": {
-          "url": null,
-          "size": null
-        },
-        "github": null
+        }
       },
       {
         "version": "5.5.4",
@@ -261,15 +219,9 @@
         },
         "documentation": {
           "html": "https://docs.hazelcast.com/hazelcast/5.5/getting-started/quickstart.html",
-          "pdf": null,
           "apiDocs": "https://docs.hazelcast.org/hazelcast-ee-docs/5.5.4/javadoc",
           "releaseNotes": "https://docs.hazelcast.com/hazelcast/5.5/release-notes/5-5-4"
-        },
-        "codeSamples": {
-          "url": null,
-          "size": null
-        },
-        "github": null
+        }
       },
       {
         "version": "5.5.2",
@@ -294,15 +246,9 @@
         },
         "documentation": {
           "html": "https://docs.hazelcast.com/hazelcast/5.5/getting-started/quickstart.html",
-          "pdf": null,
           "apiDocs": "https://docs.hazelcast.org/hazelcast-ee-docs/5.5.2/javadoc",
           "releaseNotes": "https://docs.hazelcast.com/hazelcast/5.5/release-notes/5-5-2"
-        },
-        "codeSamples": {
-          "url": null,
-          "size": null
-        },
-        "github": null
+        }
       },
       {
         "version": "5.5.1",
@@ -327,15 +273,9 @@
         },
         "documentation": {
           "html": "https://docs.hazelcast.com/hazelcast/5.5/getting-started/quickstart.html",
-          "pdf": null,
           "apiDocs": "https://docs.hazelcast.org/hazelcast-ee-docs/5.5.1/javadoc",
           "releaseNotes": "https://docs.hazelcast.com/hazelcast/5.5/release-notes/5-5-1"
-        },
-        "codeSamples": {
-          "url": null,
-          "size": null
-        },
-        "github": null
+        }
       },
       {
         "version": "5.5.0",
@@ -360,15 +300,9 @@
         },
         "documentation": {
           "html": "https://docs.hazelcast.com/hazelcast/5.5/getting-started/quickstart.html",
-          "pdf": null,
           "apiDocs": "https://docs.hazelcast.org/hazelcast-ee-docs/5.5.0/javadoc",
           "releaseNotes": "https://docs.hazelcast.com/hazelcast/5.5/release-notes/5-5-0"
-        },
-        "codeSamples": {
-          "url": null,
-          "size": null
-        },
-        "github": null
+        }
       },
       {
         "version": "5.4.4",
@@ -393,15 +327,9 @@
         },
         "documentation": {
           "html": "https://docs.hazelcast.com/hazelcast/5.4/getting-started/quickstart.html",
-          "pdf": null,
           "apiDocs": "https://docs.hazelcast.org/hazelcast-ee-docs/5.4.4/javadoc",
           "releaseNotes": "https://docs.hazelcast.com/hazelcast/5.4/release-notes/enterprise#5-4-4"
-        },
-        "codeSamples": {
-          "url": null,
-          "size": null
-        },
-        "github": null
+        }
       },
       {
         "version": "5.4.3",
@@ -426,15 +354,9 @@
         },
         "documentation": {
           "html": "https://docs.hazelcast.com/hazelcast/5.4/getting-started/quickstart.html",
-          "pdf": null,
           "apiDocs": "https://docs.hazelcast.org/hazelcast-ee-docs/5.4.3/javadoc",
           "releaseNotes": "https://docs.hazelcast.com/hazelcast/5.4/release-notes/5-4-3"
-        },
-        "codeSamples": {
-          "url": null,
-          "size": null
-        },
-        "github": null
+        }
       },
       {
         "version": "5.4.2",
@@ -459,15 +381,9 @@
         },
         "documentation": {
           "html": "https://docs.hazelcast.com/hazelcast/5.4/getting-started/quickstart.html",
-          "pdf": null,
           "apiDocs": "https://docs.hazelcast.org/hazelcast-ee-docs/5.4.2/javadoc",
           "releaseNotes": "https://docs.hazelcast.com/hazelcast/5.4/release-notes/5-4-2"
-        },
-        "codeSamples": {
-          "url": null,
-          "size": null
-        },
-        "github": null
+        }
       },
       {
         "version": "5.4.1",
@@ -492,15 +408,9 @@
         },
         "documentation": {
           "html": "https://docs.hazelcast.com/hazelcast/5.4/getting-started/quickstart.html",
-          "pdf": null,
           "apiDocs": "https://docs.hazelcast.org/docs/5.4.1/javadoc",
           "releaseNotes": "https://docs.hazelcast.com/hazelcast/5.4/release-notes/5-4-1"
-        },
-        "codeSamples": {
-          "url": null,
-          "size": null
-        },
-        "github": null
+        }
       },
       {
         "version": "5.4.0",
@@ -525,15 +435,9 @@
         },
         "documentation": {
           "html": "https://docs.hazelcast.com/hazelcast/5.4/getting-started/quickstart.html",
-          "pdf": null,
           "apiDocs": "https://docs.hazelcast.org/docs/5.4.0/javadoc",
           "releaseNotes": "https://docs.hazelcast.com/hazelcast/5.4/release-notes/5-4-0"
-        },
-        "codeSamples": {
-          "url": null,
-          "size": null
-        },
-        "github": null
+        }
       },
       {
         "version": "5.3.8",
@@ -558,15 +462,9 @@
         },
         "documentation": {
           "html": "https://docs.hazelcast.com/hazelcast/5.3/getting-started/quickstart.html",
-          "pdf": null,
           "apiDocs": "https://docs.hazelcast.org/docs/5.3.8/javadoc",
           "releaseNotes": "https://docs.hazelcast.com/hazelcast/5.3/release-notes/5-3-8"
-        },
-        "codeSamples": {
-          "url": null,
-          "size": null
-        },
-        "github": null
+        }
       },
       {
         "version": "5.3.7",
@@ -591,15 +489,9 @@
         },
         "documentation": {
           "html": "https://docs.hazelcast.com/hazelcast/5.3/getting-started/quickstart.html",
-          "pdf": null,
           "apiDocs": "https://docs.hazelcast.org/docs/5.3.7/javadoc",
           "releaseNotes": "https://docs.hazelcast.com/hazelcast/5.3/release-notes/5-3-7"
-        },
-        "codeSamples": {
-          "url": null,
-          "size": null
-        },
-        "github": null
+        }
       },
       {
         "version": "5.3.6",
@@ -624,15 +516,9 @@
         },
         "documentation": {
           "html": "https://docs.hazelcast.com/hazelcast/5.3/getting-started/quickstart.html",
-          "pdf": null,
           "apiDocs": "https://docs.hazelcast.org/docs/5.3.6/javadoc",
           "releaseNotes": "https://docs.hazelcast.com/hazelcast/5.3/release-notes/5-3-6"
-        },
-        "codeSamples": {
-          "url": null,
-          "size": null
-        },
-        "github": null
+        }
       },
       {
         "version": "5.3.5",
@@ -657,15 +543,9 @@
         },
         "documentation": {
           "html": "https://docs.hazelcast.com/hazelcast/5.3/getting-started/quickstart.html",
-          "pdf": null,
           "apiDocs": "https://docs.hazelcast.org/docs/5.3.5/javadoc",
           "releaseNotes": "https://docs.hazelcast.com/hazelcast/5.3/release-notes/5-3-5"
-        },
-        "codeSamples": {
-          "url": null,
-          "size": null
-        },
-        "github": null
+        }
       },
       {
         "version": "5.3.2",
@@ -690,15 +570,9 @@
         },
         "documentation": {
           "html": "https://docs.hazelcast.com/hazelcast/5.3/getting-started/quickstart.html",
-          "pdf": null,
           "apiDocs": "https://docs.hazelcast.org/docs/5.3.2/javadoc",
           "releaseNotes": "https://docs.hazelcast.com/hazelcast/5.3/release-notes/5-3-2"
-        },
-        "codeSamples": {
-          "url": null,
-          "size": null
-        },
-        "github": null
+        }
       },
       {
         "version": "5.3.1",
@@ -723,15 +597,9 @@
         },
         "documentation": {
           "html": "https://docs.hazelcast.com/hazelcast/5.3/getting-started/quickstart.html",
-          "pdf": null,
           "apiDocs": "https://docs.hazelcast.org/docs/5.3.1/javadoc",
           "releaseNotes": "https://docs.hazelcast.com/hazelcast/5.3/release-notes/5-3-1"
-        },
-        "codeSamples": {
-          "url": null,
-          "size": null
-        },
-        "github": null
+        }
       },
       {
         "version": "5.3.0",
@@ -756,15 +624,9 @@
         },
         "documentation": {
           "html": "https://docs.hazelcast.com/hazelcast/5.3/getting-started/quickstart.html",
-          "pdf": null,
           "apiDocs": "https://docs.hazelcast.org/docs/5.3.0/javadoc",
           "releaseNotes": "https://docs.hazelcast.com/hazelcast/5.3/release-notes/5-3-0"
-        },
-        "codeSamples": {
-          "url": null,
-          "size": null
-        },
-        "github": null
+        }
       },
       {
         "version": "5.2.5",
@@ -789,15 +651,9 @@
         },
         "documentation": {
           "html": "https://docs.hazelcast.com/hazelcast/5.2/getting-started/quickstart.html",
-          "pdf": null,
           "apiDocs": "https://docs.hazelcast.org/docs/5.2.5/javadoc",
           "releaseNotes": "https://docs.hazelcast.com/hazelcast/5.2/release-notes/5-2-5"
-        },
-        "codeSamples": {
-          "url": null,
-          "size": null
-        },
-        "github": null
+        }
       },
       {
         "version": "5.2.4",
@@ -822,15 +678,9 @@
         },
         "documentation": {
           "html": "https://docs.hazelcast.com/hazelcast/5.2/getting-started/quickstart.html",
-          "pdf": null,
           "apiDocs": "https://docs.hazelcast.org/docs/5.2.4/javadoc",
           "releaseNotes": "https://docs.hazelcast.com/hazelcast/5.2/release-notes/5-2-4"
-        },
-        "codeSamples": {
-          "url": null,
-          "size": null
-        },
-        "github": null
+        }
       },
       {
         "version": "5.2.3",
@@ -855,15 +705,9 @@
         },
         "documentation": {
           "html": "https://docs.hazelcast.com/hazelcast/5.2/getting-started/quickstart.html",
-          "pdf": null,
           "apiDocs": "https://docs.hazelcast.org/docs/5.2.3/javadoc",
           "releaseNotes": "https://docs.hazelcast.com/hazelcast/5.2/release-notes/5-2-3"
-        },
-        "codeSamples": {
-          "url": null,
-          "size": null
-        },
-        "github": null
+        }
       },
       {
         "version": "5.2.2",
@@ -888,15 +732,9 @@
         },
         "documentation": {
           "html": "https://docs.hazelcast.com/hazelcast/5.2/getting-started/quickstart.html",
-          "pdf": null,
           "apiDocs": "https://docs.hazelcast.org/docs/5.2.2/javadoc",
           "releaseNotes": "https://docs.hazelcast.com/hazelcast/5.2/release-notes/5-2-2"
-        },
-        "codeSamples": {
-          "url": null,
-          "size": null
-        },
-        "github": null
+        }
       },
       {
         "version": "5.2.1",
@@ -921,15 +759,9 @@
         },
         "documentation": {
           "html": "https://docs.hazelcast.com/hazelcast/5.2/getting-started/quickstart.html",
-          "pdf": null,
           "apiDocs": "https://docs.hazelcast.org/docs/5.2.1/javadoc",
           "releaseNotes": "https://docs.hazelcast.com/hazelcast/5.2/release-notes/5-2-1"
-        },
-        "codeSamples": {
-          "url": null,
-          "size": null
-        },
-        "github": null
+        }
       },
       {
         "version": "5.2.0",
@@ -954,15 +786,9 @@
         },
         "documentation": {
           "html": "https://docs.hazelcast.com/hazelcast/5.2/getting-started/quickstart.html",
-          "pdf": null,
           "apiDocs": "https://docs.hazelcast.org/docs/5.2.0/javadoc",
           "releaseNotes": "https://docs.hazelcast.com/hazelcast/5.2/release-notes/5-2-0"
-        },
-        "codeSamples": {
-          "url": null,
-          "size": null
-        },
-        "github": null
+        }
       },
       {
         "version": "5.1.7",
@@ -987,15 +813,9 @@
         },
         "documentation": {
           "html": "https://docs.hazelcast.com/hazelcast/5.1/getting-started/quickstart.html",
-          "pdf": null,
           "apiDocs": "https://docs.hazelcast.org/docs/5.1.7/javadoc",
           "releaseNotes": "https://docs.hazelcast.com/hazelcast/5.1/release-notes/5-1-7"
-        },
-        "codeSamples": {
-          "url": null,
-          "size": null
-        },
-        "github": null
+        }
       },
       {
         "version": "5.1.6",
@@ -1020,15 +840,9 @@
         },
         "documentation": {
           "html": "https://docs.hazelcast.com/hazelcast/5.1/getting-started/quickstart.html",
-          "pdf": null,
           "apiDocs": "https://docs.hazelcast.org/docs/5.1.6/javadoc",
           "releaseNotes": "https://docs.hazelcast.com/hazelcast/5.1/release-notes/5-1-6"
-        },
-        "codeSamples": {
-          "url": null,
-          "size": null
-        },
-        "github": null
+        }
       },
       {
         "version": "5.1.5",
@@ -1053,15 +867,9 @@
         },
         "documentation": {
           "html": "https://docs.hazelcast.com/hazelcast/5.1/getting-started/quickstart.html",
-          "pdf": null,
           "apiDocs": "https://docs.hazelcast.org/docs/5.1.5/javadoc",
           "releaseNotes": "https://docs.hazelcast.com/hazelcast/5.1/release-notes/5-1-5"
-        },
-        "codeSamples": {
-          "url": null,
-          "size": null
-        },
-        "github": null
+        }
       },
       {
         "version": "5.1.4",
@@ -1086,15 +894,9 @@
         },
         "documentation": {
           "html": "https://docs.hazelcast.com/hazelcast/5.1/getting-started/quickstart.html",
-          "pdf": null,
           "apiDocs": "https://docs.hazelcast.org/docs/5.1.4/javadoc",
           "releaseNotes": "https://docs.hazelcast.com/hazelcast/5.1/release-notes/5-1-4"
-        },
-        "codeSamples": {
-          "url": null,
-          "size": null
-        },
-        "github": null
+        }
       },
       {
         "version": "5.1.3",
@@ -1119,15 +921,9 @@
         },
         "documentation": {
           "html": "https://docs.hazelcast.com/hazelcast/5.1/getting-started/quickstart.html",
-          "pdf": null,
           "apiDocs": "https://docs.hazelcast.org/docs/5.1.3/javadoc",
           "releaseNotes": "https://docs.hazelcast.com/hazelcast/5.1/release-notes/5-1-3"
-        },
-        "codeSamples": {
-          "url": null,
-          "size": null
-        },
-        "github": null
+        }
       },
       {
         "version": "5.1.2",
@@ -1152,15 +948,9 @@
         },
         "documentation": {
           "html": "https://docs.hazelcast.com/hazelcast/5.1/getting-started/quickstart.html",
-          "pdf": null,
           "apiDocs": "https://docs.hazelcast.org/docs/5.1.2/javadoc",
           "releaseNotes": "https://docs.hazelcast.com/hazelcast/5.1/5-1-2-release-notes"
-        },
-        "codeSamples": {
-          "url": null,
-          "size": null
-        },
-        "github": null
+        }
       },
       {
         "version": "5.1.1",
@@ -1185,15 +975,9 @@
         },
         "documentation": {
           "html": "https://docs.hazelcast.com/hazelcast/5.1/getting-started/quickstart.html",
-          "pdf": null,
           "apiDocs": "https://docs.hazelcast.org/docs/5.1.1/javadoc",
           "releaseNotes": "https://docs.hazelcast.com/hazelcast/5.1/5-1-1-release-notes"
-        },
-        "codeSamples": {
-          "url": null,
-          "size": null
-        },
-        "github": null
+        }
       },
       {
         "version": "5.1",
@@ -1218,15 +1002,9 @@
         },
         "documentation": {
           "html": "https://docs.hazelcast.com/hazelcast/5.1/getting-started/quickstart.html",
-          "pdf": null,
           "apiDocs": "https://docs.hazelcast.org/docs/5.1/javadoc",
           "releaseNotes": "https://docs.hazelcast.com/hazelcast/5.1/5-1-release-notes"
-        },
-        "codeSamples": {
-          "url": null,
-          "size": null
-        },
-        "github": null
+        }
       },
       {
         "version": "5.0.5",
@@ -1251,15 +1029,9 @@
         },
         "documentation": {
           "html": "https://docs.hazelcast.com/hazelcast/5.0/getting-started/quickstart.html",
-          "pdf": null,
           "apiDocs": "https://docs.hazelcast.org/docs/5.0.5/javadoc",
           "releaseNotes": "https://docs.hazelcast.com/hazelcast/5.0/release-notes/5-0-5"
-        },
-        "codeSamples": {
-          "url": null,
-          "size": null
-        },
-        "github": null
+        }
       },
       {
         "version": "5.0.4",
@@ -1284,15 +1056,9 @@
         },
         "documentation": {
           "html": "https://docs.hazelcast.com/hazelcast/5.0/getting-started/quickstart.html",
-          "pdf": null,
           "apiDocs": "https://docs.hazelcast.org/docs/5.0.4/javadoc",
           "releaseNotes": "https://docs.hazelcast.com/hazelcast/5.0/release-notes/5-0-4"
-        },
-        "codeSamples": {
-          "url": null,
-          "size": null
-        },
-        "github": null
+        }
       },
       {
         "version": "5.0.3",
@@ -1317,15 +1083,9 @@
         },
         "documentation": {
           "html": "https://docs.hazelcast.com/hazelcast/5.0/getting-started/quickstart.html",
-          "pdf": null,
           "apiDocs": "https://docs.hazelcast.org/docs/5.0.3/javadoc",
           "releaseNotes": "https://docs.hazelcast.com/hazelcast/5.0/5-0-3-release-notes"
-        },
-        "codeSamples": {
-          "url": null,
-          "size": null
-        },
-        "github": null
+        }
       },
       {
         "version": "5.0.2",
@@ -1350,15 +1110,9 @@
         },
         "documentation": {
           "html": "https://docs.hazelcast.com/hazelcast/5.0/getting-started/quickstart.html",
-          "pdf": null,
           "apiDocs": "https://docs.hazelcast.org/docs/5.0.2/javadoc",
           "releaseNotes": "https://docs.hazelcast.com/hazelcast/5.0/5-0-2-release-notes"
-        },
-        "codeSamples": {
-          "url": null,
-          "size": null
-        },
-        "github": null
+        }
       },
       {
         "version": "5.0.1",
@@ -1383,15 +1137,9 @@
         },
         "documentation": {
           "html": "https://docs.hazelcast.com/hazelcast/5.0/getting-started/quickstart.html",
-          "pdf": null,
           "apiDocs": "https://docs.hazelcast.org/docs/5.0.1/javadoc",
           "releaseNotes": "https://docs.hazelcast.com/hazelcast/5.0/5-0-1-release-notes"
-        },
-        "codeSamples": {
-          "url": null,
-          "size": null
-        },
-        "github": null
+        }
       },
       {
         "version": "5.0",
@@ -1416,15 +1164,9 @@
         },
         "documentation": {
           "html": "https://docs.hazelcast.com/hazelcast/5.0/getting-started/quickstart.html",
-          "pdf": null,
           "apiDocs": "https://docs.hazelcast.org/docs/5.0/javadoc",
           "releaseNotes": "https://docs.hazelcast.com/hazelcast/5.0/release-notes.html"
-        },
-        "codeSamples": {
-          "url": null,
-          "size": null
-        },
-        "github": null
+        }
       }
     ],
     "development": {
@@ -1453,15 +1195,9 @@
           },
           "documentation": {
             "html": "https://docs.hazelcast.com/hazelcast/5.4/getting-started/quickstart.html",
-            "pdf": null,
             "apiDocs": "https://docs.hazelcast.org/docs/5.4.0-BETA-2/javadoc",
             "releaseNotes": "https://docs.hazelcast.com/hazelcast/5.4/release-notes/5-4-0-beta-2"
-          },
-          "codeSamples": {
-            "url": null,
-            "size": null
-          },
-          "github": null
+          }
         }
       ]
     }

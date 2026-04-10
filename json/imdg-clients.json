@@ -1,6 +1,6 @@
 {
   "product": "Hazelcast Clients",
-  "lastUpdated": "2026-03-30T14:57:30",
+  "lastUpdated": "2026-04-10T18:08:05",
   "type": "IMDG_CLIENTS",
   "license": "public",
   "display": "Hazelcast Clients",
@@ -1112,8 +1112,7 @@
           },
           "github": "https://github.com/hazelcast/hazelcast/tree/v3.9",
           "docs": "http://docs.hazelcast.org/docs/3.9/manual/html-single/index.html",
-          "apiDocs": "http://docs.hazelcast.org/docs/3.9/javadoc",
-          "releaseNotes": null
+          "apiDocs": "http://docs.hazelcast.org/docs/3.9/javadoc"
         },
         {
           "version": "3.8.4",
@@ -1124,8 +1123,7 @@
           },
           "github": "https://github.com/hazelcast/hazelcast/tree/v3.8.4",
           "docs": "http://docs.hazelcast.org/docs/3.8.4/manual/html-single/index.html",
-          "apiDocs": "http://docs.hazelcast.org/docs/3.8.4/javadoc",
-          "releaseNotes": null
+          "apiDocs": "http://docs.hazelcast.org/docs/3.8.4/javadoc"
         },
         {
           "version": "3.8.3",
@@ -1136,8 +1134,7 @@
           },
           "github": "https://github.com/hazelcast/hazelcast/tree/v3.8.3",
           "docs": "http://docs.hazelcast.org/docs/3.8.3/manual/html-single/index.html",
-          "apiDocs": "http://docs.hazelcast.org/docs/3.8.3/javadoc",
-          "releaseNotes": null
+          "apiDocs": "http://docs.hazelcast.org/docs/3.8.3/javadoc"
         },
         {
           "version": "3.8.2",
@@ -1148,8 +1145,7 @@
           },
           "github": "https://github.com/hazelcast/hazelcast/tree/v3.8.2",
           "docs": "https://github.com/hazelcast/hazelcast/releases/download/v3.8.2/hazelcast-3.8.2.zip",
-          "apiDocs": "http://docs.hazelcast.org/docs/3.8.2/javadoc",
-          "releaseNotes": null
+          "apiDocs": "http://docs.hazelcast.org/docs/3.8.2/javadoc"
         },
         {
           "version": "3.8.1",
@@ -1160,8 +1156,7 @@
           },
           "github": "https://github.com/hazelcast/hazelcast/tree/v3.8.1",
           "docs": "http://docs.hazelcast.org/docs/3.8.1/manual/html-single/index.html",
-          "apiDocs": "http://docs.hazelcast.org/docs/3.8.1/javadoc",
-          "releaseNotes": null
+          "apiDocs": "http://docs.hazelcast.org/docs/3.8.1/javadoc"
         },
         {
           "version": "3.8",
@@ -1172,8 +1167,7 @@
           },
           "github": "https://github.com/hazelcast/hazelcast/tree/v3.8/hazelcast-client",
           "docs": "http://docs.hazelcast.org/docs/3.8/manual/html-single/index.html#hazelcast-java-client",
-          "apiDocs": "http://docs.hazelcast.org/docs/3.8/javadoc/",
-          "releaseNotes": null
+          "apiDocs": "http://docs.hazelcast.org/docs/3.8/javadoc/"
         },
         {
           "version": "3.7.5",
@@ -1184,8 +1178,7 @@
           },
           "github": "https://github.com/hazelcast/hazelcast/tree/v3.7.5/hazelcast-client",
           "docs": "http://docs.hazelcast.org/docs/3.7.5/manual/html-single/index.html#hazelcast-java-client",
-          "apiDocs": "http://docs.hazelcast.org/docs/3.7.5/javadoc/",
-          "releaseNotes": null
+          "apiDocs": "http://docs.hazelcast.org/docs/3.7.5/javadoc/"
         },
         {
           "version": "3.7.4",
@@ -1196,8 +1189,7 @@
           },
           "github": "https://github.com/hazelcast/hazelcast/tree/v3.7.4/hazelcast-client",
           "docs": "http://docs.hazelcast.org/docs/3.7.4/manual/html-single/index.html#hazelcast-java-client",
-          "apiDocs": "http://docs.hazelcast.org/docs/3.7.4/javadoc/",
-          "releaseNotes": null
+          "apiDocs": "http://docs.hazelcast.org/docs/3.7.4/javadoc/"
         },
         {
           "version": "3.7.3",
@@ -1208,8 +1200,7 @@
           },
           "github": "https://github.com/hazelcast/hazelcast/tree/v3.7.3/hazelcast-client",
           "docs": "http://docs.hazelcast.org/docs/3.7.3/manual/html-single/index.html#hazelcast-java-client",
-          "apiDocs": "http://docs.hazelcast.org/docs/3.7.3/javadoc/",
-          "releaseNotes": null
+          "apiDocs": "http://docs.hazelcast.org/docs/3.7.3/javadoc/"
         },
         {
           "version": "3.7.2",
@@ -1220,8 +1211,7 @@
           },
           "github": "https://github.com/hazelcast/hazelcast/tree/v3.7.2/hazelcast-client",
           "docs": "http://docs.hazelcast.org/docs/3.7.2/manual/html-single/index.html#hazelcast-java-client",
-          "apiDocs": "http://docs.hazelcast.org/docs/3.7.2/javadoc/",
-          "releaseNotes": null
+          "apiDocs": "http://docs.hazelcast.org/docs/3.7.2/javadoc/"
         },
         {
           "version": "3.7.1",
@@ -1232,8 +1222,7 @@
           },
           "github": "https://github.com/hazelcast/hazelcast/tree/v3.7.1/hazelcast-client",
           "docs": "http://docs.hazelcast.org/docs/3.7.1/manual/html-single/index.html#hazelcast-java-client",
-          "apiDocs": "http://docs.hazelcast.org/docs/3.7.1/javadoc/",
-          "releaseNotes": null
+          "apiDocs": "http://docs.hazelcast.org/docs/3.7.1/javadoc/"
         },
         {
           "version": "3.7",
@@ -1244,8 +1233,7 @@
           },
           "github": "https://github.com/hazelcast/hazelcast/tree/v3.7/hazelcast-client",
           "docs": "http://docs.hazelcast.org/docs/3.7.0/manual/html-single/index.html#hazelcast-java-client",
-          "apiDocs": "http://docs.hazelcast.org/docs/3.7.0/javadoc/",
-          "releaseNotes": null
+          "apiDocs": "http://docs.hazelcast.org/docs/3.7.0/javadoc/"
         },
         {
           "version": "3.6.7",
@@ -1256,8 +1244,7 @@
           },
           "github": "https://github.com/hazelcast/hazelcast/tree/v3.6.7/hazelcast-client",
           "docs": "http://docs.hazelcast.org/docs/3.6.7/manual/html-single/index.html#hazelcast-java-client",
-          "apiDocs": "http://docs.hazelcast.org/docs/3.6.7/javadoc/",
-          "releaseNotes": null
+          "apiDocs": "http://docs.hazelcast.org/docs/3.6.7/javadoc/"
         },
         {
           "version": "3.6.6",
@@ -1268,8 +1255,7 @@
           },
           "github": "https://github.com/hazelcast/hazelcast/tree/v3.6.6/hazelcast-client",
           "docs": "http://docs.hazelcast.org/docs/3.6.6/manual/html-single/index.html#hazelcast-java-client",
-          "apiDocs": "http://docs.hazelcast.org/docs/3.6.6/javadoc/",
-          "releaseNotes": null
+          "apiDocs": "http://docs.hazelcast.org/docs/3.6.6/javadoc/"
         },
         {
           "version": "3.6.5",
@@ -1280,8 +1266,7 @@
           },
           "github": "https://github.com/hazelcast/hazelcast/tree/v3.6.5/hazelcast-client",
           "docs": "http://docs.hazelcast.org/docs/3.6.5/manual/html-single/index.html#hazelcast-java-client",
-          "apiDocs": "http://docs.hazelcast.org/docs/3.6.5/javadoc/",
-          "releaseNotes": null
+          "apiDocs": "http://docs.hazelcast.org/docs/3.6.5/javadoc/"
         },
         {
           "version": "3.6.4",
@@ -1292,8 +1277,7 @@
           },
           "github": "https://github.com/hazelcast/hazelcast/tree/v3.6.4/hazelcast-client",
           "docs": "http://docs.hazelcast.org/docs/3.6.4/manual/html-single/index.html#hazelcast-java-client",
-          "apiDocs": "http://docs.hazelcast.org/docs/3.6.4/javadoc/",
-          "releaseNotes": null
+          "apiDocs": "http://docs.hazelcast.org/docs/3.6.4/javadoc/"
         },
         {
           "version": "3.6.3",
@@ -1304,8 +1288,7 @@
           },
           "github": "https://github.com/hazelcast/hazelcast/tree/v3.6.3/hazelcast-client",
           "docs": "http://docs.hazelcast.org/docs/3.6.3/manual/html-single/index.html#hazelcast-java-client",
-          "apiDocs": "http://docs.hazelcast.org/docs/3.6.3/javadoc/",
-          "releaseNotes": null
+          "apiDocs": "http://docs.hazelcast.org/docs/3.6.3/javadoc/"
         },
         {
           "version": "3.6.2",
@@ -1316,8 +1299,7 @@
           },
           "github": "https://github.com/hazelcast/hazelcast/tree/v3.6.2/hazelcast-client",
           "docs": "http://docs.hazelcast.org/docs/3.6.2/manual/html-single/index.html#hazelcast-java-client",
-          "apiDocs": "http://docs.hazelcast.org/docs/clients/java/3.6.2/",
-          "releaseNotes": null
+          "apiDocs": "http://docs.hazelcast.org/docs/clients/java/3.6.2/"
         },
         {
           "version": "3.6.1",
@@ -1328,8 +1310,7 @@
           },
           "github": "https://github.com/hazelcast/hazelcast/tree/v3.6.1/hazelcast-client",
           "docs": "http://docs.hazelcast.org/docs/3.6.1/manual/html-single/index.html#hazelcast-java-client",
-          "apiDocs": "http://docs.hazelcast.org/docs/clients/java/3.6.1/",
-          "releaseNotes": null
+          "apiDocs": "http://docs.hazelcast.org/docs/clients/java/3.6.1/"
         },
         {
           "version": "3.6",
@@ -1340,8 +1321,7 @@
           },
           "github": "https://github.com/hazelcast/hazelcast/tree/v3.6/hazelcast-client",
           "docs": "http://docs.hazelcast.org/docs/3.6.0/manual/html-single/index.html#hazelcast-java-client",
-          "apiDocs": "http://docs.hazelcast.org/docs/clients/java/3.6/",
-          "releaseNotes": null
+          "apiDocs": "http://docs.hazelcast.org/docs/clients/java/3.6/"
         },
         {
           "version": "3.6-RC1",
@@ -1352,8 +1332,7 @@
           },
           "github": "https://github.com/hazelcast/hazelcast/tree/v3.6-RC1/hazelcast-client",
           "docs": "https://docs.hazelcast.org/docs/3.6-RC1/manual/html-single/index.html#hazelcast-java-client",
-          "apiDocs": "http://docs.hazelcast.org/docs/3.6-RC1/javadoc/",
-          "releaseNotes": null
+          "apiDocs": "http://docs.hazelcast.org/docs/3.6-RC1/javadoc/"
         },
         {
           "version": "3.6-EA3",
@@ -1364,8 +1343,7 @@
           },
           "github": "https://github.com/hazelcast/hazelcast/tree/v3.6-EA3/hazelcast-client",
           "docs": "http://docs.hazelcast.org/docs/3.6-EA3/manual/html-single/index.html#hazelcast-java-client",
-          "apiDocs": "http://docs.hazelcast.org/docs/3.6-EA3/javadoc/",
-          "releaseNotes": null
+          "apiDocs": "http://docs.hazelcast.org/docs/3.6-EA3/javadoc/"
         },
         {
           "version": "3.6-EA2",
@@ -1376,8 +1354,7 @@
           },
           "github": "https://github.com/hazelcast/hazelcast/tree/v3.6-EA2/hazelcast-client",
           "docs": "http://docs.hazelcast.org/docs/3.6-EA2/manual/html-single/index.html#hazelcast-java-client",
-          "apiDocs": "http://docs.hazelcast.org/docs/3.6-EA2/javadoc/",
-          "releaseNotes": null
+          "apiDocs": "http://docs.hazelcast.org/docs/3.6-EA2/javadoc/"
         }
       ]
     },
@@ -1519,7 +1496,7 @@
         },
         {
           "version": "5.0.1",
-          "date": "21/03/2022",
+          "date": "2022-03-21",
           "download": {
             "url": "https://www.nuget.org/api/v2/package/Hazelcast.Net/5.0.1",
             "size": "1 MB"
@@ -1543,7 +1520,7 @@
         },
         {
           "version": "4.1.0",
-          "date": "28/06/2021",
+          "date": "2021-06-28",
           "download": {
             "url": "https://www.nuget.org/api/v2/package/Hazelcast.Net/4.1.0",
             "size": "1 MB"
@@ -1802,8 +1779,7 @@
           },
           "github": "https://github.com/hazelcast/hazelcast-csharp-client/tree/v3.6.4",
           "docs": "https://github.com/hazelcast/hazelcast-csharp-client/blob/v3.6.4/README.md",
-          "apiDocs": "http://docs.hazelcast.org/docs/clients/net/3.6.4/",
-          "releaseNotes": null
+          "apiDocs": "http://docs.hazelcast.org/docs/clients/net/3.6.4/"
         },
         {
           "version": "3.6.3",
@@ -1814,8 +1790,7 @@
           },
           "github": "https://github.com/hazelcast/hazelcast-csharp-client/tree/v3.6.3.0",
           "docs": "https://github.com/hazelcast/hazelcast-csharp-client/blob/v3.6.3.0/README.md",
-          "apiDocs": "http://docs.hazelcast.org/docs/clients/net/3.6.3/",
-          "releaseNotes": null
+          "apiDocs": "http://docs.hazelcast.org/docs/clients/net/3.6.3/"
         },
         {
           "version": "3.6.2",
@@ -1826,8 +1801,7 @@
           },
           "github": "https://github.com/hazelcast/hazelcast-csharp-client/tree/v3.6.2",
           "docs": "https://github.com/hazelcast/hazelcast-csharp-client/blob/v3.6.2/README.md",
-          "apiDocs": "http://docs.hazelcast.org/docs/clients/net/3.6.2/",
-          "releaseNotes": null
+          "apiDocs": "http://docs.hazelcast.org/docs/clients/net/3.6.2/"
         },
         {
           "version": "3.6.1",
@@ -1838,8 +1812,7 @@
           },
           "github": "https://github.com/hazelcast/hazelcast-csharp-client/tree/v3.6.1",
           "docs": "https://github.com/hazelcast/hazelcast-csharp-client/blob/v3.6.1/README.md",
-          "apiDocs": "http://docs.hazelcast.org/docs/clients/net/3.6.1/",
-          "releaseNotes": null
+          "apiDocs": "http://docs.hazelcast.org/docs/clients/net/3.6.1/"
         },
         {
           "version": "3.6",
@@ -1850,8 +1823,7 @@
           },
           "github": "https://github.com/hazelcast/hazelcast-csharp-client/tree/v3.6",
           "docs": "https://github.com/hazelcast/hazelcast-csharp-client/blob/v3.6/README.md",
-          "apiDocs": "http://docs.hazelcast.org/docs/clients/net/3.6/",
-          "releaseNotes": null
+          "apiDocs": "http://docs.hazelcast.org/docs/clients/net/3.6/"
         },
         {
           "version": "3.6-RC1",
@@ -1862,8 +1834,7 @@
           },
           "github": "https://github.com/hazelcast/hazelcast-csharp-client/tree/v3.6-RC1",
           "docs": "https://github.com/hazelcast/hazelcast-csharp-client/blob/v3.6-RC1/README.md",
-          "apiDocs": "http://docs.hazelcast.org/docs/clients/net/3.6-RC1/",
-          "releaseNotes": null
+          "apiDocs": "http://docs.hazelcast.org/docs/clients/net/3.6-RC1/"
         },
         {
           "version": "3.6-EA3",
@@ -1874,8 +1845,7 @@
           },
           "github": "https://github.com/hazelcast/hazelcast-csharp-client/tree/v3.6-EA3",
           "docs": "https://github.com/hazelcast/hazelcast-csharp-client/blob/v3.6-EA3/README.md",
-          "apiDocs": "http://docs.hazelcast.org/docs/clients/net/3.6-EA3/",
-          "releaseNotes": null
+          "apiDocs": "http://docs.hazelcast.org/docs/clients/net/3.6-EA3/"
         },
         {
           "version": "3.6-EA2",
@@ -1886,8 +1856,7 @@
           },
           "github": "https://github.com/hazelcast/hazelcast-csharp-client/tree/v3.6-EA2",
           "docs": "https://github.com/hazelcast/hazelcast-csharp-client/blob/v3.6-EA2/README.md",
-          "apiDocs": "http://docs.hazelcast.org/docs/clients/net/3.6-EA2/",
-          "releaseNotes": null
+          "apiDocs": "http://docs.hazelcast.org/docs/clients/net/3.6-EA2/"
         }
       ]
     },
@@ -1898,10 +1867,6 @@
         {
           "version": "5.6.0",
           "date": "2026-01-20",
-          "download": {
-            "url": null,
-            "size": null
-          },
           "github": "https://github.com/hazelcast/hazelcast-cpp-client/tree/v5.6.0",
           "docs": "https://github.com/hazelcast/hazelcast-cpp-client/blob/v5.6.0/Reference_Manual.md",
           "apiDocs": "http://hazelcast.github.io/hazelcast-cpp-client/api-index.html",
@@ -1910,10 +1875,6 @@
         {
           "version": "5.5.0",
           "date": "2025-11-07",
-          "download": {
-            "url": null,
-            "size": null
-          },
           "github": "https://github.com/hazelcast/hazelcast-cpp-client/tree/v5.5.0",
           "docs": "https://github.com/hazelcast/hazelcast-cpp-client/blob/v5.5.0/Reference_Manual.md",
           "apiDocs": "http://hazelcast.github.io/hazelcast-cpp-client/api-index.html",
@@ -1922,10 +1883,6 @@
         {
           "version": "5.4.0",
           "date": "2025-06-13",
-          "download": {
-            "url": null,
-            "size": null
-          },
           "github": "https://github.com/hazelcast/hazelcast-cpp-client/tree/v5.4.0",
           "docs": "https://github.com/hazelcast/hazelcast-cpp-client/blob/v5.4.0/Reference_Manual.md",
           "apiDocs": "http://hazelcast.github.io/hazelcast-cpp-client/api-index.html",
@@ -1934,10 +1891,6 @@
         {
           "version": "5.3.1",
           "date": "2025-06-02",
-          "download": {
-            "url": null,
-            "size": null
-          },
           "github": "https://github.com/hazelcast/hazelcast-cpp-client/tree/v5.3.1",
           "docs": "https://github.com/hazelcast/hazelcast-cpp-client/blob/v5.3.1/Reference_Manual.md",
           "apiDocs": "http://hazelcast.github.io/hazelcast-cpp-client/api-index.html",
@@ -1946,10 +1899,6 @@
         {
           "version": "5.3.0",
           "date": "2023-06-12",
-          "download": {
-            "url": null,
-            "size": null
-          },
           "github": "https://github.com/hazelcast/hazelcast-cpp-client/tree/v5.3.0",
           "docs": "https://github.com/hazelcast/hazelcast-cpp-client/blob/v5.3.0/Reference_Manual.md",
           "apiDocs": "http://hazelcast.github.io/hazelcast-cpp-client/api-index.html",
@@ -1958,10 +1907,6 @@
         {
           "version": "5.2.0",
           "date": "2023-03-16",
-          "download": {
-            "url": null,
-            "size": null
-          },
           "github": "https://github.com/hazelcast/hazelcast-cpp-client/tree/v5.2.0",
           "docs": "https://github.com/hazelcast/hazelcast-cpp-client/blob/v5.2.0/Reference_Manual.md",
           "apiDocs": "http://hazelcast.github.io/hazelcast-cpp-client/api-index.html",
@@ -1970,10 +1915,6 @@
         {
           "version": "5.1.0",
           "date": "2022-12-30",
-          "download": {
-            "url": null,
-            "size": null
-          },
           "github": "https://github.com/hazelcast/hazelcast-cpp-client/tree/v5.1.0",
           "docs": "https://github.com/hazelcast/hazelcast-cpp-client/blob/v5.1.0/Reference_Manual.md",
           "apiDocs": "http://hazelcast.github.io/hazelcast-cpp-client/api-index.html",
@@ -1982,10 +1923,6 @@
         {
           "version": "5.0.0",
           "date": "2021-10-18",
-          "download": {
-            "url": null,
-            "size": null
-          },
           "github": "https://github.com/hazelcast/hazelcast-cpp-client/tree/v5.0.0",
           "docs": "https://github.com/hazelcast/hazelcast-cpp-client/blob/v5.0.0/Reference_Manual.md",
           "apiDocs": "http://hazelcast.github.io/hazelcast-cpp-client/api-index.html",
@@ -1994,10 +1931,6 @@
         {
           "version": "4.2.1",
           "date": "2022-08-11",
-          "download": {
-            "url": null,
-            "size": null
-          },
           "github": "https://github.com/hazelcast/hazelcast-cpp-client/tree/v4.2.1",
           "docs": "https://github.com/hazelcast/hazelcast-cpp-client/blob/v4.2.1/Reference_Manual.md",
           "apiDocs": "http://hazelcast.github.io/hazelcast-cpp-client/api-index.html",
@@ -2006,10 +1939,6 @@
         {
           "version": "4.2.0",
           "date": "2021-08-31",
-          "download": {
-            "url": null,
-            "size": null
-          },
           "github": "https://github.com/hazelcast/hazelcast-cpp-client/tree/v4.2.0",
           "docs": "https://github.com/hazelcast/hazelcast-cpp-client/blob/v4.2.0/Reference_Manual.md",
           "apiDocs": "http://hazelcast.github.io/hazelcast-cpp-client/api-index.html",
@@ -2018,10 +1947,6 @@
         {
           "version": "4.1.1",
           "date": "2021-05-26",
-          "download": {
-            "url": null,
-            "size": null
-          },
           "github": "https://github.com/hazelcast/hazelcast-cpp-client/tree/v4.1.1",
           "docs": "https://github.com/hazelcast/hazelcast-cpp-client/blob/v4.1.1/Reference_Manual.md",
           "apiDocs": "http://hazelcast.github.io/hazelcast-cpp-client/api-index.html",
@@ -2030,10 +1955,6 @@
         {
           "version": "4.1.0",
           "date": "2021-05-07",
-          "download": {
-            "url": null,
-            "size": null
-          },
           "github": "https://github.com/hazelcast/hazelcast-cpp-client/tree/v4.1.0",
           "docs": "https://github.com/hazelcast/hazelcast-cpp-client/blob/v4.1.0/Reference_Manual.md",
           "apiDocs": "http://hazelcast.github.io/hazelcast-cpp-client/api-index.html",
@@ -2042,10 +1963,6 @@
         {
           "version": "4.0.1",
           "date": "2021-02-25",
-          "download": {
-            "url": null,
-            "size": null
-          },
           "github": "https://github.com/hazelcast/hazelcast-cpp-client/tree/v4.0.1",
           "docs": "https://github.com/hazelcast/hazelcast-cpp-client/blob/v4.0.1/Reference_Manual.md",
           "apiDocs": "http://hazelcast.github.io/hazelcast-cpp-client/api-index.html",
@@ -2054,10 +1971,6 @@
         {
           "version": "4.0.0",
           "date": "2021-01-28",
-          "download": {
-            "url": null,
-            "size": null
-          },
           "github": "https://github.com/hazelcast/hazelcast-cpp-client/tree/v4.0.0",
           "docs": "https://github.com/hazelcast/hazelcast-cpp-client/blob/v4.0.0/README.md",
           "apiDocs": "http://hazelcast.github.io/hazelcast-cpp-client/api-index.html",
@@ -2066,10 +1979,6 @@
         {
           "version": "4.0-BETA",
           "date": "2020-11-25",
-          "download": {
-            "url": null,
-            "size": null
-          },
           "github": "https://github.com/hazelcast/hazelcast-cpp-client/tree/v4.0-BETA",
           "docs": "https://github.com/hazelcast/hazelcast-cpp-client/blob/v4.0-BETA/README.md",
           "apiDocs": "http://hazelcast.github.io/hazelcast-cpp-client/index.html",
@@ -2078,10 +1987,6 @@
         {
           "version": "4.0-BETA",
           "date": "2020-11-25",
-          "download": {
-            "url": null,
-            "size": null
-          },
           "github": "https://github.com/hazelcast/hazelcast-cpp-client/tree/v4.0-BETA",
           "docs": "https://github.com/hazelcast/hazelcast-cpp-client/blob/v4.0-BETA/README.md",
           "apiDocs": "http://hazelcast.github.io/hazelcast-cpp-client/index.html",
@@ -2090,10 +1995,6 @@
         {
           "version": "3.12.1",
           "date": "2020-01-28",
-          "download": {
-            "url": null,
-            "size": null
-          },
           "github": "https://github.com/hazelcast/hazelcast-cpp-client/tree/v3.12.1",
           "docs": "https://github.com/hazelcast/hazelcast-cpp-client/blob/v3.12.1/README.md",
           "apiDocs": "http://docs.hazelcast.org/docs/clients/cpp/3.12.1/html/",
@@ -2102,10 +2003,6 @@
         {
           "version": "3.12",
           "date": "2019-04-25",
-          "download": {
-            "url": null,
-            "size": null
-          },
           "github": "https://github.com/hazelcast/hazelcast-cpp-client/tree/v3.12",
           "docs": "https://repository.hazelcast.com/download/clients/3.12/hazelcast-cpp-client-3.12-docs.zip",
           "apiDocs": "http://docs.hazelcast.org/docs/clients/cpp/3.12/html/",
@@ -2114,10 +2011,6 @@
         {
           "version": "3.11",
           "date": "2018-12-14",
-          "download": {
-            "url": null,
-            "size": null
-          },
           "github": "https://github.com/hazelcast/hazelcast-cpp-client/tree/v3.11",
           "docs": "https://repository.hazelcast.com/download/clients/3.11/hazelcast-cpp-client-3.11-docs.zip",
           "apiDocs": "http://docs.hazelcast.org/docs/clients/cpp/3.11/html/",
@@ -2126,10 +2019,6 @@
         {
           "version": "3.10.1",
           "date": "2018-08-28",
-          "download": {
-            "url": null,
-            "size": null
-          },
           "github": "https://github.com/hazelcast/hazelcast-cpp-client/tree/v3.10.1",
           "docs": "https://repository.hazelcast.com/download/clients/3.10.1/hazelcast-cpp-client-3.10.1-docs.zip",
           "apiDocs": "http://docs.hazelcast.org/docs/clients/cpp/3.10.1/html/",
@@ -2138,10 +2027,6 @@
         {
           "version": "3.10",
           "date": "2018-06-20",
-          "download": {
-            "url": null,
-            "size": null
-          },
           "github": "https://github.com/hazelcast/hazelcast-cpp-client/tree/v3.10",
           "docs": "https://repository.hazelcast.com/download/clients/3.10/hazelcast-cpp-client-3.10-docs.zip",
           "apiDocs": "http://docs.hazelcast.org/docs/clients/cpp/3.10/html/",
@@ -2150,10 +2035,6 @@
         {
           "version": "3.9.1",
           "date": "2017-12-28",
-          "download": {
-            "url": null,
-            "size": null
-          },
           "github": "https://github.com/hazelcast/hazelcast-cpp-client/tree/v3.9.1",
           "docs": "https://repository.hazelcast.com/download/clients/3.9.1/hazelcast-cpp-client-3.9.1-docs.zip",
           "apiDocs": "http://docs.hazelcast.org/docs/clients/cpp/3.9.1/html/",
@@ -2162,10 +2043,6 @@
         {
           "version": "3.9",
           "date": "2017-12-05",
-          "download": {
-            "url": null,
-            "size": null
-          },
           "github": "https://github.com/hazelcast/hazelcast-cpp-client/tree/v3.9",
           "docs": "https://repository.hazelcast.com/download/clients/3.9/hazelcast-cpp-client-3.9-docs.zip",
           "apiDocs": "http://docs.hazelcast.org/docs/clients/cpp/3.9/html/",
@@ -2174,10 +2051,6 @@
         {
           "version": "3.8.3",
           "date": "2017-08-07",
-          "download": {
-            "url": null,
-            "size": null
-          },
           "github": "https://github.com/hazelcast/hazelcast-cpp-client/tree/v3.8.3",
           "docs": "https://repository.hazelcast.com/download/clients/3.8.3/hazelcast-cpp-client-3.8.3-docs.zip",
           "apiDocs": "http://docs.hazelcast.org/docs/clients/cpp/3.8.3/html/",
@@ -2186,10 +2059,6 @@
         {
           "version": "3.8.2",
           "date": "2017-07-14",
-          "download": {
-            "url": null,
-            "size": null
-          },
           "github": "https://github.com/hazelcast/hazelcast-cpp-client/tree/v3.8.2",
           "docs": "https://repository.hazelcast.com/download/clients/3.8.2/hazelcast-cpp-client-3.8.2-docs.zip",
           "apiDocs": "http://docs.hazelcast.org/docs/clients/cpp/3.8.2/html/",
@@ -2198,10 +2067,6 @@
         {
           "version": "3.8.1",
           "date": "2017-05-03",
-          "download": {
-            "url": null,
-            "size": null
-          },
           "github": "https://github.com/hazelcast/hazelcast-cpp-client/tree/v3.8.1",
           "docs": "https://repository.hazelcast.com/download/clients/3.8.1/hazelcast-cpp-client-3.8.1-docs.zip",
           "apiDocs": "http://docs.hazelcast.org/docs/clients/cpp/3.8.1/html/",
@@ -2210,10 +2075,6 @@
         {
           "version": "3.8",
           "date": "2017-04-05",
-          "download": {
-            "url": null,
-            "size": null
-          },
           "github": "https://github.com/hazelcast/hazelcast-cpp-client/tree/v3.8",
           "docs": "https://repository.hazelcast.com/download/clients/3.8/hazelcast-cpp-client-3.8-docs.zip",
           "apiDocs": "http://docs.hazelcast.org/docs/clients/cpp/3.8/html/",
@@ -2276,8 +2137,7 @@
           },
           "github": "https://github.com/hazelcast/hazelcast-cpp-client/tree/v3.6",
           "docs": "https://github.com/hazelcast/hazelcast-cpp-client/blob/v3.6/README.md",
-          "apiDocs": "http://docs.hazelcast.org/docs/clients/cpp/3.6/",
-          "releaseNotes": null
+          "apiDocs": "http://docs.hazelcast.org/docs/clients/cpp/3.6/"
         },
         {
           "version": "3.6-RC1",
@@ -2288,8 +2148,7 @@
           },
           "github": "https://github.com/hazelcast/hazelcast-cpp-client/tree/v3.6-RC1",
           "docs": "https://github.com/hazelcast/hazelcast-cpp-client/blob/v3.6-RC1/README.md",
-          "apiDocs": "http://docs.hazelcast.org/docs/clients/cpp/3.6-RC1/",
-          "releaseNotes": null
+          "apiDocs": "http://docs.hazelcast.org/docs/clients/cpp/3.6-RC1/"
         },
         {
           "version": "3.6-EA3",
@@ -2300,8 +2159,7 @@
           },
           "github": "https://github.com/hazelcast/hazelcast-cpp-client/tree/v3.6-EA3",
           "docs": "https://github.com/hazelcast/hazelcast-cpp-client/blob/v3.6-EA3/README.md",
-          "apiDocs": "http://docs.hazelcast.org/docs/clients/cpp/3.6-EA3/",
-          "releaseNotes": null
+          "apiDocs": "http://docs.hazelcast.org/docs/clients/cpp/3.6-EA3/"
         }
       ]
     },
@@ -2318,8 +2176,7 @@
           },
           "github": "https://github.com/hazelcast/hazelcast-python-client/tree/v5.6.0",
           "docs": "https://github.com/hazelcast/hazelcast-python-client/blob/v5.6.0/README.rst",
-          "apiDocs": "https://hazelcast.readthedocs.io/en/v5.6.0/",
-          "releaseNotes": null
+          "apiDocs": "https://hazelcast.readthedocs.io/en/v5.6.0/"
         },
         {
           "version": "5.5.0",
@@ -2330,8 +2187,7 @@
           },
           "github": "https://github.com/hazelcast/hazelcast-python-client/tree/v5.5.0",
           "docs": "https://github.com/hazelcast/hazelcast-python-client/blob/v5.5.0/README.rst",
-          "apiDocs": "https://hazelcast.readthedocs.io/en/v5.5.0/",
-          "releaseNotes": null
+          "apiDocs": "https://hazelcast.readthedocs.io/en/v5.5.0/"
         },
         {
           "version": "5.4.0",
@@ -2341,9 +2197,7 @@
             "size": "247.8 KB"
           },
           "github": "https://github.com/hazelcast/hazelcast-python-client/tree/v5.4.0",
-          "docs": "https://github.com/hazelcast/hazelcast-python-client/blob/v5.4.0/README.rst",
-          "apiDocs": null,
-          "releaseNotes": null
+          "docs": "https://github.com/hazelcast/hazelcast-python-client/blob/v5.4.0/README.rst"
         },
         {
           "version": "5.3.0",
@@ -2354,8 +2208,7 @@
           },
           "github": "https://github.com/hazelcast/hazelcast-python-client/tree/v5.3.0",
           "docs": "https://github.com/hazelcast/hazelcast-python-client/blob/v5.3.0/README.rst",
-          "apiDocs": "https://hazelcast.readthedocs.io/en/v5.3.0/",
-          "releaseNotes": null
+          "apiDocs": "https://hazelcast.readthedocs.io/en/v5.3.0/"
         },
         {
           "version": "5.2.0",
@@ -2366,8 +2219,7 @@
           },
           "github": "https://github.com/hazelcast/hazelcast-python-client/tree/v5.2.0",
           "docs": "https://github.com/hazelcast/hazelcast-python-client/blob/v5.2.0/README.rst",
-          "apiDocs": "https://hazelcast.readthedocs.io/en/v5.2.0/",
-          "releaseNotes": null
+          "apiDocs": "https://hazelcast.readthedocs.io/en/v5.2.0/"
         },
         {
           "version": "5.1",
@@ -2378,8 +2230,7 @@
           },
           "github": "https://github.com/hazelcast/hazelcast-python-client/tree/v5.1",
           "docs": "https://github.com/hazelcast/hazelcast-python-client/blob/v5.1/README.rst",
-          "apiDocs": "https://hazelcast.readthedocs.io/en/v5.1/",
-          "releaseNotes": null
+          "apiDocs": "https://hazelcast.readthedocs.io/en/v5.1/"
         },
         {
           "version": "5.0.1",
@@ -2594,8 +2445,7 @@
           },
           "github": "https://github.com/hazelcast/hazelcast-python-client/tree/v3.7.1",
           "docs": "http://hazelcast.github.io/hazelcast-python-client/3.7.1/",
-          "apiDocs": "http://hazelcast.github.io/hazelcast-python-client/3.7.1/api/index.html",
-          "releaseNotes": null
+          "apiDocs": "http://hazelcast.github.io/hazelcast-python-client/3.7.1/api/index.html"
         },
         {
           "version": "3.7",
@@ -2606,8 +2456,7 @@
           },
           "github": "https://github.com/hazelcast/hazelcast-python-client/tree/v3.7",
           "docs": "http://hazelcast.github.io/hazelcast-python-client/3.7.1/",
-          "apiDocs": "http://hazelcast.github.io/hazelcast-python-client/3.7.1/api/index.html",
-          "releaseNotes": null
+          "apiDocs": "http://hazelcast.github.io/hazelcast-python-client/3.7.1/api/index.html"
         },
         {
           "version": "0.3",
@@ -2617,9 +2466,7 @@
             "size": "96 KB"
           },
           "github": "https://github.com/hazelcast/hazelcast-python-client/tree/v0.3",
-          "docs": "https://github.com/hazelcast/hazelcast-python-client/blob/v0.3/README.rst",
-          "apiDocs": null,
-          "releaseNotes": null
+          "docs": "https://github.com/hazelcast/hazelcast-python-client/blob/v0.3/README.rst"
         },
         {
           "version": "0.2.1",
@@ -2629,9 +2476,7 @@
             "size": "89.1 KB"
           },
           "github": "https://github.com/hazelcast/hazelcast-python-client/tree/v0.2.1",
-          "docs": "https://github.com/hazelcast/hazelcast-python-client/blob/v0.2.1/README.rst",
-          "apiDocs": null,
-          "releaseNotes": null
+          "docs": "https://github.com/hazelcast/hazelcast-python-client/blob/v0.2.1/README.rst"
         },
         {
           "version": "0.1",
@@ -2641,9 +2486,7 @@
             "size": "80.2 KB"
           },
           "github": "https://github.com/hazelcast/hazelcast-python-client/tree/v0.1",
-          "docs": "https://github.com/hazelcast/hazelcast-python-client/blob/v0.1/README.rst",
-          "apiDocs": null,
-          "releaseNotes": null
+          "docs": "https://github.com/hazelcast/hazelcast-python-client/blob/v0.1/README.rst"
         }
       ]
     },
@@ -2655,8 +2498,7 @@
           "version": "5.6.0",
           "date": "2026-02-16",
           "download": {
-            "url": "https://github.com/hazelcast/hazelcast-nodejs-client/archive/v5.6.0.zip",
-            "size": null
+            "url": "https://github.com/hazelcast/hazelcast-nodejs-client/archive/v5.6.0.zip"
           },
           "github": "https://github.com/hazelcast/hazelcast-nodejs-client/tree/v5.6.0",
           "docs": "https://github.com/hazelcast/hazelcast-nodejs-client/blob/v5.6.0/README.md",
@@ -3020,7 +2862,6 @@
           },
           "github": "https://github.com/hazelcast/hazelcast-nodejs-client/tree/v0.2.1",
           "docs": "https://github.com/hazelcast/hazelcast-nodejs-client/blob/v0.2.1/README.md",
-          "apiDocs": null,
           "releaseNotes": "https://github.com/hazelcast/hazelcast-nodejs-client/releases/tag/v0.2.1"
         },
         {
@@ -3043,9 +2884,7 @@
             "size": "14.6 MB"
           },
           "github": "https://github.com/hazelcast/hazelcast-nodejs-client/tree/v0.1",
-          "docs": "https://github.com/hazelcast/hazelcast-nodejs-client/blob/v0.1/README.md",
-          "apiDocs": null,
-          "releaseNotes": null
+          "docs": "https://github.com/hazelcast/hazelcast-nodejs-client/blob/v0.1/README.md"
         }
       ]
     },
@@ -3062,8 +2901,7 @@
           },
           "github": "https://github.com/hazelcast/hazelcast-scala/tree/v3.9.1",
           "docs": "https://github.com/hazelcast/hazelcast-scala/blob/v3.9.1/README.md",
-          "apiDocs": "https://github.com/hazelcast/hazelcast-scala/wiki",
-          "releaseNotes": null
+          "apiDocs": "https://github.com/hazelcast/hazelcast-scala/wiki"
         },
         {
           "version": "3.7.2",
@@ -3074,8 +2912,7 @@
           },
           "github": "https://github.com/hazelcast/hazelcast-scala/tree/v3.7.2",
           "docs": "https://github.com/hazelcast/hazelcast-scala/blob/v3.7.2/README.md",
-          "apiDocs": "https://github.com/hazelcast/hazelcast-scala/wiki",
-          "releaseNotes": null
+          "apiDocs": "https://github.com/hazelcast/hazelcast-scala/wiki"
         },
         {
           "version": "3.7.1",
@@ -3086,8 +2923,7 @@
           },
           "github": "https://github.com/hazelcast/hazelcast-scala/tree/v3.7.1",
           "docs": "https://github.com/hazelcast/hazelcast-scala/blob/v3.7.1/README.md",
-          "apiDocs": "https://github.com/hazelcast/hazelcast-scala/wiki",
-          "releaseNotes": null
+          "apiDocs": "https://github.com/hazelcast/hazelcast-scala/wiki"
         },
         {
           "version": "3.7.0",
@@ -3098,8 +2934,7 @@
           },
           "github": "https://github.com/hazelcast/hazelcast-scala/tree/v3.7.0",
           "docs": "https://github.com/hazelcast/hazelcast-scala/blob/v3.7.0/README.md",
-          "apiDocs": "https://github.com/hazelcast/hazelcast-scala/wiki",
-          "releaseNotes": null
+          "apiDocs": "https://github.com/hazelcast/hazelcast-scala/wiki"
         },
         {
           "version": "3.6.2",
@@ -3110,8 +2945,7 @@
           },
           "github": "https://github.com/hazelcast/hazelcast-scala/tree/v3.6.2",
           "docs": "https://github.com/hazelcast/hazelcast-scala/blob/v3.6.2/README.md",
-          "apiDocs": "https://github.com/hazelcast/hazelcast-scala/wiki",
-          "releaseNotes": null
+          "apiDocs": "https://github.com/hazelcast/hazelcast-scala/wiki"
         },
         {
           "version": "3.6.1",
@@ -3122,8 +2956,7 @@
           },
           "github": "https://github.com/hazelcast/hazelcast-scala/tree/v3.6.1",
           "docs": "https://github.com/hazelcast/hazelcast-scala/blob/v3.6.1/README.md",
-          "apiDocs": "https://github.com/hazelcast/hazelcast-scala/wiki",
-          "releaseNotes": null
+          "apiDocs": "https://github.com/hazelcast/hazelcast-scala/wiki"
         },
         {
           "version": "3.6.0",
@@ -3134,8 +2967,7 @@
           },
           "github": "https://github.com/hazelcast/hazelcast-scala/tree/v3.6.0",
           "docs": "https://github.com/hazelcast/hazelcast-scala/blob/v3.6.0/README.md",
-          "apiDocs": "https://github.com/hazelcast/hazelcast-scala/wiki",
-          "releaseNotes": null
+          "apiDocs": "https://github.com/hazelcast/hazelcast-scala/wiki"
         },
         {
           "version": "0.2.0",
@@ -3146,8 +2978,7 @@
           },
           "github": "https://github.com/hazelcast/hazelcast-scala/tree/v0.2.0",
           "docs": "https://github.com/hazelcast/hazelcast-scala/blob/v0.2.0/README.md",
-          "apiDocs": "https://github.com/hazelcast/hazelcast-scala/wiki",
-          "releaseNotes": null
+          "apiDocs": "https://github.com/hazelcast/hazelcast-scala/wiki"
         },
         {
           "version": "0.1.0",
@@ -3158,8 +2989,7 @@
           },
           "github": "https://github.com/hazelcast/hazelcast-scala/tree/v0.1.0",
           "docs": "https://github.com/hazelcast/hazelcast-scala/blob/v0.1.0/README.md",
-          "apiDocs": "https://github.com/hazelcast/hazelcast-scala/wiki",
-          "releaseNotes": null
+          "apiDocs": "https://github.com/hazelcast/hazelcast-scala/wiki"
         },
         {
           "version": "0.0.1.12",
@@ -3170,8 +3000,7 @@
           },
           "github": "https://github.com/hazelcast/hazelcast-scala/tree/v0.0.1.12",
           "docs": "https://github.com/hazelcast/hazelcast-scala/blob/v0.0.1.12/README.md",
-          "apiDocs": "https://github.com/hazelcast/hazelcast-scala/wiki",
-          "releaseNotes": null
+          "apiDocs": "https://github.com/hazelcast/hazelcast-scala/wiki"
         },
         {
           "version": "0.0.1.11",
@@ -3182,8 +3011,7 @@
           },
           "github": "https://github.com/hazelcast/hazelcast-scala/tree/v0.0.1.11",
           "docs": "https://github.com/hazelcast/hazelcast-scala/blob/v0.0.1.11/README.md",
-          "apiDocs": "https://github.com/hazelcast/hazelcast-scala/wiki",
-          "releaseNotes": null
+          "apiDocs": "https://github.com/hazelcast/hazelcast-scala/wiki"
         },
         {
           "version": "0.0.1.10",
@@ -3193,9 +3021,7 @@
             "size": "312.1 KB"
           },
           "github": "https://github.com/hazelcast/hazelcast-scala/tree/v0.0.1.10",
-          "docs": "https://github.com/hazelcast/hazelcast-scala/blob/v0.0.1.10/README.md",
-          "apiDocs": null,
-          "releaseNotes": null
+          "docs": "https://github.com/hazelcast/hazelcast-scala/blob/v0.0.1.10/README.md"
         },
         {
           "version": "0.0.1.9",
@@ -3205,9 +3031,7 @@
             "size": "311.7 KB"
           },
           "github": "https://github.com/hazelcast/hazelcast-scala/tree/v0.0.1.9",
-          "docs": "https://github.com/hazelcast/hazelcast-scala/blob/v0.0.1.9/README.md",
-          "apiDocs": null,
-          "releaseNotes": null
+          "docs": "https://github.com/hazelcast/hazelcast-scala/blob/v0.0.1.9/README.md"
         },
         {
           "version": "0.0.1.8",
@@ -3217,9 +3041,7 @@
             "size": "311.5 KB"
           },
           "github": "https://github.com/hazelcast/hazelcast-scala/tree/v0.0.1.8",
-          "docs": "https://github.com/hazelcast/hazelcast-scala/blob/v0.0.1.8/README.md",
-          "apiDocs": null,
-          "releaseNotes": null
+          "docs": "https://github.com/hazelcast/hazelcast-scala/blob/v0.0.1.8/README.md"
         },
         {
           "version": "0.0.1.7",
@@ -3229,9 +3051,7 @@
             "size": "310.2 KB"
           },
           "github": "https://github.com/hazelcast/hazelcast-scala/tree/v0.0.1.7",
-          "docs": "https://github.com/hazelcast/hazelcast-scala/blob/v0.0.1.7/README.md",
-          "apiDocs": null,
-          "releaseNotes": null
+          "docs": "https://github.com/hazelcast/hazelcast-scala/blob/v0.0.1.7/README.md"
         }
       ]
     },
@@ -3243,8 +3063,7 @@
           "version": "1.5.0",
           "date": "2025-11-11",
           "download": {
-            "url": "https://github.com/hazelcast/hazelcast-go-client/archive/v1.5.0.zip",
-            "size": null
+            "url": "https://github.com/hazelcast/hazelcast-go-client/archive/v1.5.0.zip"
           },
           "github": "https://github.com/hazelcast/hazelcast-go-client/tree/v1.5.0",
           "docs": "https://pkg.go.dev/github.com/hazelcast/hazelcast-go-client@v1.5.0",
@@ -3349,7 +3168,7 @@
         },
         {
           "version": "1.2.0",
-          "date": "13/04/2022",
+          "date": "2022-04-13",
           "download": {
             "url": "https://github.com/hazelcast/hazelcast-go-client/archive/v1.2.0.zip",
             "size": "717 KB"

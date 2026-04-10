@@ -1,6 +1,6 @@
 {
   "product": "Hazelcast IMDG",
-  "lastUpdated": "2026-03-30T14:57:30",
+  "lastUpdated": "2026-04-10T18:08:05",
   "type": "IMDG",
   "license": "open-source",
   "display": "Maintained",
@@ -21,7 +21,6 @@
       },
       "documentation": {
         "html": "https://docs.hazelcast.com/imdg/4.2/",
-        "pdf": null,
         "apiDocs": "https://docs.hazelcast.org/docs/4.2.8/javadoc",
         "releaseNotes": "https://docs.hazelcast.org/docs/rn/index.html#4-2-8"
       },
@@ -47,7 +46,6 @@
         },
         "documentation": {
           "html": "https://docs.hazelcast.com/imdg/4.2/",
-          "pdf": null,
           "apiDocs": "https://docs.hazelcast.org/docs/4.2.7/javadoc",
           "releaseNotes": "https://docs.hazelcast.org/docs/rn/index.html#4-2-7"
         },
@@ -72,7 +70,6 @@
         },
         "documentation": {
           "html": "https://docs.hazelcast.com/imdg/4.2/",
-          "pdf": null,
           "apiDocs": "https://docs.hazelcast.org/docs/4.2.6/javadoc",
           "releaseNotes": "https://docs.hazelcast.org/docs/rn/index.html#4-2-6"
         },
@@ -97,7 +94,6 @@
         },
         "documentation": {
           "html": "https://docs.hazelcast.com/imdg/4.2/",
-          "pdf": null,
           "apiDocs": "https://docs.hazelcast.org/docs/4.2.5/javadoc",
           "releaseNotes": "https://docs.hazelcast.org/docs/rn/index.html#4-2-5"
         },
@@ -122,7 +118,6 @@
         },
         "documentation": {
           "html": "https://docs.hazelcast.com/imdg/4.2/",
-          "pdf": null,
           "apiDocs": "https://docs.hazelcast.org/docs/4.2.4/javadoc",
           "releaseNotes": "https://docs.hazelcast.org/docs/rn/index.html#4-2-4"
         },
@@ -147,7 +142,6 @@
         },
         "documentation": {
           "html": "https://docs.hazelcast.com/imdg/4.2/",
-          "pdf": null,
           "apiDocs": "https://docs.hazelcast.org/docs/4.2.3/javadoc",
           "releaseNotes": "https://docs.hazelcast.org/docs/rn/index.html#4-2-3"
         },
@@ -172,7 +166,6 @@
         },
         "documentation": {
           "html": "https://docs.hazelcast.com/imdg/4.2/",
-          "pdf": null,
           "apiDocs": "https://docs.hazelcast.org/docs/4.2.2/javadoc",
           "releaseNotes": "https://docs.hazelcast.org/docs/rn/index.html#4-2-2"
         },
@@ -197,7 +190,6 @@
         },
         "documentation": {
           "html": "https://docs.hazelcast.com/imdg/4.2/",
-          "pdf": null,
           "apiDocs": "https://docs.hazelcast.org/docs/4.2.1/javadoc",
           "releaseNotes": "https://docs.hazelcast.org/docs/rn/index.html#4-2-1"
         },
@@ -222,7 +214,6 @@
         },
         "documentation": {
           "html": "https://docs.hazelcast.com/imdg/4.2/",
-          "pdf": null,
           "apiDocs": "https://docs.hazelcast.org/docs/4.2/javadoc",
           "releaseNotes": "https://docs.hazelcast.org/docs/rn/index.html#4-2"
         },
@@ -247,7 +238,6 @@
         },
         "documentation": {
           "html": "https://docs.hazelcast.com/imdg/4.1/",
-          "pdf": null,
           "apiDocs": "https://docs.hazelcast.org/docs/4.1.10/javadoc",
           "releaseNotes": "https://docs.hazelcast.org/docs/rn/index.html#4-1-10"
         },
@@ -272,7 +262,6 @@
         },
         "documentation": {
           "html": "https://docs.hazelcast.com/imdg/4.1/",
-          "pdf": null,
           "apiDocs": "https://docs.hazelcast.org/docs/4.1.9/javadoc",
           "releaseNotes": "https://docs.hazelcast.org/docs/rn/index.html#4-1-9"
         },
@@ -297,7 +286,6 @@
         },
         "documentation": {
           "html": "https://docs.hazelcast.com/imdg/4.1/",
-          "pdf": null,
           "apiDocs": "https://docs.hazelcast.org/docs/4.1.8/javadoc",
           "releaseNotes": "https://docs.hazelcast.org/docs/rn/index.html#4-1-8"
         },
@@ -322,7 +310,6 @@
         },
         "documentation": {
           "html": "https://docs.hazelcast.com/imdg/4.1/",
-          "pdf": null,
           "apiDocs": "https://docs.hazelcast.org/docs/4.1.7/javadoc",
           "releaseNotes": "https://docs.hazelcast.org/docs/rn/index.html#4-1-7"
         },
@@ -347,7 +334,6 @@
         },
         "documentation": {
           "html": "https://docs.hazelcast.com/imdg/4.1/",
-          "pdf": null,
           "apiDocs": "https://docs.hazelcast.org/docs/4.1.6/javadoc",
           "releaseNotes": "https://docs.hazelcast.org/docs/rn/index.html#4-1-6"
         },
@@ -372,7 +358,6 @@
         },
         "documentation": {
           "html": "https://docs.hazelcast.com/imdg/4.1/",
-          "pdf": null,
           "apiDocs": "https://docs.hazelcast.org/docs/4.1.5/javadoc",
           "releaseNotes": "https://docs.hazelcast.org/docs/rn/index.html#4-1-5"
         },
@@ -397,7 +382,6 @@
         },
         "documentation": {
           "html": "https://docs.hazelcast.com/imdg/4.1/",
-          "pdf": null,
           "apiDocs": "https://docs.hazelcast.org/docs/4.1.4/javadoc",
           "releaseNotes": "https://docs.hazelcast.org/docs/rn/index.html#4-1-4"
         },
@@ -422,7 +406,6 @@
         },
         "documentation": {
           "html": "https://docs.hazelcast.com/imdg/4.1.3/",
-          "pdf": null,
           "apiDocs": "https://docs.hazelcast.org/docs/4.1.3/javadoc",
           "releaseNotes": "https://docs.hazelcast.org/docs/rn/index.html#4-1-3"
         },
@@ -447,7 +430,6 @@
         },
         "documentation": {
           "html": "https://docs.hazelcast.com/imdg/4.1.2/",
-          "pdf": null,
           "apiDocs": "https://docs.hazelcast.org/docs/4.1.2/javadoc",
           "releaseNotes": "https://docs.hazelcast.org/docs/rn/index.html#4-1-2"
         },
@@ -522,7 +504,6 @@
         },
         "documentation": {
           "html": "https://docs.hazelcast.com/imdg/4.0/",
-          "pdf": null,
           "apiDocs": "https://docs.hazelcast.org/docs/4.0.6/javadoc",
           "releaseNotes": "https://docs.hazelcast.org/docs/rn/index.html#4-0-6"
         },
@@ -547,7 +528,6 @@
         },
         "documentation": {
           "html": "https://docs.hazelcast.com/imdg/4.0/",
-          "pdf": null,
           "apiDocs": "https://docs.hazelcast.org/docs/4.0.5/javadoc",
           "releaseNotes": "https://docs.hazelcast.org/docs/rn/index.html#4-0-5"
         },
@@ -572,7 +552,6 @@
         },
         "documentation": {
           "html": "https://docs.hazelcast.com/imdg/4.0/",
-          "pdf": null,
           "apiDocs": "https://docs.hazelcast.org/docs/4.0.4/javadoc",
           "releaseNotes": "https://docs.hazelcast.org/docs/rn/index.html#4-0-4"
         },
@@ -697,7 +676,6 @@
         },
         "documentation": {
           "html": "https://docs.hazelcast.com/imdg/3.12/index.html",
-          "pdf": null,
           "apiDocs": "https://docs.hazelcast.org/docs/3.12.13/javadoc",
           "releaseNotes": "https://docs.hazelcast.org/docs/rn/index.html#3-12-13"
         },
@@ -722,7 +700,6 @@
         },
         "documentation": {
           "html": "https://docs.hazelcast.com/imdg/3.12.12/index.html",
-          "pdf": null,
           "apiDocs": "https://docs.hazelcast.org/docs/3.12.12/javadoc",
           "releaseNotes": "https://docs.hazelcast.org/docs/rn/index.html#3-12-12"
         },
@@ -2404,8 +2381,7 @@
         "codeSamples": {
           "url": "https://github.com/hazelcast/hazelcast/releases/download/v3.5/hazelcast-3.5.tar.gz",
           "size": "705 KB"
-        },
-        "github": null
+        }
       },
       {
         "version": "3.4.8",
@@ -2477,8 +2453,7 @@
           "releaseNotes": "http://docs.hazelcast.org/docs/rn/index.html#3-4-6"
         },
         "codeSamples": {
-          "url": "https://github.com/hazelcast/hazelcast/releases/download/v3.4.6/hazelcast-code-samples-3.4.6.zip",
-          "size": null
+          "url": "https://github.com/hazelcast/hazelcast/releases/download/v3.4.6/hazelcast-code-samples-3.4.6.zip"
         },
         "github": "https://github.com/hazelcast/hazelcast/tree/v3.4.6"
       },
@@ -2739,10 +2714,6 @@
           "zip": {
             "url": "https://github.com/hazelcast/hazelcast/releases/download/v3.3.1/hazelcast-3.3.1.zip",
             "size": "45.5 MB"
-          },
-          "tar": {
-            "url": null,
-            "size": null
           }
         },
         "documentation": {
@@ -2764,10 +2735,6 @@
           "zip": {
             "url": "https://github.com/hazelcast/hazelcast/releases/download/v3.3/hazelcast-3.3.zip",
             "size": "44.8 MB"
-          },
-          "tar": {
-            "url": null,
-            "size": null
           }
         },
         "documentation": {
@@ -2789,10 +2756,6 @@
           "zip": {
             "url": "https://github.com/hazelcast/hazelcast/releases/download/v3.2.7/hazelcast-3.2.7.zip",
             "size": "40 MB"
-          },
-          "tar": {
-            "url": null,
-            "size": null
           }
         },
         "documentation": {
@@ -2814,10 +2777,6 @@
           "zip": {
             "url": "https://github.com/hazelcast/hazelcast/releases/download/v3.2.6/hazelcast-3.2.6.zip",
             "size": "32.5 MB"
-          },
-          "tar": {
-            "url": null,
-            "size": null
           }
         },
         "documentation": {
@@ -2825,10 +2784,6 @@
           "pdf": "http://docs.hazelcast.org/docs/3.2.6/manual/pdf/hazelcast-documentation-3.2.6.pdf",
           "apiDocs": "http://docs.hazelcast.org/docs/3.2.6/javadoc/",
           "releaseNotes": "http://docs.hazelcast.org/docs/rn/index.html#3-2-6"
-        },
-        "codeSamples": {
-          "url": null,
-          "size": null
         },
         "github": "https://github.com/hazelcast/hazelcast/tree/v3.2.6"
       },
@@ -2839,10 +2794,6 @@
           "zip": {
             "url": "https://github.com/hazelcast/hazelcast/releases/download/v3.2.5/hazelcast-3.2.5.zip",
             "size": "30.7 MB"
-          },
-          "tar": {
-            "url": null,
-            "size": null
           }
         },
         "documentation": {
@@ -2850,10 +2801,6 @@
           "pdf": "http://docs.hazelcast.org/docs/3.2.5/manual/pdf/hazelcast-documentation-3.2.5.pdf",
           "apiDocs": "http://docs.hazelcast.org/docs/3.2.5/javadoc/",
           "releaseNotes": "http://docs.hazelcast.org/docs/rn/index.html#3-2-5"
-        },
-        "codeSamples": {
-          "url": null,
-          "size": null
         },
         "github": "https://github.com/hazelcast/hazelcast/tree/v3.2.5"
       },
@@ -2864,10 +2811,6 @@
           "zip": {
             "url": "https://github.com/hazelcast/hazelcast/releases/download/v3.2.4/hazelcast-3.2.4.zip",
             "size": "30.7 MB"
-          },
-          "tar": {
-            "url": null,
-            "size": null
           }
         },
         "documentation": {
@@ -2875,10 +2818,6 @@
           "pdf": "http://docs.hazelcast.org/docs/3.2.4/manual/pdf/hazelcast-documentation-3.2.4.pdf",
           "apiDocs": "http://docs.hazelcast.org/docs/3.2.4/javadoc/",
           "releaseNotes": "http://docs.hazelcast.org/docs/rn/index.html#3-2-4"
-        },
-        "codeSamples": {
-          "url": null,
-          "size": null
         },
         "github": "https://github.com/hazelcast/hazelcast/tree/v3.2.4"
       },
@@ -2889,10 +2828,6 @@
           "zip": {
             "url": "https://github.com/hazelcast/hazelcast/releases/download/v3.2.3/hazelcast-3.2.3.zip",
             "size": "30.6 MB"
-          },
-          "tar": {
-            "url": null,
-            "size": null
           }
         },
         "documentation": {
@@ -2900,10 +2835,6 @@
           "pdf": "http://docs.hazelcast.org/docs/3.2.3/manual/pdf/hazelcast-documentation-3.2.3.pdf",
           "apiDocs": "http://docs.hazelcast.org/docs/3.2.3/javadoc/",
           "releaseNotes": "http://docs.hazelcast.org/docs/rn/index.html#3-2-3"
-        },
-        "codeSamples": {
-          "url": null,
-          "size": null
         },
         "github": "https://github.com/hazelcast/hazelcast/tree/v3.2.3"
       },
@@ -2914,10 +2845,6 @@
           "zip": {
             "url": "https://github.com/hazelcast/hazelcast/releases/download/v3.2.2/hazelcast-3.2.2.zip",
             "size": "30.7 MB"
-          },
-          "tar": {
-            "url": null,
-            "size": null
           }
         },
         "documentation": {
@@ -2925,10 +2852,6 @@
           "pdf": "http://docs.hazelcast.org/docs/3.2.2-ce/manual/pdf/hazelcast-documentation-3.2.2.pdf",
           "apiDocs": "http://docs.hazelcast.org/docs/3.2.2-ce/javadoc/",
           "releaseNotes": "http://docs.hazelcast.org/docs/rn/index.html#3-2-2"
-        },
-        "codeSamples": {
-          "url": null,
-          "size": null
         },
         "github": "https://github.com/hazelcast/hazelcast/tree/v3.2.2"
       },
@@ -2939,10 +2862,6 @@
           "zip": {
             "url": "https://github.com/hazelcast/hazelcast/releases/download/v3.2.1/hazelcast-3.2.1.zip",
             "size": "32.3 MB"
-          },
-          "tar": {
-            "url": null,
-            "size": null
           }
         },
         "documentation": {
@@ -2950,10 +2869,6 @@
           "pdf": "http://docs.hazelcast.org/docs/3.2.1-ce/manual/pdf/hazelcast-documentation-3.2.1-ee.pdf",
           "apiDocs": "http://docs.hazelcast.org/docs/3.2.1-ce/javadoc/",
           "releaseNotes": "http://docs.hazelcast.org/docs/rn/index.html#3-2-1"
-        },
-        "codeSamples": {
-          "url": null,
-          "size": null
         },
         "github": "https://github.com/hazelcast/hazelcast/tree/v3.2.1"
       },
@@ -2964,10 +2879,6 @@
           "zip": {
             "url": "https://github.com/hazelcast/hazelcast/releases/download/v3.2/hazelcast-3.2.zip",
             "size": "33.4 MB"
-          },
-          "tar": {
-            "url": null,
-            "size": null
           }
         },
         "documentation": {
@@ -2975,10 +2886,6 @@
           "pdf": "http://docs.hazelcast.org/docs/3.2/manual/pdf/hazelcast-documentation-3.2-ee.pdf",
           "apiDocs": "http://docs.hazelcast.org/docs/3.2/javadoc/",
           "releaseNotes": "http://docs.hazelcast.org/docs/rn/index.html#3-2"
-        },
-        "codeSamples": {
-          "url": null,
-          "size": null
         },
         "github": "https://github.com/hazelcast/hazelcast/tree/v3.2.2"
       },
@@ -3001,10 +2908,6 @@
           "apiDocs": "http://docs.hazelcast.org/docs/3.1.9/javadoc/",
           "releaseNotes": "MISSING http://docs.hazelcast.org/docs/rn/index.html#3-1-9"
         },
-        "codeSamples": {
-          "url": null,
-          "size": null
-        },
         "github": "https://github.com/hazelcast/hazelcast/tree/3.1.9"
       },
       {
@@ -3026,10 +2929,6 @@
           "apiDocs": "http://docs.hazelcast.org/docs/3.1.8/javadoc/",
           "releaseNotes": "http://docs.hazelcast.org/docs/rn/index.html#3-1-8"
         },
-        "codeSamples": {
-          "url": null,
-          "size": null
-        },
         "github": "https://github.com/hazelcast/hazelcast/tree/v3.1.8"
       },
       {
@@ -3039,10 +2938,6 @@
           "zip": {
             "url": "https://github.com/hazelcast/hazelcast/releases/download/v3.0.3/hazelcast-3.0.3.zip",
             "size": "16.1 MB"
-          },
-          "tar": {
-            "url": null,
-            "size": null
           }
         },
         "documentation": {
@@ -3050,10 +2945,6 @@
           "pdf": "http://docs.hazelcast.org/docs/3.0.3/manual/pdf/hazelcast-documentation.pdf",
           "apiDocs": "http://docs.hazelcast.org/docs/3.0.3/javadoc/",
           "releaseNotes": "http://docs.hazelcast.org/docs/rn/index.html#3-0-3"
-        },
-        "codeSamples": {
-          "url": null,
-          "size": null
         },
         "github": "https://github.com/hazelcast/hazelcast/tree/v3.0.3"
       },
@@ -3064,10 +2955,6 @@
           "zip": {
             "url": "https://github.com/hazelcast/hazelcast/releases/download/v2.6.9/hazelcast-2.6.9.zip",
             "size": "19 MB"
-          },
-          "tar": {
-            "url": null,
-            "size": null
           }
         },
         "documentation": {
@@ -3075,10 +2962,6 @@
           "pdf": "http://docs.hazelcast.org/docs/2.6.9/manual/pdf/hazelcast-documentation.pdf",
           "apiDocs": "http://docs.hazelcast.org/docs/2.6.9/javadoc/",
           "releaseNotes": "http://docs.hazelcast.org/docs/rn/index.html#2-6-9"
-        },
-        "codeSamples": {
-          "url": null,
-          "size": null
         },
         "github": "https://github.com/hazelcast/hazelcast/tree/v2.6.9"
       },
@@ -3089,10 +2972,6 @@
           "zip": {
             "url": "https://github.com/hazelcast/hazelcast/releases/download/v2.5.1/hazelcast-2.5.1.zip",
             "size": "18.9 MB"
-          },
-          "tar": {
-            "url": null,
-            "size": null
           }
         },
         "documentation": {
@@ -3100,10 +2979,6 @@
           "pdf": "http://docs.hazelcast.org/docs/2.5.1/manual/pdf/hazelcast-documentation.pdf",
           "apiDocs": "http://docs.hazelcast.org/docs/2.5.1/javadoc/",
           "releaseNotes": "http://docs.hazelcast.org/docs/rn/index.html#2-5-1"
-        },
-        "codeSamples": {
-          "url": null,
-          "size": null
         },
         "github": "https://github.com/hazelcast/hazelcast/tree/v2.5.1"
       },
@@ -3114,10 +2989,6 @@
           "zip": {
             "url": "https://github.com/hazelcast/hazelcast/releases/download/v2.5/hazelcast-2.5.zip",
             "size": "18.8 MB"
-          },
-          "tar": {
-            "url": null,
-            "size": null
           }
         },
         "documentation": {
@@ -3125,10 +2996,6 @@
           "pdf": "http://docs.hazelcast.org/docs/2.5/manual/pdf/hazelcast-documentation.pdf",
           "apiDocs": "http://docs.hazelcast.org/docs/2.5/javadoc/",
           "releaseNotes": "http://docs.hazelcast.org/docs/rn/index.html#2-5"
-        },
-        "codeSamples": {
-          "url": null,
-          "size": null
         },
         "github": "https://github.com/hazelcast/hazelcast/tree/v2.5"
       },
@@ -3139,10 +3006,6 @@
           "zip": {
             "url": "https://github.com/hazelcast/hazelcast/releases/download/v2.4.1/hazelcast-2.4.1.zip",
             "size": "18.5 MB"
-          },
-          "tar": {
-            "url": null,
-            "size": null
           }
         },
         "documentation": {
@@ -3150,10 +3013,6 @@
           "pdf": "http://docs.hazelcast.org/docs/2.4.1/manual/pdf/hazelcast-documentation.pdf",
           "apiDocs": "http://docs.hazelcast.org/docs/2.4.1/javadoc/",
           "releaseNotes": "http://docs.hazelcast.org/docs/rn/index.html#2-4-1"
-        },
-        "codeSamples": {
-          "url": null,
-          "size": null
         },
         "github": "https://github.com/hazelcast/hazelcast/tree/v2.4.1"
       },
@@ -3164,10 +3023,6 @@
           "zip": {
             "url": "https://github.com/hazelcast/hazelcast/releases/download/v2.4/hazelcast-2.4.zip",
             "size": "18.3 MB"
-          },
-          "tar": {
-            "url": null,
-            "size": null
           }
         },
         "documentation": {
@@ -3175,10 +3030,6 @@
           "pdf": "http://docs.hazelcast.org/docs/2.4/manual/pdf/hazelcast-documentation.pdf",
           "apiDocs": "http://docs.hazelcast.org/docs/2.4/javadoc/",
           "releaseNotes": "http://docs.hazelcast.org/docs/rn/index.html#2-4"
-        },
-        "codeSamples": {
-          "url": null,
-          "size": null
         },
         "github": "https://github.com/hazelcast/hazelcast/tree/v2.4"
       },
@@ -3189,10 +3040,6 @@
           "zip": {
             "url": "https://github.com/hazelcast/hazelcast/releases/download/v2.3.1/hazelcast-2.3.1.zip",
             "size": "17.9 MB"
-          },
-          "tar": {
-            "url": null,
-            "size": null
           }
         },
         "documentation": {
@@ -3200,10 +3047,6 @@
           "pdf": "http://docs.hazelcast.org/docs/2.3.1/manual/pdf/hazelcast-documentation.pdf",
           "apiDocs": "http://docs.hazelcast.org/docs/2.3.1/javadoc/",
           "releaseNotes": "http://docs.hazelcast.org/docs/rn/index.html#2-3-1"
-        },
-        "codeSamples": {
-          "url": null,
-          "size": null
         },
         "github": "https://github.com/hazelcast/hazelcast/tree/v2.3.1"
       },
@@ -3214,10 +3057,6 @@
           "zip": {
             "url": "https://github.com/hazelcast/hazelcast/releases/download/v2.3/hazelcast-2.3.zip",
             "size": "17.9 MB"
-          },
-          "tar": {
-            "url": null,
-            "size": null
           }
         },
         "documentation": {
@@ -3225,10 +3064,6 @@
           "pdf": "NO PDF AVAILABLE",
           "apiDocs": "http://docs.hazelcast.org/docs/2.3/javadoc/",
           "releaseNotes": "http://docs.hazelcast.org/docs/rn/index.html#2-3"
-        },
-        "codeSamples": {
-          "url": null,
-          "size": null
         },
         "github": "https://github.com/hazelcast/hazelcast/tree/v2.3"
       },
@@ -3239,10 +3074,6 @@
           "zip": {
             "url": "https://github.com/hazelcast/hazelcast/releases/download/v2.2/hazelcast-2.2.zip",
             "size": "17.8 MB"
-          },
-          "tar": {
-            "url": null,
-            "size": null
           }
         },
         "documentation": {
@@ -3250,10 +3081,6 @@
           "pdf": "http://docs.hazelcast.org/docs/2.2/manual/pdf/hazelcast-2.2-documentation.pdf",
           "apiDocs": "http://docs.hazelcast.org/docs/2.2/javadoc/",
           "releaseNotes": "http://docs.hazelcast.org/docs/rn/index.html#2-2"
-        },
-        "codeSamples": {
-          "url": null,
-          "size": null
         },
         "github": "https://github.com/hazelcast/hazelcast/tree/v2.2"
       },
@@ -3264,10 +3091,6 @@
           "zip": {
             "url": "https://github.com/hazelcast/hazelcast/releases/download/v2.1.3/hazelcast-2.1.3.zip",
             "size": "17.1 MB"
-          },
-          "tar": {
-            "url": null,
-            "size": null
           }
         },
         "documentation": {
@@ -3275,10 +3098,6 @@
           "pdf": "http://docs.hazelcast.org/docs/2.1.3/manual/pdf/hazelcast-documentation.pdf",
           "apiDocs": "http://docs.hazelcast.org/docs/2.1.3/javadoc/",
           "releaseNotes": "http://docs.hazelcast.org/docs/rn/index.html#2-1-3"
-        },
-        "codeSamples": {
-          "url": null,
-          "size": null
         },
         "github": "https://github.com/hazelcast/hazelcast/tree/v2.1.3"
       },
@@ -3289,10 +3108,6 @@
           "zip": {
             "url": "https://github.com/hazelcast/hazelcast/releases/download/v2.1.3/hazelcast-2.1.3.zip",
             "size": "18.2 MB"
-          },
-          "tar": {
-            "url": null,
-            "size": null
           }
         },
         "documentation": {
@@ -3300,10 +3115,6 @@
           "pdf": "http://docs.hazelcast.org/docs/2.1/manual/pdf/hazelcast-2.1-documentation.pdf",
           "apiDocs": "http://docs.hazelcast.org/docs/2.1/javadoc/",
           "releaseNotes": "http://docs.hazelcast.org/docs/rn/index.html#2-1"
-        },
-        "codeSamples": {
-          "url": null,
-          "size": null
         },
         "github": "https://github.com/hazelcast/hazelcast/tree/v2.1"
       },
@@ -3314,10 +3125,6 @@
           "zip": {
             "url": "https://github.com/hazelcast/hazelcast/releases/download/v2.0.4/hazelcast-2.0.4.zip",
             "size": "14.4 MB"
-          },
-          "tar": {
-            "url": null,
-            "size": null
           }
         },
         "documentation": {
@@ -3325,10 +3132,6 @@
           "pdf": "http://docs.hazelcast.org/docs/2.0.4/manual/pdf/hazelcast-documentation.pdf",
           "apiDocs": "http://docs.hazelcast.org/docs/2.0.4/javadoc/",
           "releaseNotes": "http://docs.hazelcast.org/docs/rn/index.html#2-0-4"
-        },
-        "codeSamples": {
-          "url": null,
-          "size": null
         },
         "github": "https://github.com/hazelcast/hazelcast/tree/v2.0.4"
       },
@@ -3339,10 +3142,6 @@
           "zip": {
             "url": "https://github.com/hazelcast/hazelcast/releases/download/v1.9.4.9/hazelcast-1.9.4.9.zip",
             "size": "3.4 MB"
-          },
-          "tar": {
-            "url": null,
-            "size": null
           }
         },
         "documentation": {
@@ -3350,10 +3149,6 @@
           "pdf": "http://docs.hazelcast.org/docs/1.9.4.9/manual/pdf/hazelcast-documentation.pdf",
           "apiDocs": "NO DOCS",
           "releaseNotes": "http://docs.hazelcast.org/docs/rn/index.html#1-9-4-9"
-        },
-        "codeSamples": {
-          "url": null,
-          "size": null
         },
         "github": "https://github.com/hazelcast/hazelcast/tree/v1.9.4.9"
       }
@@ -3377,14 +3172,12 @@
           "documentation": {
             "html": "https://docs.hazelcast.org/docs/4.2-BETA-1/manual/html-single/index.html",
             "pdf": "https://docs.hazelcast.org/docs/4.2-BETA-1/manual/pdf/index.pdf",
-            "apiDocs": "https://docs.hazelcast.org/docs/4.2-BETA-1/javadoc",
-            "releaseNotes": null
+            "apiDocs": "https://docs.hazelcast.org/docs/4.2-BETA-1/javadoc"
           },
           "codeSamples": {
             "url": "https://github.com/hazelcast/hazelcast/releases/download/v4.2-BETA-1/hazelcast-code-samples-4.2-BETA-1.zip",
             "size": "39 MB"
-          },
-          "github": null
+          }
         }
       ]
     }
