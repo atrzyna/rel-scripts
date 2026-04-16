@@ -1,6 +1,5 @@
 {
   "name": "Custom Connector Builder",
-  "lastUpdated": "2025-10-28T08:22:24",
   "type": "Connector",
   "product": "Hazelcast Platform",
   "shortDescription": "Jet provides a programming interface allowing you to write your own Connectors for both batch and streaming.",

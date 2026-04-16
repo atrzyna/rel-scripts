@@ -1,6 +1,5 @@
 {
   "name": "Google Cloud Platform (GCP)",
-  "lastUpdated": "2025-10-28T08:22:24",
   "type": "Cloud Discovery",
   "product": "",
   "shortDescription": "This plugin provides the automatic Hazelcast member discovery in the Google Cloud Platform (Compute Engine) environment.",

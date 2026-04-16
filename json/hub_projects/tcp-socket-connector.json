@@ -1,6 +1,5 @@
 {
   "name": "TCP Socket Connector",
-  "lastUpdated": "2025-10-28T08:22:24",
   "type": "Connector",
   "product": "Hazelcast Platform",
   "shortDescription": "Connects to the specified socket, reads (source) or writes (sink) lines of text received from it.",

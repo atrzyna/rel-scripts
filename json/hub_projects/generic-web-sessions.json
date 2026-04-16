@@ -1,6 +1,5 @@
 {
   "name": "Generic Web Sessions",
-  "lastUpdated": "2025-10-28T08:22:24",
   "type": "Web Integration",
   "product": "",
   "shortDescription": "hazelcast-wm provides JEE based Web Applications with HttpSession replication capabilities across Hazelcast Cluster in order to handle failover cases.",

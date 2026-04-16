@@ -1,6 +1,5 @@
 {
   "name": "Hazelcast Management Center Docker Image",
-  "lastUpdated": "2025-10-28T08:22:24",
   "type": "Container",
   "product": "",
   "shortDescription": "The docker image for Hazelcast Management Center.",

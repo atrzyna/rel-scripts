@@ -1,6 +1,5 @@
 {
   "name": "Hazelcast Component For Apache Camel",
-  "lastUpdated": "2025-10-28T08:22:24",
   "type": "Hazelcast Component",
   "product": "",
   "shortDescription": "The Hazelcast component for Apache Camel allows you to work with the Hazelcast distributed data grid/cache.",

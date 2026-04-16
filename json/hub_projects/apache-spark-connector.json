@@ -1,6 +1,5 @@
 {
   "name": "Apache Spark Connector",
-  "lastUpdated": "2025-10-28T08:22:24",
   "type": "Connector",
   "product": "",
   "shortDescription": "Hazelcast Apache Spark Connector allows Hazelcast Maps and Caches to be used as shared RDD caches by Spark using the Spark RDD API. Both Java and Scala Spark APIs are supported.",

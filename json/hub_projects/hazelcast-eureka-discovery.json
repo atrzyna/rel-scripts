@@ -1,6 +1,5 @@
 {
   "name": "Hazelcast Eureka Discovery",
-  "lastUpdated": "2025-10-28T08:22:24",
   "type": "Cloud Discovery",
   "product": "",
   "shortDescription": "Eureka is a REST-based service that is primarily used in the AWS cloud for locating services for the purpose of load balancing and failover of middle-tier servers.",

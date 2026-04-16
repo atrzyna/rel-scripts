@@ -1,6 +1,5 @@
 {
   "name": "Redis Connector",
-  "lastUpdated": "2025-10-28T08:22:24",
   "type": "Connector",
   "product": "Hazelcast Platform",
   "shortDescription": "Hazelcast Jet connector for various Redis data structures (hashes, sorted sets and streams) that enable Hazelcast Jet pipelines to read/write data points from/to them.",

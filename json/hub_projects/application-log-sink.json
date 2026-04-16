@@ -1,6 +1,5 @@
 {
   "name": "Application Log Sink",
-  "lastUpdated": "2025-10-28T08:22:24",
   "type": "Connector",
   "product": "Hazelcast Platform",
   "shortDescription": "Logs all the data items it receives at the INFO level. The primary purpose is development when running Jet on a local machine.",

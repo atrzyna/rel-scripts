@@ -1,6 +1,5 @@
 {
   "name": "Hazelcast Enterprise Helm Chart",
-  "lastUpdated": "2025-10-28T08:22:24",
   "type": "Container",
   "product": "",
   "shortDescription": "The Helm Chart for Hazelcast Enterprise.",

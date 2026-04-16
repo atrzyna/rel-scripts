@@ -1,6 +1,5 @@
 {
   "name": "Hazelcast JCA Resource Adapter",
-  "lastUpdated": "2025-10-28T08:22:24",
   "type": "Connector",
   "product": "Community Contribution",
   "shortDescription": "The Hazelcast JCA resource adapter Community project is a system-level software driver used by a Java application to connect to an Hazelcast Cluster.",

@@ -1,6 +1,5 @@
 {
   "name": "IBM Cloud Private Kubernetes Service Enterprise Helm Chart",
-  "lastUpdated": "2025-10-28T08:22:24",
   "type": "Cloud Discovery",
   "product": "",
   "shortDescription": "The official Hazelcast Enterprise Helm Chart for IBM Cloud Private and IBM Kubernetes Service.",

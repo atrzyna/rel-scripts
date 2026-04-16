@@ -1,6 +1,5 @@
 {
   "name": "Hazelcast Docker Image",
-  "lastUpdated": "2025-10-28T08:22:24",
   "type": "Container",
   "product": "",
   "shortDescription": "Hazelcast base Docker image.",

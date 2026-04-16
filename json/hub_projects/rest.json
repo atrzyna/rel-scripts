@@ -1,6 +1,5 @@
 {
   "name": "Rest",
-  "lastUpdated": "2025-10-28T08:22:24",
   "type": "Data Integration",
   "product": "",
   "shortDescription": "Hazelcast provides a REST interface, i.e. it provides an HTTP service in each cluster member (node) so that you can access your map and queue using HTTP protocol.",

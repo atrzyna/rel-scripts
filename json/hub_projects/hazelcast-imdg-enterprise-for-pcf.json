@@ -1,6 +1,5 @@
 {
   "name": "Hazelcast IMDG Enterprise for PCF",
-  "lastUpdated": "2025-10-28T08:22:24",
   "type": "Hazelcast Component",
   "product": "Hazelcast Platform",
   "shortDescription": "Clickable Hazelcast IMDG Tile for Pivotal Cloud Foundry \u2013 the easiest way to deploy an open source Hazelcast cluster on Cloud Foundry.",

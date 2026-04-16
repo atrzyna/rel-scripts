@@ -1,6 +1,5 @@
 {
   "name": "MongoDB Connector",
-  "lastUpdated": "2025-10-28T08:22:24",
   "type": "Connector",
   "product": "Hazelcast Platform",
   "shortDescription": "A Hazelcast Jet connector for MongoDB which enables Hazelcast Jet pipelines to read/write data points from/to MongoDB.",

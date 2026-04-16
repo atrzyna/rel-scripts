@@ -1,6 +1,5 @@
 {
   "name": "Hazelcast IMap Connector",
-  "lastUpdated": "2025-10-28T08:22:24",
   "type": "Connector",
   "product": "Hazelcast Platform",
   "shortDescription": "Fetches entries from a Hazelcast distributed map, follows the map change events or updates the map.",

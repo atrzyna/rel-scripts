@@ -1,6 +1,5 @@
 {
   "name": "File Connector",
-  "lastUpdated": "2025-10-28T08:22:24",
   "type": "Connector",
   "product": "Hazelcast Platform",
   "shortDescription": "Reads text-oriented data (JSON records, CSV lines or plain text) from files on a shared filesystem or watches a directory for new data.",

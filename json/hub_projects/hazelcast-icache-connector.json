@@ -1,6 +1,5 @@
 {
   "name": "Hazelcast ICache Connector",
-  "lastUpdated": "2025-10-28T08:22:24",
   "type": "Connector",
   "product": "Hazelcast Platform",
   "shortDescription": "Fetches entries from a Hazelcast ICache, follows ICache change events or updates the ICache (sink).",
