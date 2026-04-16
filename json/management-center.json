@@ -23,7 +23,8 @@
         "html": "https://docs.hazelcast.com/management-center/5.10/",
         "releaseNotes": "https://docs.hazelcast.com/management-center/5.10/release-notes/5-10-0"
       },
-      "stability": "current"
+      "stability": "stable",
+      "latest": true
     },
     {
       "version": "5.9.0",
@@ -1622,6 +1623,7 @@
         "releaseNotes": "https://docs.hazelcast.com/management-center/5.4.0-beta-2/release-notes/5-4-0-beta-2"
       },
       "stability": "development",
+      "latest": true,
       "developmentStatus": "HIDE"
     }
   ]

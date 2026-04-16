@@ -22,7 +22,8 @@
       "documentation": {
         "html": "https://docs.hazelcast.com/hazelcast/5.3/migrate/data-migration-tool"
       },
-      "stability": "current"
+      "stability": "stable",
+      "latest": true
     }
   ]
 }

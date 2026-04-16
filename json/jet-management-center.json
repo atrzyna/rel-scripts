@@ -23,7 +23,8 @@
         "html": "https://docs.hazelcast.org/docs/jet-management-center/4.3.1/manual/",
         "releaseNotes": "http://docs.hazelcast.org/docs/jet-management-center/rn/index.html"
       },
-      "stability": "current"
+      "stability": "stable",
+      "latest": true
     },
     {
       "version": "4.3",

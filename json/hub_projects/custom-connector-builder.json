@@ -4,7 +4,7 @@
   "type": "Connector",
   "product": "Hazelcast Platform",
   "shortDescription": "Jet provides a programming interface allowing you to write your own Connectors for both batch and streaming.",
-  "longDescription": "Jet provides a programming interface allowing you to write your own Connectors for both batch and streaming.\r \r The builder is included in the base Jet package. No plugin download is required.",
+  "longDescription": "Jet provides a programming interface allowing you to write your own Connectors for both batch and streaming.\n \n The builder is included in the base Jet package. No plugin download is required.",
   "features": [
     "Source",
     "Sink",

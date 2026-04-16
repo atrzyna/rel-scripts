@@ -24,7 +24,8 @@
         "releaseNotes": "https://github.com/hazelcast/hazelcast-simulator/releases/tag/v0.13"
       },
       "github": "https://github.com/hazelcast/hazelcast-simulator/tree/0.13",
-      "stability": "current"
+      "stability": "stable",
+      "latest": true
     },
     {
       "version": "0.11",

@@ -29,7 +29,8 @@
         "size": 40894464
       },
       "github": "https://github.com/hazelcast/hazelcast/tree/v4.2.8",
-      "stability": "current"
+      "stability": "stable",
+      "latest": true
     },
     {
       "version": "4.2.7",
@@ -3308,6 +3309,7 @@
         "size": 40894464
       },
       "stability": "development",
+      "latest": true,
       "developmentStatus": "SHOW"
     }
   ]

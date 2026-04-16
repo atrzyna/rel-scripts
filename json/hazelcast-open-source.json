@@ -36,7 +36,8 @@
         "url": "https://github.com/hazelcast/hazelcast-code-samples"
       },
       "github": "https://github.com/hazelcast/hazelcast/tree/v5.6.0",
-      "stability": "current"
+      "stability": "stable",
+      "latest": true
     },
     {
       "version": "5.5.0",
@@ -1027,6 +1028,7 @@
       },
       "github": "https://github.com/hazelcast/hazelcast/tree/v5.4.0-BETA-2",
       "stability": "development",
+      "latest": true,
       "developmentStatus": "HIDE"
     }
   ]

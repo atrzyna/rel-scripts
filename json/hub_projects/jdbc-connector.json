@@ -4,12 +4,12 @@
   "type": "Connector",
   "product": "Hazelcast Platform",
   "shortDescription": "Reads or writes the data from/to relational database or another source that supports the standard JDBC API. Supports parallel reading for partitioned sources.",
-  "longDescription": "Reads or writes the data from/to relational database or another source that supports the standard JDBC API. Supports parallel reading for partitioned sources. Supports transactions to avoid multiple writes during failures.\r \r The connector is included in the Jet package. It requires a JDBC driver for the respective database.\r \r The JDBC source only works in batching mode, meaning the query is only executed once. For streaming changes from the database please use the CDC Connectors.",
+  "longDescription": "Reads or writes the data from/to relational database or another source that supports the standard JDBC API. Supports parallel reading for partitioned sources. Supports transactions to avoid multiple writes during failures.\n \n The connector is included in the Jet package. It requires a JDBC driver for the respective database.\n \n The JDBC source only works in batching mode, meaning the query is only executed once. For streaming changes from the database please use the CDC Connectors.",
   "features": [
     "Source",
     "Sink",
     "Batch",
-    "Java Database Connec\u2026",
+    "JDBC",
     "Relational"
   ],
   "status": true,

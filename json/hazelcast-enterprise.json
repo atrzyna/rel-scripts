@@ -32,7 +32,8 @@
         "apiDocs": "https://docs.hazelcast.org/hazelcast-ee-docs/5.6.1/javadoc",
         "releaseNotes": "https://docs.hazelcast.com/hazelcast/5.6/release-notes/enterprise#5-6-1"
       },
-      "stability": "current"
+      "stability": "stable",
+      "latest": true
     },
     {
       "version": "5.6.0",
@@ -1237,6 +1238,7 @@
         "releaseNotes": "https://docs.hazelcast.com/hazelcast/5.4/release-notes/5-4-0-beta-2"
       },
       "stability": "development",
+      "latest": true,
       "developmentStatus": "HIDE"
     }
   ]

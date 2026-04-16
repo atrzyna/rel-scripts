@@ -4,7 +4,7 @@
   "type": "Connector",
   "product": "Hazelcast Platform",
   "shortDescription": "Reads and adds items to a distributed list (IList) in local or remote Hazelcast cluster.",
-  "longDescription": "Reads items retrieved from a Hazelcast IList. All elements are read on a single member of a Jet cluster \u2014 IList isn\u2019t partitioned. Sink adds items to the IList.\r \r The connector is included in the base Jet package. No plugin download is required.",
+  "longDescription": "Reads items retrieved from a Hazelcast IList. All elements are read on a single member of a Jet cluster \u2014 IList isn\u2019t partitioned. Sink adds items to the IList.\n \n The connector is included in the base Jet package. No plugin download is required.",
   "features": [
     "Source",
     "Sink",

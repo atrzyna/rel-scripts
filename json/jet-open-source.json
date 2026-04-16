@@ -28,7 +28,8 @@
         "url": "https://github.com/hazelcast/hazelcast-jet/tree/4.5-maintenance/examples"
       },
       "github": "https://github.com/hazelcast/hazelcast-jet/tree/v4.5.4",
-      "stability": "current"
+      "stability": "stable",
+      "latest": true
     },
     {
       "version": "4.5.3",

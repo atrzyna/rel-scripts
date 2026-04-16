@@ -1,0 +1,38 @@
+# ============================================================================
+# NOTE: This repo lives on Bitbucket, so this workflow does not run here.
+# Commit this file to the `atrzyna/rel-scripts` GitHub repo at the same path
+# (.github/workflows/purge-jsdelivr.yml) — that's where the JSON data lives
+# and where GitHub Actions will actually execute it.
+#
+# What it does:
+#   - Runs on every push to master that touches json/**
+#   - Sends a batch purge request to jsDelivr for every JSON file under json/
+#   - Result: React app sees pushed data immediately, no 12h CDN delay
+#
+# No secrets required — jsDelivr's purge endpoint is public.
+# ============================================================================
+name: Purge jsDelivr Cache
+
+on:
+  push:
+    branches: [master]
+    paths:
+      - 'json/**'
+
+jobs:
+  purge:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Purge jsDelivr cache for all JSON files
+        run: |
+          set -euo pipefail
+          paths=$(find json -name "*.json" -type f -print \
+            | awk '{print "\"gh/atrzyna/rel-scripts@master/"$0"\""}' \
+            | paste -sd, -)
+          echo "Purging $(echo "$paths" | tr ',' '\n' | wc -l) paths..."
+          response=$(curl -sSf -X POST https://purge.jsdelivr.net/ \
+            -H "Content-Type: application/json" \
+            -d "{\"path\":[$paths]}")
+          echo "Response: $response"

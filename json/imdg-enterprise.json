@@ -24,7 +24,8 @@
         "apiDocs": "https://docs.hazelcast.org/docs/4.2.8/javadoc",
         "releaseNotes": "https://docs.hazelcast.org/docs/ern/index.html#4-2-8"
       },
-      "stability": "current"
+      "stability": "stable",
+      "latest": true
     },
     {
       "version": "4.2.7",
@@ -2334,6 +2335,7 @@
         "releaseNotes": "http://docs.hazelcast.org/docs/ern/index.html#4.2-BETA-1"
       },
       "stability": "development",
+      "latest": true,
       "developmentStatus": "SHOW"
     }
   ]
