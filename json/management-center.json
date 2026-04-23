@@ -1,7 +1,6 @@
 {
   "product": "Hazelcast Management Center",
   "type": "Management Center",
-  "license": "public",
   "display": "Active",
   "shortName": "Management Center",
   "versions": [

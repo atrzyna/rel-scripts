@@ -1,7 +1,6 @@
 {
   "product": "Hazelcast IMDG Simulator",
   "type": "IMDG",
-  "license": "public",
   "display": "Tools",
   "shortName": "Simulator",
   "versions": [

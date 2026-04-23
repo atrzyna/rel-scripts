@@ -1,7 +1,6 @@
 {
   "product": "Hazelcast IMDG",
   "type": "IMDG",
-  "license": "open-source",
   "display": "Maintained",
   "shortName": "IMDG",
   "versions": [

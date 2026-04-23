@@ -1,7 +1,6 @@
 {
   "product": "Hazelcast Jet",
   "type": "Jet",
-  "license": "enterprise",
   "display": "Maintained",
   "shortName": "Jet",
   "versions": [

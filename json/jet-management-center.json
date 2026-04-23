@@ -1,7 +1,6 @@
 {
   "product": "Hazelcast Jet Management Center",
   "type": "Jet Management Center",
-  "license": "enterprise",
   "display": "Maintained",
   "shortName": "Jet MC",
   "versions": [

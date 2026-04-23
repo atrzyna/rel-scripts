@@ -1,0 +1,26 @@
+{
+  "enterprise": [
+    "hazelcast-enterprise.json",
+    "management-center.json",
+    "imdg-enterprise.json",
+    "jet-enterprise.json",
+    "data-migration-tool.json",
+    "imdg-simulator.json"
+  ],
+  "open-source": [
+    "hazelcast-open-source.json",
+    "management-center.json",
+    "imdg-open-source.json",
+    "jet-open-source.json",
+    "data-migration-tool.json",
+    "imdg-simulator.json"
+  ],
+  "archives": [
+    "hazelcast-open-source.json",
+    "management-center.json",
+    "data-migration-tool.json",
+    "imdg-simulator.json",
+    "jet-open-source.json",
+    "imdg-open-source.json"
+  ]
+}

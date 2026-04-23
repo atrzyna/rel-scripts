@@ -1,7 +1,6 @@
 {
   "product": "Hazelcast Platform",
   "type": "Platform",
-  "license": "open-source",
   "display": "Active",
   "shortName": "Platform",
   "versions": [
